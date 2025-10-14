@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-15T06:22:02.762153+08:00",
-  "total_titles_processed": 650,
+  "generated_at": "2025-10-15T07:23:08.393602+08:00",
+  "total_titles_processed": 713,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 06时22分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 07时23分]"
         },
         {
           "title": "S15 全球总决赛入围赛 T1 3:1 淘汰 iG 晋级正赛，如何评价这场比赛？",
@@ -24,11 +24,12 @@
           "source": "知乎",
           "ranks": [
             2,
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 06时22分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 07时23分]"
         },
         {
           "title": "T1战胜IG晋级瑞士轮",
@@ -40,8 +41,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 06时22分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 07时23分]"
         },
         {
           "title": "锐评IG为何不敌T1",
@@ -51,8 +52,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 06时22分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 07时23分]"
         },
         {
           "title": "T1战胜IG晋级S15瑞士轮",
@@ -63,8 +64,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 06时22分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 07时23分]"
         },
         {
           "title": "IG被淘汰后LPL现状",
@@ -72,11 +73,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             9,
-            1
+            1,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时21分 ~ 06时22分]"
+          "appearance_count": 10,
+          "time_info": "[01时21分 ~ 07时23分]"
         },
         {
           "title": "T1 3-1 IG赛后数据",
@@ -88,8 +90,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 06时22分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 07时23分]"
+        },
+        {
+          "title": "S15揭幕战：T1入围赛3比1淘汰iG",
+          "url": "https://www.baidu.com/s?wd=S15%E6%8F%AD%E5%B9%95%E6%88%98%EF%BC%9AT1%E5%85%A5%E5%9B%B4%E8%B5%9B3%E6%AF%941%E6%B7%98%E6%B1%B0iG",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 07时23分]"
         },
         {
           "title": "T1战胜iG",
@@ -100,17 +113,6 @@
             9,
             15,
             17
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 06时22分]"
-        },
-        {
-          "title": "S15揭幕战：T1入围赛3比1淘汰iG",
-          "url": "https://www.baidu.com/s?wd=S15%E6%8F%AD%E5%B9%95%E6%88%98%EF%BC%9AT1%E5%85%A5%E5%9B%B4%E8%B5%9B3%E6%AF%941%E6%B7%98%E6%B1%B0iG",
-          "source": "百度热搜",
-          "ranks": [
-            21
           ],
           "is_new": false,
           "appearance_count": 9,
