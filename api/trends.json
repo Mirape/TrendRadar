@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-10-15T01:22:11.043542+08:00",
-  "total_titles_processed": 390,
+  "generated_at": "2025-10-15T02:36:29.815501+08:00",
+  "total_titles_processed": 462,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
-        {
-          "title": "T1战胜IG晋级S15瑞士轮",
-          "url": "https://search.bilibili.com/all?keyword=IG%20T1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 01时22分]"
-        },
         {
           "title": "IG王朝崩塌,不敌T1止步入围赛!",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345790&amp;topic_name=IG%E7%8E%8B%E6%9C%9D%E5%B4%A9%E5%A1%8C%2C%E4%B8%8D%E6%95%8CT1%E6%AD%A2%E6%AD%A5%E5%85%A5%E5%9B%B4%E8%B5%9B%21",
@@ -26,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 01时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 02时36分]"
         },
         {
           "title": "S15 全球总决赛入围赛 T1 3:1 淘汰 iG 晋级正赛，如何评价这场比赛？",
@@ -38,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 01时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 02时36分]"
         },
         {
           "title": "T1战胜IG晋级瑞士轮",
@@ -49,8 +38,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 01时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 02时36分]"
         },
         {
           "title": "锐评IG为何不敌T1",
@@ -60,8 +49,32 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 02时36分]"
+        },
+        {
+          "title": "T1战胜IG晋级S15瑞士轮",
+          "url": "https://search.bilibili.com/all?keyword=IG%20T1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 02时36分]"
+        },
+        {
+          "title": "IG被淘汰后LPL现状",
+          "url": "https://search.bilibili.com/all?keyword=IG%E8%A2%AB%E6%B7%98%E6%B1%B0%E5%90%8ELPL%E7%8E%B0%E7%8A%B6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            1
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时31分 ~ 01时22分]"
+          "time_info": "[01时21分 ~ 02时36分]"
         },
         {
           "title": "T1 3-1 IG赛后数据",
@@ -69,11 +82,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             6,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 01时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 02时36分]"
         },
         {
           "title": "T1战胜iG",
@@ -84,8 +98,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 01时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 02时36分]"
         },
         {
           "title": "S15揭幕战：T1入围赛3比1淘汰iG",
@@ -95,8 +109,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 01时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 02时36分]"
         },
         {
           "title": "Doinb预测T1对战IG比分",
@@ -104,22 +118,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             28,
-            26
+            26,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 01时22分]"
-        },
-        {
-          "title": "IG被淘汰后LPL现状",
-          "url": "https://search.bilibili.com/all?keyword=IG%E8%A2%AB%E6%B7%98%E6%B1%B0%E5%90%8ELPL%E7%8E%B0%E7%8A%B6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 01时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 02时36分]"
         },
         {
           "title": "美国司法部通过打击柬埔寨pig butchering（杀猪盘）骗局交货150亿美元比特币。",
@@ -131,6 +135,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
+        },
+        {
+          "title": "S15 十七强赛决胜局 iG 的韦鲁斯上单和炸弹人走下路合理吗？为什么 LPL 队伍决胜局总是炸弹人？",
+          "url": "https://www.zhihu.com/question/1961521378374153918",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时36分"
         }
       ]
     }
