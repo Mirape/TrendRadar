@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-14T11:56:58.364456+08:00",
-  "total_titles_processed": 993,
+  "generated_at": "2025-10-14T12:13:49.049766+08:00",
+  "total_titles_processed": 1013,
   "failed_sources": [],
   "trends": [
     {
@@ -32,8 +32,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时23分 ~ 11时56分]"
+          "appearance_count": 11,
+          "time_info": "[01时23分 ~ 12时13分]"
         },
         {
           "title": "让IG醒",
@@ -50,8 +50,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时33分 ~ 11时56分]"
+          "appearance_count": 13,
+          "time_info": "[00时33分 ~ 12时13分]"
         },
         {
           "title": "如何评价由邓紫棋演唱的《英雄联盟》2025 全球总决赛主题曲《SACRIFICE 牺牲》？",
@@ -79,8 +79,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时33分 ~ 11时56分]"
+          "appearance_count": 13,
+          "time_info": "[00时33分 ~ 12时13分]"
         },
         {
           "title": "女Faker应援IG,粉丝怒冲火速告吹",
@@ -92,8 +92,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时33分 ~ 11时56分]"
+          "appearance_count": 13,
+          "time_info": "[00时33分 ~ 12时13分]"
         },
         {
           "title": "iG和T1时隔六年将再度交锋",
@@ -116,8 +116,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时07分 ~ 11时56分]"
+          "appearance_count": 3,
+          "time_info": "[11时07分 ~ 12时13分]"
+        },
+        {
+          "title": "Doinb预测iG对阵T1",
+          "url": "https://www.douyin.com/hot/2269233",
+          "source": "抖音",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时07分 ~ 12时13分]"
         },
         {
           "title": "Jiejie明日将陪看IG vs T1",
@@ -132,18 +144,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时33分 ~ 05时22分]"
-        },
-        {
-          "title": "Doinb预测iG对阵T1",
-          "url": "https://www.douyin.com/hot/2269233",
-          "source": "抖音",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时07分 ~ 11时56分]"
         },
         {
           "title": "奇瑞风云T11预售价19.99万起",
@@ -184,6 +184,29 @@
           "time_info": "[00时34分 ~ 02时35分]"
         },
         {
+          "title": "六年恩怨未了,IG可否续写1557?",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345759&amp;topic_name=%E5%85%AD%E5%B9%B4%E6%81%A9%E6%80%A8%E6%9C%AA%E4%BA%86%2CIG%E5%8F%AF%E5%90%A6%E7%BB%AD%E5%86%991557%3F",
+          "source": "贴吧",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时07分 ~ 12时13分]"
+        },
+        {
+          "title": "Doinb预测T1对战IG比分",
+          "url": "https://search.bilibili.com/all?keyword=Doinb%E9%A2%84%E6%B5%8BiG%E6%89%93T1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时07分 ~ 12时13分]"
+        },
+        {
           "title": "IG晒照并感谢BFX",
           "url": "https://search.bilibili.com/all?keyword=IG%E6%99%92%E7%85%A7%E5%B9%B6%E6%84%9F%E8%B0%A2BFX",
           "source": "bilibili 热搜",
@@ -205,29 +228,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时25分 ~ 07时21分]"
-        },
-        {
-          "title": "六年恩怨未了,IG可否续写1557?",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345759&amp;topic_name=%E5%85%AD%E5%B9%B4%E6%81%A9%E6%80%A8%E6%9C%AA%E4%BA%86%2CIG%E5%8F%AF%E5%90%A6%E7%BB%AD%E5%86%991557%3F",
-          "source": "贴吧",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时07分 ~ 11时56分]"
-        },
-        {
-          "title": "Doinb预测T1对战IG比分",
-          "url": "https://search.bilibili.com/all?keyword=Doinb%E9%A2%84%E6%B5%8BiG%E6%89%93T1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时07分 ~ 11时56分]"
         },
         {
           "title": "AXA Investment Management Institute主席兼AXA IM Core首席投资官Chris Iggo：地缘政治风险和政治风险加剧，且只会愈演愈烈。 未来十年，政治风险将持续居高不下。",
