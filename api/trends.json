@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-14T14:34:32.298296+08:00",
-  "total_titles_processed": 1227,
+  "generated_at": "2025-10-14T15:24:22.811613+08:00",
+  "total_titles_processed": 1334,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
         {
           "title": "六年恩怨未了!IG能否续写1557",
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时07分 ~ 14时34分]"
+          "appearance_count": 7,
+          "time_info": "[11时07分 ~ 15时24分]"
         },
         {
           "title": "换线检测调整对S赛影响有多大",
@@ -43,11 +43,12 @@
             23,
             12,
             21,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时23分 ~ 14时34分]"
+          "appearance_count": 15,
+          "time_info": "[01时23分 ~ 15时24分]"
         },
         {
           "title": "如何评价由邓紫棋演唱的《英雄联盟》2025 全球总决赛主题曲《SACRIFICE 牺牲》？",
@@ -84,8 +85,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时33分 ~ 14时34分]"
+          "appearance_count": 17,
+          "time_info": "[00时33分 ~ 15时24分]"
         },
         {
           "title": "Doinb预测iG对阵T1",
@@ -107,8 +108,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时33分 ~ 14时34分]"
+          "appearance_count": 17,
+          "time_info": "[00时33分 ~ 15时24分]"
         },
         {
           "title": "女Faker应援IG,粉丝怒冲火速告吹",
@@ -118,11 +119,12 @@
             19,
             18,
             23,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时33分 ~ 14时34分]"
+          "appearance_count": 17,
+          "time_info": "[00时33分 ~ 15时24分]"
         },
         {
           "title": "iG和T1时隔六年将再度交锋",
@@ -147,8 +149,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时29分 ~ 14时34分]"
+          "appearance_count": 4,
+          "time_info": "[12时29分 ~ 15时24分]"
+        },
+        {
+          "title": "六年恩怨未了,IG可否续写1557?",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345759&amp;topic_name=%E5%85%AD%E5%B9%B4%E6%81%A9%E6%80%A8%E6%9C%AA%E4%BA%86%2CIG%E5%8F%AF%E5%90%A6%E7%BB%AD%E5%86%991557%3F",
+          "source": "贴吧",
+          "ranks": [
+            14,
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时07分 ~ 15时24分]"
         },
         {
           "title": "Jiejie明日将陪看IG vs T1",
@@ -165,18 +180,6 @@
           "time_info": "[00时33分 ~ 05时22分]"
         },
         {
-          "title": "六年恩怨未了,IG可否续写1557?",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345759&amp;topic_name=%E5%85%AD%E5%B9%B4%E6%81%A9%E6%80%A8%E6%9C%AA%E4%BA%86%2CIG%E5%8F%AF%E5%90%A6%E7%BB%AD%E5%86%991557%3F",
-          "source": "贴吧",
-          "ranks": [
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时07分 ~ 14时34分]"
-        },
-        {
           "title": "Doinb预测T1对战IG比分",
           "url": "https://search.bilibili.com/all?keyword=Doinb%E9%A2%84%E6%B5%8BiG%E6%89%93T1",
           "source": "bilibili 热搜",
@@ -184,11 +187,34 @@
             16,
             20,
             30,
-            15
+            15,
+            26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时07分 ~ 14时34分]"
+          "appearance_count": 6,
+          "time_info": "[11时07分 ~ 15时24分]"
+        },
+        {
+          "title": "Doinb预测IG对阵T1",
+          "url": "https://www.douyin.com/hot/2269233",
+          "source": "抖音",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
+          "title": "S15入围赛IG对战T1",
+          "url": "https://www.douyin.com/hot/2269583",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         },
         {
           "title": "奇瑞风云T11预售价19.99万起",
@@ -262,6 +288,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时34分 ~ 01时23分]"
+        },
+        {
+          "title": "Daeny说3比1拿下T1",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3DDaeny%E8%AF%B43%E6%AF%941%E6%8B%BF%E4%B8%8BT1&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3DDaeny%25E8%25AF%25B43%25E6%25AF%25941%25E6%258B%25BF%25E4%25B8%258BT1%26dgr%3D0%26filter_type%3Drealtimehot%26c_type%3D31%26band_rank%3D10%26realpos%3D10%26cate%3D5001%26stream_entry_id%3D31%26lcate%3D5001%26pos%3D9%26flag%3D1%26display_time%3D1760426630%26pre_seqid%3D17604266302800378216521",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         },
         {
           "title": "Doinb预测iG打T1",
