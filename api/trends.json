@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-14T12:29:18.014422+08:00",
-  "total_titles_processed": 1044,
+  "generated_at": "2025-10-14T13:22:52.498100+08:00",
+  "total_titles_processed": 1123,
   "failed_sources": [],
   "trends": [
     {
@@ -30,11 +30,12 @@
             19,
             3,
             23,
-            12
+            12,
+            21
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时23分 ~ 12时29分]"
+          "appearance_count": 13,
+          "time_info": "[01时23分 ~ 13时22分]"
         },
         {
           "title": "让IG醒",
@@ -48,11 +49,12 @@
             8,
             10,
             9,
-            7
+            7,
+            22
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时33分 ~ 12时29分]"
+          "appearance_count": 15,
+          "time_info": "[00时33分 ~ 13时22分]"
         },
         {
           "title": "如何评价由邓紫棋演唱的《英雄联盟》2025 全球总决赛主题曲《SACRIFICE 牺牲》？",
@@ -73,6 +75,17 @@
           "time_info": "[00时33分 ~ 11时07分]"
         },
         {
+          "title": "生死簿备好,顶流IG能否斩神T1?",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345770&amp;topic_name=%E7%94%9F%E6%AD%BB%E7%B0%BF%E5%A4%87%E5%A5%BD%2C%E9%A1%B6%E6%B5%81IG%E8%83%BD%E5%90%A6%E6%96%A9%E7%A5%9ET1%3F",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时07分 ~ 13时22分]"
+        },
+        {
           "title": "T1出征视频发布",
           "url": "https://search.bilibili.com/all?keyword=T1%E5%87%BA%E5%BE%81%E8%A7%86%E9%A2%91%E5%8F%91%E5%B8%83",
           "source": "bilibili 热搜",
@@ -80,8 +93,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时33分 ~ 12时29分]"
+          "appearance_count": 15,
+          "time_info": "[00时33分 ~ 13时22分]"
         },
         {
           "title": "女Faker应援IG,粉丝怒冲火速告吹",
@@ -93,19 +106,20 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时33分 ~ 12时29分]"
+          "appearance_count": 15,
+          "time_info": "[00时33分 ~ 13时22分]"
         },
         {
-          "title": "生死簿备好,顶流IG能否斩神T1?",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345770&amp;topic_name=%E7%94%9F%E6%AD%BB%E7%B0%BF%E5%A4%87%E5%A5%BD%2C%E9%A1%B6%E6%B5%81IG%E8%83%BD%E5%90%A6%E6%96%A9%E7%A5%9ET1%3F",
-          "source": "贴吧",
+          "title": "Doinb预测iG对阵T1",
+          "url": "https://www.douyin.com/hot/2269233",
+          "source": "抖音",
           "ranks": [
-            1
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时07分 ~ 12时29分]"
+          "appearance_count": 5,
+          "time_info": "[11时07分 ~ 13时22分]"
         },
         {
           "title": "iG和T1时隔六年将再度交锋",
@@ -119,18 +133,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时33分 ~ 07时21分]"
-        },
-        {
-          "title": "Doinb预测iG对阵T1",
-          "url": "https://www.douyin.com/hot/2269233",
-          "source": "抖音",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时07分 ~ 12时29分]"
         },
         {
           "title": "Jiejie明日将陪看IG vs T1",
@@ -151,11 +153,12 @@
           "url": "https://search.bilibili.com/all?keyword=IG%20vs%20T1%20%E6%95%B0%E6%8D%AE%E5%89%8D%E7%9E%BB",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            4,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时29分 ~ 13时22分]"
         },
         {
           "title": "六年恩怨未了,IG可否续写1557?",
@@ -165,8 +168,21 @@
             14
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时07分 ~ 13时22分]"
+        },
+        {
+          "title": "Doinb预测T1对战IG比分",
+          "url": "https://search.bilibili.com/all?keyword=Doinb%E9%A2%84%E6%B5%8BiG%E6%89%93T1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16,
+            20,
+            30
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[11时07分 ~ 12时29分]"
+          "time_info": "[11时07分 ~ 13时22分]"
         },
         {
           "title": "奇瑞风云T11预售价19.99万起",
@@ -205,18 +221,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时34分 ~ 02时35分]"
-        },
-        {
-          "title": "Doinb预测T1对战IG比分",
-          "url": "https://search.bilibili.com/all?keyword=Doinb%E9%A2%84%E6%B5%8BiG%E6%89%93T1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时07分 ~ 12时13分]"
         },
         {
           "title": "IG晒照并感谢BFX",
