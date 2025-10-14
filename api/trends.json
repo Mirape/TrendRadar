@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-14T17:28:49.760159+08:00",
-  "total_titles_processed": 1561,
+  "generated_at": "2025-10-14T18:27:03.644794+08:00",
+  "total_titles_processed": 1652,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 32,
+      "match_count": 36,
       "titles": [
         {
           "title": "生死簿备好,顶流IG能否斩神T1?",
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             1,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时07分 ~ 17时28分]"
+          "appearance_count": 11,
+          "time_info": "[11时07分 ~ 18时27分]"
         },
         {
           "title": "六年恩怨未了!IG能否续写1557",
@@ -113,6 +114,23 @@
           "time_info": "[00时33分 ~ 16时29分]"
         },
         {
+          "title": "Doinb预测T1对战IG比分",
+          "url": "https://search.bilibili.com/all?keyword=Doinb%E9%A2%84%E6%B5%8BiG%E6%89%93T1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16,
+            20,
+            30,
+            15,
+            26,
+            19,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时07分 ~ 18时27分]"
+        },
+        {
           "title": "女Faker应援IG,粉丝怒冲火速告吹",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345713&amp;topic_name=%E5%A5%B3Faker%E5%BA%94%E6%8F%B4IG%2C%E7%B2%89%E4%B8%9D%E6%80%92%E5%86%B2%E7%81%AB%E9%80%9F%E5%91%8A%E5%90%B9",
           "source": "贴吧",
@@ -127,6 +145,41 @@
           "is_new": false,
           "appearance_count": 18,
           "time_info": "[00时33分 ~ 16时29分]"
+        },
+        {
+          "title": "S15入围赛IG对战T1",
+          "url": "https://www.douyin.com/hot/2269583",
+          "source": "抖音",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时24分 ~ 18时27分]"
+        },
+        {
+          "title": "S15揭幕战IG vs T1",
+          "url": "https://search.bilibili.com/all?keyword=IG%20T1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时29分 ~ 18时27分]"
+        },
+        {
+          "title": "iG对战T1",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23iG%E5%AF%B9%E6%88%98T1%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D1%26flag%3D1%26dgr%3D0%26band_rank%3D2%26filter_type%3Drealtimehot%26realpos%3D2%26c_type%3D31%26q%3D%2523iG%25E5%25AF%25B9%25E6%2588%2598T1%2523%26lcate%3D5001%26cate%3D5001%26stream_entry_id%3D31%26display_time%3D1760430410%26pre_seqid%3D17604304101740054808",
+          "source": "微博",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时29分 ~ 18时27分]"
         },
         {
           "title": "iG和T1时隔六年将再度交锋",
@@ -170,55 +223,15 @@
           "time_info": "[11时07分 ~ 16时29分]"
         },
         {
-          "title": "Doinb预测T1对战IG比分",
-          "url": "https://search.bilibili.com/all?keyword=Doinb%E9%A2%84%E6%B5%8BiG%E6%89%93T1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16,
-            20,
-            30,
-            15,
-            26,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时07分 ~ 17时28分]"
-        },
-        {
-          "title": "S15入围赛IG对战T1",
-          "url": "https://www.douyin.com/hot/2269583",
-          "source": "抖音",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时24分 ~ 17时28分]"
-        },
-        {
-          "title": "S15揭幕战IG vs T1",
-          "url": "https://search.bilibili.com/all?keyword=IG%20T1",
-          "source": "bilibili 热搜",
+          "title": "枪枪爆头,IG女警体系扳回一城",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345790&amp;topic_name=%E6%9E%AA%E6%9E%AA%E7%88%86%E5%A4%B4%2CIG%E5%A5%B3%E8%AD%A6%E4%BD%93%E7%B3%BB%E6%89%B3%E5%9B%9E%E4%B8%80%E5%9F%8E",
+          "source": "贴吧",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时29分 ~ 17时28分]"
-        },
-        {
-          "title": "iG对战T1",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23iG%E5%AF%B9%E6%88%98T1%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D1%26flag%3D1%26dgr%3D0%26band_rank%3D2%26filter_type%3Drealtimehot%26realpos%3D2%26c_type%3D31%26q%3D%2523iG%25E5%25AF%25B9%25E6%2588%2598T1%2523%26lcate%3D5001%26cate%3D5001%26stream_entry_id%3D31%26display_time%3D1760430410%26pre_seqid%3D17604304101740054808",
-          "source": "微博",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时29分 ~ 17时28分]"
+          "time_info": "[18时26分 ~ 18时27分]"
         },
         {
           "title": "Jiejie明日将陪看IG vs T1",
@@ -235,13 +248,36 @@
           "time_info": "[00时33分 ~ 05时22分]"
         },
         {
+          "title": "Jiejie陪看IG vs T1",
+          "url": "https://search.bilibili.com/all?keyword=Jiejie%E9%99%AA%E7%9C%8BIG%20vs%20T1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时29分 ~ 18时27分]"
+        },
+        {
+          "title": "IG首局火龙魂被T1翻盘",
+          "url": "https://search.bilibili.com/all?keyword=IG%E9%A6%96%E5%B1%80%E7%81%AB%E9%BE%99%E9%AD%82%E8%A2%ABT1%E7%BF%BB%E7%9B%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时26分 ~ 18时27分]"
+        },
+        {
           "title": "开局请李神,T1一比0打懵IG",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345790&amp;topic_name=%E5%BC%80%E5%B1%80%E8%AF%B7%E6%9D%8E%E7%A5%9E%2CT1%E4%B8%80%E6%AF%940%E6%89%93%E6%87%B5IG",
           "source": "贴吧",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
@@ -257,18 +293,6 @@
           "time_info": "16时29分"
         },
         {
-          "title": "Jiejie陪看IG vs T1",
-          "url": "https://search.bilibili.com/all?keyword=Jiejie%E9%99%AA%E7%9C%8BIG%20vs%20T1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时29分 ~ 17时28分]"
-        },
-        {
           "title": "Doinb预测IG对阵T1",
           "url": "https://www.douyin.com/hot/2269233",
           "source": "抖音",
@@ -279,6 +303,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时24分 ~ 16时29分]"
+        },
+        {
+          "title": "英雄联盟S15入围赛：iG对阵T1",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9FS15%E5%85%A5%E5%9B%B4%E8%B5%9B%EF%BC%9AiG%E5%AF%B9%E9%98%B5T1",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时29分 ~ 18时27分]"
         },
         {
           "title": "奇瑞风云T11预售价19.99万起",
@@ -292,6 +327,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时33分 ~ 04时29分]"
+        },
+        {
+          "title": "陪看英雄联盟S15入围赛IG对战T1",
+          "url": "https://www.toutiao.com/trending/7560867912241053738/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时28分 ~ 18时27分]"
         },
         {
           "title": "如何评价《英雄联盟》S15 总决赛 MV？",
@@ -319,6 +366,28 @@
           "time_info": "[00时34分 ~ 02时35分]"
         },
         {
+          "title": "iG扳平",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3DiG%E6%89%B3%E5%B9%B3&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26realpos%3D6%26c_type%3D31%26lcate%3D5001%26cate%3D5001%26flag%3D1%26q%3DiG%25E6%2589%25B3%25E5%25B9%25B3%26stream_entry_id%3D31%26dgr%3D0%26band_rank%3D6%26pos%3D6%26display_time%3D1760437425%26pre_seqid%3D17604374257760173181108",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时26分 ~ 18时27分]"
+        },
+        {
+          "title": "S15 全球总决赛入围赛 iG vs T1，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/1961449149313552647",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时26分 ~ 18时27分]"
+        },
+        {
           "title": "IG晒照并感谢BFX",
           "url": "https://search.bilibili.com/all?keyword=IG%E6%99%92%E7%85%A7%E5%B9%B6%E6%84%9F%E8%B0%A2BFX",
           "source": "bilibili 热搜",
@@ -342,17 +411,6 @@
           "time_info": "[06时25分 ~ 07时21分]"
         },
         {
-          "title": "英雄联盟S15入围赛：iG对阵T1",
-          "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9FS15%E5%85%A5%E5%9B%B4%E8%B5%9B%EF%BC%9AiG%E5%AF%B9%E9%98%B5T1",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时29分 ~ 17时28分]"
-        },
-        {
           "title": "AXA Investment Management Institute主席兼AXA IM Core首席投资官Chris Iggo：地缘政治风险和政治风险加剧，且只会愈演愈烈。 未来十年，政治风险将持续居高不下。",
           "url": "https://wallstreetcn.com/livenews/2986890",
           "source": "华尔街见闻-快讯",
@@ -363,17 +421,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时34分 ~ 01时23分]"
-        },
-        {
-          "title": "陪看英雄联盟S15入围赛IG对战T1",
-          "url": "https://www.toutiao.com/trending/7560867912241053738/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
         },
         {
           "title": "Daeny说3比1拿下T1",
@@ -415,7 +462,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         }
