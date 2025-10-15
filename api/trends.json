@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-15T19:21:53.771311+08:00",
-  "total_titles_processed": 1792,
+  "generated_at": "2025-10-15T20:55:11.770622+08:00",
+  "total_titles_processed": 1925,
   "failed_sources": [],
   "trends": [
     {
@@ -49,6 +49,21 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时31分 ~ 12时28分]"
+        },
+        {
+          "title": "IG超话被炸穿!TheShy遭清算",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345814&amp;topic_name=IG%E8%B6%85%E8%AF%9D%E8%A2%AB%E7%82%B8%E7%A9%BF%21TheShy%E9%81%AD%E6%B8%85%E7%AE%97",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            3,
+            5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时23分 ~ 20时55分]"
         },
         {
           "title": "IG被淘汰后LPL现状",
@@ -119,11 +134,27 @@
             11,
             13,
             14,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时31分 ~ 19时21分]"
+          "appearance_count": 24,
+          "time_info": "[00时31分 ~ 20时55分]"
+        },
+        {
+          "title": "深度复盘IG如何止步入围赛",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E5%A4%8D%E7%9B%98IG%E5%A6%82%E4%BD%95%E6%AD%A2%E6%AD%A5%E5%85%A5%E5%9B%B4%E8%B5%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            7,
+            8,
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时23分 ~ 20时55分]"
         },
         {
           "title": "T1 3-1 IG赛后数据",
@@ -160,21 +191,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[11时09分 ~ 19时21分]"
-        },
-        {
-          "title": "IG超话被炸穿!TheShy遭清算",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345814&amp;topic_name=IG%E8%B6%85%E8%AF%9D%E8%A2%AB%E7%82%B8%E7%A9%BF%21TheShy%E9%81%AD%E6%B8%85%E7%AE%97",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            3,
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时23分 ~ 19时21分]"
         },
         {
           "title": "S15揭幕战：T1入围赛3比1淘汰iG",
@@ -216,30 +232,17 @@
           "time_info": "[00时31分 ~ 06时22分]"
         },
         {
-          "title": "深度复盘IG如何止步入围赛",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E5%A4%8D%E7%9B%98IG%E5%A6%82%E4%BD%95%E6%AD%A2%E6%AD%A5%E5%85%A5%E5%9B%B4%E8%B5%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            7,
-            8,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时23分 ~ 19时21分]"
-        },
-        {
           "title": "Fly失策放巴德,魔王T1超雄碾压",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345839&amp;topic_name=Fly%E5%A4%B1%E7%AD%96%E6%94%BE%E5%B7%B4%E5%BE%B7%2C%E9%AD%94%E7%8E%8BT1%E8%B6%85%E9%9B%84%E7%A2%BE%E5%8E%8B",
           "source": "贴吧",
           "ranks": [
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时28分 ~ 19时21分]"
+          "appearance_count": 4,
+          "time_info": "[18时28分 ~ 20时55分]"
         },
         {
           "title": "T1走马灯!Bin放狠话天命斩大飞",
@@ -249,11 +252,12 @@
             4,
             5,
             6,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时34分 ~ 19时21分]"
+          "appearance_count": 6,
+          "time_info": "[16时34分 ~ 20时55分]"
         },
         {
           "title": "S15瑞士轮FLY T1",
@@ -293,6 +297,18 @@
           "time_info": "[02时36分 ~ 05时22分]"
         },
         {
+          "title": "S15瑞士轮T1战胜FLY",
+          "url": "https://search.bilibili.com/all?keyword=FLY%20T1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时21分 ~ 20时55分]"
+        },
+        {
           "title": "S15瑞士轮T1击败FLY",
           "url": "https://search.bilibili.com/all?keyword=FLY%20T1",
           "source": "bilibili 热搜",
@@ -313,17 +329,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
-        },
-        {
-          "title": "S15瑞士轮T1战胜FLY",
-          "url": "https://search.bilibili.com/all?keyword=FLY%20T1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时21分"
         },
         {
           "title": "如何评价英雄联盟世界赛 S15 揭幕赛 IG:T1 比分 1：3？",
