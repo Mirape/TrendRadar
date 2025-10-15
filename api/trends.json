@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-15T22:26:15.580424+08:00",
-  "total_titles_processed": 2105,
+  "generated_at": "2025-10-15T23:25:38.666591+08:00",
+  "total_titles_processed": 2188,
   "failed_sources": [],
   "trends": [
     {
@@ -47,11 +47,12 @@
             5,
             6,
             7,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时23分 ~ 22时26分]"
+          "appearance_count": 13,
+          "time_info": "[13时23分 ~ 23时25分]"
         },
         {
           "title": "T1战胜IG晋级S15瑞士轮",
@@ -74,11 +75,29 @@
             2,
             3,
             4,
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时28分 ~ 22时26分]"
+          "appearance_count": 8,
+          "time_info": "[18时28分 ~ 23时25分]"
+        },
+        {
+          "title": "T1走马灯!Bin放狠话天命斩大飞",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345829&amp;topic_name=T1%E8%B5%B0%E9%A9%AC%E7%81%AF%21Bin%E6%94%BE%E7%8B%A0%E8%AF%9D%E5%A4%A9%E5%91%BD%E6%96%A9%E5%A4%A7%E9%A3%9E",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            5,
+            6,
+            9,
+            10,
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时34分 ~ 23时25分]"
         },
         {
           "title": "IG被淘汰后LPL现状",
@@ -119,23 +138,6 @@
           "time_info": "[09时47分 ~ 19时21分]"
         },
         {
-          "title": "深度复盘IG如何止步入围赛",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E5%A4%8D%E7%9B%98IG%E5%A6%82%E4%BD%95%E6%AD%A2%E6%AD%A5%E5%85%A5%E5%9B%B4%E8%B5%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            7,
-            8,
-            2,
-            21,
-            19,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时23分 ~ 22时26分]"
-        },
-        {
           "title": "锐评IG为何不敌T1",
           "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84IG%E4%B8%BA%E4%BD%95%E4%B8%8D%E6%95%8CT1",
           "source": "bilibili 热搜",
@@ -156,6 +158,24 @@
           "time_info": "[00时31分 ~ 19时21分]"
         },
         {
+          "title": "深度复盘IG如何止步入围赛",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E5%A4%8D%E7%9B%98IG%E5%A6%82%E4%BD%95%E6%AD%A2%E6%AD%A5%E5%85%A5%E5%9B%B4%E8%B5%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            7,
+            8,
+            2,
+            21,
+            19,
+            22,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[13时23分 ~ 23时25分]"
+        },
+        {
           "title": "IG王朝崩塌,不敌T1止步入围赛!",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345790&amp;topic_name=IG%E7%8E%8B%E6%9C%9D%E5%B4%A9%E5%A1%8C%2C%E4%B8%8D%E6%95%8CT1%E6%AD%A2%E6%AD%A5%E5%85%A5%E5%9B%B4%E8%B5%9B%21",
           "source": "贴吧",
@@ -168,27 +188,12 @@
             14,
             16,
             17,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时31分 ~ 22时26分]"
-        },
-        {
-          "title": "T1走马灯!Bin放狠话天命斩大飞",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345829&amp;topic_name=T1%E8%B5%B0%E9%A9%AC%E7%81%AF%21Bin%E6%94%BE%E7%8B%A0%E8%AF%9D%E5%A4%A9%E5%91%BD%E6%96%A9%E5%A4%A7%E9%A3%9E",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            5,
-            6,
-            9,
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时34分 ~ 22时26分]"
+          "appearance_count": 28,
+          "time_info": "[00时31分 ~ 23时25分]"
         },
         {
           "title": "T1 3-1 IG赛后数据",
@@ -272,11 +277,12 @@
           "ranks": [
             12,
             14,
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时21分 ~ 22时26分]"
+          "appearance_count": 7,
+          "time_info": "[19时21分 ~ 23时25分]"
         },
         {
           "title": "S15瑞士轮FLY T1",
