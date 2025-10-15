@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-15T18:28:23.506795+08:00",
-  "total_titles_processed": 1697,
+  "generated_at": "2025-10-15T19:21:53.771311+08:00",
+  "total_titles_processed": 1792,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "T1战胜IG晋级瑞士轮",
@@ -66,24 +66,27 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[01时21分 ~ 18时28分]"
+          "appearance_count": 21,
+          "time_info": "[01时21分 ~ 19时21分]"
         },
         {
-          "title": "IG王朝崩塌,不敌T1止步入围赛!",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345790&amp;topic_name=IG%E7%8E%8B%E6%9C%9D%E5%B4%A9%E5%A1%8C%2C%E4%B8%8D%E6%95%8CT1%E6%AD%A2%E6%AD%A5%E5%85%A5%E5%9B%B4%E8%B5%9B%21",
-          "source": "贴吧",
+          "title": "IG状态不佳问题出在哪",
+          "url": "https://www.douyin.com/hot/2270174",
+          "source": "抖音",
           "ranks": [
-            1,
-            6,
-            7,
-            11,
             13,
-            14
+            17,
+            16,
+            23,
+            21,
+            18,
+            19,
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时31分 ~ 18时28分]"
+          "appearance_count": 11,
+          "time_info": "[09时47分 ~ 19时21分]"
         },
         {
           "title": "锐评IG为何不敌T1",
@@ -98,29 +101,29 @@
             19,
             24,
             20,
-            21
+            21,
+            27
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时31分 ~ 18时28分]"
+          "appearance_count": 22,
+          "time_info": "[00时31分 ~ 19时21分]"
         },
         {
-          "title": "IG状态不佳问题出在哪",
-          "url": "https://www.douyin.com/hot/2270174",
-          "source": "抖音",
+          "title": "IG王朝崩塌,不敌T1止步入围赛!",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345790&amp;topic_name=IG%E7%8E%8B%E6%9C%9D%E5%B4%A9%E5%A1%8C%2C%E4%B8%8D%E6%95%8CT1%E6%AD%A2%E6%AD%A5%E5%85%A5%E5%9B%B4%E8%B5%9B%21",
+          "source": "贴吧",
           "ranks": [
+            1,
+            6,
+            7,
+            11,
             13,
-            17,
-            16,
-            23,
-            21,
-            18,
-            19,
-            2
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时47分 ~ 18时28分]"
+          "appearance_count": 22,
+          "time_info": "[00时31分 ~ 19时21分]"
         },
         {
           "title": "T1 3-1 IG赛后数据",
@@ -133,11 +136,45 @@
             10,
             16,
             25,
-            28
+            28,
+            24
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时31分 ~ 18时28分]"
+          "appearance_count": 22,
+          "time_info": "[00时31分 ~ 19时21分]"
+        },
+        {
+          "title": "IG淘汰后的网友反应",
+          "url": "https://www.douyin.com/hot/2270187",
+          "source": "抖音",
+          "ranks": [
+            15,
+            21,
+            24,
+            30,
+            29,
+            19,
+            18,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时09分 ~ 19时21分]"
+        },
+        {
+          "title": "IG超话被炸穿!TheShy遭清算",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345814&amp;topic_name=IG%E8%B6%85%E8%AF%9D%E8%A2%AB%E7%82%B8%E7%A9%BF%21TheShy%E9%81%AD%E6%B8%85%E7%AE%97",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            3,
+            5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时23分 ~ 19时21分]"
         },
         {
           "title": "S15揭幕战：T1入围赛3比1淘汰iG",
@@ -165,39 +202,6 @@
           "time_info": "[00时31分 ~ 06时22分]"
         },
         {
-          "title": "IG淘汰后的网友反应",
-          "url": "https://www.douyin.com/hot/2270187",
-          "source": "抖音",
-          "ranks": [
-            15,
-            21,
-            24,
-            30,
-            29,
-            19,
-            18,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时09分 ~ 18时28分]"
-        },
-        {
-          "title": "IG超话被炸穿!TheShy遭清算",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345814&amp;topic_name=IG%E8%B6%85%E8%AF%9D%E8%A2%AB%E7%82%B8%E7%A9%BF%21TheShy%E9%81%AD%E6%B8%85%E7%AE%97",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            3,
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时23分 ~ 18时28分]"
-        },
-        {
           "title": "Doinb预测T1对战IG比分",
           "url": "https://search.bilibili.com/all?keyword=Doinb%E9%A2%84%E6%B5%8BiG%E6%89%93T1",
           "source": "bilibili 热搜",
@@ -218,11 +222,24 @@
           "ranks": [
             6,
             7,
-            8
+            8,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时23分 ~ 18时28分]"
+          "appearance_count": 7,
+          "time_info": "[13时23分 ~ 19时21分]"
+        },
+        {
+          "title": "Fly失策放巴德,魔王T1超雄碾压",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345839&amp;topic_name=Fly%E5%A4%B1%E7%AD%96%E6%94%BE%E5%B7%B4%E5%BE%B7%2C%E9%AD%94%E7%8E%8BT1%E8%B6%85%E9%9B%84%E7%A2%BE%E5%8E%8B",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时28分 ~ 19时21分]"
         },
         {
           "title": "T1走马灯!Bin放狠话天命斩大飞",
@@ -231,11 +248,12 @@
           "ranks": [
             4,
             5,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时34分 ~ 18时28分]"
+          "appearance_count": 4,
+          "time_info": "[16时34分 ~ 19时21分]"
         },
         {
           "title": "S15瑞士轮FLY T1",
@@ -249,15 +267,17 @@
           "time_info": "17时29分"
         },
         {
-          "title": "Fly失策放巴德,魔王T1超雄碾压",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345839&amp;topic_name=Fly%E5%A4%B1%E7%AD%96%E6%94%BE%E5%B7%B4%E5%BE%B7%2C%E9%AD%94%E7%8E%8BT1%E8%B6%85%E9%9B%84%E7%A2%BE%E5%8E%8B",
-          "source": "贴吧",
+          "title": "IG教练回应选上单维鲁斯",
+          "url": "https://search.bilibili.com/all?keyword=IG%E6%95%99%E7%BB%83%E5%9B%9E%E5%BA%94%E9%80%89%E4%B8%8A%E5%8D%95%E7%BB%B4%E9%B2%81%E6%96%AF",
+          "source": "bilibili 热搜",
           "ranks": [
-            2
+            10,
+            27,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时28分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时34分 ~ 19时21分]"
         },
         {
           "title": "S15 十七强赛决胜局 iG 的韦鲁斯上单和炸弹人走下路合理吗？为什么 LPL 队伍决胜局总是炸弹人？",
@@ -273,25 +293,13 @@
           "time_info": "[02时36分 ~ 05时22分]"
         },
         {
-          "title": "IG教练回应选上单维鲁斯",
-          "url": "https://search.bilibili.com/all?keyword=IG%E6%95%99%E7%BB%83%E5%9B%9E%E5%BA%94%E9%80%89%E4%B8%8A%E5%8D%95%E7%BB%B4%E9%B2%81%E6%96%AF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时34分 ~ 18时28分]"
-        },
-        {
           "title": "S15瑞士轮T1击败FLY",
           "url": "https://search.bilibili.com/all?keyword=FLY%20T1",
           "source": "bilibili 热搜",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         },
@@ -307,13 +315,24 @@
           "time_info": "09时47分"
         },
         {
+          "title": "S15瑞士轮T1战胜FLY",
+          "url": "https://search.bilibili.com/all?keyword=FLY%20T1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
+        },
+        {
           "title": "如何评价英雄联盟世界赛 S15 揭幕赛 IG:T1 比分 1：3？",
           "url": "https://www.zhihu.com/question/1961518536745788237",
           "source": "知乎",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         },
@@ -335,7 +354,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         }
