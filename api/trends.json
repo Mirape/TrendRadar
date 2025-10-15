@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-15T13:23:26.239064+08:00",
-  "total_titles_processed": 1201,
+  "generated_at": "2025-10-15T14:41:25.402652+08:00",
+  "total_titles_processed": 1304,
   "failed_sources": [],
   "trends": [
     {
@@ -8,15 +8,31 @@
       "match_count": 17,
       "titles": [
         {
+          "title": "T1战胜IG晋级瑞士轮",
+          "url": "https://www.douyin.com/hot/2269583",
+          "source": "抖音",
+          "ranks": [
+            2,
+            4,
+            5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时31分 ~ 14时41分]"
+        },
+        {
           "title": "IG王朝崩塌,不敌T1止步入围赛!",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345790&amp;topic_name=IG%E7%8E%8B%E6%9C%9D%E5%B4%A9%E5%A1%8C%2C%E4%B8%8D%E6%95%8CT1%E6%AD%A2%E6%AD%A5%E5%85%A5%E5%9B%B4%E8%B5%9B%21",
           "source": "贴吧",
           "ranks": [
-            1
+            1,
+            6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时31分 ~ 13时23分]"
+          "appearance_count": 17,
+          "time_info": "[00时31分 ~ 14时41分]"
         },
         {
           "title": "S15 全球总决赛入围赛 T1 3:1 淘汰 iG 晋级正赛，如何评价这场比赛？",
@@ -26,53 +42,12 @@
             2,
             1,
             4,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时31分 ~ 09时47分]"
-        },
-        {
-          "title": "T1战胜IG晋级瑞士轮",
-          "url": "https://www.douyin.com/hot/2269583",
-          "source": "抖音",
-          "ranks": [
-            2,
-            4,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时31分 ~ 13时23分]"
-        },
-        {
-          "title": "IG被淘汰后LPL现状",
-          "url": "https://search.bilibili.com/all?keyword=IG%E8%A2%AB%E6%B7%98%E6%B1%B0%E5%90%8ELPL%E7%8E%B0%E7%8A%B6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            1,
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时21分 ~ 13时23分]"
-        },
-        {
-          "title": "锐评IG为何不敌T1",
-          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84IG%E4%B8%BA%E4%BD%95%E4%B8%8D%E6%95%8CT1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            1,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时31分 ~ 13时23分]"
+          "appearance_count": 13,
+          "time_info": "[00时31分 ~ 14时41分]"
         },
         {
           "title": "T1战胜IG晋级S15瑞士轮",
@@ -88,6 +63,36 @@
           "time_info": "[00时31分 ~ 12时28分]"
         },
         {
+          "title": "IG被淘汰后LPL现状",
+          "url": "https://search.bilibili.com/all?keyword=IG%E8%A2%AB%E6%B7%98%E6%B1%B0%E5%90%8ELPL%E7%8E%B0%E7%8A%B6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            1,
+            8,
+            3,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[01时21分 ~ 14时41分]"
+        },
+        {
+          "title": "锐评IG为何不敌T1",
+          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84IG%E4%B8%BA%E4%BD%95%E4%B8%8D%E6%95%8CT1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            1,
+            12,
+            11,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时31分 ~ 14时41分]"
+        },
+        {
           "title": "T1 3-1 IG赛后数据",
           "url": "https://search.bilibili.com/all?keyword=T1%203-1%20IG%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE",
           "source": "bilibili 热搜",
@@ -95,11 +100,12 @@
             6,
             8,
             9,
-            10
+            10,
+            16
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时31分 ~ 13时23分]"
+          "appearance_count": 17,
+          "time_info": "[00时31分 ~ 14时41分]"
         },
         {
           "title": "S15揭幕战：T1入围赛3比1淘汰iG",
@@ -145,11 +151,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345814&amp;topic_name=IG%E8%B6%85%E8%AF%9D%E8%A2%AB%E7%82%B8%E7%A9%BF%21TheShy%E9%81%AD%E6%B8%85%E7%AE%97",
           "source": "贴吧",
           "ranks": [
-            4
+            4,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时23分 ~ 14时41分]"
         },
         {
           "title": "IG状态不佳问题出在哪",
@@ -158,11 +165,26 @@
           "ranks": [
             13,
             17,
-            16
+            16,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时47分 ~ 14时41分]"
+        },
+        {
+          "title": "IG淘汰后的网友反应",
+          "url": "https://www.douyin.com/hot/2270187",
+          "source": "抖音",
+          "ranks": [
+            15,
+            21,
+            24,
+            30
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[09时47分 ~ 13时23分]"
+          "time_info": "[11时09分 ~ 14时41分]"
         },
         {
           "title": "S15 十七强赛决胜局 iG 的韦鲁斯上单和炸弹人走下路合理吗？为什么 LPL 队伍决胜局总是炸弹人？",
@@ -178,28 +200,16 @@
           "time_info": "[02时36分 ~ 05时22分]"
         },
         {
-          "title": "IG淘汰后的网友反应",
-          "url": "https://www.douyin.com/hot/2270187",
-          "source": "抖音",
-          "ranks": [
-            15,
-            21,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时09分 ~ 13时23分]"
-        },
-        {
           "title": "深度复盘IG如何止步入围赛",
           "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E5%A4%8D%E7%9B%98IG%E5%A6%82%E4%BD%95%E6%AD%A2%E6%AD%A5%E5%85%A5%E5%9B%B4%E8%B5%9B",
           "source": "bilibili 热搜",
           "ranks": [
-            6
+            6,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时23分 ~ 14时41分]"
         },
         {
           "title": "IG淘汰后的网友反映",
