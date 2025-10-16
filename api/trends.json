@@ -1,216 +1,22 @@
 {
-  "generated_at": "2025-10-16T23:27:26.320295+08:00",
-  "total_titles_processed": 2205,
+  "generated_at": "2025-10-17T00:31:01.811505+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 23,
+      "match_count": 8,
       "titles": [
-        {
-          "title": "路转粉!刀狗文森特上身杀穿T1",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345872&amp;topic_name=%E8%B7%AF%E8%BD%AC%E7%B2%89%21%E5%88%80%E7%8B%97%E6%96%87%E6%A3%AE%E7%89%B9%E4%B8%8A%E8%BA%AB%E6%9D%80%E7%A9%BFT1",
-          "source": "贴吧",
-          "ranks": [
-            1,
-            2,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时26分 ~ 23时27分]"
-        },
-        {
-          "title": "IG发文告别S15",
-          "url": "https://search.bilibili.com/all?keyword=IG%E5%8F%91%E6%96%87%E5%91%8A%E5%88%ABS15",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            6,
-            11,
-            13,
-            15,
-            22,
-            25,
-            23,
-            27,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时08分 ~ 22时24分]"
-        },
         {
           "title": "CFO爆冷战胜T1",
           "url": "https://www.douyin.com/hot/2272093",
           "source": "抖音",
           "ranks": [
-            8,
-            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时26分 ~ 23时27分]"
-        },
-        {
-          "title": "Fly失策放巴德,魔王T1超雄碾压",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345839&amp;topic_name=Fly%E5%A4%B1%E7%AD%96%E6%94%BE%E5%B7%B4%E5%BE%B7%2C%E9%AD%94%E7%8E%8BT1%E8%B6%85%E9%9B%84%E7%A2%BE%E5%8E%8B",
-          "source": "贴吧",
-          "ranks": [
-            8,
-            10,
-            12,
-            17,
-            19,
-            20,
-            21,
-            23,
-            25,
-            27,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时27分 ~ 20时50分]"
-        },
-        {
-          "title": "IG超话被炸穿!TheShy遭清算",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345814&amp;topic_name=IG%E8%B6%85%E8%AF%9D%E8%A2%AB%E7%82%B8%E7%A9%BF%21TheShy%E9%81%AD%E6%B8%85%E7%AE%97",
-          "source": "贴吧",
-          "ranks": [
-            12,
-            14,
-            16,
-            21,
-            23,
-            24,
-            25,
-            27,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时27分 ~ 18时27分]"
-        },
-        {
-          "title": "T1走马灯!Bin放狠话天命斩大飞",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345829&amp;topic_name=T1%E8%B5%B0%E9%A9%AC%E7%81%AF%21Bin%E6%94%BE%E7%8B%A0%E8%AF%9D%E5%A4%A9%E5%91%BD%E6%96%A9%E5%A4%A7%E9%A3%9E",
-          "source": "贴吧",
-          "ranks": [
-            14,
-            16,
-            18,
-            23,
-            25,
-            26,
-            27,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时27分 ~ 17时28分]"
-        },
-        {
-          "title": "深度复盘IG如何止步入围赛",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E5%A4%8D%E7%9B%98IG%E5%A6%82%E4%BD%95%E6%AD%A2%E6%AD%A5%E5%85%A5%E5%9B%B4%E8%B5%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17,
-            16,
-            14,
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时27分 ~ 12时28分]"
-        },
-        {
-          "title": "IG王朝崩塌,不敌T1止步入围赛!",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345790&amp;topic_name=IG%E7%8E%8B%E6%9C%9D%E5%B4%A9%E5%A1%8C%2C%E4%B8%8D%E6%95%8CT1%E6%AD%A2%E6%AD%A5%E5%85%A5%E5%9B%B4%E8%B5%9B%21",
-          "source": "贴吧",
-          "ranks": [
-            20,
-            22,
-            24,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时27分 ~ 12时28分]"
-        },
-        {
-          "title": "S15 瑞士轮次日 CFO 1:0 击败 T1，如何评价这场比赛？",
-          "url": "https://www.zhihu.com/question/1962192375641277780",
-          "source": "知乎",
-          "ranks": [
-            11,
-            10,
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时26分 ~ 23时27分]"
-        },
-        {
-          "title": "如果你是 iG 资方，2026 年还会续约 TheShy 吗？",
-          "url": "https://www.zhihu.com/question/1961742940717146685",
-          "source": "知乎",
-          "ranks": [
-            16,
-            8,
-            7,
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时46分 ~ 15时26分]"
-        },
-        {
-          "title": "IG版技能五子棋",
-          "url": "https://search.bilibili.com/all?keyword=IG%E7%89%88%E6%8A%80%E8%83%BD%E4%BA%94%E5%AD%90%E6%A3%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            6,
-            7,
-            5,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时25分 ~ 23时27分]"
-        },
-        {
-          "title": "CFO爆冷战胜T1",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23CFO%E7%88%86%E5%86%B7%E6%88%98%E8%83%9CT1%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26band_rank%3D1%26q%3D%2523CFO%25E7%2588%2586%25E5%2586%25B7%25E6%2588%2598%25E8%2583%259CT1%2523%26dgr%3D0%26realpos%3D1%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26pos%3D0%26lcate%3D5001%26cate%3D5001%26display_time%3D1760610011%26pre_seqid%3D1760610011005017019623",
-          "source": "微博",
-          "ranks": [
-            1,
-            5,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时26分 ~ 21时35分]"
-        },
-        {
-          "title": "S15 CFO战胜T1",
-          "url": "https://search.bilibili.com/all?keyword=T1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时26分 ~ 23时27分]"
+          "appearance_count": 2,
+          "time_info": "[00时30分 ~ 00时31分]"
         },
         {
           "title": "T1决战GEN,粉丝破防骂做签",
@@ -221,114 +27,73 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时24分 ~ 23时27分]"
+          "time_info": "[00时30分 ~ 00时31分]"
         },
         {
-          "title": "S15 CFO vs T1",
-          "url": "https://search.bilibili.com/all?keyword=T1",
-          "source": "bilibili 热搜",
+          "title": "S15 瑞士轮次日 CFO 1:0 击败 T1，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/1962192375641277780",
+          "source": "知乎",
           "ranks": [
-            1
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时28分"
+          "appearance_count": 2,
+          "time_info": "[00时30分 ~ 00时31分]"
         },
         {
-          "title": "惠誉评级：瑞士AT1评级为瑞银集团的资本路径增添不确定性。",
-          "url": "https://flash.jin10.com/detail/20251016184442508800",
-          "source": "金十数据",
+          "title": "路转粉!刀狗文森特上身杀穿T1",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345872&amp;topic_name=%E8%B7%AF%E8%BD%AC%E7%B2%89%21%E5%88%80%E7%8B%97%E6%96%87%E6%A3%AE%E7%89%B9%E4%B8%8A%E8%BA%AB%E6%9D%80%E7%A9%BFT1",
+          "source": "贴吧",
           "ranks": [
-            5
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时20分"
+          "appearance_count": 2,
+          "time_info": "[00时30分 ~ 00时31分]"
         },
         {
           "title": "小李子新片《一战再战》M 站媒体均分 96，IGN 给出 10 分满分，如何评价这一成绩？",
           "url": "https://www.zhihu.com/question/1952307688965936581",
           "source": "知乎",
           "ranks": [
-            17,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时20分 ~ 23时27分]"
-        },
-        {
-          "title": "贝莱德、英伟达等巨头联手出击：400亿美元收购数据中心运营商Aligned",
-          "url": "https://www.cls.cn/detail/2170767",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时46分 ~ 12时28分]"
-        },
-        {
-          "title": "T1对战CFO",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23T1%E5%AF%B9%E6%88%98CFO%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26pos%3D6%26realpos%3D6%26flag%3D1%26lcate%3D5001%26stream_entry_id%3D31%26band_rank%3D6%26dgr%3D0%26cate%3D5001%26filter_type%3Drealtimehot%26q%3D%2523T1%25E5%25AF%25B9%25E6%2588%2598CFO%2523%26display_time%3D1760606755%26pre_seqid%3D17606067556840173842145",
-          "source": "微博",
-          "ranks": [
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时28分 ~ 18时27分]"
-        },
-        {
-          "title": "法拉利CEO Benedetto Vigna：可能会在中国推出电动车型。 公司的（业绩）指引是雄心勃勃的。 调整生产计划，从而体现出电动汽车（需求/销售）放缓。（彭博电视）",
-          "url": "https://wallstreetcn.com/livenews/2988416",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            24
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时20分 ~ 06时21分]"
+          "time_info": "[00时30分 ~ 00时31分]"
+        },
+        {
+          "title": "S15 CFO战胜T1",
+          "url": "https://search.bilibili.com/all?keyword=CFO%20T1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时30分 ~ 00时31分]"
         },
         {
           "title": "如何评价 S15 瑞士轮第三日抽签结果出炉 KT vs TES 、 G2 vs BLG 、 GEN vs T1？",
           "url": "https://www.zhihu.com/question/1962256968963023742",
           "source": "知乎",
           "ranks": [
-            15,
             14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时24分 ~ 23时27分]"
+          "time_info": "[00时30分 ~ 00时31分]"
         },
         {
-          "title": "CFO爆冷战胜T1",
-          "url": "https://www.baidu.com/s?wd=CFO%E7%88%86%E5%86%B7%E6%88%98%E8%83%9CT1",
-          "source": "百度热搜",
+          "title": "IG版技能五子棋",
+          "url": "https://search.bilibili.com/all?keyword=IG%E7%89%88%E6%8A%80%E8%83%BD%E4%BA%94%E5%AD%90%E6%A3%8B",
+          "source": "bilibili 热搜",
           "ranks": [
-            16,
-            27
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时20分 ~ 21时35分]"
-        },
-        {
-          "title": "Knight说想抽到T1",
-          "url": "https://search.bilibili.com/all?keyword=Knight%E8%AF%B4%E6%83%B3%E6%8A%BD%E5%88%B0T1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时50分"
+          "time_info": "[00时30分 ~ 00时31分]"
         }
       ]
     }
