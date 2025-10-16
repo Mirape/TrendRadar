@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-17T03:19:10.441839+08:00",
-  "total_titles_processed": 498,
+  "generated_at": "2025-10-17T04:27:26.719749+08:00",
+  "total_titles_processed": 560,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时30分 ~ 03时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时30分 ~ 04时27分]"
         },
         {
           "title": "T1决战GEN,粉丝破防骂做签",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时30分 ~ 03时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时30分 ~ 04时27分]"
         },
         {
           "title": "S15 瑞士轮次日 CFO 1:0 击败 T1，如何评价这场比赛？",
@@ -49,11 +49,12 @@
             20,
             28,
             5,
-            13
+            13,
+            27
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时30分 ~ 03时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时30分 ~ 04时27分]"
         },
         {
           "title": "路转粉!刀狗文森特上身杀穿T1",
@@ -63,8 +64,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时30分 ~ 03时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时30分 ~ 04时27分]"
         },
         {
           "title": "小李子新片《一战再战》M 站媒体均分 96，IGN 给出 10 分满分，如何评价这一成绩？",
@@ -73,11 +74,12 @@
           "ranks": [
             8,
             9,
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时30分 ~ 03时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时30分 ~ 04时27分]"
         },
         {
           "title": "如何评价 S15 瑞士轮第三日抽签结果出炉 KT vs TES 、 G2 vs BLG 、 GEN vs T1？",
@@ -86,11 +88,12 @@
           "ranks": [
             14,
             15,
-            13
+            13,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时30分 ~ 03时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时30分 ~ 04时27分]"
         },
         {
           "title": "S15 CFO战胜T1",
@@ -100,11 +103,12 @@
             14,
             17,
             21,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时30分 ~ 03时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时30分 ~ 04时27分]"
         },
         {
           "title": "IG发文告别S15",
