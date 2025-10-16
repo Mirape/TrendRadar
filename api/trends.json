@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-16T15:26:08.243212+08:00",
-  "total_titles_processed": 1416,
+  "generated_at": "2025-10-16T16:34:28.685358+08:00",
+  "total_titles_processed": 1536,
   "failed_sources": [],
   "trends": [
     {
@@ -21,8 +21,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时27分 ~ 15时26分]"
+          "appearance_count": 20,
+          "time_info": "[00时27分 ~ 16时34分]"
         },
         {
           "title": "IG超话被炸穿!TheShy遭清算",
@@ -38,8 +38,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时27分 ~ 15时26分]"
+          "appearance_count": 20,
+          "time_info": "[00时27分 ~ 16时34分]"
         },
         {
           "title": "T1走马灯!Bin放狠话天命斩大飞",
@@ -55,8 +55,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时27分 ~ 15时26分]"
+          "appearance_count": 20,
+          "time_info": "[00时27分 ~ 16时34分]"
         },
         {
           "title": "深度复盘IG如何止步入围赛",
@@ -95,11 +95,12 @@
             1,
             6,
             11,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时08分 ~ 15时26分]"
+          "appearance_count": 8,
+          "time_info": "[11时08分 ~ 16时34分]"
         },
         {
           "title": "如果你是 iG 资方，2026 年还会续约 TheShy 吗？",
@@ -134,11 +135,12 @@
           "url": "https://search.bilibili.com/all?keyword=IG%E7%89%88%E6%8A%80%E8%83%BD%E4%BA%94%E5%AD%90%E6%A3%8B",
           "source": "bilibili 热搜",
           "ranks": [
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时25分 ~ 15时26分]"
+          "appearance_count": 3,
+          "time_info": "[15时25分 ~ 16时34分]"
         },
         {
           "title": "法拉利CEO Benedetto Vigna：可能会在中国推出电动车型。 公司的（业绩）指引是雄心勃勃的。 调整生产计划，从而体现出电动汽车（需求/销售）放缓。（彭博电视）",
