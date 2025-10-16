@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-16T14:34:41.461299+08:00",
-  "total_titles_processed": 1310,
+  "generated_at": "2025-10-16T15:26:08.243212+08:00",
+  "total_titles_processed": 1416,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "Fly失策放巴德,魔王T1超雄碾压",
@@ -17,11 +17,12 @@
             12,
             17,
             19,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时27分 ~ 14时34分]"
+          "appearance_count": 19,
+          "time_info": "[00时27分 ~ 15时26分]"
         },
         {
           "title": "IG超话被炸穿!TheShy遭清算",
@@ -33,11 +34,12 @@
             16,
             21,
             23,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时27分 ~ 14时34分]"
+          "appearance_count": 19,
+          "time_info": "[00时27分 ~ 15时26分]"
         },
         {
           "title": "T1走马灯!Bin放狠话天命斩大飞",
@@ -49,11 +51,12 @@
             18,
             23,
             25,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时27分 ~ 14时34分]"
+          "appearance_count": 19,
+          "time_info": "[00时27分 ~ 15时26分]"
         },
         {
           "title": "深度复盘IG如何止步入围赛",
@@ -91,11 +94,12 @@
           "ranks": [
             1,
             6,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时08分 ~ 14时34分]"
+          "appearance_count": 7,
+          "time_info": "[11时08分 ~ 15时26分]"
         },
         {
           "title": "如果你是 iG 资方，2026 年还会续约 TheShy 吗？",
@@ -105,11 +109,12 @@
             16,
             8,
             7,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时46分 ~ 14时34分]"
+          "appearance_count": 8,
+          "time_info": "[09时46分 ~ 15时26分]"
         },
         {
           "title": "贝莱德、英伟达等巨头联手出击：400亿美元收购数据中心运营商Aligned",
@@ -123,6 +128,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时46分 ~ 12时28分]"
+        },
+        {
+          "title": "IG版技能五子棋",
+          "url": "https://search.bilibili.com/all?keyword=IG%E7%89%88%E6%8A%80%E8%83%BD%E4%BA%94%E5%AD%90%E6%A3%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时25分 ~ 15时26分]"
         },
         {
           "title": "法拉利CEO Benedetto Vigna：可能会在中国推出电动车型。 公司的（业绩）指引是雄心勃勃的。 调整生产计划，从而体现出电动汽车（需求/销售）放缓。（彭博电视）",
