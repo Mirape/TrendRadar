@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-16T22:24:27.761586+08:00",
-  "total_titles_processed": 2129,
+  "generated_at": "2025-10-16T23:27:26.320295+08:00",
+  "total_titles_processed": 2205,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时26分 ~ 22时24分]"
+          "appearance_count": 7,
+          "time_info": "[18时26分 ~ 23时27分]"
         },
         {
           "title": "IG发文告别S15",
@@ -40,6 +40,19 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[11时08分 ~ 22时24分]"
+        },
+        {
+          "title": "CFO爆冷战胜T1",
+          "url": "https://www.douyin.com/hot/2272093",
+          "source": "抖音",
+          "ranks": [
+            8,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时26分 ~ 23时27分]"
         },
         {
           "title": "Fly失策放巴德,魔王T1超雄碾压",
@@ -129,17 +142,18 @@
           "time_info": "[00时27分 ~ 12时28分]"
         },
         {
-          "title": "CFO爆冷战胜T1",
-          "url": "https://www.douyin.com/hot/2272093",
-          "source": "抖音",
+          "title": "S15 瑞士轮次日 CFO 1:0 击败 T1，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/1962192375641277780",
+          "source": "知乎",
           "ranks": [
-            8,
-            2,
-            1
+            11,
+            10,
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时26分 ~ 22时24分]"
+          "appearance_count": 7,
+          "time_info": "[18时26分 ~ 23时27分]"
         },
         {
           "title": "如果你是 iG 资方，2026 年还会续约 TheShy 吗？",
@@ -164,11 +178,12 @@
             9,
             6,
             7,
-            5
+            5,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时25分 ~ 18时27分]"
+          "appearance_count": 7,
+          "time_info": "[15时25分 ~ 23时27分]"
         },
         {
           "title": "CFO爆冷战胜T1",
@@ -185,20 +200,6 @@
           "time_info": "[18时26分 ~ 21时35分]"
         },
         {
-          "title": "S15 瑞士轮次日 CFO 1:0 击败 T1，如何评价这场比赛？",
-          "url": "https://www.zhihu.com/question/1962192375641277780",
-          "source": "知乎",
-          "ranks": [
-            11,
-            10,
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时26分 ~ 22时24分]"
-        },
-        {
           "title": "S15 CFO战胜T1",
           "url": "https://search.bilibili.com/all?keyword=T1",
           "source": "bilibili 热搜",
@@ -208,8 +209,19 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时26分 ~ 22时24分]"
+          "appearance_count": 7,
+          "time_info": "[18时26分 ~ 23时27分]"
+        },
+        {
+          "title": "T1决战GEN,粉丝破防骂做签",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345883&amp;topic_name=T1%E5%86%B3%E6%88%98GEN%2C%E7%B2%89%E4%B8%9D%E7%A0%B4%E9%98%B2%E9%AA%82%E5%81%9A%E7%AD%BE",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时24分 ~ 23时27分]"
         },
         {
           "title": "S15 CFO vs T1",
@@ -223,17 +235,6 @@
           "time_info": "17时28分"
         },
         {
-          "title": "T1决战GEN,粉丝破防骂做签",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345883&amp;topic_name=T1%E5%86%B3%E6%88%98GEN%2C%E7%B2%89%E4%B8%9D%E7%A0%B4%E9%98%B2%E9%AA%82%E5%81%9A%E7%AD%BE",
-          "source": "贴吧",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时24分"
-        },
-        {
           "title": "惠誉评级：瑞士AT1评级为瑞银集团的资本路径增添不确定性。",
           "url": "https://flash.jin10.com/detail/20251016184442508800",
           "source": "金十数据",
@@ -243,6 +244,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
+        },
+        {
+          "title": "小李子新片《一战再战》M 站媒体均分 96，IGN 给出 10 分满分，如何评价这一成绩？",
+          "url": "https://www.zhihu.com/question/1952307688965936581",
+          "source": "知乎",
+          "ranks": [
+            17,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时20分 ~ 23时27分]"
         },
         {
           "title": "贝莱德、英伟达等巨头联手出击：400亿美元收购数据中心运营商Aligned",
@@ -256,19 +270,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时46分 ~ 12时28分]"
-        },
-        {
-          "title": "小李子新片《一战再战》M 站媒体均分 96，IGN 给出 10 分满分，如何评价这一成绩？",
-          "url": "https://www.zhihu.com/question/1952307688965936581",
-          "source": "知乎",
-          "ranks": [
-            17,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时20分 ~ 22时24分]"
         },
         {
           "title": "T1对战CFO",
@@ -295,6 +296,18 @@
           "time_info": "[05时20分 ~ 06时21分]"
         },
         {
+          "title": "如何评价 S15 瑞士轮第三日抽签结果出炉 KT vs TES 、 G2 vs BLG 、 GEN vs T1？",
+          "url": "https://www.zhihu.com/question/1962256968963023742",
+          "source": "知乎",
+          "ranks": [
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时24分 ~ 23时27分]"
+        },
+        {
           "title": "CFO爆冷战胜T1",
           "url": "https://www.baidu.com/s?wd=CFO%E7%88%86%E5%86%B7%E6%88%98%E8%83%9CT1",
           "source": "百度热搜",
@@ -316,17 +329,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时50分"
-        },
-        {
-          "title": "如何评价 S15 瑞士轮第三日抽签结果出炉 KT vs TES 、 G2 vs BLG 、 GEN vs T1？",
-          "url": "https://www.zhihu.com/question/1962256968963023742",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时24分"
         }
       ]
     }
