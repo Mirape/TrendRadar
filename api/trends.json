@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-16T13:23:53.019775+08:00",
-  "total_titles_processed": 1197,
+  "generated_at": "2025-10-16T14:34:41.461299+08:00",
+  "total_titles_processed": 1310,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             10,
             12,
             17,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时27分 ~ 13时23分]"
+          "appearance_count": 17,
+          "time_info": "[00时27分 ~ 14时34分]"
         },
         {
           "title": "IG超话被炸穿!TheShy遭清算",
@@ -31,11 +32,12 @@
             14,
             16,
             21,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时27分 ~ 13时23分]"
+          "appearance_count": 17,
+          "time_info": "[00时27分 ~ 14时34分]"
         },
         {
           "title": "T1走马灯!Bin放狠话天命斩大飞",
@@ -46,11 +48,12 @@
             16,
             18,
             23,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时27分 ~ 13时23分]"
+          "appearance_count": 17,
+          "time_info": "[00时27分 ~ 14时34分]"
         },
         {
           "title": "深度复盘IG如何止步入围赛",
@@ -87,11 +90,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             1,
-            6
+            6,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时08分 ~ 13时23分]"
+          "appearance_count": 5,
+          "time_info": "[11时08分 ~ 14时34分]"
         },
         {
           "title": "如果你是 iG 资方，2026 年还会续约 TheShy 吗？",
@@ -100,11 +104,12 @@
           "ranks": [
             16,
             8,
-            7
+            7,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时46分 ~ 13时23分]"
+          "appearance_count": 6,
+          "time_info": "[09时46分 ~ 14时34分]"
         },
         {
           "title": "贝莱德、英伟达等巨头联手出击：400亿美元收购数据中心运营商Aligned",
