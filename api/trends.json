@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-16T11:08:24.904620+08:00",
-  "total_titles_processed": 1001,
+  "generated_at": "2025-10-16T12:28:00.493710+08:00",
+  "total_titles_processed": 1115,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             8,
             10,
-            12
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时27分 ~ 11时08分]"
+          "appearance_count": 15,
+          "time_info": "[00时27分 ~ 12时28分]"
         },
         {
           "title": "IG超话被炸穿!TheShy遭清算",
@@ -27,11 +28,12 @@
           "ranks": [
             12,
             14,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时27分 ~ 11时08分]"
+          "appearance_count": 15,
+          "time_info": "[00时27分 ~ 12时28分]"
         },
         {
           "title": "深度复盘IG如何止步入围赛",
@@ -45,8 +47,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时27分 ~ 11时08分]"
+          "appearance_count": 15,
+          "time_info": "[00时27分 ~ 12时28分]"
         },
         {
           "title": "T1走马灯!Bin放狠话天命斩大飞",
@@ -55,11 +57,12 @@
           "ranks": [
             14,
             16,
-            18
+            18,
+            23
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时27分 ~ 11时08分]"
+          "appearance_count": 15,
+          "time_info": "[00时27分 ~ 12时28分]"
         },
         {
           "title": "IG王朝崩塌,不敌T1止步入围赛!",
@@ -68,11 +71,12 @@
           "ranks": [
             20,
             22,
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时27分 ~ 11时08分]"
+          "appearance_count": 15,
+          "time_info": "[00时27分 ~ 12时28分]"
         },
         {
           "title": "IG发文告别S15",
@@ -81,9 +85,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时08分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时08分 ~ 12时28分]"
         },
         {
           "title": "贝莱德、英伟达等巨头联手出击：400亿美元收购数据中心运营商Aligned",
@@ -91,11 +95,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时46分 ~ 11时08分]"
+          "appearance_count": 4,
+          "time_info": "[09时46分 ~ 12时28分]"
         },
         {
           "title": "如果你是 iG 资方，2026 年还会续约 TheShy 吗？",
@@ -106,8 +111,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时46分 ~ 11时08分]"
+          "appearance_count": 4,
+          "time_info": "[09时46分 ~ 12时28分]"
         },
         {
           "title": "法拉利CEO Benedetto Vigna：可能会在中国推出电动车型。 公司的（业绩）指引是雄心勃勃的。 调整生产计划，从而体现出电动汽车（需求/销售）放缓。（彭博电视）",
