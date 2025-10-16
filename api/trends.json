@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-16T20:50:29.297150+08:00",
-  "total_titles_processed": 1942,
+  "generated_at": "2025-10-16T21:35:57.626958+08:00",
+  "total_titles_processed": 2042,
   "failed_sources": [],
   "trends": [
     {
@@ -19,11 +19,12 @@
             15,
             22,
             25,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时08分 ~ 20时50分]"
+          "appearance_count": 14,
+          "time_info": "[11时08分 ~ 21时35分]"
         },
         {
           "title": "Fly失策放巴德,魔王T1超雄碾压",
@@ -122,8 +123,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时26分 ~ 20时50分]"
+          "appearance_count": 5,
+          "time_info": "[18时26分 ~ 21时35分]"
+        },
+        {
+          "title": "CFO爆冷战胜T1",
+          "url": "https://www.douyin.com/hot/2272093",
+          "source": "抖音",
+          "ranks": [
+            8,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时26分 ~ 21时35分]"
         },
         {
           "title": "如果你是 iG 资方，2026 年还会续约 TheShy 吗？",
@@ -161,23 +175,26 @@
           "ranks": [
             1,
             5,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时26分 ~ 20时50分]"
+          "appearance_count": 5,
+          "time_info": "[18时26分 ~ 21时35分]"
         },
         {
-          "title": "CFO爆冷战胜T1",
-          "url": "https://www.douyin.com/hot/2272093",
-          "source": "抖音",
+          "title": "S15 瑞士轮次日 CFO 1:0 击败 T1，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/1962192375641277780",
+          "source": "知乎",
           "ranks": [
-            8,
-            2
+            11,
+            10,
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时26分 ~ 20时50分]"
+          "appearance_count": 5,
+          "time_info": "[18时26分 ~ 21时35分]"
         },
         {
           "title": "S15 CFO vs T1",
@@ -202,6 +219,19 @@
           "time_info": "19时20分"
         },
         {
+          "title": "S15 CFO战胜T1",
+          "url": "https://search.bilibili.com/all?keyword=T1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时26分 ~ 21时35分]"
+        },
+        {
           "title": "贝莱德、英伟达等巨头联手出击：400亿美元收购数据中心运营商Aligned",
           "url": "https://www.cls.cn/detail/2170767",
           "source": "财联社热门",
@@ -213,32 +243,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时46分 ~ 12时28分]"
-        },
-        {
-          "title": "S15 CFO战胜T1",
-          "url": "https://search.bilibili.com/all?keyword=T1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时26分 ~ 20时50分]"
-        },
-        {
-          "title": "S15 瑞士轮次日 CFO 1:0 击败 T1，如何评价这场比赛？",
-          "url": "https://www.zhihu.com/question/1962192375641277780",
-          "source": "知乎",
-          "ranks": [
-            11,
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时26分 ~ 20时50分]"
         },
         {
           "title": "T1对战CFO",
@@ -258,11 +262,12 @@
           "source": "知乎",
           "ranks": [
             17,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时20分 ~ 20时50分]"
+          "appearance_count": 3,
+          "time_info": "[19时20分 ~ 21时35分]"
         },
         {
           "title": "法拉利CEO Benedetto Vigna：可能会在中国推出电动车型。 公司的（业绩）指引是雄心勃勃的。 调整生产计划，从而体现出电动汽车（需求/销售）放缓。（彭博电视）",
@@ -277,26 +282,27 @@
           "time_info": "[05时20分 ~ 06时21分]"
         },
         {
+          "title": "CFO爆冷战胜T1",
+          "url": "https://www.baidu.com/s?wd=CFO%E7%88%86%E5%86%B7%E6%88%98%E8%83%9CT1",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时20分 ~ 21时35分]"
+        },
+        {
           "title": "Knight说想抽到T1",
           "url": "https://search.bilibili.com/all?keyword=Knight%E8%AF%B4%E6%83%B3%E6%8A%BD%E5%88%B0T1",
           "source": "bilibili 热搜",
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时50分"
-        },
-        {
-          "title": "CFO爆冷战胜T1",
-          "url": "https://www.baidu.com/s?wd=CFO%E7%88%86%E5%86%B7%E6%88%98%E8%83%9CT1",
-          "source": "百度热搜",
-          "ranks": [
-            16
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时20分"
+          "time_info": "20时50分"
         }
       ]
     }
