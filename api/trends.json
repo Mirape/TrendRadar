@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-17T13:23:44.071511+08:00",
-  "total_titles_processed": 1200,
+  "generated_at": "2025-10-17T14:35:34.056070+08:00",
+  "total_titles_processed": 1294,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时30分 ~ 13时23分]"
+          "appearance_count": 19,
+          "time_info": "[00时30分 ~ 14时35分]"
         },
         {
           "title": "CFO爆冷战胜T1",
@@ -32,8 +32,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时30分 ~ 13时23分]"
+          "appearance_count": 17,
+          "time_info": "[00时30分 ~ 14时35分]"
         },
         {
           "title": "S15 瑞士轮次日 CFO 1:0 击败 T1，如何评价这场比赛？",
@@ -58,8 +58,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时30分 ~ 13时23分]"
+          "appearance_count": 19,
+          "time_info": "[00时30分 ~ 14时35分]"
         },
         {
           "title": "IG版技能五子棋",
@@ -133,11 +133,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             6,
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时04分 ~ 13时23分]"
+          "appearance_count": 6,
+          "time_info": "[11时04分 ~ 14时35分]"
         },
         {
           "title": "IG发文告别S15",
