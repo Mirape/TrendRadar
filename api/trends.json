@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-17T19:21:21.396846+08:00",
-  "total_titles_processed": 1800,
+  "generated_at": "2025-10-17T20:49:18.865106+08:00",
+  "total_titles_processed": 1915,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             2,
             4,
             5,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时30分 ~ 19时21分]"
+          "appearance_count": 25,
+          "time_info": "[00时30分 ~ 20时49分]"
         },
         {
           "title": "CFO爆冷战胜T1",
@@ -94,11 +95,12 @@
             12,
             14,
             16,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时30分 ~ 19时21分]"
+          "appearance_count": 25,
+          "time_info": "[00时30分 ~ 20时49分]"
         },
         {
           "title": "如何评价 S15 瑞士轮第三日抽签结果出炉 KT vs TES 、 G2 vs BLG 、 GEN vs T1？",
