@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-17T09:47:59.418451+08:00",
-  "total_titles_processed": 896,
+  "generated_at": "2025-10-17T11:05:14.582432+08:00",
+  "total_titles_processed": 1008,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "T1决战GEN,粉丝破防骂做签",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时30分 ~ 09时47分]"
+          "appearance_count": 15,
+          "time_info": "[00时30分 ~ 11时05分]"
         },
         {
           "title": "CFO爆冷战胜T1",
@@ -39,11 +39,12 @@
           "source": "贴吧",
           "ranks": [
             6,
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时30分 ~ 09时47分]"
+          "appearance_count": 15,
+          "time_info": "[00时30分 ~ 11时05分]"
         },
         {
           "title": "S15 瑞士轮次日 CFO 1:0 击败 T1，如何评价这场比赛？",
@@ -75,22 +76,6 @@
           "time_info": "[00时30分 ~ 09时47分]"
         },
         {
-          "title": "小李子新片《一战再战》M 站媒体均分 96，IGN 给出 10 分满分，如何评价这一成绩？",
-          "url": "https://www.zhihu.com/question/1952307688965936581",
-          "source": "知乎",
-          "ranks": [
-            8,
-            9,
-            7,
-            12,
-            10,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时30分 ~ 09时47分]"
-        },
-        {
           "title": "如何评价 S15 瑞士轮第三日抽签结果出炉 KT vs TES 、 G2 vs BLG 、 GEN vs T1？",
           "url": "https://www.zhihu.com/question/1962256968963023742",
           "source": "知乎",
@@ -106,6 +91,23 @@
           "time_info": "[00时30分 ~ 07时19分]"
         },
         {
+          "title": "小李子新片《一战再战》M 站媒体均分 96，IGN 给出 10 分满分，如何评价这一成绩？",
+          "url": "https://www.zhihu.com/question/1952307688965936581",
+          "source": "知乎",
+          "ranks": [
+            8,
+            9,
+            7,
+            12,
+            10,
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时30分 ~ 11时05分]"
+        },
+        {
           "title": "S15 CFO战胜T1",
           "url": "https://search.bilibili.com/all?keyword=CFO%20T1",
           "source": "bilibili 热搜",
@@ -118,8 +120,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时30分 ~ 09时47分]"
+          "appearance_count": 15,
+          "time_info": "[00时30分 ~ 11时05分]"
         },
         {
           "title": "IG发文告别S15",
@@ -133,6 +135,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时35分 ~ 06时21分]"
+        },
+        {
+          "title": "锐评CFO血洗T1",
+          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84CFO%E8%A1%80%E6%B4%97T1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时04分 ~ 11时05分]"
         }
       ]
     }
