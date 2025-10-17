@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-17T17:27:42.718406+08:00",
-  "total_titles_processed": 1609,
+  "generated_at": "2025-10-17T18:26:57.623457+08:00",
+  "total_titles_processed": 1703,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             2,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时30分 ~ 17时27分]"
+          "appearance_count": 23,
+          "time_info": "[00时30分 ~ 18时26分]"
         },
         {
           "title": "CFO爆冷战胜T1",
@@ -59,11 +60,12 @@
             10,
             11,
             12,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时30分 ~ 17时27分]"
+          "appearance_count": 23,
+          "time_info": "[00时30分 ~ 18时26分]"
         },
         {
           "title": "IG版技能五子棋",
@@ -164,11 +166,12 @@
           "source": "知乎",
           "ranks": [
             18,
-            15
+            15,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时31分 ~ 17时27分]"
+          "appearance_count": 3,
+          "time_info": "[16时31分 ~ 18时26分]"
         },
         {
           "title": "IG超话被炸穿!TheShy遭清算",
