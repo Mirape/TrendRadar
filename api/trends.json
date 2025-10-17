@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-17T15:24:36.193952+08:00",
-  "total_titles_processed": 1386,
+  "generated_at": "2025-10-17T16:31:51.737956+08:00",
+  "total_titles_processed": 1512,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "T1决战GEN,粉丝破防骂做签",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时30分 ~ 15时24分]"
+          "appearance_count": 21,
+          "time_info": "[00时30分 ~ 16时31分]"
         },
         {
           "title": "CFO爆冷战胜T1",
@@ -56,11 +56,12 @@
             5,
             8,
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时30分 ~ 15时24分]"
+          "appearance_count": 21,
+          "time_info": "[00时30分 ~ 16时31分]"
         },
         {
           "title": "IG版技能五子棋",
@@ -86,11 +87,12 @@
           "ranks": [
             6,
             1,
-            4
+            4,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时04分 ~ 15时24分]"
+          "appearance_count": 8,
+          "time_info": "[11时04分 ~ 16时31分]"
         },
         {
           "title": "如何评价 S15 瑞士轮第三日抽签结果出炉 KT vs TES 、 G2 vs BLG 、 GEN vs T1？",
@@ -153,6 +155,39 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时35分 ~ 06时21分]"
+        },
+        {
+          "title": "伊斯坦布尔证券交易所：由于BIST100指数变动达到2%，本交易时段剩余时间内将对空头交易实施报升规则。",
+          "url": "https://flash.jin10.com/detail/20251017160420556800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
+          "title": "如果 S15 全球总决赛最终对决是韩国内战，那么《英雄联盟》在中国应该 GG 了吧？",
+          "url": "https://www.zhihu.com/question/1961091429242758735",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
+          "title": "IG超话被炸穿!TheShy遭清算",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345814&amp;topic_name=IG%E8%B6%85%E8%AF%9D%E8%A2%AB%E7%82%B8%E7%A9%BF%21TheShy%E9%81%AD%E6%B8%85%E7%AE%97",
+          "source": "贴吧",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
         }
       ]
     }
