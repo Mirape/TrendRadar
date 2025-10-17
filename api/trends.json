@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-17T14:35:34.056070+08:00",
-  "total_titles_processed": 1294,
+  "generated_at": "2025-10-17T15:24:36.193952+08:00",
+  "total_titles_processed": 1386,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时30分 ~ 14时35分]"
+          "appearance_count": 20,
+          "time_info": "[00时30分 ~ 15时24分]"
         },
         {
           "title": "CFO爆冷战胜T1",
@@ -55,11 +55,12 @@
             6,
             5,
             8,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时30分 ~ 14时35分]"
+          "appearance_count": 20,
+          "time_info": "[00时30分 ~ 15时24分]"
         },
         {
           "title": "IG版技能五子棋",
@@ -77,6 +78,19 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时30分 ~ 09时47分]"
+        },
+        {
+          "title": "锐评CFO血洗T1",
+          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84CFO%E8%A1%80%E6%B4%97T1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时04分 ~ 15时24分]"
         },
         {
           "title": "如何评价 S15 瑞士轮第三日抽签结果出炉 KT vs TES 、 G2 vs BLG 、 GEN vs T1？",
@@ -126,19 +140,6 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时30分 ~ 11时05分]"
-        },
-        {
-          "title": "锐评CFO血洗T1",
-          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84CFO%E8%A1%80%E6%B4%97T1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时04分 ~ 14时35分]"
         },
         {
           "title": "IG发文告别S15",
