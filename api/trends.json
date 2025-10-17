@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-18T00:32:24.611469+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-10-18T01:21:42.908549+08:00",
+  "total_titles_processed": 382,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        },
-        {
-          "title": "为什么 S15 第一个晋级八强赛的队伍不是 GEN 、 HLE 、 T1 反而是「无人在意」的 KT 战队？",
-          "url": "https://www.zhihu.com/question/1962572681678381990",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时21分]"
         },
         {
           "title": "路转粉!刀狗文森特上身杀穿T1",
@@ -35,6 +24,17 @@
           "source": "贴吧",
           "ranks": [
             22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时21分]"
+        },
+        {
+          "title": "为什么 S15 第一个晋级八强赛的队伍不是 GEN 、 HLE 、 T1 反而是「无人在意」的 KT 战队？",
+          "url": "https://www.zhihu.com/question/1962572681678381990",
+          "source": "知乎",
+          "ranks": [
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
