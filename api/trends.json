@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-17T11:05:14.582432+08:00",
-  "total_titles_processed": 1008,
+  "generated_at": "2025-10-17T12:30:03.391400+08:00",
+  "total_titles_processed": 1131,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时30分 ~ 11时05分]"
+          "appearance_count": 17,
+          "time_info": "[00时30分 ~ 12时30分]"
         },
         {
           "title": "CFO爆冷战胜T1",
@@ -27,24 +27,12 @@
             5,
             6,
             4,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时30分 ~ 09时47分]"
-        },
-        {
-          "title": "路转粉!刀狗文森特上身杀穿T1",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345872&amp;topic_name=%E8%B7%AF%E8%BD%AC%E7%B2%89%21%E5%88%80%E7%8B%97%E6%96%87%E6%A3%AE%E7%89%B9%E4%B8%8A%E8%BA%AB%E6%9D%80%E7%A9%BFT1",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            5,
-            8
+            10,
+            12
           ],
           "is_new": false,
           "appearance_count": 15,
-          "time_info": "[00时30分 ~ 11时05分]"
+          "time_info": "[00时30分 ~ 12时30分]"
         },
         {
           "title": "S15 瑞士轮次日 CFO 1:0 击败 T1，如何评价这场比赛？",
@@ -57,6 +45,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时30分 ~ 03时19分]"
+        },
+        {
+          "title": "路转粉!刀狗文森特上身杀穿T1",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345872&amp;topic_name=%E8%B7%AF%E8%BD%AC%E7%B2%89%21%E5%88%80%E7%8B%97%E6%96%87%E6%A3%AE%E7%89%B9%E4%B8%8A%E8%BA%AB%E6%9D%80%E7%A9%BFT1",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            5,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时30分 ~ 12时30分]"
         },
         {
           "title": "IG版技能五子棋",
@@ -104,8 +106,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时30分 ~ 11时05分]"
+          "appearance_count": 17,
+          "time_info": "[00时30分 ~ 12时30分]"
         },
         {
           "title": "S15 CFO战胜T1",
@@ -124,6 +126,18 @@
           "time_info": "[00时30分 ~ 11时05分]"
         },
         {
+          "title": "锐评CFO血洗T1",
+          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84CFO%E8%A1%80%E6%B4%97T1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时04分 ~ 12时30分]"
+        },
+        {
           "title": "IG发文告别S15",
           "url": "https://search.bilibili.com/all?keyword=IG%E5%8F%91%E6%96%87%E5%91%8A%E5%88%ABS15",
           "source": "bilibili 热搜",
@@ -135,17 +149,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时35分 ~ 06时21分]"
-        },
-        {
-          "title": "锐评CFO血洗T1",
-          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84CFO%E8%A1%80%E6%B4%97T1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时04分 ~ 11时05分]"
         }
       ]
     }
