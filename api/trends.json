@@ -1,22 +1,23 @@
 {
-  "generated_at": "2025-10-18T09:41:54.602079+08:00",
-  "total_titles_processed": 781,
+  "generated_at": "2025-10-18T10:59:36.561316+08:00",
+  "total_titles_processed": 856,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "T1决战GEN,粉丝破防骂做签",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345883&amp;topic_name=T1%E5%86%B3%E6%88%98GEN%2C%E7%B2%89%E4%B8%9D%E7%A0%B4%E9%98%B2%E9%AA%82%E5%81%9A%E7%AD%BE",
           "source": "贴吧",
           "ranks": [
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时32分 ~ 09时41分]"
+          "appearance_count": 12,
+          "time_info": "[00时32分 ~ 10时59分]"
         },
         {
           "title": "路转粉!刀狗文森特上身杀穿T1",
@@ -28,6 +29,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时32分 ~ 09时41分]"
+        },
+        {
+          "title": "为什么大家对 T1 的 AD 选手 Gumayusi 评价分歧非常大？",
+          "url": "https://www.zhihu.com/question/1961104283610092849",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时59分"
         },
         {
           "title": "为什么 S15 第一个晋级八强赛的队伍不是 GEN 、 HLE 、 T1 反而是「无人在意」的 KT 战队？",
