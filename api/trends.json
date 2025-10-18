@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-19T03:18:53.735534+08:00",
-  "total_titles_processed": 379,
+  "generated_at": "2025-10-19T04:23:16.407497+08:00",
+  "total_titles_processed": 394,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 03时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 04时23分]"
         },
         {
           "title": "GEN击败T1",
@@ -24,11 +24,12 @@
           "source": "抖音",
           "ranks": [
             4,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 03时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 04时23分]"
         },
         {
           "title": "S15 GEN战胜T1",
@@ -39,8 +40,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 03时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 04时23分]"
         },
         {
           "title": "S15 瑞士轮 GEN 1:0 T1，如何评价这场比赛？",
@@ -49,22 +50,12 @@
           "ranks": [
             9,
             4,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 03时18分]"
-        },
-        {
-          "title": "逆版本BP?T1这波血崩不冤",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345926&amp;topic_name=%E9%80%86%E7%89%88%E6%9C%ACBP%3FT1%E8%BF%99%E6%B3%A2%E8%A1%80%E5%B4%A9%E4%B8%8D%E5%86%A4",
-          "source": "贴吧",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 03时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 04时23分]"
         },
         {
           "title": "锐评T1为何不敌GEN",
@@ -74,11 +65,23 @@
             13,
             17,
             15,
-            14
+            14,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 03时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 04时23分]"
+        },
+        {
+          "title": "逆版本BP?T1这波血崩不冤",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345926&amp;topic_name=%E9%80%86%E7%89%88%E6%9C%ACBP%3FT1%E8%BF%99%E6%B3%A2%E8%A1%80%E5%B4%A9%E4%B8%8D%E5%86%A4",
+          "source": "贴吧",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 04时23分]"
         },
         {
           "title": "Crisp给BLG抽个T1吧",
@@ -87,11 +90,12 @@
           "ranks": [
             23,
             22,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 03时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 04时23分]"
         }
       ]
     }
