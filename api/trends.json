@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-18T15:21:53.518165+08:00",
-  "total_titles_processed": 1133,
+  "generated_at": "2025-10-18T16:31:12.570498+08:00",
+  "total_titles_processed": 1198,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "T1决战GEN,粉丝破防骂做签",
@@ -15,11 +15,12 @@
             11,
             13,
             14,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时32分 ~ 15时21分]"
+          "appearance_count": 20,
+          "time_info": "[00时32分 ~ 16时31分]"
         },
         {
           "title": "路转粉!刀狗文森特上身杀穿T1",
@@ -57,6 +58,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时59分 ~ 12时26分]"
+        },
+        {
+          "title": "GENG对阵T1",
+          "url": "https://www.douyin.com/hot/2274407",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时30分 ~ 16时31分]"
         },
         {
           "title": "陈天桥用AIGC亲诉脑科学科普",
