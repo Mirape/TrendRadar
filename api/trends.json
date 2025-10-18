@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-19T00:28:38.581691+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-10-19T01:21:36.625396+08:00",
+  "total_titles_processed": 337,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时21分]"
         },
         {
           "title": "GEN击败T1",
@@ -26,8 +26,32 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时21分]"
+        },
+        {
+          "title": "S15 瑞士轮 GEN 1:0 T1，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/1962928281826362952",
+          "source": "知乎",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时21分]"
+        },
+        {
+          "title": "S15 GEN战胜T1",
+          "url": "https://search.bilibili.com/all?keyword=GEN%20T1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时21分]"
         },
         {
           "title": "逆版本BP?T1这波血崩不冤",
@@ -37,52 +61,32 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
-        },
-        {
-          "title": "S15 瑞士轮 GEN 1:0 T1，如何评价这场比赛？",
-          "url": "https://www.zhihu.com/question/1962928281826362952",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
-        },
-        {
-          "title": "S15 GEN战胜T1",
-          "url": "https://search.bilibili.com/all?keyword=GEN%20T1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时21分]"
         },
         {
           "title": "锐评T1为何不敌GEN",
           "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84T1%E4%B8%BA%E4%BD%95%E4%B8%8D%E6%95%8CGEN",
           "source": "bilibili 热搜",
           "ranks": [
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时21分]"
         },
         {
           "title": "Crisp给BLG抽个T1吧",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23Crisp%E7%BB%99BLG%E6%8A%BD%E4%B8%AAT1%E5%90%A7%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26realpos%3D23%26band_rank%3D23%26lcate%3D5001%26q%3D%2523Crisp%25E7%25BB%2599BLG%25E6%258A%25BD%25E4%25B8%25AAT1%25E5%2590%25A7%2523%26stream_entry_id%3D31%26flag%3D1%26dgr%3D0%26pos%3D22%26cate%3D5001%26filter_type%3Drealtimehot%26display_time%3D1760804417%26pre_seqid%3D176080441730903621229145",
           "source": "微博",
           "ranks": [
-            23
+            23,
+            22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时21分]"
         }
       ]
     }
