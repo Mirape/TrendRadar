@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-18T22:21:03.032456+08:00",
-  "total_titles_processed": 1536,
+  "generated_at": "2025-10-18T23:22:13.900308+08:00",
+  "total_titles_processed": 1586,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "纯在虐!GEN完爆宿敌T1",
@@ -16,8 +16,49 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时23分 ~ 22时21分]"
+          "appearance_count": 8,
+          "time_info": "[18时23分 ~ 23时22分]"
+        },
+        {
+          "title": "GEN击败T1",
+          "url": "https://www.douyin.com/hot/2274407",
+          "source": "抖音",
+          "ranks": [
+            4,
+            2,
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时23分 ~ 23时22分]"
+        },
+        {
+          "title": "逆版本BP?T1这波血崩不冤",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345926&amp;topic_name=%E9%80%86%E7%89%88%E6%9C%ACBP%3FT1%E8%BF%99%E6%B3%A2%E8%A1%80%E5%B4%A9%E4%B8%8D%E5%86%A4",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时19分 ~ 23时22分]"
+        },
+        {
+          "title": "S15 GEN战胜T1",
+          "url": "https://search.bilibili.com/all?keyword=GEN%20T1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            5,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时23分 ~ 23时22分]"
         },
         {
           "title": "T1决战GEN,粉丝破防骂做签",
@@ -48,47 +89,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时32分 ~ 09时41分]"
-        },
-        {
-          "title": "GEN击败T1",
-          "url": "https://www.douyin.com/hot/2274407",
-          "source": "抖音",
-          "ranks": [
-            4,
-            2,
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时23分 ~ 22时21分]"
-        },
-        {
-          "title": "逆版本BP?T1这波血崩不冤",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345926&amp;topic_name=%E9%80%86%E7%89%88%E6%9C%ACBP%3FT1%E8%BF%99%E6%B3%A2%E8%A1%80%E5%B4%A9%E4%B8%8D%E5%86%A4",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时19分 ~ 22时21分]"
-        },
-        {
-          "title": "S15 GEN战胜T1",
-          "url": "https://search.bilibili.com/all?keyword=GEN%20T1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            5,
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时23分 ~ 22时21分]"
         },
         {
           "title": "GEN战胜T1",
@@ -140,6 +140,18 @@
           "time_info": "[12时26分 ~ 15时21分]"
         },
         {
+          "title": "锐评T1为何不敌GEN",
+          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84T1%E4%B8%BA%E4%BD%95%E4%B8%8D%E6%95%8CGEN",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时20分 ~ 23时22分]"
+        },
+        {
           "title": "为什么大家对 T1 的 AD 选手 Gumayusi 评价分歧非常大？",
           "url": "https://www.zhihu.com/question/1961104283610092849",
           "source": "知乎",
@@ -161,6 +173,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时30分 ~ 16时31分]"
+        },
+        {
+          "title": "S15 瑞士轮 GEN 1:0 T1，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/1962928281826362952",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时21分 ~ 23时22分]"
         },
         {
           "title": "陈天桥用AIGC亲诉脑科学科普",
@@ -197,17 +220,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时23分 ~ 19时19分]"
-        },
-        {
-          "title": "锐评T1为何不敌GEN",
-          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84T1%E4%B8%BA%E4%BD%95%E4%B8%8D%E6%95%8CGEN",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时20分 ~ 22时21分]"
         },
         {
           "title": "英雄联盟",
