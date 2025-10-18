@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-18T14:31:50.789401+08:00",
-  "total_titles_processed": 1093,
+  "generated_at": "2025-10-18T15:21:53.518165+08:00",
+  "total_titles_processed": 1133,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时32分 ~ 14时31分]"
+          "appearance_count": 18,
+          "time_info": "[00时32分 ~ 15时21分]"
         },
         {
           "title": "路转粉!刀狗文森特上身杀穿T1",
@@ -33,6 +33,20 @@
           "time_info": "[00时32分 ~ 09时41分]"
         },
         {
+          "title": "苹果公司CEO库克：Apple Intelligence正在努力进入中国市场",
+          "url": "https://wallstreetcn.com/livenews/2989997",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            14,
+            17,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时26分 ~ 15时21分]"
+        },
+        {
           "title": "为什么大家对 T1 的 AD 选手 Gumayusi 评价分歧非常大？",
           "url": "https://www.zhihu.com/question/1961104283610092849",
           "source": "知乎",
@@ -43,19 +57,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时59分 ~ 12时26分]"
-        },
-        {
-          "title": "苹果公司CEO库克：Apple Intelligence正在努力进入中国市场",
-          "url": "https://wallstreetcn.com/livenews/2989997",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            14,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时26分 ~ 14时31分]"
         },
         {
           "title": "陈天桥用AIGC亲诉脑科学科普",
