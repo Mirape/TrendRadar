@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-19T05:20:25.601831+08:00",
-  "total_titles_processed": 403,
+  "generated_at": "2025-10-19T06:21:51.130189+08:00",
+  "total_titles_processed": 406,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 05时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时28分 ~ 06时21分]"
         },
         {
           "title": "GEN击败T1",
@@ -29,8 +29,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 05时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时28分 ~ 06时21分]"
         },
         {
           "title": "S15 GEN战胜T1",
@@ -42,8 +42,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 05时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时28分 ~ 06时21分]"
         },
         {
           "title": "锐评T1为何不敌GEN",
@@ -57,8 +57,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 05时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时28分 ~ 06时21分]"
+        },
+        {
+          "title": "逆版本BP?T1这波血崩不冤",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345926&amp;topic_name=%E9%80%86%E7%89%88%E6%9C%ACBP%3FT1%E8%BF%99%E6%B3%A2%E8%A1%80%E5%B4%A9%E4%B8%8D%E5%86%A4",
+          "source": "贴吧",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时28分 ~ 06时21分]"
         },
         {
           "title": "S15 瑞士轮 GEN 1:0 T1，如何评价这场比赛？",
@@ -73,17 +84,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时28分 ~ 04时23分]"
-        },
-        {
-          "title": "逆版本BP?T1这波血崩不冤",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345926&amp;topic_name=%E9%80%86%E7%89%88%E6%9C%ACBP%3FT1%E8%BF%99%E6%B3%A2%E8%A1%80%E5%B4%A9%E4%B8%8D%E5%86%A4",
-          "source": "贴吧",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 05时20分]"
         },
         {
           "title": "Crisp给BLG抽个T1吧",
