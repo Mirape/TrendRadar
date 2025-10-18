@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-19T02:31:46.783069+08:00",
-  "total_titles_processed": 363,
+  "generated_at": "2025-10-19T03:18:53.735534+08:00",
+  "total_titles_processed": 379,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 02时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 03时18分]"
         },
         {
           "title": "GEN击败T1",
@@ -27,20 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 02时31分]"
-        },
-        {
-          "title": "S15 瑞士轮 GEN 1:0 T1，如何评价这场比赛？",
-          "url": "https://www.zhihu.com/question/1962928281826362952",
-          "source": "知乎",
-          "ranks": [
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 02时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 03时18分]"
         },
         {
           "title": "S15 GEN战胜T1",
@@ -51,8 +39,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 02时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 03时18分]"
+        },
+        {
+          "title": "S15 瑞士轮 GEN 1:0 T1，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/1962928281826362952",
+          "source": "知乎",
+          "ranks": [
+            9,
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 03时18分]"
         },
         {
           "title": "逆版本BP?T1这波血崩不冤",
@@ -62,8 +63,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 02时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 03时18分]"
         },
         {
           "title": "锐评T1为何不敌GEN",
@@ -72,11 +73,12 @@
           "ranks": [
             13,
             17,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 02时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 03时18分]"
         },
         {
           "title": "Crisp给BLG抽个T1吧",
@@ -84,11 +86,12 @@
           "source": "微博",
           "ranks": [
             23,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 02时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 03时18分]"
         }
       ]
     }
