@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-18T13:21:31.015938+08:00",
-  "total_titles_processed": 1025,
+  "generated_at": "2025-10-18T14:31:50.789401+08:00",
+  "total_titles_processed": 1093,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时32分 ~ 13时21分]"
+          "appearance_count": 17,
+          "time_info": "[00时32分 ~ 14时31分]"
         },
         {
           "title": "路转粉!刀狗文森特上身杀穿T1",
@@ -50,22 +50,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时26分 ~ 13时21分]"
+          "appearance_count": 3,
+          "time_info": "[12时26分 ~ 14时31分]"
         },
         {
           "title": "陈天桥用AIGC亲诉脑科学科普",
           "url": "https://search.bilibili.com/all?keyword=%E9%99%88%E5%A4%A9%E6%A1%A5%E7%94%A8AIGC%E4%BA%B2%E8%AF%89%E8%84%91%E7%A7%91%E5%AD%A6%E7%A7%91%E6%99%AE",
           "source": "bilibili 热搜",
           "ranks": [
-            9
+            9,
+            29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时26分"
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 14时31分]"
         },
         {
           "title": "为什么 S15 第一个晋级八强赛的队伍不是 GEN 、 HLE 、 T1 反而是「无人在意」的 KT 战队？",
