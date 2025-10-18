@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-19T01:21:36.625396+08:00",
-  "total_titles_processed": 337,
+  "generated_at": "2025-10-19T02:31:46.783069+08:00",
+  "total_titles_processed": 363,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 02时31分]"
         },
         {
           "title": "GEN击败T1",
           "url": "https://www.douyin.com/hot/2274407",
           "source": "抖音",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 02时31分]"
         },
         {
           "title": "S15 瑞士轮 GEN 1:0 T1，如何评价这场比赛？",
@@ -38,8 +39,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 02时31分]"
         },
         {
           "title": "S15 GEN战胜T1",
@@ -50,8 +51,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 02时31分]"
         },
         {
           "title": "逆版本BP?T1这波血崩不冤",
@@ -61,8 +62,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 02时31分]"
         },
         {
           "title": "锐评T1为何不敌GEN",
@@ -70,11 +71,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             13,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 02时31分]"
         },
         {
           "title": "Crisp给BLG抽个T1吧",
@@ -85,8 +87,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 02时31分]"
         }
       ]
     }
