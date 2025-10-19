@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-19T07:22:30.353844+08:00",
-  "total_titles_processed": 415,
+  "generated_at": "2025-10-19T09:57:03.503642+08:00",
+  "total_titles_processed": 541,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,24 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时28分 ~ 07时22分]"
+          "appearance_count": 10,
+          "time_info": "[00时28分 ~ 09时57分]"
+        },
+        {
+          "title": "锐评T1为何不敌GEN",
+          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84T1%E4%B8%BA%E4%BD%95%E4%B8%8D%E6%95%8CGEN",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            17,
+            15,
+            14,
+            3,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时28分 ~ 09时57分]"
         },
         {
           "title": "GEN击败T1",
@@ -33,6 +49,17 @@
           "time_info": "[00时28分 ~ 07时22分]"
         },
         {
+          "title": "逆版本BP?T1这波血崩不冤",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345926&amp;topic_name=%E9%80%86%E7%89%88%E6%9C%ACBP%3FT1%E8%BF%99%E6%B3%A2%E8%A1%80%E5%B4%A9%E4%B8%8D%E5%86%A4",
+          "source": "贴吧",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时28分 ~ 09时57分]"
+        },
+        {
           "title": "S15 GEN战胜T1",
           "url": "https://search.bilibili.com/all?keyword=GEN%20T1",
           "source": "bilibili 热搜",
@@ -40,32 +67,6 @@
             12,
             5,
             7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时28分 ~ 07时22分]"
-        },
-        {
-          "title": "锐评T1为何不敌GEN",
-          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84T1%E4%B8%BA%E4%BD%95%E4%B8%8D%E6%95%8CGEN",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            17,
-            15,
-            14,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时28分 ~ 07时22分]"
-        },
-        {
-          "title": "逆版本BP?T1这波血崩不冤",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345926&amp;topic_name=%E9%80%86%E7%89%88%E6%9C%ACBP%3FT1%E8%BF%99%E6%B3%A2%E8%A1%80%E5%B4%A9%E4%B8%8D%E5%86%A4",
-          "source": "贴吧",
-          "ranks": [
-            9
           ],
           "is_new": false,
           "appearance_count": 8,
