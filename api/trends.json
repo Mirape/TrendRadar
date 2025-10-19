@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-10-19T17:21:57.873781+08:00",
-  "total_titles_processed": 943,
+  "generated_at": "2025-10-19T18:22:01.705116+08:00",
+  "total_titles_processed": 1013,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
       "match_count": 12,
       "titles": [
+        {
+          "title": "能相信吗?左手欲与T1死战",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345936&amp;topic_name=%E8%83%BD%E7%9B%B8%E4%BF%A1%E5%90%97%3F%E5%B7%A6%E6%89%8B%E6%AC%B2%E4%B8%8ET1%E6%AD%BB%E6%88%98",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时24分 ~ 18时22分]"
+        },
         {
           "title": "纯在虐!GEN完爆宿敌T1",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345925&amp;topic_name=%E7%BA%AF%E5%9C%A8%E8%99%90%21GEN%E5%AE%8C%E7%88%86%E5%AE%BF%E6%95%8CT1",
@@ -17,8 +29,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时28分 ~ 17时21分]"
+          "appearance_count": 20,
+          "time_info": "[00时28分 ~ 18时22分]"
         },
         {
           "title": "S15 GEN战胜T1",
@@ -32,18 +44,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时28分 ~ 13时24分]"
-        },
-        {
-          "title": "能相信吗?左手欲与T1死战",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345936&amp;topic_name=%E8%83%BD%E7%9B%B8%E4%BF%A1%E5%90%97%3F%E5%B7%A6%E6%89%8B%E6%AC%B2%E4%B8%8ET1%E6%AD%BB%E6%88%98",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时24分 ~ 17时21分]"
         },
         {
           "title": "GEN击败T1",
@@ -92,8 +92,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时28分 ~ 17时21分]"
+          "appearance_count": 20,
+          "time_info": "[00时28分 ~ 18时22分]"
         },
         {
           "title": "贝莱德、英伟达等牵头组成财团，400 亿美元收购 Aligned，如何看待这笔史上最大数据中心交易 ？",
@@ -106,8 +106,23 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时21分 ~ 17时21分]"
+          "appearance_count": 10,
+          "time_info": "[11时21分 ~ 18时22分]"
+        },
+        {
+          "title": "Knight深夜发文",
+          "url": "https://search.bilibili.com/all?keyword=Knight%E6%B7%B1%E5%A4%9C%E5%8F%91%E6%96%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24,
+            22,
+            30,
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时24分 ~ 18时22分]"
         },
         {
           "title": "S15 瑞士轮 GEN 1:0 T1，如何评价这场比赛？",
@@ -122,20 +137,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时28分 ~ 04时23分]"
-        },
-        {
-          "title": "Knight深夜发文",
-          "url": "https://search.bilibili.com/all?keyword=Knight%E6%B7%B1%E5%A4%9C%E5%8F%91%E6%96%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24,
-            22,
-            30,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时24分 ~ 17时21分]"
         },
         {
           "title": "Crisp给BLG抽个T1吧",
