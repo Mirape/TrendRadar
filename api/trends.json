@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-19T16:28:29.406200+08:00",
-  "total_titles_processed": 888,
+  "generated_at": "2025-10-19T17:21:57.873781+08:00",
+  "total_titles_processed": 943,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             2,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时28分 ~ 16时28分]"
+          "appearance_count": 18,
+          "time_info": "[00时28分 ~ 17时21分]"
         },
         {
           "title": "S15 GEN战胜T1",
@@ -31,6 +32,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时28分 ~ 13时24分]"
+        },
+        {
+          "title": "能相信吗?左手欲与T1死战",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345936&amp;topic_name=%E8%83%BD%E7%9B%B8%E4%BF%A1%E5%90%97%3F%E5%B7%A6%E6%89%8B%E6%AC%B2%E4%B8%8ET1%E6%AD%BB%E6%88%98",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时24分 ~ 17时21分]"
         },
         {
           "title": "GEN击败T1",
@@ -75,23 +88,12 @@
             9,
             10,
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时28分 ~ 16时28分]"
-        },
-        {
-          "title": "能相信吗?左手欲与T1死战",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345936&amp;topic_name=%E8%83%BD%E7%9B%B8%E4%BF%A1%E5%90%97%3F%E5%B7%A6%E6%89%8B%E6%AC%B2%E4%B8%8ET1%E6%AD%BB%E6%88%98",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时24分 ~ 16时28分]"
+          "appearance_count": 18,
+          "time_info": "[00时28分 ~ 17时21分]"
         },
         {
           "title": "贝莱德、英伟达等牵头组成财团，400 亿美元收购 Aligned，如何看待这笔史上最大数据中心交易 ？",
@@ -104,8 +106,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时21分 ~ 16时28分]"
+          "appearance_count": 8,
+          "time_info": "[11时21分 ~ 17时21分]"
         },
         {
           "title": "S15 瑞士轮 GEN 1:0 T1，如何评价这场比赛？",
@@ -122,6 +124,20 @@
           "time_info": "[00时28分 ~ 04时23分]"
         },
         {
+          "title": "Knight深夜发文",
+          "url": "https://search.bilibili.com/all?keyword=Knight%E6%B7%B1%E5%A4%9C%E5%8F%91%E6%96%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24,
+            22,
+            30,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时24分 ~ 17时21分]"
+        },
+        {
           "title": "Crisp给BLG抽个T1吧",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23Crisp%E7%BB%99BLG%E6%8A%BD%E4%B8%AAT1%E5%90%A7%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26realpos%3D23%26band_rank%3D23%26lcate%3D5001%26q%3D%2523Crisp%25E7%25BB%2599BLG%25E6%258A%25BD%25E4%25B8%25AAT1%25E5%2590%25A7%2523%26stream_entry_id%3D31%26flag%3D1%26dgr%3D0%26pos%3D22%26cate%3D5001%26filter_type%3Drealtimehot%26display_time%3D1760804417%26pre_seqid%3D176080441730903621229145",
           "source": "微博",
@@ -136,26 +152,13 @@
           "time_info": "[00时28分 ~ 04时23分]"
         },
         {
-          "title": "Knight深夜发文",
-          "url": "https://search.bilibili.com/all?keyword=Knight%E6%B7%B1%E5%A4%9C%E5%8F%91%E6%96%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24,
-            22,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时24分 ~ 16时28分]"
-        },
-        {
           "title": "Knight称抽T1挺好的",
           "url": "https://search.bilibili.com/all?keyword=Knight%E7%A7%B0%E6%8A%BDT1%E6%8C%BA%E5%A5%BD%E7%9A%84",
           "source": "bilibili 热搜",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         },
