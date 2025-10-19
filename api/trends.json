@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-19T11:21:30.266927+08:00",
-  "total_titles_processed": 621,
+  "generated_at": "2025-10-19T12:29:27.842713+08:00",
+  "total_titles_processed": 687,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 11时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 12时29分]"
         },
         {
           "title": "GEN击败T1",
@@ -34,6 +34,19 @@
           "time_info": "[00时28分 ~ 11时21分]"
         },
         {
+          "title": "S15 GEN战胜T1",
+          "url": "https://search.bilibili.com/all?keyword=GEN%20T1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时28分 ~ 12时29分]"
+        },
+        {
           "title": "锐评T1为何不敌GEN",
           "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84T1%E4%B8%BA%E4%BD%95%E4%B8%8D%E6%95%8CGEN",
           "source": "bilibili 热搜",
@@ -44,11 +57,12 @@
             14,
             3,
             18,
-            16
+            16,
+            23
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 11时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 12时29分]"
         },
         {
           "title": "逆版本BP?T1这波血崩不冤",
@@ -56,24 +70,12 @@
           "source": "贴吧",
           "ranks": [
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 11时21分]"
-        },
-        {
-          "title": "S15 GEN战胜T1",
-          "url": "https://search.bilibili.com/all?keyword=GEN%20T1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时28分 ~ 07时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 12时29分]"
         },
         {
           "title": "S15 瑞士轮 GEN 1:0 T1，如何评价这场比赛？",
@@ -110,9 +112,9 @@
           "ranks": [
             17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时21分 ~ 12时29分]"
         },
         {
           "title": "Knight想和T1瑞士轮交手",
@@ -121,7 +123,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
         }
