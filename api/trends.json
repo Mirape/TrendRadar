@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-19T21:26:44.373864+08:00",
-  "total_titles_processed": 1206,
+  "generated_at": "2025-10-19T22:21:11.808714+08:00",
+  "total_titles_processed": 1253,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             3,
             1,
-            2
+            2,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时24分 ~ 21时26分]"
+          "appearance_count": 13,
+          "time_info": "[13时24分 ~ 22时21分]"
         },
         {
           "title": "S15 GEN战胜T1",
@@ -58,11 +59,12 @@
             10,
             14,
             15,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时28分 ~ 21时26分]"
+          "appearance_count": 25,
+          "time_info": "[00时28分 ~ 22时21分]"
         },
         {
           "title": "锐评T1为何不敌GEN",
@@ -96,11 +98,12 @@
             13,
             17,
             18,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时28分 ~ 21时26分]"
+          "appearance_count": 25,
+          "time_info": "[00时28分 ~ 22时21分]"
         },
         {
           "title": "贝莱德、英伟达等牵头组成财团，400 亿美元收购 Aligned，如何看待这笔史上最大数据中心交易 ？",
@@ -114,8 +117,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时21分 ~ 21时26分]"
+          "appearance_count": 15,
+          "time_info": "[11时21分 ~ 22时21分]"
         },
         {
           "title": "Knight深夜发文",
@@ -128,11 +131,12 @@
             20,
             19,
             25,
-            29
+            29,
+            26
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时24分 ~ 21时26分]"
+          "appearance_count": 12,
+          "time_info": "[13时24分 ~ 22时21分]"
         },
         {
           "title": "S15 瑞士轮 GEN 1:0 T1，如何评价这场比赛？",
