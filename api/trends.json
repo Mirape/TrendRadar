@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-19T15:21:12.262329+08:00",
-  "total_titles_processed": 834,
+  "generated_at": "2025-10-19T16:28:29.406200+08:00",
+  "total_titles_processed": 888,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "纯在虐!GEN完爆宿敌T1",
@@ -16,8 +16,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时28分 ~ 15时21分]"
+          "appearance_count": 17,
+          "time_info": "[00时28分 ~ 16时28分]"
         },
         {
           "title": "S15 GEN战胜T1",
@@ -78,8 +78,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时28分 ~ 15时21分]"
+          "appearance_count": 17,
+          "time_info": "[00时28分 ~ 16时28分]"
         },
         {
           "title": "能相信吗?左手欲与T1死战",
@@ -90,8 +90,22 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时24分 ~ 15时21分]"
+          "appearance_count": 5,
+          "time_info": "[13时24分 ~ 16时28分]"
+        },
+        {
+          "title": "贝莱德、英伟达等牵头组成财团，400 亿美元收购 Aligned，如何看待这笔史上最大数据中心交易 ？",
+          "url": "https://www.zhihu.com/question/1962101109016457762",
+          "source": "知乎",
+          "ranks": [
+            17,
+            14,
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时21分 ~ 16时28分]"
         },
         {
           "title": "S15 瑞士轮 GEN 1:0 T1，如何评价这场比赛？",
@@ -106,19 +120,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时28分 ~ 04时23分]"
-        },
-        {
-          "title": "贝莱德、英伟达等牵头组成财团，400 亿美元收购 Aligned，如何看待这笔史上最大数据中心交易 ？",
-          "url": "https://www.zhihu.com/question/1962101109016457762",
-          "source": "知乎",
-          "ranks": [
-            17,
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时21分 ~ 15时21分]"
         },
         {
           "title": "Crisp给BLG抽个T1吧",
@@ -144,8 +145,19 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时24分 ~ 15时21分]"
+          "appearance_count": 4,
+          "time_info": "[13时24分 ~ 16时28分]"
+        },
+        {
+          "title": "Knight称抽T1挺好的",
+          "url": "https://search.bilibili.com/all?keyword=Knight%E7%A7%B0%E6%8A%BDT1%E6%8C%BA%E5%A5%BD%E7%9A%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
         },
         {
           "title": "Knight想和T1瑞士轮交手",
