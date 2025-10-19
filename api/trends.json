@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-19T18:22:01.705116+08:00",
-  "total_titles_processed": 1013,
+  "generated_at": "2025-10-19T19:19:21.792434+08:00",
+  "total_titles_processed": 1071,
   "failed_sources": [],
   "trends": [
     {
@@ -16,21 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时24分 ~ 18时22分]"
-        },
-        {
-          "title": "纯在虐!GEN完爆宿敌T1",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345925&amp;topic_name=%E7%BA%AF%E5%9C%A8%E8%99%90%21GEN%E5%AE%8C%E7%88%86%E5%AE%BF%E6%95%8CT1",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时28分 ~ 18时22分]"
+          "appearance_count": 9,
+          "time_info": "[13时24分 ~ 19时19分]"
         },
         {
           "title": "S15 GEN战胜T1",
@@ -44,6 +31,20 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时28分 ~ 13时24分]"
+        },
+        {
+          "title": "纯在虐!GEN完爆宿敌T1",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345925&amp;topic_name=%E7%BA%AF%E5%9C%A8%E8%99%90%21GEN%E5%AE%8C%E7%88%86%E5%AE%BF%E6%95%8CT1",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            9,
+            10,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 21,
+          "time_info": "[00时28分 ~ 19时19分]"
         },
         {
           "title": "GEN击败T1",
@@ -89,11 +90,12 @@
             10,
             11,
             12,
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时28分 ~ 18时22分]"
+          "appearance_count": 21,
+          "time_info": "[00时28分 ~ 19时19分]"
         },
         {
           "title": "贝莱德、英伟达等牵头组成财团，400 亿美元收购 Aligned，如何看待这笔史上最大数据中心交易 ？",
@@ -106,8 +108,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时21分 ~ 18时22分]"
+          "appearance_count": 11,
+          "time_info": "[11时21分 ~ 19时19分]"
         },
         {
           "title": "Knight深夜发文",
@@ -121,8 +123,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时24分 ~ 18时22分]"
+          "appearance_count": 8,
+          "time_info": "[13时24分 ~ 19时19分]"
         },
         {
           "title": "S15 瑞士轮 GEN 1:0 T1，如何评价这场比赛？",
