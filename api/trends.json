@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-19T19:19:21.792434+08:00",
-  "total_titles_processed": 1071,
+  "generated_at": "2025-10-19T20:43:52.646276+08:00",
+  "total_titles_processed": 1160,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             3,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时24分 ~ 19时19分]"
+          "appearance_count": 10,
+          "time_info": "[13时24分 ~ 20时43分]"
         },
         {
           "title": "S15 GEN战胜T1",
@@ -40,11 +41,12 @@
             2,
             9,
             10,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时28分 ~ 19时19分]"
+          "appearance_count": 22,
+          "time_info": "[00时28分 ~ 20时43分]"
         },
         {
           "title": "GEN击败T1",
@@ -91,11 +93,12 @@
             11,
             12,
             13,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时28分 ~ 19时19分]"
+          "appearance_count": 22,
+          "time_info": "[00时28分 ~ 20时43分]"
         },
         {
           "title": "贝莱德、英伟达等牵头组成财团，400 亿美元收购 Aligned，如何看待这笔史上最大数据中心交易 ？",
@@ -105,11 +108,12 @@
             17,
             14,
             16,
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时21分 ~ 19时19分]"
+          "appearance_count": 12,
+          "time_info": "[11时21分 ~ 20时43分]"
         },
         {
           "title": "Knight深夜发文",
@@ -120,11 +124,12 @@
             22,
             30,
             20,
-            19
+            19,
+            25
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时24分 ~ 19时19分]"
+          "appearance_count": 9,
+          "time_info": "[13时24分 ~ 20时43分]"
         },
         {
           "title": "S15 瑞士轮 GEN 1:0 T1，如何评价这场比赛？",
