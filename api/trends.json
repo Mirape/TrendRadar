@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-20T03:19:48.740940+08:00",
-  "total_titles_processed": 374,
+  "generated_at": "2025-10-20T04:25:41.955488+08:00",
+  "total_titles_processed": 394,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             1,
             2,
             3,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 03时19分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 04时25分]"
         },
         {
           "title": "能相信吗?左手欲与T1死战",
@@ -29,8 +30,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 03时19分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 04时25分]"
         },
         {
           "title": "贝莱德、英伟达等牵头组成财团，400 亿美元收购 Aligned，如何看待这笔史上最大数据中心交易 ？",
@@ -42,8 +43,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 03时19分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 04时25分]"
         },
         {
           "title": "纯在虐!GEN完爆宿敌T1",
@@ -53,8 +54,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 03时19分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 04时25分]"
         },
         {
           "title": "逆版本BP?T1这波血崩不冤",
@@ -64,8 +65,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 03时19分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 04时25分]"
         }
       ]
     }
