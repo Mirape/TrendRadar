@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-19T22:21:11.808714+08:00",
-  "total_titles_processed": 1253,
+  "generated_at": "2025-10-19T23:22:06.617671+08:00",
+  "total_titles_processed": 1332,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             3,
             1,
             2,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[13时24分 ~ 22时21分]"
+          "appearance_count": 15,
+          "time_info": "[13时24分 ~ 23时22分]"
         },
         {
           "title": "S15 GEN战胜T1",
@@ -60,11 +61,12 @@
             14,
             15,
             16,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时28分 ~ 22时21分]"
+          "appearance_count": 27,
+          "time_info": "[00时28分 ~ 23时22分]"
         },
         {
           "title": "锐评T1为何不敌GEN",
@@ -102,8 +104,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时28分 ~ 22时21分]"
+          "appearance_count": 27,
+          "time_info": "[00时28分 ~ 23时22分]"
         },
         {
           "title": "贝莱德、英伟达等牵头组成财团，400 亿美元收购 Aligned，如何看待这笔史上最大数据中心交易 ？",
@@ -117,8 +119,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时21分 ~ 22时21分]"
+          "appearance_count": 17,
+          "time_info": "[11时21分 ~ 23时22分]"
         },
         {
           "title": "Knight深夜发文",
@@ -132,11 +134,12 @@
             19,
             25,
             29,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时24分 ~ 22时21分]"
+          "appearance_count": 14,
+          "time_info": "[13时24分 ~ 23时22分]"
         },
         {
           "title": "S15 瑞士轮 GEN 1:0 T1，如何评价这场比赛？",
