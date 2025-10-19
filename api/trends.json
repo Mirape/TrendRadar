@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-19T12:29:27.842713+08:00",
-  "total_titles_processed": 687,
+  "generated_at": "2025-10-19T13:24:33.963821+08:00",
+  "total_titles_processed": 733,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "纯在虐!GEN完爆宿敌T1",
@@ -15,8 +15,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时28分 ~ 12时29分]"
+          "appearance_count": 13,
+          "time_info": "[00时28分 ~ 13时24分]"
+        },
+        {
+          "title": "S15 GEN战胜T1",
+          "url": "https://search.bilibili.com/all?keyword=GEN%20T1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时28分 ~ 13时24分]"
         },
         {
           "title": "GEN击败T1",
@@ -34,19 +47,6 @@
           "time_info": "[00时28分 ~ 11时21分]"
         },
         {
-          "title": "S15 GEN战胜T1",
-          "url": "https://search.bilibili.com/all?keyword=GEN%20T1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 12时29分]"
-        },
-        {
           "title": "锐评T1为何不敌GEN",
           "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84T1%E4%B8%BA%E4%BD%95%E4%B8%8D%E6%95%8CGEN",
           "source": "bilibili 热搜",
@@ -58,11 +58,12 @@
             3,
             18,
             16,
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时28分 ~ 12时29分]"
+          "appearance_count": 13,
+          "time_info": "[00时28分 ~ 13时24分]"
         },
         {
           "title": "逆版本BP?T1这波血崩不冤",
@@ -71,11 +72,12 @@
           "ranks": [
             9,
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时28分 ~ 12时29分]"
+          "appearance_count": 13,
+          "time_info": "[00时28分 ~ 13时24分]"
         },
         {
           "title": "S15 瑞士轮 GEN 1:0 T1，如何评价这场比赛？",
@@ -90,6 +92,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时28分 ~ 04时23分]"
+        },
+        {
+          "title": "能相信吗?左手欲与T1死战",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345936&amp;topic_name=%E8%83%BD%E7%9B%B8%E4%BF%A1%E5%90%97%3F%E5%B7%A6%E6%89%8B%E6%AC%B2%E4%B8%8ET1%E6%AD%BB%E6%88%98",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
         },
         {
           "title": "Crisp给BLG抽个T1吧",
@@ -110,11 +123,23 @@
           "url": "https://www.zhihu.com/question/1962101109016457762",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时21分 ~ 12时29分]"
+          "appearance_count": 3,
+          "time_info": "[11时21分 ~ 13时24分]"
+        },
+        {
+          "title": "Knight深夜发文",
+          "url": "https://search.bilibili.com/all?keyword=Knight%E6%B7%B1%E5%A4%9C%E5%8F%91%E6%96%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
         },
         {
           "title": "Knight想和T1瑞士轮交手",
