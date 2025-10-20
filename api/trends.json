@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-20T09:55:52.650343+08:00",
-  "total_titles_processed": 628,
+  "generated_at": "2025-10-20T11:20:57.672901+08:00",
+  "total_titles_processed": 767,
   "failed_sources": [],
   "trends": [
     {
@@ -12,33 +12,36 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345936&amp;topic_name=%E8%83%BD%E7%9B%B8%E4%BF%A1%E5%90%97%3F%E5%B7%A6%E6%89%8B%E6%AC%B2%E4%B8%8ET1%E6%AD%BB%E6%88%98",
           "source": "贴吧",
           "ranks": [
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 09时55分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 11时20分]"
         },
         {
           "title": "纯在虐!GEN完爆宿敌T1",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345925&amp;topic_name=%E7%BA%AF%E5%9C%A8%E8%99%90%21GEN%E5%AE%8C%E7%88%86%E5%AE%BF%E6%95%8CT1",
           "source": "贴吧",
           "ranks": [
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 09时55分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 11时20分]"
         },
         {
           "title": "逆版本BP?T1这波血崩不冤",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345926&amp;topic_name=%E9%80%86%E7%89%88%E6%9C%ACBP%3FT1%E8%BF%99%E6%B3%A2%E8%A1%80%E5%B4%A9%E4%B8%8D%E5%86%A4",
           "source": "贴吧",
           "ranks": [
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 09时55分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 11时20分]"
         },
         {
           "title": "英国绿党宣布，成为该国第三大政党，仅次于首相斯塔默所属工党和Nigel Farage的Reform UK（改革英国），并超越保守党和自由民主党。 声明显示，自从Zack Polanski在9月份当选为党首以来，绿党的成员已经达到12.6万。",
