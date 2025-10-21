@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-21T22:22:53.279062+08:00",
-  "total_titles_processed": 1949,
+  "generated_at": "2025-10-21T23:25:44.108768+08:00",
+  "total_titles_processed": 2029,
   "failed_sources": [],
   "trends": [
     {
@@ -35,6 +35,19 @@
           "time_info": "[00时31分 ~ 06时24分]"
         },
         {
+          "title": "Faker和Keria给历届S赛冠军排名",
+          "url": "https://search.bilibili.com/all?keyword=Faker%E5%92%8CKeria%E7%BB%99%E5%8E%86%E5%B1%8AS%E8%B5%9B%E5%86%A0%E5%86%9B%E6%8E%92%E5%90%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            8,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时51分 ~ 23时25分]"
+        },
+        {
           "title": "通用汽车(GM.N)首席执行官：宣布停止在加拿大工厂生产BrightDrop电动货车。",
           "url": "https://flash.jin10.com/detail/20251021204349922800",
           "source": "金十数据",
@@ -46,28 +59,17 @@
           "time_info": "20时51分"
         },
         {
-          "title": "Faker和Keria给历届S赛冠军排名",
-          "url": "https://search.bilibili.com/all?keyword=Faker%E5%92%8CKeria%E7%BB%99%E5%8E%86%E5%B1%8AS%E8%B5%9B%E5%86%A0%E5%86%9B%E6%8E%92%E5%90%8D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时51分 ~ 22时22分]"
-        },
-        {
           "title": "如何评价 zig 这门编程语言？",
           "url": "https://www.zhihu.com/question/1906141234357077760",
           "source": "知乎",
           "ranks": [
             8,
-            7
+            7,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时51分 ~ 22时22分]"
+          "appearance_count": 4,
+          "time_info": "[20时51分 ~ 23时25分]"
         },
         {
           "title": "AIGC视频如何改变内容行业",
@@ -87,7 +89,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时22分"
         }
