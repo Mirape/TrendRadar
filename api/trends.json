@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-21T19:21:49.079409+08:00",
-  "total_titles_processed": 1668,
+  "generated_at": "2025-10-21T20:51:52.047578+08:00",
+  "total_titles_processed": 1784,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "能相信吗?左手欲与T1死战",
@@ -35,6 +35,17 @@
           "time_info": "[00时31分 ~ 06时24分]"
         },
         {
+          "title": "通用汽车(GM.N)首席执行官：宣布停止在加拿大工厂生产BrightDrop电动货车。",
+          "url": "https://flash.jin10.com/detail/20251021204349922800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
+        },
+        {
           "title": "AIGC视频如何改变内容行业",
           "url": "https://search.bilibili.com/all?keyword=AIGC%E8%A7%86%E9%A2%91%E5%A6%82%E4%BD%95%E6%94%B9%E5%8F%98%E5%86%85%E5%AE%B9%E8%A1%8C%E4%B8%9A",
           "source": "bilibili 热搜",
@@ -44,6 +55,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时34分 ~ 16时35分]"
+        },
+        {
+          "title": "Faker和Keria给历届S赛冠军排名",
+          "url": "https://search.bilibili.com/all?keyword=Faker%E5%92%8CKeria%E7%BB%99%E5%8E%86%E5%B1%8AS%E8%B5%9B%E5%86%A0%E5%86%9B%E6%8E%92%E5%90%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
+        },
+        {
+          "title": "如何评价 zig 这门编程语言？",
+          "url": "https://www.zhihu.com/question/1906141234357077760",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
         }
       ]
     }
