@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-22T02:35:47.653244+08:00",
-  "total_titles_processed": 445,
+  "generated_at": "2025-10-22T03:20:42.343073+08:00",
+  "total_titles_processed": 492,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 02时35分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 03时20分]"
         },
         {
           "title": "如何评价 zig 这门编程语言？",
