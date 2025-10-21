@@ -1,97 +1,33 @@
 {
-  "generated_at": "2025-10-21T23:25:44.108768+08:00",
-  "total_titles_processed": 2029,
+  "generated_at": "2025-10-22T00:32:53.277733+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 7,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "能相信吗?左手欲与T1死战",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345936&amp;topic_name=%E8%83%BD%E7%9B%B8%E4%BF%A1%E5%90%97%3F%E5%B7%A6%E6%89%8B%E6%AC%B2%E4%B8%8ET1%E6%AD%BB%E6%88%98",
-          "source": "贴吧",
-          "ranks": [
-            22,
-            23,
-            25,
-            26,
-            30,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时31分 ~ 14时35分]"
-        },
-        {
-          "title": "纯在虐!GEN完爆宿敌T1",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345925&amp;topic_name=%E7%BA%AF%E5%9C%A8%E8%99%90%21GEN%E5%AE%8C%E7%88%86%E5%AE%BF%E6%95%8CT1",
-          "source": "贴吧",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 06时24分]"
-        },
         {
           "title": "Faker和Keria给历届S赛冠军排名",
           "url": "https://search.bilibili.com/all?keyword=Faker%E5%92%8CKeria%E7%BB%99%E5%8E%86%E5%B1%8AS%E8%B5%9B%E5%86%A0%E5%86%9B%E6%8E%92%E5%90%8D",
           "source": "bilibili 热搜",
           "ranks": [
-            7,
-            8,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时51分 ~ 23时25分]"
-        },
-        {
-          "title": "通用汽车(GM.N)首席执行官：宣布停止在加拿大工厂生产BrightDrop电动货车。",
-          "url": "https://flash.jin10.com/detail/20251021204349922800",
-          "source": "金十数据",
-          "ranks": [
-            2
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时51分"
+          "time_info": "00时32分"
         },
         {
           "title": "如何评价 zig 这门编程语言？",
           "url": "https://www.zhihu.com/question/1906141234357077760",
           "source": "知乎",
           "ranks": [
-            8,
-            7,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时51分 ~ 23时25分]"
-        },
-        {
-          "title": "AIGC视频如何改变内容行业",
-          "url": "https://search.bilibili.com/all?keyword=AIGC%E8%A7%86%E9%A2%91%E5%A6%82%E4%BD%95%E6%94%B9%E5%8F%98%E5%86%85%E5%AE%B9%E8%A1%8C%E4%B8%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时34分 ~ 16时35分]"
-        },
-        {
-          "title": "大众汽车：计划本周暂停Golf、Tiguan车型的生产。",
-          "url": "https://flash.jin10.com/detail/20251021214646663800",
-          "source": "金十数据",
-          "ranks": [
-            24
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时22分"
+          "time_info": "00时32分"
         }
       ]
     }
