@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-21T21:37:21.377656+08:00",
-  "total_titles_processed": 1864,
+  "generated_at": "2025-10-21T22:22:53.279062+08:00",
+  "total_titles_processed": 1949,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "能相信吗?左手欲与T1死战",
@@ -50,11 +50,12 @@
           "url": "https://search.bilibili.com/all?keyword=Faker%E5%92%8CKeria%E7%BB%99%E5%8E%86%E5%B1%8AS%E8%B5%9B%E5%86%A0%E5%86%9B%E6%8E%92%E5%90%8D",
           "source": "bilibili 热搜",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时51分 ~ 21时37分]"
+          "appearance_count": 3,
+          "time_info": "[20时51分 ~ 22时22分]"
         },
         {
           "title": "如何评价 zig 这门编程语言？",
@@ -65,8 +66,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时51分 ~ 21时37分]"
+          "appearance_count": 3,
+          "time_info": "[20时51分 ~ 22时22分]"
         },
         {
           "title": "AIGC视频如何改变内容行业",
@@ -78,6 +79,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时34分 ~ 16时35分]"
+        },
+        {
+          "title": "大众汽车：计划本周暂停Golf、Tiguan车型的生产。",
+          "url": "https://flash.jin10.com/detail/20251021214646663800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         }
       ]
     }
