@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-22T04:29:24.788196+08:00",
-  "total_titles_processed": 538,
+  "generated_at": "2025-10-22T05:21:58.662076+08:00",
+  "total_titles_processed": 591,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "Faker和Keria给历届S赛冠军排名",
@@ -16,8 +16,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 04时29分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 05时21分]"
+        },
+        {
+          "title": "Western Alliance Bancorp三季度净利息收入（NII）为7.504亿美元，分析师预期7.367亿美元。 三季度非利息收入1.878亿美元，分析师预期1.501亿美元。 三季度信用亏损0.8亿美元，分析师预期（亏损）0.424亿美元。 三季度CET1比率为11.3%，分析师预期11.1%。 三季度总体存款772亿美元，分析师预期743.5亿美元。",
+          "url": "https://wallstreetcn.com/livenews/2991411",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
         },
         {
           "title": "如何评价 zig 这门编程语言？",
