@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-21T12:29:28.742944+08:00",
-  "total_titles_processed": 1011,
+  "generated_at": "2025-10-21T13:24:41.430908+08:00",
+  "total_titles_processed": 1091,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             23,
             25,
             26,
-            30
+            30,
+            28
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时31分 ~ 12时29分]"
+          "appearance_count": 14,
+          "time_info": "[00时31分 ~ 13时24分]"
         },
         {
           "title": "纯在虐!GEN完爆宿敌T1",
