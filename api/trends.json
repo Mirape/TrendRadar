@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-23T01:23:23.019420+08:00",
-  "total_titles_processed": 375,
+  "generated_at": "2025-10-23T02:35:42.389679+08:00",
+  "total_titles_processed": 428,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             11,
-            12
+            12,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 01时23分]"
+          "appearance_count": 3,
+          "time_info": "[00时32分 ~ 02时35分]"
         },
         {
           "title": "BLG送T1蜀绣礼物",
@@ -25,11 +26,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             18,
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 01时23分]"
+          "appearance_count": 3,
+          "time_info": "[00时32分 ~ 02时35分]"
         }
       ]
     }
