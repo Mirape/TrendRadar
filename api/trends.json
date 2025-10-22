@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-23T06:20:35.496023+08:00",
-  "total_titles_processed": 615,
+  "generated_at": "2025-10-23T07:21:34.832833+08:00",
+  "total_titles_processed": 660,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             4,
             13,
             7,
-            16
+            16,
+            14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时32分 ~ 06时20分]"
+          "appearance_count": 10,
+          "time_info": "[00时32分 ~ 07时21分]"
         },
         {
           "title": "BLG送T1蜀绣礼物",
@@ -34,8 +35,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时32分 ~ 06时20分]"
+          "appearance_count": 10,
+          "time_info": "[00时32分 ~ 07时21分]"
         },
         {
           "title": "人工智能（AI）概念股Datavault AI跌17.4%，Galaxy Digital跌15.6%，WhiteFiber跌12.3%，Serve Robotics跌11.9%，Rezolve AI跌11.8%，IBM则涨0.9%，达芬奇手术机器人ISRG涨13.4%。 特朗普政府本周推出了一个AI出口计划，鼓励外界购买并采用美国技术。",
