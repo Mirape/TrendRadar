@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-22T22:26:26.249901+08:00",
-  "total_titles_processed": 2057,
+  "generated_at": "2025-10-22T23:25:48.279909+08:00",
+  "total_titles_processed": 2150,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,12 @@
           "url": "https://search.bilibili.com/all?keyword=G2%E6%97%B6%E9%9A%94%E4%BA%94%E5%B9%B4%E9%87%8D%E8%BF%94S%E8%B5%9B%E6%B7%98%E6%B1%B0%E8%B5%9B",
           "source": "bilibili 热搜",
           "ranks": [
-            7
+            7,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时36分 ~ 22时26分]"
+          "appearance_count": 4,
+          "time_info": "[21时36分 ~ 23时25分]"
         },
         {
           "title": "BLG送T1蜀绣礼物",
@@ -41,11 +42,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             16,
-            19
+            19,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时36分 ~ 22时26分]"
+          "appearance_count": 4,
+          "time_info": "[21时36分 ~ 23时25分]"
         },
         {
           "title": "Western Alliance Bancorp三季度净利息收入（NII）为7.504亿美元，分析师预期7.367亿美元。 三季度非利息收入1.878亿美元，分析师预期1.501亿美元。 三季度信用亏损0.8亿美元，分析师预期（亏损）0.424亿美元。 三季度CET1比率为11.3%，分析师预期11.1%。 三季度总体存款772亿美元，分析师预期743.5亿美元。",
