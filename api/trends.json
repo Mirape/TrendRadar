@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-24T06:22:19.444900+08:00",
-  "total_titles_processed": 559,
+  "generated_at": "2025-10-24T07:22:25.885945+08:00",
+  "total_titles_processed": 620,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             19,
             18,
             21,
-            20
+            20,
+            29
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 06时22分]"
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 07时22分]"
         },
         {
           "title": "IG新三叉戟?上中野续约重组",
@@ -31,8 +32,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 06时22分]"
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 07时22分]"
         },
         {
           "title": "Rigetti Computing Inc.称与美国（特朗普政府）洽谈量子融资。（CNBC）",
@@ -66,7 +67,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
         }
