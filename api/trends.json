@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-23T19:20:56.155143+08:00",
-  "total_titles_processed": 1788,
+  "generated_at": "2025-10-23T20:53:29.600609+08:00",
+  "total_titles_processed": 1909,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             15,
             13,
             16,
-            21
+            21,
+            26
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时28分 ~ 19时20分]"
+          "appearance_count": 11,
+          "time_info": "[12时28分 ~ 20时53分]"
         },
         {
           "title": "G2时隔五年重返S赛淘汰赛",
@@ -51,11 +52,12 @@
             10,
             11,
             12,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时28分 ~ 19时20分]"
+          "appearance_count": 11,
+          "time_info": "[12时28分 ~ 20时53分]"
         },
         {
           "title": "BLG送T1蜀绣礼物",
