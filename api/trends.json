@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-23T12:28:44.055593+08:00",
-  "total_titles_processed": 1081,
+  "generated_at": "2025-10-23T13:23:38.090062+08:00",
+  "total_titles_processed": 1184,
   "failed_sources": [],
   "trends": [
     {
@@ -48,11 +48,24 @@
           "url": "https://search.bilibili.com/all?keyword=%E4%BA%91%E5%8D%97bigbang%E6%A8%AA%E7%A9%BA%E5%87%BA%E4%B8%96",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            4,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时28分 ~ 13时23分]"
+        },
+        {
+          "title": "IG新三叉戟?上中野续约重组",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346113&amp;topic_name=IG%E6%96%B0%E4%B8%89%E5%8F%89%E6%88%9F%3F%E4%B8%8A%E4%B8%AD%E9%87%8E%E7%BB%AD%E7%BA%A6%E9%87%8D%E7%BB%84",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时28分 ~ 13时23分]"
         },
         {
           "title": "人工智能（AI）概念股Datavault AI跌17.4%，Galaxy Digital跌15.6%，WhiteFiber跌12.3%，Serve Robotics跌11.9%，Rezolve AI跌11.8%，IBM则涨0.9%，达芬奇手术机器人ISRG涨13.4%。 特朗普政府本周推出了一个AI出口计划，鼓励外界购买并采用美国技术。",
@@ -65,17 +78,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时18分 ~ 04时30分]"
-        },
-        {
-          "title": "IG新三叉戟?上中野续约重组",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346113&amp;topic_name=IG%E6%96%B0%E4%B8%89%E5%8F%89%E6%88%9F%3F%E4%B8%8A%E4%B8%AD%E9%87%8E%E7%BB%AD%E7%BA%A6%E9%87%8D%E7%BB%84",
-          "source": "贴吧",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时28分"
         },
         {
           "title": "消息人士称，量子计算公司正讨论向美国政府提供股权以换取芯片研发资金。参与美国政府入股谈判的量子公司包括IonQ, Rigetti Computing, D-Wave Quantum等。",
