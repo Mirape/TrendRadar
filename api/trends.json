@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-23T13:23:38.090062+08:00",
-  "total_titles_processed": 1184,
+  "generated_at": "2025-10-23T14:37:04.930243+08:00",
+  "total_titles_processed": 1278,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "G2时隔五年重返S赛淘汰赛",
@@ -49,11 +49,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             4,
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时28分 ~ 13时23分]"
+          "appearance_count": 4,
+          "time_info": "[12时28分 ~ 14时37分]"
         },
         {
           "title": "IG新三叉戟?上中野续约重组",
@@ -64,8 +65,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时28分 ~ 13时23分]"
+          "appearance_count": 4,
+          "time_info": "[12时28分 ~ 14时37分]"
         },
         {
           "title": "人工智能（AI）概念股Datavault AI跌17.4%，Galaxy Digital跌15.6%，WhiteFiber跌12.3%，Serve Robotics跌11.9%，Rezolve AI跌11.8%，IBM则涨0.9%，达芬奇手术机器人ISRG涨13.4%。 特朗普政府本周推出了一个AI出口计划，鼓励外界购买并采用美国技术。",
@@ -78,6 +79,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时18分 ~ 04时30分]"
+        },
+        {
+          "title": "京东拍卖送英雄联盟门票KPL门票",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%BA%AC%E4%B8%9C%E6%8B%8D%E5%8D%96%E9%80%81%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E9%97%A8%E7%A5%A8KPL%E9%97%A8%E7%A5%A8%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26flag%3D1%26band_rank%3D30%26pos%3D30%26c_type%3D31%26filter_type%3Drealtimehot%26realpos%3D30%26q%3D%2523%25E4%25BA%25AC%25E4%25B8%259C%25E6%258B%258D%25E5%258D%2596%25E9%2580%2581%25E8%258B%25B1%25E9%259B%2584%25E8%2581%2594%25E7%259B%259F%25E9%2597%25A8%25E7%25A5%25A8KPL%25E9%2597%25A8%25E7%25A5%25A8%2523%26lcate%3D5001%26dgr%3D0%26cate%3D5001%26display_time%3D1761201368%26pre_seqid%3D17612013681580309381154",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时36分 ~ 14时37分]"
         },
         {
           "title": "消息人士称，量子计算公司正讨论向美国政府提供股权以换取芯片研发资金。参与美国政府入股谈判的量子公司包括IonQ, Rigetti Computing, D-Wave Quantum等。",
