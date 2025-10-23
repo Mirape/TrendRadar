@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-23T22:27:13.776820+08:00",
-  "total_titles_processed": 2082,
+  "generated_at": "2025-10-23T23:26:00.057023+08:00",
+  "total_titles_processed": 2163,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "云南bigbang横空出世",
@@ -18,11 +18,12 @@
             16,
             21,
             26,
-            30
+            30,
+            18
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时28分 ~ 22时27分]"
+          "appearance_count": 14,
+          "time_info": "[12时28分 ~ 23时25分]"
         },
         {
           "title": "G2时隔五年重返S赛淘汰赛",
@@ -55,11 +56,12 @@
             12,
             14,
             16,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时28分 ~ 22时27分]"
+          "appearance_count": 16,
+          "time_info": "[12时28分 ~ 23时25分]"
         },
         {
           "title": "BLG送T1蜀绣礼物",
@@ -76,6 +78,17 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时32分 ~ 11时08分]"
+        },
+        {
+          "title": "云南bigbang关恒直播",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BA%91%E5%8D%97bigbang%E5%85%B3%E6%81%92%E7%9B%B4%E6%92%AD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
         },
         {
           "title": "人工智能（AI）概念股Datavault AI跌17.4%，Galaxy Digital跌15.6%，WhiteFiber跌12.3%，Serve Robotics跌11.9%，Rezolve AI跌11.8%，IBM则涨0.9%，达芬奇手术机器人ISRG涨13.4%。 特朗普政府本周推出了一个AI出口计划，鼓励外界购买并采用美国技术。",
