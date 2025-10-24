@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-24T09:45:28.550758+08:00",
-  "total_titles_processed": 785,
+  "generated_at": "2025-10-24T11:03:52.342414+08:00",
+  "total_titles_processed": 901,
   "failed_sources": [],
   "trends": [
     {
@@ -18,33 +18,36 @@
             18,
             21,
             20,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 09时45分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 11时03分]"
         },
         {
           "title": "IG新三叉戟?上中野续约重组",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346113&amp;topic_name=IG%E6%96%B0%E4%B8%89%E5%8F%89%E6%88%9F%3F%E4%B8%8A%E4%B8%AD%E9%87%8E%E7%BB%AD%E7%BA%A6%E9%87%8D%E7%BB%84",
           "source": "贴吧",
           "ranks": [
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 09时45分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 11时03分]"
         },
         {
           "title": "云南bigbang实力翻跳",
           "url": "https://search.bilibili.com/all?keyword=%E4%BA%91%E5%8D%97bigbang%E5%AE%9E%E5%8A%9B%E7%BF%BB%E8%B7%B3",
           "source": "bilibili 热搜",
           "ranks": [
-            3
+            3,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时45分 ~ 11时03分]"
         },
         {
           "title": "Rigetti Computing Inc.称与美国（特朗普政府）洽谈量子融资。（CNBC）",
@@ -77,11 +80,12 @@
           "source": "抖音",
           "ranks": [
             24,
-            23
+            23,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时22分 ~ 09时45分]"
+          "appearance_count": 3,
+          "time_info": "[06时22分 ~ 11时03分]"
         }
       ]
     }
