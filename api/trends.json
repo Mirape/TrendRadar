@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-24T11:03:52.342414+08:00",
-  "total_titles_processed": 901,
+  "generated_at": "2025-10-24T12:28:10.851900+08:00",
+  "total_titles_processed": 1029,
   "failed_sources": [],
   "trends": [
     {
@@ -31,11 +31,12 @@
           "source": "贴吧",
           "ranks": [
             18,
-            20
+            20,
+            25
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时31分 ~ 11时03分]"
+          "appearance_count": 14,
+          "time_info": "[00时31分 ~ 12时28分]"
         },
         {
           "title": "云南bigbang实力翻跳",
@@ -46,8 +47,21 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时45分 ~ 11时03分]"
+          "appearance_count": 4,
+          "time_info": "[09时45分 ~ 12时28分]"
+        },
+        {
+          "title": "云南bigbang横空出世",
+          "url": "https://www.douyin.com/hot/2279781",
+          "source": "抖音",
+          "ranks": [
+            24,
+            23,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时22分 ~ 12时28分]"
         },
         {
           "title": "Rigetti Computing Inc.称与美国（特朗普政府）洽谈量子融资。（CNBC）",
@@ -73,19 +87,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时32分 ~ 01时23分]"
-        },
-        {
-          "title": "云南bigbang横空出世",
-          "url": "https://www.douyin.com/hot/2279781",
-          "source": "抖音",
-          "ranks": [
-            24,
-            23,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时22分 ~ 11时03分]"
         }
       ]
     }
