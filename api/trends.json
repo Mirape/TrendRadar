@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-24T22:24:54.867581+08:00",
-  "total_titles_processed": 2014,
+  "generated_at": "2025-10-24T23:27:02.868660+08:00",
+  "total_titles_processed": 2105,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "云南bigbang实力翻跳",
@@ -79,11 +79,26 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346200&amp;topic_name=%E6%9C%89%E6%83%8A%E6%97%A0%E9%99%A9%2CT1%E6%B7%98%E6%B1%B0100T",
           "source": "贴吧",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时50分 ~ 22时24分]"
+          "appearance_count": 5,
+          "time_info": "[20时50分 ~ 23时27分]"
+        },
+        {
+          "title": "S15 瑞士轮第五轮抽签结束，LPL 内战 BLG vs TES，T1 vs MOKI，如何评价抽签结果？",
+          "url": "https://www.zhihu.com/question/1965145368405714885",
+          "source": "知乎",
+          "ranks": [
+            16,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时50分 ~ 23时27分]"
         },
         {
           "title": "云南bigbang横空出世",
@@ -99,6 +114,17 @@
           "time_info": "[06时22分 ~ 13时23分]"
         },
         {
+          "title": "LPL生死内战,T1保送八强",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346201&amp;topic_name=LPL%E7%94%9F%E6%AD%BB%E5%86%85%E6%88%98%2CT1%E4%BF%9D%E9%80%81%E5%85%AB%E5%BC%BA",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时26分 ~ 23时27分]"
+        },
+        {
           "title": "S15 100T vs T1",
           "url": "https://search.bilibili.com/all?keyword=100T%20T1",
           "source": "bilibili 热搜",
@@ -108,6 +134,47 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
+        },
+        {
+          "title": "BLG战胜VKS赛后数据",
+          "url": "https://search.bilibili.com/all?keyword=BLG%E6%88%98%E8%83%9CVKS%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            16,
+            15,
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时21分 ~ 23时27分]"
+        },
+        {
+          "title": "100T 0:2 T1",
+          "url": "https://www.douyin.com/hot/2281336",
+          "source": "抖音",
+          "ranks": [
+            22,
+            11,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时50分 ~ 23时27分]"
+        },
+        {
+          "title": "S15 T1战胜100T",
+          "url": "https://search.bilibili.com/all?keyword=100T%20T1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时50分 ~ 23时27分]"
         },
         {
           "title": "Rigetti Computing Inc.称与美国（特朗普政府）洽谈量子融资。（CNBC）",
@@ -123,19 +190,6 @@
           "time_info": "[00时32分 ~ 02时35分]"
         },
         {
-          "title": "S15 瑞士轮第五轮抽签结束，LPL 内战 BLG vs TES，T1 vs MOKI，如何评价抽签结果？",
-          "url": "https://www.zhihu.com/question/1965145368405714885",
-          "source": "知乎",
-          "ranks": [
-            16,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时50分 ~ 22时24分]"
-        },
-        {
           "title": "据CNBC：RIGETTI(RGTI.O)表示正在与美国就量子项目资金问题进行磋商。",
           "url": "https://flash.jin10.com/detail/20251024000811355800",
           "source": "金十数据",
@@ -148,18 +202,17 @@
           "time_info": "[00时32分 ~ 01时23分]"
         },
         {
-          "title": "BLG战胜VKS赛后数据",
-          "url": "https://search.bilibili.com/all?keyword=BLG%E6%88%98%E8%83%9CVKS%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE",
-          "source": "bilibili 热搜",
+          "title": "S15 瑞士轮 1-2 组 T1 2:0 淘汰 100T，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/1965115823023698785",
+          "source": "知乎",
           "ranks": [
-            8,
             16,
-            15,
-            13
+            13,
+            12
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[19时21分 ~ 22时24分]"
+          "time_info": "[21时34分 ~ 23时27分]"
         },
         {
           "title": "TES 惨败于 GEN，2/2 池 33% 概率遭遇 T1，他们还能进入 8 强吗？",
@@ -175,41 +228,15 @@
           "time_info": "[17时26分 ~ 19时21分]"
         },
         {
-          "title": "S15 T1战胜100T",
-          "url": "https://search.bilibili.com/all?keyword=100T%20T1",
+          "title": "T1中国生存记",
+          "url": "https://search.bilibili.com/all?keyword=T1%E4%B8%AD%E5%9B%BD%E7%94%9F%E5%AD%98%E8%AE%B0",
           "source": "bilibili 热搜",
           "ranks": [
-            10,
-            8
+            16
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[20时50分 ~ 22时24分]"
-        },
-        {
-          "title": "100T 0:2 T1",
-          "url": "https://www.douyin.com/hot/2281336",
-          "source": "抖音",
-          "ranks": [
-            22,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时50分 ~ 22时24分]"
-        },
-        {
-          "title": "S15 瑞士轮 1-2 组 T1 2:0 淘汰 100T，如何评价这场比赛？",
-          "url": "https://www.zhihu.com/question/1965115823023698785",
-          "source": "知乎",
-          "ranks": [
-            16,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时34分 ~ 22时24分]"
+          "time_info": "[22时24分 ~ 23时27分]"
         },
         {
           "title": "100T对阵T1",
@@ -221,17 +248,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时27分 ~ 19时21分]"
-        },
-        {
-          "title": "T1中国生存记",
-          "url": "https://search.bilibili.com/all?keyword=T1%E4%B8%AD%E5%9B%BD%E7%94%9F%E5%AD%98%E8%AE%B0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时24分"
         },
         {
           "title": "100T对战T1",
