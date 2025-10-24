@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-24T12:28:10.851900+08:00",
-  "total_titles_processed": 1029,
+  "generated_at": "2025-10-24T13:23:09.043909+08:00",
+  "total_titles_processed": 1116,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "云南bigbang横空出世",
@@ -32,11 +32,12 @@
           "ranks": [
             18,
             20,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时31分 ~ 12时28分]"
+          "appearance_count": 16,
+          "time_info": "[00时31分 ~ 13时23分]"
         },
         {
           "title": "云南bigbang实力翻跳",
@@ -47,8 +48,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时45分 ~ 12时28分]"
+          "appearance_count": 6,
+          "time_info": "[09时45分 ~ 13时23分]"
         },
         {
           "title": "云南bigbang横空出世",
@@ -60,8 +61,19 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时22分 ~ 12时28分]"
+          "appearance_count": 7,
+          "time_info": "[06时22分 ~ 13时23分]"
+        },
+        {
+          "title": "如何看待英雄联盟赛事官方投票显示 62% 的人认为 AL 是目前八强战队中最强？",
+          "url": "https://www.zhihu.com/question/1964645086093631535",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时22分 ~ 13时23分]"
         },
         {
           "title": "Rigetti Computing Inc.称与美国（特朗普政府）洽谈量子融资。（CNBC）",
