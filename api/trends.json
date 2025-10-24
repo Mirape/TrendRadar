@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-25T01:22:39.325420+08:00",
-  "total_titles_processed": 386,
+  "generated_at": "2025-10-25T02:33:43.202336+08:00",
+  "total_titles_processed": 427,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 01时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 02时33分]"
         },
         {
           "title": "LPL生死内战,T1保送八强",
@@ -26,8 +26,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 01时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 02时33分]"
+        },
+        {
+          "title": "S15 瑞士轮第五轮抽签结束，LPL 内战 BLG vs TES，T1 vs MOKI，如何评价抽签结果？",
+          "url": "https://www.zhihu.com/question/1965145368405714885",
+          "source": "知乎",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 02时33分]"
         },
         {
           "title": "有惊无险,T1淘汰100T",
@@ -37,19 +49,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 01时22分]"
-        },
-        {
-          "title": "S15 瑞士轮第五轮抽签结束，LPL 内战 BLG vs TES，T1 vs MOKI，如何评价抽签结果？",
-          "url": "https://www.zhihu.com/question/1965145368405714885",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 01时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 02时33分]"
         },
         {
           "title": "100T 0:2 T1",
@@ -60,8 +61,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 01时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 02时33分]"
         },
         {
           "title": "BLG战胜VKS赛后数据",
@@ -69,11 +70,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             14,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 01时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 02时33分]"
         },
         {
           "title": "S15 瑞士轮 1-2 组 T1 2:0 淘汰 100T，如何评价这场比赛？",
@@ -92,22 +94,24 @@
           "url": "https://www.zhihu.com/question/1965140079480649641",
           "source": "知乎",
           "ranks": [
-            15
+            15,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时22分 ~ 02时33分]"
         },
         {
           "title": "T1中国生存记",
           "url": "https://search.bilibili.com/all?keyword=T1%E4%B8%AD%E5%9B%BD%E7%94%9F%E5%AD%98%E8%AE%B0",
           "source": "bilibili 热搜",
           "ranks": [
-            18
+            18,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时22分 ~ 02时33分]"
         }
       ]
     }
