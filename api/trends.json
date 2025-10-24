@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-24T07:22:25.885945+08:00",
-  "total_titles_processed": 620,
+  "generated_at": "2025-10-24T09:45:28.550758+08:00",
+  "total_titles_processed": 785,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "云南bigbang横空出世",
@@ -21,8 +21,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 07时22分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 09时45分]"
         },
         {
           "title": "IG新三叉戟?上中野续约重组",
@@ -32,8 +32,19 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 07时22分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 09时45分]"
+        },
+        {
+          "title": "云南bigbang实力翻跳",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BA%91%E5%8D%97bigbang%E5%AE%9E%E5%8A%9B%E7%BF%BB%E8%B7%B3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
         },
         {
           "title": "Rigetti Computing Inc.称与美国（特朗普政府）洽谈量子融资。（CNBC）",
@@ -65,11 +76,12 @@
           "url": "https://www.douyin.com/hot/2279781",
           "source": "抖音",
           "ranks": [
-            24
+            24,
+            23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时22分"
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 09时45分]"
         }
       ]
     }
