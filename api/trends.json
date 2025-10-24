@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-24T16:33:12.705658+08:00",
-  "total_titles_processed": 1459,
+  "generated_at": "2025-10-24T17:26:27.312403+08:00",
+  "total_titles_processed": 1542,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "云南bigbang实力翻跳",
@@ -16,11 +16,12 @@
             7,
             16,
             19,
-            20
+            20,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时45分 ~ 16时33分]"
+          "appearance_count": 12,
+          "time_info": "[09时45分 ~ 17时26分]"
         },
         {
           "title": "如何看待英雄联盟赛事官方投票显示 62% 的人认为 AL 是目前八强战队中最强？",
@@ -106,6 +107,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时32分 ~ 01时23分]"
+        },
+        {
+          "title": "TES 惨败于 GEN，2/2 池 33% 概率遭遇 T1，他们还能进入 8 强吗？",
+          "url": "https://www.zhihu.com/question/1964623425801815773",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
         }
       ]
     }
