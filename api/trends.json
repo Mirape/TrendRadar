@@ -1,12 +1,26 @@
 {
-  "generated_at": "2025-10-24T14:33:59.351839+08:00",
-  "total_titles_processed": 1238,
+  "generated_at": "2025-10-24T15:23:13.816033+08:00",
+  "total_titles_processed": 1335,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
       "match_count": 7,
       "titles": [
+        {
+          "title": "云南bigbang实力翻跳",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BA%91%E5%8D%97bigbang%E5%AE%9E%E5%8A%9B%E7%BF%BB%E8%B7%B3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            7,
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时45分 ~ 15时23分]"
+        },
         {
           "title": "云南bigbang横空出世",
           "url": "https://search.bilibili.com/all?keyword=%E4%BA%91%E5%8D%97bigbang%E6%A8%AA%E7%A9%BA%E5%87%BA%E4%B8%96",
@@ -34,24 +48,12 @@
             20,
             25,
             26,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时31分 ~ 14时33分]"
-        },
-        {
-          "title": "云南bigbang实力翻跳",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BA%91%E5%8D%97bigbang%E5%AE%9E%E5%8A%9B%E7%BF%BB%E8%B7%B3",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            7,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时45分 ~ 14时33分]"
+          "appearance_count": 19,
+          "time_info": "[00时31分 ~ 15时23分]"
         },
         {
           "title": "如何看待英雄联盟赛事官方投票显示 62% 的人认为 AL 是目前八强战队中最强？",
@@ -62,8 +64,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时22分 ~ 14时33分]"
+          "appearance_count": 5,
+          "time_info": "[13时22分 ~ 15时23分]"
         },
         {
           "title": "云南bigbang横空出世",
