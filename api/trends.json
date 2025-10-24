@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-25T06:24:15.759083+08:00",
-  "total_titles_processed": 533,
+  "generated_at": "2025-10-25T07:21:36.934588+08:00",
+  "total_titles_processed": 557,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 06时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 07时21分]"
         },
         {
           "title": "LPL生死内战,T1保送八强",
@@ -26,21 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 06时24分]"
-        },
-        {
-          "title": "S15 瑞士轮第五轮抽签结束，LPL 内战 BLG vs TES，T1 vs MOKI，如何评价抽签结果？",
-          "url": "https://www.zhihu.com/question/1965145368405714885",
-          "source": "知乎",
-          "ranks": [
-            4,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 06时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 07时21分]"
         },
         {
           "title": "有惊无险,T1淘汰100T",
@@ -50,8 +37,22 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 06时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 07时21分]"
+        },
+        {
+          "title": "S15 瑞士轮第五轮抽签结束，LPL 内战 BLG vs TES，T1 vs MOKI，如何评价抽签结果？",
+          "url": "https://www.zhihu.com/question/1965145368405714885",
+          "source": "知乎",
+          "ranks": [
+            4,
+            2,
+            3,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 07时21分]"
         },
         {
           "title": "100T 0:2 T1",
@@ -65,8 +66,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 06时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 07时21分]"
         },
         {
           "title": "BLG战胜VKS赛后数据",
@@ -80,8 +81,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 06时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 07时21分]"
         },
         {
           "title": "《英雄联盟》 S15 瑞士轮第五轮抽签，本次抽签结果将如何影响各战队的晋级形势？",
