@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-26T06:20:19.933488+08:00",
-  "total_titles_processed": 387,
+  "generated_at": "2025-10-26T07:20:15.699417+08:00",
+  "total_titles_processed": 409,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "AL对上T1,如何评价LPL签运?",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 06时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 07时20分]"
         },
         {
           "title": "Faker燃尽!T1横扫MKOI",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 06时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 07时20分]"
         },
         {
           "title": "T1击败MKOI",
@@ -38,11 +38,13 @@
             14,
             13,
             2,
-            4
+            4,
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 06时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 07时20分]"
         },
         {
           "title": "AL淘汰赛将对战T1",
@@ -54,11 +56,12 @@
             12,
             5,
             3,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 06时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 07时20分]"
         },
         {
           "title": "S15 全球总决赛八强赛对阵出炉，AL vs T1 、 TES vs G2，如何评价今年的八强对阵结果？",
@@ -68,8 +71,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 06时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 07时20分]"
         },
         {
           "title": "S15 T1战胜MKOI晋级八强",
@@ -83,8 +86,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 06时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 07时20分]"
         },
         {
           "title": "有惊无险,T1淘汰100T",
@@ -94,8 +97,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 06时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 07时20分]"
         },
         {
           "title": "韩国vip看国产bigbang",
@@ -108,8 +111,19 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 06时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 07时20分]"
+        },
+        {
+          "title": "如何评价 Knight 在 2025 全球总决赛上的表现？他是不是 BLG 团队里唯一没变形的选手？",
+          "url": "https://www.zhihu.com/question/1965482027953385847",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时19分 ~ 07时20分]"
         },
         {
           "title": "AL打T1",
