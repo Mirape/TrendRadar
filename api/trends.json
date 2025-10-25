@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-25T15:22:37.667842+08:00",
-  "total_titles_processed": 998,
+  "generated_at": "2025-10-25T16:29:13.061534+08:00",
+  "total_titles_processed": 1075,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346201&amp;topic_name=LPL%E7%94%9F%E6%AD%BB%E5%86%85%E6%88%98%2CT1%E4%BF%9D%E9%80%81%E5%85%AB%E5%BC%BA",
           "source": "贴吧",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时29分 ~ 15时22分]"
+          "appearance_count": 21,
+          "time_info": "[00时29分 ~ 16时29分]"
         },
         {
           "title": "S15 T1战胜100T",
@@ -56,8 +57,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时29分 ~ 15时22分]"
+          "appearance_count": 21,
+          "time_info": "[00时29分 ~ 16时29分]"
         },
         {
           "title": "100T 0:2 T1",
