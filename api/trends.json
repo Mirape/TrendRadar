@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-25T14:31:42.919202+08:00",
-  "total_titles_processed": 944,
+  "generated_at": "2025-10-25T15:22:37.667842+08:00",
+  "total_titles_processed": 998,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时29分 ~ 14时31分]"
+          "appearance_count": 19,
+          "time_info": "[00时29分 ~ 15时22分]"
         },
         {
           "title": "S15 T1战胜100T",
@@ -52,11 +52,12 @@
             4,
             8,
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时29分 ~ 14时31分]"
+          "appearance_count": 19,
+          "time_info": "[00时29分 ~ 15时22分]"
         },
         {
           "title": "100T 0:2 T1",
@@ -104,8 +105,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时22分 ~ 14时31分]"
+          "appearance_count": 11,
+          "time_info": "[01时22分 ~ 15时22分]"
         },
         {
           "title": "《英雄联盟》 S15 瑞士轮第五轮抽签，本次抽签结果将如何影响各战队的晋级形势？",
@@ -155,7 +156,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时31分"
         },
