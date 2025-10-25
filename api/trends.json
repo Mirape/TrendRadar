@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-25T18:22:01.558811+08:00",
-  "total_titles_processed": 1179,
+  "generated_at": "2025-10-25T19:19:15.341153+08:00",
+  "total_titles_processed": 1255,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 12,
+      "match_count": 16,
       "titles": [
         {
           "title": "S15 T1战胜100T",
@@ -27,11 +27,12 @@
             2,
             3,
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时29分 ~ 18时22分]"
+          "appearance_count": 26,
+          "time_info": "[00时29分 ~ 19时19分]"
         },
         {
           "title": "S15 瑞士轮第五轮抽签结束，LPL 内战 BLG vs TES，T1 vs MOKI，如何评价抽签结果？",
@@ -75,11 +76,12 @@
             11,
             12,
             13,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时29分 ~ 18时22分]"
+          "appearance_count": 26,
+          "time_info": "[00时29分 ~ 19时19分]"
         },
         {
           "title": "BLG战胜VKS赛后数据",
@@ -142,6 +144,19 @@
           "time_info": "[00时29分 ~ 06时24分]"
         },
         {
+          "title": "MKOI对阵T1",
+          "url": "https://www.douyin.com/hot/2282270",
+          "source": "抖音",
+          "ranks": [
+            26,
+            29,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时31分 ~ 19时19分]"
+        },
+        {
           "title": "锐评T1战胜100T",
           "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84T1%E6%88%98%E8%83%9C100T",
           "source": "bilibili 热搜",
@@ -155,16 +170,48 @@
           "time_info": "[11时07分 ~ 13时23分]"
         },
         {
-          "title": "MKOI对阵T1",
-          "url": "https://www.douyin.com/hot/2282270",
-          "source": "抖音",
+          "title": "S15 MKOI vs T1",
+          "url": "https://search.bilibili.com/all?keyword=MKOI%20T1",
+          "source": "bilibili 热搜",
           "ranks": [
-            26,
-            29
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时31分 ~ 18时22分]"
+          "appearance_count": 2,
+          "time_info": "[19时18分 ~ 19时19分]"
+        },
+        {
+          "title": "Knight泪光",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23Knight%E6%B3%AA%E5%85%89%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26lcate%3D5001%26filter_type%3Drealtimehot%26band_rank%3D8%26c_type%3D31%26q%3D%2523Knight%25E6%25B3%25AA%25E5%2585%2589%2523%26dgr%3D0%26cate%3D5001%26stream_entry_id%3D31%26realpos%3D8%26pos%3D9%26display_time%3D1761391127%26pre_seqid%3D17613911270440330957142",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时18分 ~ 19时19分]"
+        },
+        {
+          "title": "Knight lpl加油拿个冠军吧",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3DKnight+lpl%E5%8A%A0%E6%B2%B9%E6%8B%BF%E4%B8%AA%E5%86%A0%E5%86%9B%E5%90%A7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26lcate%3D5001%26filter_type%3Drealtimehot%26band_rank%3D13%26c_type%3D31%26q%3DKnight%2520lpl%25E5%258A%25A0%25E6%25B2%25B9%25E6%258B%25BF%25E4%25B8%25AA%25E5%2586%25A0%25E5%2586%259B%25E5%2590%25A7%26dgr%3D0%26cate%3D5001%26stream_entry_id%3D31%26realpos%3D13%26pos%3D14%26display_time%3D1761391127%26pre_seqid%3D17613911270440330957142",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时18分 ~ 19时19分]"
+        },
+        {
+          "title": "iG",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3DiG&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26lcate%3D5001%26filter_type%3Drealtimehot%26band_rank%3D23%26c_type%3D31%26q%3DiG%26dgr%3D0%26cate%3D5001%26stream_entry_id%3D31%26realpos%3D23%26pos%3D24%26display_time%3D1761391127%26pre_seqid%3D17613911270440330957142",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时18分 ~ 19时19分]"
         },
         {
           "title": "云南bigbang实力翻跳",
