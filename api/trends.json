@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-25T12:27:14.074806+08:00",
-  "total_titles_processed": 835,
+  "generated_at": "2025-10-25T13:23:35.768886+08:00",
+  "total_titles_processed": 881,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时29分 ~ 12时27分]"
+          "appearance_count": 17,
+          "time_info": "[00时29分 ~ 13时23分]"
         },
         {
           "title": "S15 T1战胜100T",
           "url": "https://search.bilibili.com/all?keyword=100T%20T1",
           "source": "bilibili 热搜",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 07时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 13时23分]"
         },
         {
           "title": "S15 瑞士轮第五轮抽签结束，LPL 内战 BLG vs TES，T1 vs MOKI，如何评价抽签结果？",
@@ -50,11 +51,12 @@
           "ranks": [
             4,
             8,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时29分 ~ 12时27分]"
+          "appearance_count": 17,
+          "time_info": "[00时29分 ~ 13时23分]"
         },
         {
           "title": "100T 0:2 T1",
@@ -138,11 +140,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             6,
-            9
+            9,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时07分 ~ 12时27分]"
+          "appearance_count": 4,
+          "time_info": "[11时07分 ~ 13时23分]"
         },
         {
           "title": "云南bigbang实力翻跳",
