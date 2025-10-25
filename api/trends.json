@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-25T13:23:35.768886+08:00",
-  "total_titles_processed": 881,
+  "generated_at": "2025-10-25T14:31:42.919202+08:00",
+  "total_titles_processed": 944,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "LPL生死内战,T1保送八强",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时29分 ~ 13时23分]"
+          "appearance_count": 18,
+          "time_info": "[00时29分 ~ 14时31分]"
         },
         {
           "title": "S15 T1战胜100T",
@@ -55,8 +55,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时29分 ~ 13时23分]"
+          "appearance_count": 18,
+          "time_info": "[00时29分 ~ 14时31分]"
         },
         {
           "title": "100T 0:2 T1",
@@ -100,11 +100,12 @@
             27,
             24,
             29,
-            22
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时22分 ~ 11时07分]"
+          "appearance_count": 10,
+          "time_info": "[01时22分 ~ 14时31分]"
         },
         {
           "title": "《英雄联盟》 S15 瑞士轮第五轮抽签，本次抽签结果将如何影响各战队的晋级形势？",
@@ -146,6 +147,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时07分 ~ 13时23分]"
+        },
+        {
+          "title": "MKOI对阵T1",
+          "url": "https://www.douyin.com/hot/2282270",
+          "source": "抖音",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时31分"
         },
         {
           "title": "云南bigbang实力翻跳",
