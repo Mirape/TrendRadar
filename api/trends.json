@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-26T00:27:24.313771+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2025-10-26T01:20:54.776158+08:00",
+  "total_titles_processed": 341,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 01时20分]"
         },
         {
           "title": "Faker燃尽!T1横扫MKOI",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 01时20分]"
         },
         {
           "title": "T1击败MKOI",
@@ -37,19 +37,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
-        },
-        {
-          "title": "AL打T1",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3DAL%E6%89%93T1&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26realpos%3D10%26band_rank%3D10%26lcate%3D5001%26pos%3D10%26c_type%3D31%26q%3DAL%25E6%2589%2593T1%26cate%3D5001%26filter_type%3Drealtimehot%26flag%3D0%26dgr%3D0%26display_time%3D1761408614%26pre_seqid%3D176140861475803683154139",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 01时20分]"
         },
         {
           "title": "S15 全球总决赛八强赛对阵出炉，AL vs T1 、 TES vs G2，如何评价今年的八强对阵结果？",
@@ -59,30 +48,32 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 01时20分]"
         },
         {
           "title": "S15 T1战胜MKOI晋级八强",
           "url": "https://search.bilibili.com/all?keyword=MKOI%20T1",
           "source": "bilibili 热搜",
           "ranks": [
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 01时20分]"
         },
         {
           "title": "AL淘汰赛将对战T1",
           "url": "https://search.bilibili.com/all?keyword=AL%E6%B7%98%E6%B1%B0%E8%B5%9B%E5%B0%86%E5%AF%B9%E6%88%98T1",
           "source": "bilibili 热搜",
           "ranks": [
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 01时20分]"
         },
         {
           "title": "有惊无险,T1淘汰100T",
@@ -92,15 +83,27 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 01时20分]"
         },
         {
           "title": "韩国vip看国产bigbang",
           "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E5%9B%BDvip%E7%9C%8B%E5%9B%BD%E4%BA%A7bigbang",
           "source": "bilibili 热搜",
           "ranks": [
-            26
+            26,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 01时20分]"
+        },
+        {
+          "title": "AL打T1",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3DAL%E6%89%93T1&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26realpos%3D10%26band_rank%3D10%26lcate%3D5001%26pos%3D10%26c_type%3D31%26q%3DAL%25E6%2589%2593T1%26cate%3D5001%26filter_type%3Drealtimehot%26flag%3D0%26dgr%3D0%26display_time%3D1761408614%26pre_seqid%3D176140861475803683154139",
+          "source": "微博",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
