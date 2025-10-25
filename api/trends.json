@@ -1,25 +1,12 @@
 {
-  "generated_at": "2025-10-25T17:22:46.440914+08:00",
-  "total_titles_processed": 1124,
+  "generated_at": "2025-10-25T18:22:01.558811+08:00",
+  "total_titles_processed": 1179,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
       "match_count": 12,
       "titles": [
-        {
-          "title": "LPL生死内战,T1保送八强",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346201&amp;topic_name=LPL%E7%94%9F%E6%AD%BB%E5%86%85%E6%88%98%2CT1%E4%BF%9D%E9%80%81%E5%85%AB%E5%BC%BA",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时29分 ~ 17时22分]"
-        },
         {
           "title": "S15 T1战胜100T",
           "url": "https://search.bilibili.com/all?keyword=100T%20T1",
@@ -31,6 +18,20 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时29分 ~ 13时23分]"
+        },
+        {
+          "title": "LPL生死内战,T1保送八强",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346201&amp;topic_name=LPL%E7%94%9F%E6%AD%BB%E5%86%85%E6%88%98%2CT1%E4%BF%9D%E9%80%81%E5%85%AB%E5%BC%BA",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            3,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 24,
+          "time_info": "[00时29分 ~ 18时22分]"
         },
         {
           "title": "S15 瑞士轮第五轮抽签结束，LPL 内战 BLG vs TES，T1 vs MOKI，如何评价抽签结果？",
@@ -73,11 +74,12 @@
             10,
             11,
             12,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时29分 ~ 17时22分]"
+          "appearance_count": 24,
+          "time_info": "[00时29分 ~ 18时22分]"
         },
         {
           "title": "BLG战胜VKS赛后数据",
@@ -157,11 +159,12 @@
           "url": "https://www.douyin.com/hot/2282270",
           "source": "抖音",
           "ranks": [
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时31分"
+          "appearance_count": 3,
+          "time_info": "[14时31分 ~ 18时22分]"
         },
         {
           "title": "云南bigbang实力翻跳",
