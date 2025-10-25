@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-25T07:21:36.934588+08:00",
-  "total_titles_processed": 557,
+  "generated_at": "2025-10-25T09:46:05.022373+08:00",
+  "total_titles_processed": 687,
   "failed_sources": [],
   "trends": [
     {
@@ -8,20 +8,20 @@
       "match_count": 10,
       "titles": [
         {
-          "title": "S15 T1战胜100T",
-          "url": "https://search.bilibili.com/all?keyword=100T%20T1",
-          "source": "bilibili 热搜",
+          "title": "LPL生死内战,T1保送八强",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346201&amp;topic_name=LPL%E7%94%9F%E6%AD%BB%E5%86%85%E6%88%98%2CT1%E4%BF%9D%E9%80%81%E5%85%AB%E5%BC%BA",
+          "source": "贴吧",
           "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 07时21分]"
+          "appearance_count": 13,
+          "time_info": "[00时29分 ~ 09时46分]"
         },
         {
-          "title": "LPL生死内战,T1保送八强",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346201&amp;topic_name=LPL%E7%94%9F%E6%AD%BB%E5%86%85%E6%88%98%2CT1%E4%BF%9D%E9%80%81%E5%85%AB%E5%BC%BA",
-          "source": "贴吧",
+          "title": "S15 T1战胜100T",
+          "url": "https://search.bilibili.com/all?keyword=100T%20T1",
+          "source": "bilibili 热搜",
           "ranks": [
             2
           ],
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 07时21分]"
+          "appearance_count": 13,
+          "time_info": "[00时29分 ~ 09时46分]"
         },
         {
           "title": "S15 瑞士轮第五轮抽签结束，LPL 内战 BLG vs TES，T1 vs MOKI，如何评价抽签结果？",
@@ -66,8 +66,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 07时21分]"
+          "appearance_count": 13,
+          "time_info": "[00时29分 ~ 09时46分]"
         },
         {
           "title": "BLG战胜VKS赛后数据",
@@ -78,11 +78,12 @@
             17,
             16,
             15,
-            6
+            6,
+            28
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 07时21分]"
+          "appearance_count": 13,
+          "time_info": "[00时29分 ~ 09时46分]"
         },
         {
           "title": "《英雄联盟》 S15 瑞士轮第五轮抽签，本次抽签结果将如何影响各战队的晋级形势？",
