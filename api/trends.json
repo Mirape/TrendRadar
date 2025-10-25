@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-26T05:21:59.226276+08:00",
-  "total_titles_processed": 380,
+  "generated_at": "2025-10-26T06:20:19.933488+08:00",
+  "total_titles_processed": 387,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 05时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 06时20分]"
         },
         {
           "title": "Faker燃尽!T1横扫MKOI",
@@ -26,8 +26,23 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 05时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 06时20分]"
+        },
+        {
+          "title": "T1击败MKOI",
+          "url": "https://www.douyin.com/hot/2282270",
+          "source": "抖音",
+          "ranks": [
+            8,
+            14,
+            13,
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 06时20分]"
         },
         {
           "title": "AL淘汰赛将对战T1",
@@ -38,25 +53,12 @@
             16,
             12,
             5,
-            3
+            3,
+            18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 05时21分]"
-        },
-        {
-          "title": "T1击败MKOI",
-          "url": "https://www.douyin.com/hot/2282270",
-          "source": "抖音",
-          "ranks": [
-            8,
-            14,
-            13,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 05时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 06时20分]"
         },
         {
           "title": "S15 全球总决赛八强赛对阵出炉，AL vs T1 、 TES vs G2，如何评价今年的八强对阵结果？",
@@ -66,8 +68,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 05时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 06时20分]"
         },
         {
           "title": "S15 T1战胜MKOI晋级八强",
@@ -77,11 +79,12 @@
             15,
             18,
             17,
-            16
+            16,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 05时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 06时20分]"
         },
         {
           "title": "有惊无险,T1淘汰100T",
@@ -91,8 +94,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 05时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 06时20分]"
         },
         {
           "title": "韩国vip看国产bigbang",
@@ -105,8 +108,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 05时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 06时20分]"
         },
         {
           "title": "AL打T1",
