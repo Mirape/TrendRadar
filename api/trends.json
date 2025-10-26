@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-26T22:22:21.361461+08:00",
-  "total_titles_processed": 1295,
+  "generated_at": "2025-10-26T23:23:32.222438+08:00",
+  "total_titles_processed": 1342,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时32分 ~ 22时22分]"
+          "appearance_count": 13,
+          "time_info": "[14时32分 ~ 23时23分]"
         },
         {
           "title": "AL对上T1,如何评价LPL签运?",
@@ -32,11 +32,28 @@
             7,
             9,
             11,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时27分 ~ 22时22分]"
+          "appearance_count": 26,
+          "time_info": "[00时27分 ~ 23时23分]"
+        },
+        {
+          "title": "锐评T1战胜MKOI",
+          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84T1%E6%88%98%E8%83%9CMKOI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            2,
+            12,
+            13,
+            11,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时29分 ~ 23时23分]"
         },
         {
           "title": "T1击败MKOI",
@@ -58,21 +75,6 @@
           "time_info": "[00时27分 ~ 11时15分]"
         },
         {
-          "title": "锐评T1战胜MKOI",
-          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84T1%E6%88%98%E8%83%9CMKOI",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            2,
-            12,
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时29分 ~ 22时22分]"
-        },
-        {
           "title": "Faker燃尽!T1横扫MKOI",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346215&amp;topic_name=Faker%E7%87%83%E5%B0%BD%21T1%E6%A8%AA%E6%89%ABMKOI",
           "source": "贴吧",
@@ -85,11 +87,12 @@
             16,
             18,
             19,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时27分 ~ 22时22分]"
+          "appearance_count": 26,
+          "time_info": "[00时27分 ~ 23时23分]"
         },
         {
           "title": "AL淘汰赛将对战T1",
