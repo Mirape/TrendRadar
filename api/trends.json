@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-26T20:47:16.037423+08:00",
-  "total_titles_processed": 1206,
+  "generated_at": "2025-10-26T21:28:39.749357+08:00",
+  "total_titles_processed": 1245,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时32分 ~ 20时47分]"
+          "appearance_count": 11,
+          "time_info": "[14时32分 ~ 21时28分]"
         },
         {
           "title": "AL对上T1,如何评价LPL签运?",
@@ -34,8 +34,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时27分 ~ 20时47分]"
+          "appearance_count": 24,
+          "time_info": "[00时27分 ~ 21时28分]"
         },
         {
           "title": "T1击败MKOI",
@@ -71,8 +71,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时27分 ~ 20时47分]"
+          "appearance_count": 24,
+          "time_info": "[00时27分 ~ 21时28分]"
         },
         {
           "title": "锐评T1战胜MKOI",
@@ -81,27 +81,12 @@
           "ranks": [
             1,
             2,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时29分 ~ 20时47分]"
-        },
-        {
-          "title": "S15 全球总决赛八强赛 AL 赢 T1 有多大希望？",
-          "url": "https://www.zhihu.com/question/1965726061103904190",
-          "source": "知乎",
-          "ranks": [
-            17,
-            13,
-            9,
-            8,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时24分 ~ 20时47分]"
+          "appearance_count": 8,
+          "time_info": "[16时29分 ~ 21时28分]"
         },
         {
           "title": "AL淘汰赛将对战T1",
@@ -119,6 +104,23 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时27分 ~ 07时20分]"
+        },
+        {
+          "title": "S15 全球总决赛八强赛 AL 赢 T1 有多大希望？",
+          "url": "https://www.zhihu.com/question/1965726061103904190",
+          "source": "知乎",
+          "ranks": [
+            17,
+            13,
+            9,
+            8,
+            6,
+            7,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[13时24分 ~ 21时28分]"
         },
         {
           "title": "S15 T1战胜MKOI晋级八强",
