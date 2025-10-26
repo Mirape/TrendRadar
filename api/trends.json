@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-27T06:24:49.905390+08:00",
-  "total_titles_processed": 396,
+  "generated_at": "2025-10-27T07:22:41.113650+08:00",
+  "total_titles_processed": 453,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 06时24分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 07时22分]"
         },
         {
           "title": "锐评T1战胜MKOI",
@@ -30,8 +30,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 06时24分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 07时22分]"
         },
         {
           "title": "AL对上T1,如何评价LPL签运?",
@@ -42,8 +42,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 06时24分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 07时22分]"
         },
         {
           "title": "Faker燃尽!T1横扫MKOI",
@@ -54,8 +54,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 06时24分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 07时22分]"
         }
       ]
     }
