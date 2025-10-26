@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-27T01:19:50.372938+08:00",
-  "total_titles_processed": 333,
+  "generated_at": "2025-10-27T02:32:37.692851+08:00",
+  "total_titles_processed": 347,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 01时19分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 02时32分]"
+        },
+        {
+          "title": "锐评T1战胜MKOI",
+          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84T1%E6%88%98%E8%83%9CMKOI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17,
+            18,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 02时32分]"
         },
         {
           "title": "AL对上T1,如何评价LPL签运?",
@@ -28,20 +41,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 01时19分]"
-        },
-        {
-          "title": "锐评T1战胜MKOI",
-          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84T1%E6%88%98%E8%83%9CMKOI",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 01时19分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 02时32分]"
         },
         {
           "title": "Faker燃尽!T1横扫MKOI",
@@ -52,8 +53,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 01时19分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 02时32分]"
         }
       ]
     }
