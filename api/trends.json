@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-27T22:26:46.903380+08:00",
-  "total_titles_processed": 1782,
+  "generated_at": "2025-10-27T23:26:18.765314+08:00",
+  "total_titles_processed": 1868,
   "failed_sources": [],
   "trends": [
     {
@@ -25,8 +25,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时28分 ~ 22时26分]"
+          "appearance_count": 23,
+          "time_info": "[00时28分 ~ 23时26分]"
         },
         {
           "title": "锐评T1战胜MKOI",
@@ -75,17 +75,6 @@
           "time_info": "[00时28分 ~ 09时57分]"
         },
         {
-          "title": "云南bigbang家族集体亮相",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BA%91%E5%8D%97bigbang%E5%AE%B6%E6%97%8F%E9%9B%86%E4%BD%93%E4%BA%AE%E7%9B%B8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时52分 ~ 22时26分]"
-        },
-        {
           "title": "各地文旅盯上了云南bigbang",
           "url": "https://www.douyin.com/hot/2284374",
           "source": "抖音",
@@ -93,11 +82,24 @@
             26,
             24,
             25,
-            23
+            23,
+            17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时25分 ~ 22时26分]"
+          "appearance_count": 8,
+          "time_info": "[15时25分 ~ 23时26分]"
+        },
+        {
+          "title": "云南bigbang家族集体亮相",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BA%91%E5%8D%97bigbang%E5%AE%B6%E6%97%8F%E9%9B%86%E4%BD%93%E4%BA%AE%E7%9B%B8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时52分 ~ 23时26分]"
         },
         {
           "title": "《英雄联盟》「海克斯大乱斗」模式已上线国服，体验过的玩家如何评价该模式？",
