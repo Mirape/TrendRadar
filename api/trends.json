@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-27T13:25:26.792451+08:00",
-  "total_titles_processed": 937,
+  "generated_at": "2025-10-27T14:40:10.307172+08:00",
+  "total_titles_processed": 1044,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             5,
             13,
             15,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时28分 ~ 13时25分]"
+          "appearance_count": 14,
+          "time_info": "[00时28分 ~ 14时40分]"
         },
         {
           "title": "锐评T1战胜MKOI",
