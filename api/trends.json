@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-27T18:30:44.245003+08:00",
-  "total_titles_processed": 1402,
+  "generated_at": "2025-10-27T19:22:51.679450+08:00",
+  "total_titles_processed": 1509,
   "failed_sources": [],
   "trends": [
     {
@@ -20,11 +20,12 @@
             17,
             19,
             22,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时28分 ~ 18时30分]"
+          "appearance_count": 19,
+          "time_info": "[00时28分 ~ 19时22分]"
         },
         {
           "title": "锐评T1战胜MKOI",
@@ -79,11 +80,12 @@
           "ranks": [
             26,
             24,
-            25
+            25,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时25分 ~ 18时30分]"
+          "appearance_count": 5,
+          "time_info": "[15时25分 ~ 19时22分]"
         },
         {
           "title": "《英雄联盟》「海克斯大乱斗」模式已上线国服，体验过的玩家如何评价该模式？",
@@ -92,11 +94,12 @@
           "ranks": [
             20,
             13,
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时35分 ~ 18时30分]"
+          "appearance_count": 4,
+          "time_info": "[16时35分 ~ 19时22分]"
         },
         {
           "title": "Digi活死人二番战梳理",
