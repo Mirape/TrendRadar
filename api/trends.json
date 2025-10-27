@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-27T09:57:52.218221+08:00",
-  "total_titles_processed": 606,
+  "generated_at": "2025-10-27T11:26:32.081223+08:00",
+  "total_titles_processed": 741,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "死保T1?拳头官媒遭爆破沦陷",
@@ -14,11 +14,26 @@
           "ranks": [
             1,
             4,
-            5
+            5,
+            13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 09时57分]"
+          "appearance_count": 10,
+          "time_info": "[00时28分 ~ 11时26分]"
+        },
+        {
+          "title": "AL对上T1,如何评价LPL签运?",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346217&amp;topic_name=AL%E5%AF%B9%E4%B8%8AT1%2C%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7LPL%E7%AD%BE%E8%BF%90%3F",
+          "source": "贴吧",
+          "ranks": [
+            15,
+            16,
+            20,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时28分 ~ 11时26分]"
         },
         {
           "title": "锐评T1战胜MKOI",
@@ -36,19 +51,6 @@
           "time_info": "[00时28分 ~ 09时57分]"
         },
         {
-          "title": "AL对上T1,如何评价LPL签运?",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346217&amp;topic_name=AL%E5%AF%B9%E4%B8%8AT1%2C%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7LPL%E7%AD%BE%E8%BF%90%3F",
-          "source": "贴吧",
-          "ranks": [
-            15,
-            16,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 09时57分]"
-        },
-        {
           "title": "Faker燃尽!T1横扫MKOI",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346215&amp;topic_name=Faker%E7%87%83%E5%B0%BD%21T1%E6%A8%AA%E6%89%ABMKOI",
           "source": "贴吧",
@@ -60,6 +62,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时28分 ~ 09时57分]"
+        },
+        {
+          "title": "Digi活死人二番战梳理",
+          "url": "https://search.bilibili.com/all?keyword=Digi%E6%B4%BB%E6%AD%BB%E4%BA%BA%E4%BA%8C%E7%95%AA%E6%88%98%E6%A2%B3%E7%90%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
         }
       ]
     }
