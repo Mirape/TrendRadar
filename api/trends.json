@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-27T17:29:36.970793+08:00",
-  "total_titles_processed": 1309,
+  "generated_at": "2025-10-27T18:30:44.245003+08:00",
+  "total_titles_processed": 1402,
   "failed_sources": [],
   "trends": [
     {
@@ -23,8 +23,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时28分 ~ 17时29分]"
+          "appearance_count": 18,
+          "time_info": "[00时28分 ~ 18时30分]"
         },
         {
           "title": "锐评T1战胜MKOI",
@@ -73,6 +73,32 @@
           "time_info": "[00时28分 ~ 09时57分]"
         },
         {
+          "title": "各地文旅盯上了云南bigbang",
+          "url": "https://www.douyin.com/hot/2284374",
+          "source": "抖音",
+          "ranks": [
+            26,
+            24,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时25分 ~ 18时30分]"
+        },
+        {
+          "title": "《英雄联盟》「海克斯大乱斗」模式已上线国服，体验过的玩家如何评价该模式？",
+          "url": "https://www.zhihu.com/question/1966091569791726150",
+          "source": "知乎",
+          "ranks": [
+            20,
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时35分 ~ 18时30分]"
+        },
+        {
           "title": "Digi活死人二番战梳理",
           "url": "https://search.bilibili.com/all?keyword=Digi%E6%B4%BB%E6%AD%BB%E4%BA%BA%E4%BA%8C%E7%95%AA%E6%88%98%E6%A2%B3%E7%90%86",
           "source": "bilibili 热搜",
@@ -84,30 +110,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时26分 ~ 13时25分]"
-        },
-        {
-          "title": "各地文旅盯上了云南bigbang",
-          "url": "https://www.douyin.com/hot/2284374",
-          "source": "抖音",
-          "ranks": [
-            26,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时25分 ~ 17时29分]"
-        },
-        {
-          "title": "《英雄联盟》「海克斯大乱斗」模式已上线国服，体验过的玩家如何评价该模式？",
-          "url": "https://www.zhihu.com/question/1966091569791726150",
-          "source": "知乎",
-          "ranks": [
-            20,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时35分 ~ 17时29分]"
         }
       ]
     }
