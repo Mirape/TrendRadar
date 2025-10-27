@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-27T11:26:32.081223+08:00",
-  "total_titles_processed": 741,
+  "generated_at": "2025-10-27T12:33:56.779783+08:00",
+  "total_titles_processed": 860,
   "failed_sources": [],
   "trends": [
     {
@@ -15,25 +15,12 @@
             1,
             4,
             5,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 11时26分]"
-        },
-        {
-          "title": "AL对上T1,如何评价LPL签运?",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346217&amp;topic_name=AL%E5%AF%B9%E4%B8%8AT1%2C%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7LPL%E7%AD%BE%E8%BF%90%3F",
-          "source": "贴吧",
-          "ranks": [
-            15,
-            16,
-            20,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 11时26分]"
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 12时33分]"
         },
         {
           "title": "锐评T1战胜MKOI",
@@ -44,11 +31,27 @@
             18,
             6,
             10,
-            27
+            27,
+            23
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 09时57分]"
+          "appearance_count": 10,
+          "time_info": "[00时28分 ~ 12时33分]"
+        },
+        {
+          "title": "AL对上T1,如何评价LPL签运?",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346217&amp;topic_name=AL%E5%AF%B9%E4%B8%8AT1%2C%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7LPL%E7%AD%BE%E8%BF%90%3F",
+          "source": "贴吧",
+          "ranks": [
+            15,
+            16,
+            20,
+            26,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 12时33分]"
         },
         {
           "title": "Faker燃尽!T1横扫MKOI",
@@ -68,11 +71,12 @@
           "url": "https://search.bilibili.com/all?keyword=Digi%E6%B4%BB%E6%AD%BB%E4%BA%BA%E4%BA%8C%E7%95%AA%E6%88%98%E6%A2%B3%E7%90%86",
           "source": "bilibili 热搜",
           "ranks": [
-            12
+            12,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时26分 ~ 12时33分]"
         }
       ]
     }
