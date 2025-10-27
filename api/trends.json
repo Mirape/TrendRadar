@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-28T05:21:15.457453+08:00",
-  "total_titles_processed": 535,
+  "generated_at": "2025-10-28T06:24:28.615475+08:00",
+  "total_titles_processed": 571,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             13,
             24,
             27,
-            7
+            7,
+            16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 05时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 06时24分]"
         },
         {
           "title": "各地文旅盯上了云南bigbang",
@@ -31,11 +32,12 @@
             19,
             13,
             18,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 05时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 06时24分]"
         },
         {
           "title": "植僵重植版获IGN7分",
@@ -44,11 +46,12 @@
           "ranks": [
             23,
             25,
-            26
+            26,
+            18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 05时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 06时24分]"
         },
         {
           "title": "死保T1?拳头官媒遭爆破沦陷",
@@ -67,11 +70,25 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            17
+            17,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时26分 ~ 05时21分]"
+          "appearance_count": 3,
+          "time_info": "[04时26分 ~ 06时24分]"
+        },
+        {
+          "title": "Digi活死人二番战梳理",
+          "url": "https://search.bilibili.com/all?keyword=Digi%E6%B4%BB%E6%AD%BB%E4%BA%BA%E4%BA%8C%E7%95%AA%E6%88%98%E6%A2%B3%E7%90%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30,
+            27,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 06时24分]"
         },
         {
           "title": "明晟公司MSCI北欧国家指数涨0.30%，报362.21点，创6月16日以来收盘新高。 在十个板块中，北欧工业板块涨幅最大。 挪威保险公司Gjensidige Forsikring ASA涨3.1%，在一众北欧个股里领跑。",
@@ -98,18 +115,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时35分 ~ 04时26分]"
-        },
-        {
-          "title": "Digi活死人二番战梳理",
-          "url": "https://search.bilibili.com/all?keyword=Digi%E6%B4%BB%E6%AD%BB%E4%BA%BA%E4%BA%8C%E7%95%AA%E6%88%98%E6%A2%B3%E7%90%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 03时21分]"
         },
         {
           "title": "谷歌(GOOG.O)：通过Bigtable中的分层存储，可借助单一接口访问和修改热层与冷层中的数据。",
