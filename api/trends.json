@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-27T19:22:51.679450+08:00",
-  "total_titles_processed": 1509,
+  "generated_at": "2025-10-27T20:52:17.035748+08:00",
+  "total_titles_processed": 1621,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "死保T1?拳头官媒遭爆破沦陷",
@@ -21,11 +21,12 @@
             19,
             22,
             26,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时28分 ~ 19时22分]"
+          "appearance_count": 20,
+          "time_info": "[00时28分 ~ 20时52分]"
         },
         {
           "title": "锐评T1战胜MKOI",
@@ -74,6 +75,17 @@
           "time_info": "[00时28分 ~ 09时57分]"
         },
         {
+          "title": "云南bigbang家族集体亮相",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BA%91%E5%8D%97bigbang%E5%AE%B6%E6%97%8F%E9%9B%86%E4%BD%93%E4%BA%AE%E7%9B%B8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
+        },
+        {
           "title": "各地文旅盯上了云南bigbang",
           "url": "https://www.douyin.com/hot/2284374",
           "source": "抖音",
@@ -113,6 +125,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时26分 ~ 13时25分]"
+        },
+        {
+          "title": "英雄联盟总决赛瑞士轮的「不公平」，能否通过数学证明？",
+          "url": "https://www.zhihu.com/question/1964236698725627094",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
         }
       ]
     }
