@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-10-28T15:27:03.667161+08:00",
-  "total_titles_processed": 1278,
+  "generated_at": "2025-10-28T16:33:06.298318+08:00",
+  "total_titles_processed": 1390,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
       "match_count": 11,
       "titles": [
+        {
+          "title": "AL能否击败T1",
+          "url": "https://search.bilibili.com/all?keyword=AL%E8%83%BD%E5%90%A6%E5%87%BB%E8%B4%A5T1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时28分 ~ 16时33分]"
+        },
         {
           "title": "各地文旅盯上了云南bigbang",
           "url": "https://www.douyin.com/hot/2284374",
@@ -21,11 +32,12 @@
             4,
             6,
             11,
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时33分 ~ 15时27分]"
+          "appearance_count": 20,
+          "time_info": "[00时33分 ~ 16时33分]"
         },
         {
           "title": "云南bigbang家族集体亮相",
@@ -44,11 +56,12 @@
             18,
             26,
             23,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时33分 ~ 15时27分]"
+          "appearance_count": 20,
+          "time_info": "[00时33分 ~ 16时33分]"
         },
         {
           "title": "植僵重植版获IGN7分",
@@ -65,17 +78,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时33分 ~ 12时28分]"
-        },
-        {
-          "title": "AL能否击败T1",
-          "url": "https://search.bilibili.com/all?keyword=AL%E8%83%BD%E5%90%A6%E5%87%BB%E8%B4%A5T1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时28分 ~ 15时27分]"
         },
         {
           "title": "死保T1?拳头官媒遭爆破沦陷",
