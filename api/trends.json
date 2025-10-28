@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-28T14:36:48.191250+08:00",
-  "total_titles_processed": 1206,
+  "generated_at": "2025-10-28T15:27:03.667161+08:00",
+  "total_titles_processed": 1278,
   "failed_sources": [],
   "trends": [
     {
@@ -20,11 +20,12 @@
             9,
             4,
             6,
-            11
+            11,
+            17
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时33分 ~ 14时36分]"
+          "appearance_count": 18,
+          "time_info": "[00时33分 ~ 15时27分]"
         },
         {
           "title": "云南bigbang家族集体亮相",
@@ -42,11 +43,12 @@
             15,
             18,
             26,
-            23
+            23,
+            19
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时33分 ~ 14时36分]"
+          "appearance_count": 18,
+          "time_info": "[00时33分 ~ 15时27分]"
         },
         {
           "title": "植僵重植版获IGN7分",
@@ -65,6 +67,17 @@
           "time_info": "[00时33分 ~ 12时28分]"
         },
         {
+          "title": "AL能否击败T1",
+          "url": "https://search.bilibili.com/all?keyword=AL%E8%83%BD%E5%90%A6%E5%87%BB%E8%B4%A5T1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时28分 ~ 15时27分]"
+        },
+        {
           "title": "死保T1?拳头官媒遭爆破沦陷",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346229&amp;topic_name=%E6%AD%BB%E4%BF%9DT1%3F%E6%8B%B3%E5%A4%B4%E5%AE%98%E5%AA%92%E9%81%AD%E7%88%86%E7%A0%B4%E6%B2%A6%E9%99%B7",
           "source": "贴吧",
@@ -74,17 +87,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时33分 ~ 05时21分]"
-        },
-        {
-          "title": "AL能否击败T1",
-          "url": "https://search.bilibili.com/all?keyword=AL%E8%83%BD%E5%90%A6%E5%87%BB%E8%B4%A5T1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时28分 ~ 14时36分]"
         },
         {
           "title": "Cadence Design三季度营收13.4亿美元，分析师预期13.2亿美元。 三季度调整后EPS为1.93美元，分析师预期1.79美元。",
