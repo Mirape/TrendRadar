@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-28T16:33:06.298318+08:00",
-  "total_titles_processed": 1390,
+  "generated_at": "2025-10-28T17:28:36.647111+08:00",
+  "total_titles_processed": 1501,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时28分 ~ 16时33分]"
+          "appearance_count": 8,
+          "time_info": "[12时28分 ~ 17时28分]"
         },
         {
           "title": "各地文旅盯上了云南bigbang",
@@ -57,11 +57,12 @@
             26,
             23,
             19,
-            21
+            21,
+            29
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时33分 ~ 16时33分]"
+          "appearance_count": 21,
+          "time_info": "[00时33分 ~ 17时28分]"
         },
         {
           "title": "植僵重植版获IGN7分",
