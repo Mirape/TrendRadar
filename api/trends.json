@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-28T13:24:35.957714+08:00",
-  "total_titles_processed": 1103,
+  "generated_at": "2025-10-28T14:36:48.191250+08:00",
+  "total_titles_processed": 1206,
   "failed_sources": [],
   "trends": [
     {
@@ -19,11 +19,12 @@
             10,
             9,
             4,
-            6
+            6,
+            11
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时33分 ~ 13时24分]"
+          "appearance_count": 16,
+          "time_info": "[00时33分 ~ 14时36分]"
         },
         {
           "title": "云南bigbang家族集体亮相",
@@ -40,11 +41,12 @@
             9,
             15,
             18,
-            26
+            26,
+            23
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时33分 ~ 13时24分]"
+          "appearance_count": 16,
+          "time_info": "[00时33分 ~ 14时36分]"
         },
         {
           "title": "植僵重植版获IGN7分",
@@ -81,8 +83,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时28分 ~ 13时24分]"
+          "appearance_count": 3,
+          "time_info": "[12时28分 ~ 14时36分]"
         },
         {
           "title": "Cadence Design三季度营收13.4亿美元，分析师预期13.2亿美元。 三季度调整后EPS为1.93美元，分析师预期1.79美元。",
