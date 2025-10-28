@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-28T19:20:11.623051+08:00",
-  "total_titles_processed": 1718,
+  "generated_at": "2025-10-28T20:50:45.898439+08:00",
+  "total_titles_processed": 1844,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             4,
             5,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时28分 ~ 19时20分]"
+          "appearance_count": 12,
+          "time_info": "[12时28分 ~ 20时50分]"
         },
         {
           "title": "各地文旅盯上了云南bigbang",
