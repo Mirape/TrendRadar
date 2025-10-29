@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-29T11:20:04.618503+08:00",
-  "total_titles_processed": 975,
+  "generated_at": "2025-10-29T12:31:12.822596+08:00",
+  "total_titles_processed": 1081,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "AL能否击败T1",
@@ -21,6 +21,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时42分 ~ 06时23分]"
+        },
+        {
+          "title": "终于现场看到云南bigbang了",
+          "url": "https://www.douyin.com/hot/2286116",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时30分 ~ 12时31分]"
         }
       ]
     }
