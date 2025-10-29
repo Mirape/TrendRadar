@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-10-30T05:24:51.865573+08:00",
-  "total_titles_processed": 355,
+  "generated_at": "2025-10-30T06:28:11.553647+08:00",
+  "total_titles_processed": 406,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
       "match_count": 6,
       "titles": [
+        {
+          "title": "S15 AL对战T1前瞻",
+          "url": "https://search.bilibili.com/all?keyword=S15%20AL%E5%AF%B9%E6%88%98T1%E5%89%8D%E7%9E%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            21,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时35分 ~ 06时28分]"
+        },
         {
           "title": "AL vs T1应援曲",
           "url": "https://search.bilibili.com/all?keyword=AL%20vs%20T1%E5%BA%94%E6%8F%B4%E6%9B%B2",
@@ -15,20 +28,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时35分 ~ 05时24分]"
-        },
-        {
-          "title": "S15 AL对战T1前瞻",
-          "url": "https://search.bilibili.com/all?keyword=S15%20AL%E5%AF%B9%E6%88%98T1%E5%89%8D%E7%9E%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时35分 ~ 05时24分]"
+          "appearance_count": 5,
+          "time_info": "[04时35分 ~ 06时28分]"
         },
         {
           "title": "终于现场看到云南bigbang了",
@@ -38,8 +39,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时35分 ~ 05时24分]"
+          "appearance_count": 5,
+          "time_info": "[04时35分 ~ 06时28分]"
         },
         {
           "title": "EDG英雄联盟冠军经理加入瓦分部",
@@ -47,11 +48,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             22,
-            23
+            23,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时35分 ~ 05时24分]"
+          "appearance_count": 5,
+          "time_info": "[04时35分 ~ 06时28分]"
         },
         {
           "title": "T1我要挑战你",
@@ -59,22 +61,24 @@
           "source": "bilibili 热搜",
           "ranks": [
             28,
-            26
+            26,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时35分 ~ 05时24分]"
+          "appearance_count": 5,
+          "time_info": "[04时35分 ~ 06时28分]"
         },
         {
           "title": "无畏契约前T1主教练加入EDG",
           "url": "https://search.bilibili.com/all?keyword=%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6%E5%89%8DT1%E4%B8%BB%E6%95%99%E7%BB%83%E5%8A%A0%E5%85%A5EDG",
           "source": "bilibili 热搜",
           "ranks": [
-            29
+            29,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时24分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时24分 ~ 06时28分]"
         }
       ]
     }
