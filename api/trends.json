@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-29T17:25:50.043625+08:00",
-  "total_titles_processed": 1550,
+  "generated_at": "2025-10-29T18:27:16.375697+08:00",
+  "total_titles_processed": 1664,
   "failed_sources": [],
   "trends": [
     {
@@ -31,11 +31,12 @@
             12,
             18,
             16,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时30分 ~ 17时25分]"
+          "appearance_count": 9,
+          "time_info": "[12时30分 ~ 18时27分]"
         },
         {
           "title": "T1我要挑战你",
@@ -45,11 +46,12 @@
             8,
             14,
             23,
-            27
+            27,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时25分 ~ 17时25分]"
+          "appearance_count": 7,
+          "time_info": "[13时25分 ~ 18时27分]"
         },
         {
           "title": "瑞银集团首席财务官：瑞士信贷被瑞银集团收购时并无未偿付的AT1工具。",
@@ -58,7 +60,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
         },
@@ -69,7 +71,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
         },
@@ -82,8 +84,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时25分 ~ 17时25分]"
+          "appearance_count": 5,
+          "time_info": "[15时25分 ~ 18时27分]"
         },
         {
           "title": "当刀塔老玩家来预测S赛",
@@ -104,7 +106,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
         },
@@ -115,7 +117,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
         },
