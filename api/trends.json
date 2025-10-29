@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-29T20:52:02.444456+08:00",
-  "total_titles_processed": 1876,
+  "generated_at": "2025-10-29T21:36:44.977842+08:00",
+  "total_titles_processed": 1959,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "T1我要挑战你",
@@ -17,11 +17,12 @@
             23,
             27,
             15,
-            21
+            21,
+            26
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时25分 ~ 20时52分]"
+          "appearance_count": 11,
+          "time_info": "[13时25分 ~ 21时36分]"
         },
         {
           "title": "终于现场看到云南bigbang了",
@@ -37,8 +38,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时30分 ~ 20时52分]"
+          "appearance_count": 13,
+          "time_info": "[12时30分 ~ 21时36分]"
         },
         {
           "title": "AL能否击败T1",
@@ -115,6 +116,17 @@
           "time_info": "[16时33分 ~ 17时25分]"
         },
         {
+          "title": "AL vs T1应援曲",
+          "url": "https://search.bilibili.com/all?keyword=AL%20vs%20T1%E5%BA%94%E6%8F%B4%E6%9B%B2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
+        },
+        {
           "title": "瑞银集团首席财务官：在瑞银集团看来，作为AT1诉讼的一方并不会增加责任，且未获得瑞士政府的赔偿保证。",
           "url": "https://flash.jin10.com/detail/20251029165511479800",
           "source": "金十数据",
@@ -124,6 +136,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
+        },
+        {
+          "title": "S15 AL对战T1前瞻",
+          "url": "https://search.bilibili.com/all?keyword=S15%20AL%E5%AF%B9%E6%88%98T1%E5%89%8D%E7%9E%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         },
         {
           "title": "瑞银集团首席财务官：计划与金融市场监管局一道，就AT1减记提出上诉，以确保法院考虑其对此次收购的看法。",
