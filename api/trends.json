@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-30T17:29:28.532433+08:00",
-  "total_titles_processed": 1354,
+  "generated_at": "2025-10-30T18:26:34.670052+08:00",
+  "total_titles_processed": 1460,
   "failed_sources": [],
   "trends": [
     {
@@ -101,11 +101,12 @@
           "url": "https://www.baidu.com/s?wd=%E4%B8%A4%E5%A4%A7%E7%AA%81%E7%A0%B4%EF%BC%81T1400%E6%97%A0%E4%BA%BA%E7%9B%B4%E5%8D%87%E6%9C%BA%E9%A6%96%E8%88%AA%E6%88%90%E5%8A%9F",
           "source": "百度热搜",
           "ranks": [
-            7
+            7,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时29分 ~ 18时26分]"
         },
         {
           "title": "被云南BIGBANG的烤洋芋香迷糊了",
@@ -114,7 +115,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
         }
