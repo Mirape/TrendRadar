@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-30T11:15:59.995129+08:00",
-  "total_titles_processed": 743,
+  "generated_at": "2025-10-30T12:29:45.940346+08:00",
+  "total_titles_processed": 857,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             6,
             3,
             21,
-            27
+            27,
+            17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[04时35分 ~ 11时15分]"
+          "appearance_count": 10,
+          "time_info": "[04时35分 ~ 12时29分]"
         },
         {
           "title": "EDG英雄联盟冠军经理加入瓦分部",
@@ -32,8 +33,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[04时35分 ~ 11时15分]"
+          "appearance_count": 10,
+          "time_info": "[04时35分 ~ 12时29分]"
         },
         {
           "title": "S15 AL对战T1前瞻",
@@ -44,11 +45,12 @@
             21,
             2,
             25,
-            28
+            28,
+            20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时35分 ~ 11时15分]"
+          "appearance_count": 8,
+          "time_info": "[04时35分 ~ 12时29分]"
         },
         {
           "title": "终于现场看到云南bigbang了",
