@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-30T21:36:18.249290+08:00",
-  "total_titles_processed": 1761,
+  "generated_at": "2025-10-30T22:26:11.578796+08:00",
+  "total_titles_processed": 1853,
   "failed_sources": [],
   "trends": [
     {
@@ -60,18 +60,6 @@
           "time_info": "[04时35分 ~ 14时35分]"
         },
         {
-          "title": "终于现场看到云南bigbang了",
-          "url": "https://www.douyin.com/hot/2286116",
-          "source": "抖音",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时35分 ~ 07时24分]"
-        },
-        {
           "title": "两大突破！T1400无人直升机首航成功",
           "url": "https://www.baidu.com/s?wd=%E4%B8%A4%E5%A4%A7%E7%AA%81%E7%A0%B4%EF%BC%81T1400%E6%97%A0%E4%BA%BA%E7%9B%B4%E5%8D%87%E6%9C%BA%E9%A6%96%E8%88%AA%E6%88%90%E5%8A%9F",
           "source": "百度热搜",
@@ -83,8 +71,20 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时29分 ~ 21时36分]"
+          "appearance_count": 8,
+          "time_info": "[17时29分 ~ 22时26分]"
+        },
+        {
+          "title": "终于现场看到云南bigbang了",
+          "url": "https://www.douyin.com/hot/2286116",
+          "source": "抖音",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[04时35分 ~ 07时24分]"
         },
         {
           "title": "无畏契约前T1主教练加入EDG",
