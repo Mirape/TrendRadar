@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-30T14:35:43.964737+08:00",
-  "total_titles_processed": 1038,
+  "generated_at": "2025-10-30T15:24:33.843775+08:00",
+  "total_titles_processed": 1134,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             21,
             27,
             17,
-            20
+            20,
+            25
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[04时35分 ~ 13时25分]"
+          "appearance_count": 12,
+          "time_info": "[04时35分 ~ 15时24分]"
         },
         {
           "title": "S15 AL对战T1前瞻",
@@ -35,11 +36,12 @@
             28,
             20,
             18,
-            19
+            19,
+            27
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[04时35分 ~ 14时35分]"
+          "appearance_count": 11,
+          "time_info": "[04时35分 ~ 15时24分]"
         },
         {
           "title": "EDG英雄联盟冠军经理加入瓦分部",
