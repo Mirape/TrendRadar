@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-30T18:26:34.670052+08:00",
-  "total_titles_processed": 1460,
+  "generated_at": "2025-10-30T19:22:05.068366+08:00",
+  "total_titles_processed": 1557,
   "failed_sources": [],
   "trends": [
     {
@@ -37,11 +37,12 @@
             20,
             18,
             19,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[04时35分 ~ 15时24分]"
+          "appearance_count": 13,
+          "time_info": "[04时35分 ~ 19时22分]"
         },
         {
           "title": "EDG英雄联盟冠军经理加入瓦分部",
@@ -102,11 +103,12 @@
           "source": "百度热搜",
           "ranks": [
             7,
-            24
+            24,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时29分 ~ 18时26分]"
+          "appearance_count": 4,
+          "time_info": "[17时29分 ~ 19时22分]"
         },
         {
           "title": "被云南BIGBANG的烤洋芋香迷糊了",
