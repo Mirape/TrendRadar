@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-30T13:25:21.247365+08:00",
-  "total_titles_processed": 954,
+  "generated_at": "2025-10-30T14:35:43.964737+08:00",
+  "total_titles_processed": 1038,
   "failed_sources": [],
   "trends": [
     {
@@ -24,20 +24,6 @@
           "time_info": "[04时35分 ~ 13时25分]"
         },
         {
-          "title": "EDG英雄联盟冠军经理加入瓦分部",
-          "url": "https://search.bilibili.com/all?keyword=EDG%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E5%86%A0%E5%86%9B%E7%BB%8F%E7%90%86%E5%8A%A0%E5%85%A5%E7%93%A6%E5%88%86%E9%83%A8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22,
-            23,
-            21,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[04时35分 ~ 13时25分]"
-        },
-        {
           "title": "S15 AL对战T1前瞻",
           "url": "https://search.bilibili.com/all?keyword=S15%20AL%E5%AF%B9%E6%88%98T1%E5%89%8D%E7%9E%BB",
           "source": "bilibili 热搜",
@@ -48,11 +34,27 @@
             25,
             28,
             20,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[04时35分 ~ 13时25分]"
+          "appearance_count": 10,
+          "time_info": "[04时35分 ~ 14时35分]"
+        },
+        {
+          "title": "EDG英雄联盟冠军经理加入瓦分部",
+          "url": "https://search.bilibili.com/all?keyword=EDG%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E5%86%A0%E5%86%9B%E7%BB%8F%E7%90%86%E5%8A%A0%E5%85%A5%E7%93%A6%E5%88%86%E9%83%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22,
+            23,
+            21,
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[04时35分 ~ 14时35分]"
         },
         {
           "title": "终于现场看到云南bigbang了",
