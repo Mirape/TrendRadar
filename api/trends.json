@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-30T22:26:11.578796+08:00",
-  "total_titles_processed": 1853,
+  "generated_at": "2025-10-30T23:29:35.980361+08:00",
+  "total_titles_processed": 1941,
   "failed_sources": [],
   "trends": [
     {
@@ -68,11 +68,12 @@
             24,
             22,
             17,
-            19
+            19,
+            30
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时29分 ~ 22时26分]"
+          "appearance_count": 9,
+          "time_info": "[17时29分 ~ 23时29分]"
         },
         {
           "title": "终于现场看到云南bigbang了",
