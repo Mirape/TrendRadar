@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-31T14:35:48.784297+08:00",
-  "total_titles_processed": 1211,
+  "generated_at": "2025-10-31T15:24:13.293931+08:00",
+  "total_titles_processed": 1290,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 10,
+      "match_count": 14,
       "titles": [
         {
           "title": "终极考验,AL能否弑神终结T1神话",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时31分 ~ 14时35分]"
+          "appearance_count": 5,
+          "time_info": "[12时31分 ~ 15时24分]"
         },
         {
           "title": "鱼死网破?ON光速切割试训IG",
@@ -26,8 +26,65 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时25分 ~ 15时24分]"
+        },
+        {
+          "title": "S15 AL vs T1",
+          "url": "https://search.bilibili.com/all?keyword=AL%20T1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时25分 ~ 14时35分]"
+          "time_info": "[15时23分 ~ 15时24分]"
+        },
+        {
+          "title": "AL对阵T1",
+          "url": "https://www.douyin.com/hot/2289697",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时23分 ~ 15时24分]"
+        },
+        {
+          "title": "AL T1交手的胜负关键点",
+          "url": "https://search.bilibili.com/all?keyword=AL%20T1%E4%BA%A4%E6%89%8B%E7%9A%84%E8%83%9C%E8%B4%9F%E5%85%B3%E9%94%AE%E7%82%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时23分 ~ 15时24分]"
+        },
+        {
+          "title": "AL对战T1",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23AL%E5%AF%B9%E6%88%98T1%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D5%26lcate%3D5001%26band_rank%3D5%26filter_type%3Drealtimehot%26dgr%3D0%26stream_entry_id%3D31%26c_type%3D31%26cate%3D5001%26q%3D%2523AL%25E5%25AF%25B9%25E6%2588%2598T1%2523%26flag%3D1%26realpos%3D5%26display_time%3D1761895345%26pre_seqid%3D176189534502803382628153&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时23分 ~ 15时24分]"
+        },
+        {
+          "title": "AL vs T1数据前瞻",
+          "url": "https://search.bilibili.com/all?keyword=AL%20vs%20T1%E6%95%B0%E6%8D%AE%E5%89%8D%E7%9E%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时31分 ~ 15时24分]"
         },
         {
           "title": "美国白宫将（总统特朗普）对商品期货交易委员会（CFTC）主席Selig的提名移交给参议院。",
@@ -52,19 +109,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时20分 ~ 04时26分]"
-        },
-        {
-          "title": "AL vs T1数据前瞻",
-          "url": "https://search.bilibili.com/all?keyword=AL%20vs%20T1%E6%95%B0%E6%8D%AE%E5%89%8D%E7%9E%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时31分 ~ 14时35分]"
         },
         {
           "title": "OpenAI、甲骨文及Related Digital宣布在密歇根州设立星门数据中心园区。",
