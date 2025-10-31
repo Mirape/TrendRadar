@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-31T17:27:51.435551+08:00",
-  "total_titles_processed": 1502,
+  "generated_at": "2025-10-31T18:26:33.447702+08:00",
+  "total_titles_processed": 1596,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "鱼死网破?ON光速切割试训IG",
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时25分 ~ 17时27分]"
+          "appearance_count": 8,
+          "time_info": "[13时25分 ~ 18时26分]"
         },
         {
           "title": "终极考验,AL能否弑神终结T1神话",
@@ -29,8 +29,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时31分 ~ 17时27分]"
+          "appearance_count": 9,
+          "time_info": "[12时31分 ~ 18时26分]"
         },
         {
           "title": "S15 AL vs T1",
@@ -40,8 +40,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时23分 ~ 17时27分]"
+          "appearance_count": 6,
+          "time_info": "[15时23分 ~ 18时26分]"
         },
         {
           "title": "AL对阵T1",
@@ -49,11 +49,12 @@
           "source": "抖音",
           "ranks": [
             1,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时23分 ~ 17时27分]"
+          "appearance_count": 6,
+          "time_info": "[15时23分 ~ 18时26分]"
         },
         {
           "title": "AL对战T1",
@@ -61,11 +62,12 @@
           "source": "微博",
           "ranks": [
             5,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时23分 ~ 17时27分]"
+          "appearance_count": 6,
+          "time_info": "[15时23分 ~ 18时26分]"
         },
         {
           "title": "AL T1交手的胜负关键点",
@@ -73,11 +75,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             2,
-            17
+            17,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时23分 ~ 17时27分]"
+          "appearance_count": 6,
+          "time_info": "[15时23分 ~ 18时26分]"
         },
         {
           "title": "一碰就碎!T1完虐AL拿下首局",
@@ -99,8 +102,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时32分 ~ 17时27分]"
+          "appearance_count": 4,
+          "time_info": "[16时32分 ~ 18时26分]"
+        },
+        {
+          "title": "T1选手对中国美食赞不绝口",
+          "url": "https://search.bilibili.com/all?keyword=T1%E9%80%89%E6%89%8B%E5%AF%B9%E4%B8%AD%E5%9B%BD%E7%BE%8E%E9%A3%9F%E8%B5%9E%E4%B8%8D%E7%BB%9D%E5%8F%A3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
         },
         {
           "title": "卡皮巴拉离谱预测AL对战T1",
@@ -108,11 +122,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             5,
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时32分 ~ 17时27分]"
+          "appearance_count": 4,
+          "time_info": "[16时32分 ~ 18时26分]"
         },
         {
           "title": "AL vs T1数据前瞻",
@@ -159,8 +174,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时32分 ~ 17时27分]"
+          "appearance_count": 4,
+          "time_info": "[16时32分 ~ 18时26分]"
         },
         {
           "title": "OpenAI、甲骨文及Related Digital宣布在密歇根州设立星门数据中心园区。",
