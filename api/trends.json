@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-01T04:28:40.746914+08:00",
-  "total_titles_processed": 548,
+  "generated_at": "2025-11-01T05:20:06.553013+08:00",
+  "total_titles_processed": 570,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 04时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时30分 ~ 05时20分]"
         },
         {
           "title": "S15 淘汰赛 T1 鏖战五局 3:2 淘汰 AL 晋级半决赛，如何评价这场比赛？",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 04时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时30分 ~ 05时20分]"
         },
         {
           "title": "分锅大会:AL憾负T1该怪谁",
@@ -38,8 +38,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 04时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时30分 ~ 05时20分]"
         },
         {
           "title": "S15 全球总决赛半决赛 TES vs T1 谁能赢？",
@@ -49,11 +49,12 @@
             7,
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 04时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时30分 ~ 05时20分]"
         },
         {
           "title": "锐评T1战胜AL晋级四强",
@@ -66,8 +67,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 04时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时30分 ~ 05时20分]"
         },
         {
           "title": "T1战胜AL",
@@ -77,8 +78,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 04时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时30分 ~ 05时20分]"
         },
         {
           "title": "T1 AL赛后数据",
@@ -88,8 +89,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 04时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时30分 ~ 05时20分]"
         },
         {
           "title": "S15 T1战胜AL晋级四强",
@@ -98,11 +99,12 @@
           "ranks": [
             7,
             11,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 04时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时30分 ~ 05时20分]"
         },
         {
           "title": "AL 2:3 T1",
@@ -113,8 +115,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 04时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时30分 ~ 05时20分]"
         },
         {
           "title": "鱼死网破?ON光速切割试训IG",
@@ -125,8 +127,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 04时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时30分 ~ 05时20分]"
         },
         {
           "title": "Faker S赛对LPL十二连胜",
@@ -137,23 +139,12 @@
             9,
             11,
             23,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 04时28分]"
-        },
-        {
-          "title": "T1不败魔咒还在继续",
-          "url": "https://search.bilibili.com/all?keyword=T1%E4%B8%8D%E8%B4%A5%E9%AD%94%E5%92%92%E8%BF%98%E5%9C%A8%E7%BB%A7%E7%BB%AD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 04时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时30分 ~ 05时20分]"
         },
         {
           "title": "韩国战队T1对阵中国战队12连胜",
@@ -163,11 +154,25 @@
             26,
             23,
             19,
-            17
+            17,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 04时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时30分 ~ 05时20分]"
+        },
+        {
+          "title": "T1不败魔咒还在继续",
+          "url": "https://search.bilibili.com/all?keyword=T1%E4%B8%8D%E8%B4%A5%E9%AD%94%E5%92%92%E8%BF%98%E5%9C%A8%E7%BB%A7%E7%BB%AD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时30分 ~ 05时20分]"
         },
         {
           "title": "2night 3段式dissASEN",
@@ -175,11 +180,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             13,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时21分 ~ 04时28分]"
+          "appearance_count": 7,
+          "time_info": "[01时21分 ~ 05时20分]"
         },
         {
           "title": "T1选手对中国美食赞不绝口",
@@ -187,11 +193,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             28,
-            29
+            29,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时21分 ~ 04时28分]"
+          "appearance_count": 7,
+          "time_info": "[01时21分 ~ 05时20分]"
         },
         {
           "title": "美国能源部长Wright ：美国与加拿大之间的贸易关系出现裂痕，这背后有很不错的理由。 目标是，让两国重返谈判桌。 希望看到两国在石油、天然气、矿物领域合作。",
@@ -222,7 +229,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
         }
