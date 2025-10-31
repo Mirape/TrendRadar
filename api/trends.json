@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-31T18:26:33.447702+08:00",
-  "total_titles_processed": 1596,
+  "generated_at": "2025-10-31T19:21:28.304565+08:00",
+  "total_titles_processed": 1684,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "鱼死网破?ON光速切割试训IG",
@@ -13,24 +13,12 @@
           "source": "贴吧",
           "ranks": [
             3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时25分 ~ 18时26分]"
-        },
-        {
-          "title": "终极考验,AL能否弑神终结T1神话",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346515&amp;topic_name=%E7%BB%88%E6%9E%81%E8%80%83%E9%AA%8C%2CAL%E8%83%BD%E5%90%A6%E5%BC%91%E7%A5%9E%E7%BB%88%E7%BB%93T1%E7%A5%9E%E8%AF%9D",
-          "source": "贴吧",
-          "ranks": [
-            1,
-            6,
-            7
+            5,
+            6
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[12时31分 ~ 18时26分]"
+          "time_info": "[13时25分 ~ 19时21分]"
         },
         {
           "title": "S15 AL vs T1",
@@ -40,8 +28,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时23分 ~ 18时26分]"
+          "appearance_count": 7,
+          "time_info": "[15时23分 ~ 19时21分]"
         },
         {
           "title": "AL对阵T1",
@@ -53,8 +41,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时23分 ~ 18时26分]"
+          "appearance_count": 7,
+          "time_info": "[15时23分 ~ 19时21分]"
         },
         {
           "title": "AL对战T1",
@@ -66,8 +54,22 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时23分 ~ 18时26分]"
+          "appearance_count": 7,
+          "time_info": "[15时23分 ~ 19时21分]"
+        },
+        {
+          "title": "终极考验,AL能否弑神终结T1神话",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346515&amp;topic_name=%E7%BB%88%E6%9E%81%E8%80%83%E9%AA%8C%2CAL%E8%83%BD%E5%90%A6%E5%BC%91%E7%A5%9E%E7%BB%88%E7%BB%93T1%E7%A5%9E%E8%AF%9D",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            6,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时31分 ~ 19时21分]"
         },
         {
           "title": "AL T1交手的胜负关键点",
@@ -83,6 +85,18 @@
           "time_info": "[15时23分 ~ 18时26分]"
         },
         {
+          "title": "S15 淘汰赛 AL VS T1，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/1967591184491873708",
+          "source": "知乎",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时32分 ~ 19时21分]"
+        },
+        {
           "title": "一碰就碎!T1完虐AL拿下首局",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346544&amp;topic_name=%E4%B8%80%E7%A2%B0%E5%B0%B1%E7%A2%8E%21T1%E5%AE%8C%E8%99%90AL%E6%8B%BF%E4%B8%8B%E9%A6%96%E5%B1%80",
           "source": "贴吧",
@@ -94,40 +108,29 @@
           "time_info": "[16时32分 ~ 16时33分]"
         },
         {
-          "title": "S15 淘汰赛 AL VS T1，如何评价这场比赛？",
-          "url": "https://www.zhihu.com/question/1967591184491873708",
-          "source": "知乎",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时32分 ~ 18时26分]"
-        },
-        {
-          "title": "T1选手对中国美食赞不绝口",
-          "url": "https://search.bilibili.com/all?keyword=T1%E9%80%89%E6%89%8B%E5%AF%B9%E4%B8%AD%E5%9B%BD%E7%BE%8E%E9%A3%9F%E8%B5%9E%E4%B8%8D%E7%BB%9D%E5%8F%A3",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时26分"
-        },
-        {
           "title": "卡皮巴拉离谱预测AL对战T1",
           "url": "https://search.bilibili.com/all?keyword=%E5%8D%A1%E7%9A%AE%E5%B7%B4%E6%8B%89%E7%A6%BB%E8%B0%B1%E9%A2%84%E6%B5%8BAL%E5%AF%B9%E6%88%98T1",
           "source": "bilibili 热搜",
           "ranks": [
             5,
             7,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时32分 ~ 18时26分]"
+          "appearance_count": 5,
+          "time_info": "[16时32分 ~ 19时21分]"
+        },
+        {
+          "title": "不给机会,T1携带双龙拖入决胜局",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346544&amp;topic_name=%E4%B8%8D%E7%BB%99%E6%9C%BA%E4%BC%9A%2CT1%E6%90%BA%E5%B8%A6%E5%8F%8C%E9%BE%99%E6%8B%96%E5%85%A5%E5%86%B3%E8%83%9C%E5%B1%80",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
         },
         {
           "title": "AL vs T1数据前瞻",
@@ -143,6 +146,17 @@
           "time_info": "[12时31分 ~ 15时24分]"
         },
         {
+          "title": "S15淘汰赛：AL对战T1",
+          "url": "https://www.baidu.com/s?wd=S15%E6%B7%98%E6%B1%B0%E8%B5%9B%EF%BC%9AAL%E5%AF%B9%E6%88%98T1",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时32分 ~ 19时21分]"
+        },
+        {
           "title": "美国白宫将（总统特朗普）对商品期货交易委员会（CFTC）主席Selig的提名移交给参议院。",
           "url": "https://wallstreetcn.com/livenews/2997094",
           "source": "华尔街见闻-快讯",
@@ -155,6 +169,18 @@
           "time_info": "[03时20分 ~ 04时26分]"
         },
         {
+          "title": "T1选手对中国美食赞不绝口",
+          "url": "https://search.bilibili.com/all?keyword=T1%E9%80%89%E6%89%8B%E5%AF%B9%E4%B8%AD%E5%9B%BD%E7%BE%8E%E9%A3%9F%E8%B5%9E%E4%B8%8D%E7%BB%9D%E5%8F%A3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时26分 ~ 19时21分]"
+        },
+        {
           "title": "美国达拉斯联储主席洛根（2026年FOMC票委）：大小银行在金融支持方面存在差异 银行“后盾”（backstops）方面的差异造成了美国最大型银行和小型社区银行之间的竞争环境不平等。 公众认为，在金融压力时期，最大的银行将获得政府的救助。 与此同时，在社区银行，存款的保险限额仅为25万美元。 当压力出现时，客户首先需要安全，他们有时会涌向最大的银行。 或者，客户越来越多地使用互惠存款（reciprocal deposits），这提供了额外的保险，但会增加银行的成本，并带来运营及其他风险。 社区银行和“大到不能倒”（too-big-to-fail）巨头之间不平等的竞争环境，损害了我们经济所需的充满活力、竞争激烈的银行生态系统。",
           "url": "https://wallstreetcn.com/livenews/2997090",
           "source": "华尔街见闻-快讯",
@@ -165,17 +191,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时20分 ~ 04时26分]"
-        },
-        {
-          "title": "S15淘汰赛：AL对战T1",
-          "url": "https://www.baidu.com/s?wd=S15%E6%B7%98%E6%B1%B0%E8%B5%9B%EF%BC%9AAL%E5%AF%B9%E6%88%98T1",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时32分 ~ 18时26分]"
         },
         {
           "title": "OpenAI、甲骨文及Related Digital宣布在密歇根州设立星门数据中心园区。",
@@ -247,6 +262,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时26分 ~ 05时21分]"
+        },
+        {
+          "title": "AL对战T1决胜局",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3DAL%E5%AF%B9%E6%88%98T1%E5%86%B3%E8%83%9C%E5%B1%80&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D7%26stream_entry_id%3D31%26flag%3D1%26lcate%3D5001%26pos%3D8%26filter_type%3Drealtimehot%26c_type%3D31%26q%3DAL%25E5%25AF%25B9%25E6%2588%2598T1%25E5%2586%25B3%25E8%2583%259C%25E5%25B1%2580%26dgr%3D0%26band_rank%3D7%26cate%3D5001%26display_time%3D1761908179%26pre_seqid%3D176190817987802530100118&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
         }
       ]
     }
