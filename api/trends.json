@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-10-31T11:14:38.402753+08:00",
-  "total_titles_processed": 934,
+  "generated_at": "2025-10-31T12:31:25.501997+08:00",
+  "total_titles_processed": 1036,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "终极考验,AL能否弑神终结T1神话",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346515&amp;topic_name=%E7%BB%88%E6%9E%81%E8%80%83%E9%AA%8C%2CAL%E8%83%BD%E5%90%A6%E5%BC%91%E7%A5%9E%E7%BB%88%E7%BB%93T1%E7%A5%9E%E8%AF%9D",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
         {
           "title": "美国白宫将（总统特朗普）对商品期货交易委员会（CFTC）主席Selig的提名移交给参议院。",
           "url": "https://wallstreetcn.com/livenews/2997094",
@@ -90,6 +101,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时26分 ~ 05时21分]"
+        },
+        {
+          "title": "AL vs T1数据前瞻",
+          "url": "https://search.bilibili.com/all?keyword=AL%20vs%20T1%E6%95%B0%E6%8D%AE%E5%89%8D%E7%9E%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
         }
       ]
     }
