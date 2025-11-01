@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-02T06:22:02.154918+08:00",
-  "total_titles_processed": 391,
+  "generated_at": "2025-11-02T07:22:02.440662+08:00",
+  "total_titles_processed": 408,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时26分 ~ 06时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 07时22分]"
         },
         {
           "title": "TES T1数据前瞻",
@@ -26,23 +26,12 @@
             15,
             16,
             14,
-            6
+            6,
+            1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时26分 ~ 06时22分]"
-        },
-        {
-          "title": "分锅大会:AL憾负T1该怪谁",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346596&amp;topic_name=%E5%88%86%E9%94%85%E5%A4%A7%E4%BC%9A%3AAL%E6%86%BE%E8%B4%9FT1%E8%AF%A5%E6%80%AA%E8%B0%81",
-          "source": "贴吧",
-          "ranks": [
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时26分 ~ 06时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 07时22分]"
         },
         {
           "title": "锐评T1战胜AL",
@@ -54,11 +43,24 @@
             17,
             21,
             22,
-            20
+            20,
+            12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时26分 ~ 06时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 07时22分]"
+        },
+        {
+          "title": "分锅大会:AL憾负T1该怪谁",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346596&amp;topic_name=%E5%88%86%E9%94%85%E5%A4%A7%E4%BC%9A%3AAL%E6%86%BE%E8%B4%9FT1%E8%AF%A5%E6%80%AA%E8%B0%81",
+          "source": "贴吧",
+          "ranks": [
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 07时22分]"
         },
         {
           "title": "鱼死网破?ON光速切割试训IG",
@@ -69,8 +71,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时26分 ~ 06时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 07时22分]"
         },
         {
           "title": "理性分析AL惜败T1原因",
