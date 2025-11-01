@@ -1,25 +1,12 @@
 {
-  "generated_at": "2025-11-01T12:26:52.271742+08:00",
-  "total_titles_processed": 883,
+  "generated_at": "2025-11-01T13:24:11.240505+08:00",
+  "total_titles_processed": 951,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
       "match_count": 21,
       "titles": [
-        {
-          "title": "分锅大会:AL憾负T1该怪谁",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346596&amp;topic_name=%E5%88%86%E9%94%85%E5%A4%A7%E4%BC%9A%3AAL%E6%86%BE%E8%B4%9FT1%E8%AF%A5%E6%80%AA%E8%B0%81",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时30分 ~ 12时26分]"
-        },
         {
           "title": "S15 全球总决赛半决赛 TES vs T1 谁能赢？",
           "url": "https://www.zhihu.com/question/1967678299221227094",
@@ -35,6 +22,20 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时30分 ~ 12时26分]"
+        },
+        {
+          "title": "分锅大会:AL憾负T1该怪谁",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346596&amp;topic_name=%E5%88%86%E9%94%85%E5%A4%A7%E4%BC%9A%3AAL%E6%86%BE%E8%B4%9FT1%E8%AF%A5%E6%80%AA%E8%B0%81",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            4,
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时30分 ~ 13时24分]"
         },
         {
           "title": "S15 淘汰赛 T1 鏖战五局 3:2 淘汰 AL 晋级半决赛，如何评价这场比赛？",
@@ -62,20 +63,6 @@
           "time_info": "[00时30分 ~ 12时26分]"
         },
         {
-          "title": "难敌宿命!T1力克AL挺进四强",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346544&amp;topic_name=%E9%9A%BE%E6%95%8C%E5%AE%BF%E5%91%BD%21T1%E5%8A%9B%E5%85%8BAL%E6%8C%BA%E8%BF%9B%E5%9B%9B%E5%BC%BA",
-          "source": "贴吧",
-          "ranks": [
-            1,
-            7,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时30分 ~ 12时26分]"
-        },
-        {
           "title": "锐评T1战胜AL晋级四强",
           "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84T1%E6%88%98%E8%83%9CAL%E6%99%8B%E7%BA%A7%E5%9B%9B%E5%BC%BA",
           "source": "bilibili 热搜",
@@ -89,8 +76,23 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时30分 ~ 12时26分]"
+          "appearance_count": 15,
+          "time_info": "[00时30分 ~ 13时24分]"
+        },
+        {
+          "title": "难敌宿命!T1力克AL挺进四强",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346544&amp;topic_name=%E9%9A%BE%E6%95%8C%E5%AE%BF%E5%91%BD%21T1%E5%8A%9B%E5%85%8BAL%E6%8C%BA%E8%BF%9B%E5%9B%9B%E5%BC%BA",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            7,
+            9,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时30分 ~ 13时24分]"
         },
         {
           "title": "T1战胜AL",
@@ -116,8 +118,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时30分 ~ 12时26分]"
+          "appearance_count": 15,
+          "time_info": "[00时30分 ~ 13时24分]"
         },
         {
           "title": "T1不败魔咒还在继续",
@@ -129,11 +131,12 @@
             13,
             11,
             7,
-            14
+            14,
+            8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时30分 ~ 12时26分]"
+          "appearance_count": 15,
+          "time_info": "[00时30分 ~ 13时24分]"
         },
         {
           "title": "AL 2:3 T1",
@@ -146,8 +149,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时30分 ~ 12时26分]"
+          "appearance_count": 15,
+          "time_info": "[00时30分 ~ 13时24分]"
         },
         {
           "title": "鱼死网破?ON光速切割试训IG",
@@ -158,11 +161,12 @@
             10,
             12,
             14,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时30分 ~ 12时26分]"
+          "appearance_count": 15,
+          "time_info": "[00时30分 ~ 13时24分]"
         },
         {
           "title": "Faker S赛对LPL十二连胜",
@@ -178,11 +182,12 @@
             22,
             15,
             26,
-            24
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时30分 ~ 12时26分]"
+          "appearance_count": 15,
+          "time_info": "[00时30分 ~ 13时24分]"
         },
         {
           "title": "韩国战队T1对阵中国战队12连胜",
@@ -215,8 +220,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时21分 ~ 12时26分]"
+          "appearance_count": 14,
+          "time_info": "[01时21分 ~ 13时24分]"
         },
         {
           "title": "T1选手对中国美食赞不绝口",
@@ -236,11 +241,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E7%90%86%E6%80%A7%E5%88%86%E6%9E%90AL%E6%83%9C%E8%B4%A5T1%E5%8E%9F%E5%9B%A0",
           "source": "bilibili 热搜",
           "ranks": [
-            9
+            9,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时26分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时26分 ~ 13时24分]"
         },
         {
           "title": "AG老板谈AL不敌T1",
