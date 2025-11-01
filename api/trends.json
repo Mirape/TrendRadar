@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-01T19:20:05.133105+08:00",
-  "total_titles_processed": 1335,
+  "generated_at": "2025-11-01T20:43:36.966789+08:00",
+  "total_titles_processed": 1415,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "S15 全球总决赛半决赛 TES vs T1 谁能赢？",
@@ -49,8 +49,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时30分 ~ 19时20分]"
+          "appearance_count": 23,
+          "time_info": "[00时30分 ~ 20时43分]"
         },
         {
           "title": "锐评T1战胜AL晋级四强",
@@ -103,8 +103,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时30分 ~ 19时20分]"
+          "appearance_count": 23,
+          "time_info": "[00时30分 ~ 20时43分]"
         },
         {
           "title": "T1战胜AL",
@@ -146,11 +146,12 @@
             14,
             8,
             16,
-            9
+            9,
+            21
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时30分 ~ 19时20分]"
+          "appearance_count": 23,
+          "time_info": "[00时30分 ~ 20时43分]"
         },
         {
           "title": "AL 2:3 T1",
@@ -183,8 +184,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时30分 ~ 19时20分]"
+          "appearance_count": 23,
+          "time_info": "[00时30分 ~ 20时43分]"
         },
         {
           "title": "Faker S赛对LPL十二连胜",
@@ -247,6 +248,34 @@
           "time_info": "[01时21分 ~ 19时20分]"
         },
         {
+          "title": "锐评T1战胜AL",
+          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84T1%E6%88%98%E8%83%9CAL",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            19,
+            15,
+            25,
+            12,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时33分 ~ 20时43分]"
+        },
+        {
+          "title": "T1 战队截止 2025 年晋级全球总决赛则保底四强，他们下限如此高的原因在哪？",
+          "url": "https://www.zhihu.com/question/1967678642092990592",
+          "source": "知乎",
+          "ranks": [
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时33分 ~ 20时43分]"
+        },
+        {
           "title": "T1选手对中国美食赞不绝口",
           "url": "https://search.bilibili.com/all?keyword=T1%E9%80%89%E6%89%8B%E5%AF%B9%E4%B8%AD%E5%9B%BD%E7%BE%8E%E9%A3%9F%E8%B5%9E%E4%B8%8D%E7%BB%9D%E5%8F%A3",
           "source": "bilibili 热搜",
@@ -258,32 +287,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时21分 ~ 06时24分]"
-        },
-        {
-          "title": "锐评T1战胜AL",
-          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84T1%E6%88%98%E8%83%9CAL",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            19,
-            15,
-            25,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时33分 ~ 19时20分]"
-        },
-        {
-          "title": "T1 战队截止 2025 年晋级全球总决赛则保底四强，他们下限如此高的原因在哪？",
-          "url": "https://www.zhihu.com/question/1967678642092990592",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时33分 ~ 19时20分]"
         },
         {
           "title": "雫lulu二路直播陪看S赛",
@@ -332,6 +335,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
+        },
+        {
+          "title": "S15 全球总决赛淘汰赛 AL vs T1 的决胜局 Tabe 的 BP 策略有问题吗？",
+          "url": "https://www.zhihu.com/question/1967681003200929928",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
         },
         {
           "title": "美国能源部长Wright ：美国与加拿大之间的贸易关系出现裂痕，这背后有很不错的理由。 目标是，让两国重返谈判桌。 希望看到两国在石油、天然气、矿物领域合作。",
