@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-02T04:22:38.466556+08:00",
-  "total_titles_processed": 377,
+  "generated_at": "2025-11-02T05:20:54.509774+08:00",
+  "total_titles_processed": 385,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 04时22分]"
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 05时20分]"
         },
         {
           "title": "TES T1数据前瞻",
@@ -28,8 +28,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 04时22分]"
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 05时20分]"
         },
         {
           "title": "分锅大会:AL憾负T1该怪谁",
@@ -40,8 +40,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 04时22分]"
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 05时20分]"
         },
         {
           "title": "锐评T1战胜AL",
@@ -51,11 +51,12 @@
             24,
             26,
             17,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 04时22分]"
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 05时20分]"
         },
         {
           "title": "鱼死网破?ON光速切割试训IG",
@@ -66,8 +67,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 04时22分]"
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 05时20分]"
         },
         {
           "title": "理性分析AL惜败T1原因",
@@ -76,7 +77,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时22分"
         }
