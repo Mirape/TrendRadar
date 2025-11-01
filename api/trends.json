@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-01T22:21:24.803449+08:00",
-  "total_titles_processed": 1538,
+  "generated_at": "2025-11-01T23:22:01.412302+08:00",
+  "total_titles_processed": 1597,
   "failed_sources": [],
   "trends": [
     {
@@ -50,8 +50,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时30分 ~ 22时21分]"
+          "appearance_count": 27,
+          "time_info": "[00时30分 ~ 23时22分]"
         },
         {
           "title": "锐评T1战胜AL晋级四强",
@@ -180,11 +180,12 @@
             12,
             26,
             20,
-            27
+            27,
+            24
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时33分 ~ 22时21分]"
+          "appearance_count": 12,
+          "time_info": "[14时33分 ~ 23时22分]"
         },
         {
           "title": "鱼死网破?ON光速切割试训IG",
@@ -204,8 +205,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时30分 ~ 22时21分]"
+          "appearance_count": 27,
+          "time_info": "[00时30分 ~ 23时22分]"
         },
         {
           "title": "Faker S赛对LPL十二连胜",
@@ -299,9 +300,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时21分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时21分 ~ 23时22分]"
         },
         {
           "title": "雫lulu二路直播陪看S赛",
@@ -343,6 +344,18 @@
           "time_info": "[20时43分 ~ 22时21分]"
         },
         {
+          "title": "TES T1数据前瞻",
+          "url": "https://search.bilibili.com/all?keyword=TES%20T1%E6%95%B0%E6%8D%AE%E5%89%8D%E7%9E%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时21分 ~ 23时22分]"
+        },
+        {
           "title": "AG老板谈AL不敌T1",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3DAG%E8%80%81%E6%9D%BF%E8%B0%88AL%E4%B8%8D%E6%95%8CT1&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26realpos%3D16%26cate%3D5001%26dgr%3D0%26pos%3D17%26stream_entry_id%3D31%26lcate%3D5001%26band_rank%3D16%26q%3DAG%25E8%2580%2581%25E6%259D%25BF%25E8%25B0%2588AL%25E4%25B8%258D%25E6%2595%258CT1%26filter_type%3Drealtimehot%26flag%3D0%26display_time%3D1761960636%26pre_seqid%3D176196063604103350838148&launchid=10000360-page_H5",
           "source": "微博",
@@ -374,17 +387,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时30分"
-        },
-        {
-          "title": "TES T1数据前瞻",
-          "url": "https://search.bilibili.com/all?keyword=TES%20T1%E6%95%B0%E6%8D%AE%E5%89%8D%E7%9E%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时21分"
         },
         {
           "title": "美国能源部长Wright ：美国讨论向欧洲输送更多石油和天然气。",
