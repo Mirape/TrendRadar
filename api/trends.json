@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-01T18:24:56.996289+08:00",
-  "total_titles_processed": 1277,
+  "generated_at": "2025-11-01T19:20:05.133105+08:00",
+  "total_titles_processed": 1335,
   "failed_sources": [],
   "trends": [
     {
@@ -49,8 +49,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时30分 ~ 18时24分]"
+          "appearance_count": 22,
+          "time_info": "[00时30分 ~ 19时20分]"
         },
         {
           "title": "锐评T1战胜AL晋级四强",
@@ -99,11 +99,12 @@
             11,
             12,
             14,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时30分 ~ 18时24分]"
+          "appearance_count": 22,
+          "time_info": "[00时30分 ~ 19时20分]"
         },
         {
           "title": "T1战胜AL",
@@ -148,8 +149,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时30分 ~ 18时24分]"
+          "appearance_count": 22,
+          "time_info": "[00时30分 ~ 19时20分]"
         },
         {
           "title": "AL 2:3 T1",
@@ -178,11 +179,12 @@
             16,
             17,
             19,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时30分 ~ 18时24分]"
+          "appearance_count": 22,
+          "time_info": "[00时30分 ~ 19时20分]"
         },
         {
           "title": "Faker S赛对LPL十二连胜",
@@ -237,11 +239,12 @@
             19,
             20,
             25,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[01时21分 ~ 18时24分]"
+          "appearance_count": 21,
+          "time_info": "[01时21分 ~ 19时20分]"
         },
         {
           "title": "T1选手对中国美食赞不绝口",
@@ -264,11 +267,12 @@
             8,
             19,
             15,
-            25
+            25,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时33分 ~ 18时24分]"
+          "appearance_count": 7,
+          "time_info": "[14时33分 ~ 19时20分]"
         },
         {
           "title": "T1 战队截止 2025 年晋级全球总决赛则保底四强，他们下限如此高的原因在哪？",
@@ -278,8 +282,21 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时33分 ~ 19时20分]"
+        },
+        {
+          "title": "雫lulu二路直播陪看S赛",
+          "url": "https://search.bilibili.com/all?keyword=%E9%9B%ABlulu%E4%BA%8C%E8%B7%AF%E7%9B%B4%E6%92%AD%E9%99%AA%E7%9C%8BS%E8%B5%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18,
+            8,
+            17
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[14时33分 ~ 18时24分]"
+          "time_info": "[16时29分 ~ 19时20分]"
         },
         {
           "title": "理性分析AL惜败T1原因",
@@ -293,18 +310,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时26分 ~ 14时33分]"
-        },
-        {
-          "title": "雫lulu二路直播陪看S赛",
-          "url": "https://search.bilibili.com/all?keyword=%E9%9B%ABlulu%E4%BA%8C%E8%B7%AF%E7%9B%B4%E6%92%AD%E9%99%AA%E7%9C%8BS%E8%B5%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时29分 ~ 18时24分]"
         },
         {
           "title": "AG老板谈AL不敌T1",
