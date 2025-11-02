@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-02T15:21:34.666605+08:00",
-  "total_titles_processed": 858,
+  "generated_at": "2025-11-02T16:27:05.878312+08:00",
+  "total_titles_processed": 915,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 13,
+      "match_count": 17,
       "titles": [
         {
           "title": "反T1装甲被击碎,谁能阻挡T1?",
@@ -16,11 +16,27 @@
             1,
             2,
             9,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时26分 ~ 15时21分]"
+          "appearance_count": 20,
+          "time_info": "[00时26分 ~ 16时27分]"
+        },
+        {
+          "title": "T1对战TES",
+          "url": "https://www.douyin.com/hot/2291553",
+          "source": "抖音",
+          "ranks": [
+            3,
+            5,
+            6,
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时56分 ~ 16时27分]"
         },
         {
           "title": "TES T1数据前瞻",
@@ -35,11 +51,12 @@
             8,
             18,
             25,
-            22
+            22,
+            12
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时26分 ~ 15时21分]"
+          "appearance_count": 20,
+          "time_info": "[00时26分 ~ 16时27分]"
         },
         {
           "title": "锐评T1战胜AL",
@@ -67,11 +84,12 @@
             15,
             22,
             25,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时26分 ~ 15时21分]"
+          "appearance_count": 20,
+          "time_info": "[00时26分 ~ 16时27分]"
         },
         {
           "title": "鱼死网破?ON光速切割试训IG",
@@ -87,18 +105,52 @@
           "time_info": "[00时26分 ~ 11时21分]"
         },
         {
-          "title": "T1对战TES",
-          "url": "https://www.douyin.com/hot/2291553",
-          "source": "抖音",
+          "title": "S15 TES vs T1",
+          "url": "https://search.bilibili.com/all?keyword=TES%20T1",
+          "source": "bilibili 热搜",
           "ranks": [
-            3,
-            5,
-            6,
-            4
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时56分 ~ 15时21分]"
+          "appearance_count": 3,
+          "time_info": "[15时21分 ~ 16时27分]"
+        },
+        {
+          "title": "T1对战TES",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23T1%E5%AF%B9%E6%88%98TES%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D3%26realpos%3D4%26q%3D%2523T1%25E5%25AF%25B9%25E6%2588%2598TES%2523%26stream_entry_id%3D31%26dgr%3D0%26c_type%3D31%26lcate%3D5001%26cate%3D5001%26filter_type%3Drealtimehot%26flag%3D1%26band_rank%3D4%26display_time%3D1762067782%26pre_seqid%3D17620677825000338261851&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时21分 ~ 16时27分]"
+        },
+        {
+          "title": "AL 对战 T1 的落幕，是否意味着 LPL 赛区的终结？",
+          "url": "https://www.zhihu.com/question/1967683724146635561",
+          "source": "知乎",
+          "ranks": [
+            11,
+            10,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时21分 ~ 16时27分]"
+        },
+        {
+          "title": "毫无胜算,T1掌握节奏轻松取胜",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346631&amp;topic_name=%E6%AF%AB%E6%97%A0%E8%83%9C%E7%AE%97%2CT1%E6%8E%8C%E6%8F%A1%E8%8A%82%E5%A5%8F%E8%BD%BB%E6%9D%BE%E5%8F%96%E8%83%9C",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时26分 ~ 16时27分]"
         },
         {
           "title": "假如GalGame有S赛",
@@ -112,40 +164,48 @@
           "time_info": "[11时21分 ~ 12时29分]"
         },
         {
-          "title": "S15 TES vs T1",
-          "url": "https://search.bilibili.com/all?keyword=TES%20T1",
-          "source": "bilibili 热搜",
+          "title": "S15半决赛：TES对战T1",
+          "url": "https://www.baidu.com/s?wd=S15%E5%8D%8A%E5%86%B3%E8%B5%9B%EF%BC%9ATES%E5%AF%B9%E6%88%98T1",
+          "source": "百度热搜",
           "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时21分"
-        },
-        {
-          "title": "T1对战TES",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23T1%E5%AF%B9%E6%88%98TES%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D3%26realpos%3D4%26q%3D%2523T1%25E5%25AF%25B9%25E6%2588%2598TES%2523%26stream_entry_id%3D31%26dgr%3D0%26c_type%3D31%26lcate%3D5001%26cate%3D5001%26filter_type%3Drealtimehot%26flag%3D1%26band_rank%3D4%26display_time%3D1762067782%26pre_seqid%3D17620677825000338261851&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时21分"
-        },
-        {
-          "title": "AL 对战 T1 的落幕，是否意味着 LPL 赛区的终结？",
-          "url": "https://www.zhihu.com/question/1967683724146635561",
-          "source": "知乎",
-          "ranks": [
-            11,
-            10,
-            7,
-            9
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时21分 ~ 15时21分]"
+          "appearance_count": 3,
+          "time_info": "[15时21分 ~ 16时27分]"
+        },
+        {
+          "title": "T1对战TES先下一城",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23T1%E5%AF%B9%E6%88%98TES%E5%85%88%E4%B8%8B%E4%B8%80%E5%9F%8E%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D19%26cate%3D5001%26stream_entry_id%3D31%26lcate%3D5001%26flag%3D1%26q%3D%2523T1%25E5%25AF%25B9%25E6%2588%2598TES%25E5%2585%2588%25E4%25B8%258B%25E4%25B8%2580%25E5%259F%258E%2523%26realpos%3D19%26filter_type%3Drealtimehot%26pos%3D19%26c_type%3D31%26dgr%3D0%26display_time%3D1762071651%26pre_seqid%3D176207165136502544825135&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时26分 ~ 16时27分]"
+        },
+        {
+          "title": "S15 淘汰赛 T1 VS TES，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/1968316446720370314",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时26分 ~ 16时27分]"
+        },
+        {
+          "title": "张博恒解说T1对战TES",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%BC%A0%E5%8D%9A%E6%81%92%E8%A7%A3%E8%AF%B4T1%E5%AF%B9%E6%88%98TES%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D27%26cate%3D5001%26stream_entry_id%3D31%26lcate%3D5001%26flag%3D0%26q%3D%2523%25E5%25BC%25A0%25E5%258D%259A%25E6%2581%2592%25E8%25A7%25A3%25E8%25AF%25B4T1%25E5%25AF%25B9%25E6%2588%2598TES%2523%26realpos%3D27%26filter_type%3Drealtimehot%26pos%3D27%26c_type%3D31%26dgr%3D0%26display_time%3D1762071651%26pre_seqid%3D176207165136502544825135&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时26分 ~ 16时27分]"
         },
         {
           "title": "英雄联盟",
@@ -154,18 +214,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时21分"
-        },
-        {
-          "title": "S15半决赛：TES对战T1",
-          "url": "https://www.baidu.com/s?wd=S15%E5%8D%8A%E5%86%B3%E8%B5%9B%EF%BC%9ATES%E5%AF%B9%E6%88%98T1",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
         },
