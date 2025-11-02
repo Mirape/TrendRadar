@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-03T02:29:37.533907+08:00",
-  "total_titles_processed": 357,
+  "generated_at": "2025-11-03T03:17:41.689909+08:00",
+  "total_titles_processed": 366,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "联盟克星!T1完虐滔搏挺进决赛",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 02时29分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 03时17分]"
         },
         {
           "title": "S15 半决赛 T1 3:0 淘汰 TES 晋级总决赛将冲击三连冠，如何评价这场比赛？",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 02时29分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 03时17分]"
         },
         {
           "title": "T1横扫TES进决赛",
@@ -38,8 +38,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 02时29分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 03时17分]"
         },
         {
           "title": "S15 总决赛 T1 vs KT，你觉得谁能最终夺得今年全球总决赛的冠军？",
@@ -50,8 +50,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 02时29分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 03时17分]"
         },
         {
           "title": "S15 T1战胜TES晋级决赛",
@@ -62,20 +62,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 02时29分]"
-        },
-        {
-          "title": "锐评T1零封TES晋级",
-          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84T1%E9%9B%B6%E5%B0%81TES%E6%99%8B%E7%BA%A7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 02时29分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 03时17分]"
         },
         {
           "title": "TES不敌T1后发文",
@@ -83,11 +71,25 @@
           "source": "微博",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 02时29分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 03时17分]"
+        },
+        {
+          "title": "锐评T1零封TES晋级",
+          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84T1%E9%9B%B6%E5%B0%81TES%E6%99%8B%E7%BA%A7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 03时17分]"
         },
         {
           "title": "T1零封TES赛后数据",
@@ -95,11 +97,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             15,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 02时29分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 03时17分]"
         },
         {
           "title": "Faker S赛对LPL十三连胜",
@@ -107,11 +110,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             18,
-            16
+            16,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 02时29分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 03时17分]"
         },
         {
           "title": "反T1装甲被击碎,谁能阻挡T1?",
@@ -122,8 +126,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 02时29分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 03时17分]"
         },
         {
           "title": "峡谷之巅偶遇T1多兰",
@@ -135,8 +139,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 02时29分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 03时17分]"
         },
         {
           "title": "S15 半决赛 TES 遭 T1 零封淘汰，这场比赛他们输在哪？",
@@ -148,6 +152,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
+        },
+        {
+          "title": "S15 淘汰赛 T1 3 比 0 淘汰 TES，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/1968366016955408873",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时17分"
         }
       ]
     }
