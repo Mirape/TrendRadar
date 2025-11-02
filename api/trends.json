@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-03T06:24:09.208418+08:00",
-  "total_titles_processed": 408,
+  "generated_at": "2025-11-03T07:21:03.456632+08:00",
+  "total_titles_processed": 445,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 06时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 07时21分]"
         },
         {
           "title": "S15 半决赛 T1 3:0 淘汰 TES 晋级总决赛将冲击三连冠，如何评价这场比赛？",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 06时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 07时21分]"
         },
         {
           "title": "T1横扫TES进决赛",
@@ -36,11 +36,12 @@
           "source": "抖音",
           "ranks": [
             4,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 06时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 07时21分]"
         },
         {
           "title": "S15 T1战胜TES晋级决赛",
@@ -53,22 +54,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 06时24分]"
-        },
-        {
-          "title": "S15 总决赛 T1 vs KT，你觉得谁能最终夺得今年全球总决赛的冠军？",
-          "url": "https://www.zhihu.com/question/1968370320269342617",
-          "source": "知乎",
-          "ranks": [
-            6,
-            5,
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 06时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 07时21分]"
         },
         {
           "title": "锐评T1零封TES晋级",
@@ -82,8 +69,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 06时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 07时21分]"
         },
         {
           "title": "T1零封TES赛后数据",
@@ -98,8 +85,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 06时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 07时21分]"
         },
         {
           "title": "Faker S赛对LPL十三连胜",
@@ -110,11 +97,12 @@
             16,
             14,
             17,
-            10
+            10,
+            15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 06时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 07时21分]"
         },
         {
           "title": "反T1装甲被击碎,谁能阻挡T1?",
@@ -125,8 +113,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 06时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 07时21分]"
         },
         {
           "title": "峡谷之巅偶遇T1多兰",
@@ -136,7 +124,22 @@
             21,
             23,
             24,
-            25
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 07时21分]"
+        },
+        {
+          "title": "S15 总决赛 T1 vs KT，你觉得谁能最终夺得今年全球总决赛的冠军？",
+          "url": "https://www.zhihu.com/question/1968370320269342617",
+          "source": "知乎",
+          "ranks": [
+            6,
+            5,
+            18,
+            17
           ],
           "is_new": false,
           "appearance_count": 8,
