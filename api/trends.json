@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-02T13:22:49.696528+08:00",
-  "total_titles_processed": 741,
+  "generated_at": "2025-11-02T14:35:27.240702+08:00",
+  "total_titles_processed": 799,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时26分 ~ 13时22分]"
+          "appearance_count": 17,
+          "time_info": "[00时26分 ~ 14时35分]"
         },
         {
           "title": "TES T1数据前瞻",
@@ -36,8 +36,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时26分 ~ 13时22分]"
+          "appearance_count": 17,
+          "time_info": "[00时26分 ~ 14时35分]"
         },
         {
           "title": "锐评T1战胜AL",
@@ -67,8 +67,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时26分 ~ 13时22分]"
+          "appearance_count": 17,
+          "time_info": "[00时26分 ~ 14时35分]"
         },
         {
           "title": "鱼死网破?ON光速切割试训IG",
@@ -90,11 +90,12 @@
           "ranks": [
             3,
             5,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时56分 ~ 13时22分]"
+          "appearance_count": 5,
+          "time_info": "[09时56分 ~ 14时35分]"
         },
         {
           "title": "假如GalGame有S赛",
@@ -114,11 +115,12 @@
           "ranks": [
             11,
             10,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时21分 ~ 13时22分]"
+          "appearance_count": 4,
+          "time_info": "[11时21分 ~ 14时35分]"
         },
         {
           "title": "理性分析AL惜败T1原因",
