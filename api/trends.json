@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-02T20:42:16.042670+08:00",
-  "total_titles_processed": 1197,
+  "generated_at": "2025-11-02T21:26:32.158015+08:00",
+  "total_titles_processed": 1229,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "T1对战TES",
@@ -37,8 +37,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时26分 ~ 20时42分]"
+          "appearance_count": 25,
+          "time_info": "[00时26分 ~ 21时26分]"
         },
         {
           "title": "AL 对战 T1 的落幕，是否意味着 LPL 赛区的终结？",
@@ -55,8 +55,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时21分 ~ 20时42分]"
+          "appearance_count": 12,
+          "time_info": "[11时21分 ~ 21时26分]"
         },
         {
           "title": "T1对战TES",
@@ -157,8 +157,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时22分 ~ 20时42分]"
+          "appearance_count": 4,
+          "time_info": "[18时22分 ~ 21时26分]"
         },
         {
           "title": "S15 半决赛 T1 3:0 淘汰 TES 晋级总决赛将冲击三连冠，如何评价这场比赛？",
@@ -168,8 +168,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时22分 ~ 20时42分]"
+          "appearance_count": 4,
+          "time_info": "[18时22分 ~ 21时26分]"
         },
         {
           "title": "T1横扫TES进决赛",
@@ -177,11 +177,12 @@
           "source": "抖音",
           "ranks": [
             1,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时22分 ~ 20时42分]"
+          "appearance_count": 4,
+          "time_info": "[18时22分 ~ 21时26分]"
         },
         {
           "title": "T1战胜TES",
@@ -189,11 +190,12 @@
           "source": "微博",
           "ranks": [
             1,
-            5
+            5,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时22分 ~ 20时42分]"
+          "appearance_count": 4,
+          "time_info": "[18时22分 ~ 21时26分]"
         },
         {
           "title": "毫无胜算,T1掌握节奏轻松取胜",
@@ -234,11 +236,50 @@
           "source": "bilibili 热搜",
           "ranks": [
             1,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时22分 ~ 20时42分]"
+          "appearance_count": 4,
+          "time_info": "[18时22分 ~ 21时26分]"
+        },
+        {
+          "title": "S15 半决赛 TES 遭 T1 零封淘汰，这场比赛他们输在哪？",
+          "url": "https://www.zhihu.com/question/1968371047456794247",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时26分"
+        },
+        {
+          "title": "Faker S赛对LPL十三连胜",
+          "url": "https://search.bilibili.com/all?keyword=Faker%20S%E8%B5%9B%E5%AF%B9LPL%E5%8D%81%E4%B8%89%E8%BF%9E%E8%83%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            15,
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时22分 ~ 21时26分]"
+        },
+        {
+          "title": "TES不敌T1止步S15四强",
+          "url": "https://www.baidu.com/s?wd=TES%E4%B8%8D%E6%95%8CT1%E6%AD%A2%E6%AD%A5S15%E5%9B%9B%E5%BC%BA",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            20,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时22分 ~ 21时26分]"
         },
         {
           "title": "张博恒解说T1对战TES",
@@ -277,29 +318,28 @@
           "time_info": "[16时26分 ~ 17时22分]"
         },
         {
-          "title": "Faker S赛对LPL十三连胜",
-          "url": "https://search.bilibili.com/all?keyword=Faker%20S%E8%B5%9B%E5%AF%B9LPL%E5%8D%81%E4%B8%89%E8%BF%9E%E8%83%9C",
-          "source": "bilibili 热搜",
+          "title": "TES不敌T1后发文",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23TES%E4%B8%8D%E6%95%8CT1%E5%90%8E%E5%8F%91%E6%96%87%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26flag%3D1%26lcate%3D5001%26stream_entry_id%3D31%26cate%3D5001%26realpos%3D17%26band_rank%3D17%26q%3D%2523TES%25E4%25B8%258D%25E6%2595%258CT1%25E5%2590%258E%25E5%258F%2591%25E6%2596%2587%2523%26dgr%3D0%26pos%3D17%26display_time%3D1762086778%26pre_seqid%3D176208677843601677789153&launchid=10000360-page_H5",
+          "source": "微博",
           "ranks": [
-            8,
-            15,
-            14
+            17,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时22分 ~ 20时42分]"
+          "appearance_count": 2,
+          "time_info": "[20时42分 ~ 21时26分]"
         },
         {
-          "title": "TES不敌T1止步S15四强",
-          "url": "https://www.baidu.com/s?wd=TES%E4%B8%8D%E6%95%8CT1%E6%AD%A2%E6%AD%A5S15%E5%9B%9B%E5%BC%BA",
-          "source": "百度热搜",
+          "title": "T1零封TES赛后数据",
+          "url": "https://search.bilibili.com/all?keyword=T1%E9%9B%B6%E5%B0%81TES%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE",
+          "source": "bilibili 热搜",
           "ranks": [
-            15,
-            20
+            17,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时22分 ~ 20时42分]"
+          "appearance_count": 2,
+          "time_info": "[20时42分 ~ 21时26分]"
         },
         {
           "title": "T1对战TES先下一城",
@@ -322,28 +362,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
-        },
-        {
-          "title": "T1零封TES赛后数据",
-          "url": "https://search.bilibili.com/all?keyword=T1%E9%9B%B6%E5%B0%81TES%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时42分"
-        },
-        {
-          "title": "TES不敌T1后发文",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23TES%E4%B8%8D%E6%95%8CT1%E5%90%8E%E5%8F%91%E6%96%87%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26flag%3D1%26lcate%3D5001%26stream_entry_id%3D31%26cate%3D5001%26realpos%3D17%26band_rank%3D17%26q%3D%2523TES%25E4%25B8%258D%25E6%2595%258CT1%25E5%2590%258E%25E5%258F%2591%25E6%2596%2587%2523%26dgr%3D0%26pos%3D17%26display_time%3D1762086778%26pre_seqid%3D176208677843601677789153&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时42分"
         },
         {
           "title": "Uzi谈TESvsT1",
