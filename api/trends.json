@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-03T13:26:55.176241+08:00",
-  "total_titles_processed": 880,
+  "generated_at": "2025-11-03T14:37:48.029591+08:00",
+  "total_titles_processed": 979,
   "failed_sources": [],
   "trends": [
     {
@@ -43,8 +43,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时26分 ~ 13时26分]"
+          "appearance_count": 15,
+          "time_info": "[00时26分 ~ 14时37分]"
         },
         {
           "title": "S15 T1战胜TES晋级决赛",
@@ -57,11 +57,12 @@
             10,
             14,
             4,
-            21
+            21,
+            20
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时26分 ~ 13时26分]"
+          "appearance_count": 15,
+          "time_info": "[00时26分 ~ 14时37分]"
         },
         {
           "title": "锐评T1零封TES晋级",
@@ -77,26 +78,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时26分 ~ 13时26分]"
-        },
-        {
-          "title": "Faker S赛对LPL十三连胜",
-          "url": "https://search.bilibili.com/all?keyword=Faker%20S%E8%B5%9B%E5%AF%B9LPL%E5%8D%81%E4%B8%89%E8%BF%9E%E8%83%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18,
-            16,
-            14,
-            17,
-            10,
-            15,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时26分 ~ 13时26分]"
+          "appearance_count": 15,
+          "time_info": "[00时26分 ~ 14时37分]"
         },
         {
           "title": "T1零封TES赛后数据",
@@ -117,6 +100,25 @@
           "time_info": "[00时26分 ~ 12时33分]"
         },
         {
+          "title": "Faker S赛对LPL十三连胜",
+          "url": "https://search.bilibili.com/all?keyword=Faker%20S%E8%B5%9B%E5%AF%B9LPL%E5%8D%81%E4%B8%89%E8%BF%9E%E8%83%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18,
+            16,
+            14,
+            17,
+            10,
+            15,
+            6,
+            8,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时26分 ~ 14时37分]"
+        },
+        {
           "title": "反T1装甲被击碎,谁能阻挡T1?",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346615&amp;topic_name=%E5%8F%8DT1%E8%A3%85%E7%94%B2%E8%A2%AB%E5%87%BB%E7%A2%8E%2C%E8%B0%81%E8%83%BD%E9%98%BB%E6%8C%A1T1%3F",
           "source": "贴吧",
@@ -128,8 +130,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时26分 ~ 13时26分]"
+          "appearance_count": 15,
+          "time_info": "[00时26分 ~ 14时37分]"
         },
         {
           "title": "峡谷之巅偶遇T1多兰",
@@ -170,8 +172,23 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时21分 ~ 13时26分]"
+          "appearance_count": 4,
+          "time_info": "[11时21分 ~ 14时37分]"
+        },
+        {
+          "title": "TES主教练回应输给T1",
+          "url": "https://search.bilibili.com/all?keyword=TES%E4%B8%BB%E6%95%99%E7%BB%83%E5%9B%9E%E5%BA%94%E8%BE%93%E7%BB%99T1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23,
+            3,
+            20,
+            11,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时55分 ~ 14时37分]"
         },
         {
           "title": "S15 淘汰赛 T1 3 比 0 淘汰 TES，如何评价这场比赛？",
@@ -201,30 +218,17 @@
           "time_info": "[00时26分 ~ 04时25分]"
         },
         {
-          "title": "TES主教练回应输给T1",
-          "url": "https://search.bilibili.com/all?keyword=TES%E4%B8%BB%E6%95%99%E7%BB%83%E5%9B%9E%E5%BA%94%E8%BE%93%E7%BB%99T1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23,
-            3,
-            20,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时55分 ~ 13时26分]"
-        },
-        {
           "title": "T1 及 Faker 达成横跨十二年的对 LPL 十三战全胜，今年赛前普遍不被看好的他们做了哪些改变？",
           "url": "https://www.zhihu.com/question/1968373492257878662",
           "source": "知乎",
           "ranks": [
             10,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时33分 ~ 13时26分]"
+          "appearance_count": 3,
+          "time_info": "[12时33分 ~ 14时37分]"
         },
         {
           "title": "TES主教练回应输给T1",
