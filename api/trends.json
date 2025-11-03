@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-03T22:24:50.749173+08:00",
-  "total_titles_processed": 1685,
+  "generated_at": "2025-11-03T23:27:00.642921+08:00",
+  "total_titles_processed": 1778,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "S15 半决赛 T1 3:0 淘汰 TES 晋级总决赛将冲击三连冠，如何评价这场比赛？",
@@ -62,8 +62,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时21分 ~ 22时24分]"
+          "appearance_count": 17,
+          "time_info": "[11时21分 ~ 23时27分]"
         },
         {
           "title": "S15 T1战胜TES晋级决赛",
@@ -98,8 +98,34 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时26分 ~ 22时24分]"
+          "appearance_count": 28,
+          "time_info": "[00时26分 ~ 23时27分]"
+        },
+        {
+          "title": "“云南BIGBANG”爆火 5人为亲兄弟",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%BA%91%E5%8D%97BIGBANG%E2%80%9D%E7%88%86%E7%81%AB+5%E4%BA%BA%E4%B8%BA%E4%BA%B2%E5%85%84%E5%BC%9F",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            4,
+            8,
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时29分 ~ 23时27分]"
+        },
+        {
+          "title": "T1队员疑遭变态私生饭尾随偷拍",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346686&amp;topic_name=T1%E9%98%9F%E5%91%98%E7%96%91%E9%81%AD%E5%8F%98%E6%80%81%E7%A7%81%E7%94%9F%E9%A5%AD%E5%B0%BE%E9%9A%8F%E5%81%B7%E6%8B%8D",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时50分 ~ 23时27分]"
         },
         {
           "title": "锐评T1零封TES晋级",
@@ -212,42 +238,18 @@
           "time_info": "[00时26分 ~ 06时24分]"
         },
         {
-          "title": "“云南BIGBANG”爆火 5人为亲兄弟",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%BA%91%E5%8D%97BIGBANG%E2%80%9D%E7%88%86%E7%81%AB+5%E4%BA%BA%E4%B8%BA%E4%BA%B2%E5%85%84%E5%BC%9F",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            4,
-            8,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时29分 ~ 22时24分]"
-        },
-        {
-          "title": "T1队员疑遭变态私生饭尾随偷拍",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346686&amp;topic_name=T1%E9%98%9F%E5%91%98%E7%96%91%E9%81%AD%E5%8F%98%E6%80%81%E7%A7%81%E7%94%9F%E9%A5%AD%E5%B0%BE%E9%9A%8F%E5%81%B7%E6%8B%8D",
-          "source": "贴吧",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时50分 ~ 22时24分]"
-        },
-        {
           "title": "IG成立无畏契约分部",
           "url": "https://search.bilibili.com/all?keyword=IG%E6%88%90%E7%AB%8B%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6%E5%88%86%E9%83%A8",
           "source": "bilibili 热搜",
           "ranks": [
             6,
             2,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时22分 ~ 22时24分]"
+          "appearance_count": 7,
+          "time_info": "[19时22分 ~ 23时27分]"
         },
         {
           "title": "T1严正声明",
@@ -261,6 +263,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[19时22分 ~ 22时24分]"
+        },
+        {
+          "title": "TES发文告别S赛",
+          "url": "https://search.bilibili.com/all?keyword=TES%E5%8F%91%E6%96%87%E5%91%8A%E5%88%ABS%E8%B5%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时34分 ~ 23时27分]"
         },
         {
           "title": "TES主教练回应输给T1",
@@ -306,15 +320,16 @@
           "time_info": "[00时26分 ~ 04时25分]"
         },
         {
-          "title": "TES发文告别S赛",
-          "url": "https://search.bilibili.com/all?keyword=TES%E5%8F%91%E6%96%87%E5%91%8A%E5%88%ABS%E8%B5%9B",
-          "source": "bilibili 热搜",
+          "title": "“云南BIGBANG”爆火 5人为亲兄弟",
+          "url": "https://www.toutiao.com/trending/7567548737661255731/",
+          "source": "今日头条",
           "ranks": [
-            6
+            15,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时34分 ~ 22时24分]"
+          "appearance_count": 3,
+          "time_info": "[22时24分 ~ 23时27分]"
         },
         {
           "title": "Kanavi谈输给T1",
@@ -326,6 +341,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[20时50分 ~ 20时51分]"
+        },
+        {
+          "title": "云南bigbang雪地唱歌",
+          "url": "https://www.douyin.com/hot/2293361",
+          "source": "抖音",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时26分 ~ 23时27分]"
         },
         {
           "title": "TES主教练回应输给T1",
@@ -348,17 +374,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
-        },
-        {
-          "title": "“云南BIGBANG”爆火 5人为亲兄弟",
-          "url": "https://www.toutiao.com/trending/7567548737661255731/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时24分"
         }
       ]
     }
