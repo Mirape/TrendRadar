@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-03T15:24:39.290778+08:00",
-  "total_titles_processed": 1077,
+  "generated_at": "2025-11-03T16:34:17.430180+08:00",
+  "total_titles_processed": 1191,
   "failed_sources": [],
   "trends": [
     {
@@ -40,11 +40,12 @@
             1,
             2,
             9,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时26分 ~ 15时24分]"
+          "appearance_count": 18,
+          "time_info": "[00时26分 ~ 16时34分]"
         },
         {
           "title": "S15 T1战胜TES晋级决赛",
@@ -75,30 +76,25 @@
             16,
             1,
             15,
-            18
+            18,
+            26
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时26分 ~ 15时24分]"
+          "appearance_count": 18,
+          "time_info": "[00时26分 ~ 16时34分]"
         },
         {
-          "title": "T1零封TES赛后数据",
-          "url": "https://search.bilibili.com/all?keyword=T1%E9%9B%B6%E5%B0%81TES%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE",
+          "title": "T1为何能统治LPL赛区",
+          "url": "https://search.bilibili.com/all?keyword=T1%E4%B8%BA%E4%BD%95%E8%83%BD%E7%BB%9F%E6%B2%BBLPL%E8%B5%9B%E5%8C%BA",
           "source": "bilibili 热搜",
           "ranks": [
-            15,
-            14,
-            13,
-            16,
             6,
-            8,
-            12,
-            17,
-            27
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时26分 ~ 15时24分]"
+          "appearance_count": 7,
+          "time_info": "[11时21分 ~ 16时34分]"
         },
         {
           "title": "Faker S赛对LPL十三连胜",
@@ -117,8 +113,28 @@
             23
           ],
           "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[00时26分 ~ 16时34分]"
+        },
+        {
+          "title": "T1零封TES赛后数据",
+          "url": "https://search.bilibili.com/all?keyword=T1%E9%9B%B6%E5%B0%81TES%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            14,
+            13,
+            16,
+            6,
+            8,
+            12,
+            17,
+            27,
+            30
+          ],
+          "is_new": false,
           "appearance_count": 16,
-          "time_info": "[00时26分 ~ 15时24分]"
+          "time_info": "[00时26分 ~ 16时34分]"
         },
         {
           "title": "反T1装甲被击碎,谁能阻挡T1?",
@@ -129,11 +145,12 @@
             20,
             24,
             27,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时26分 ~ 15时24分]"
+          "appearance_count": 18,
+          "time_info": "[00时26分 ~ 16时34分]"
         },
         {
           "title": "峡谷之巅偶遇T1多兰",
@@ -166,16 +183,18 @@
           "time_info": "[00时26分 ~ 06时24分]"
         },
         {
-          "title": "T1为何能统治LPL赛区",
-          "url": "https://search.bilibili.com/all?keyword=T1%E4%B8%BA%E4%BD%95%E8%83%BD%E7%BB%9F%E6%B2%BBLPL%E8%B5%9B%E5%8C%BA",
-          "source": "bilibili 热搜",
+          "title": "T1 及 Faker 达成横跨十二年的对 LPL 十三战全胜，今年赛前普遍不被看好的他们做了哪些改变？",
+          "url": "https://www.zhihu.com/question/1968373492257878662",
+          "source": "知乎",
           "ranks": [
-            6,
-            1
+            10,
+            7,
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时21分 ~ 15时24分]"
+          "appearance_count": 6,
+          "time_info": "[12时33分 ~ 16时34分]"
         },
         {
           "title": "TES主教练回应输给T1",
@@ -192,20 +211,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时55分 ~ 15时24分]"
-        },
-        {
-          "title": "T1 及 Faker 达成横跨十二年的对 LPL 十三战全胜，今年赛前普遍不被看好的他们做了哪些改变？",
-          "url": "https://www.zhihu.com/question/1968373492257878662",
-          "source": "知乎",
-          "ranks": [
-            10,
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时33分 ~ 15时24分]"
         },
         {
           "title": "S15 淘汰赛 T1 3 比 0 淘汰 TES，如何评价这场比赛？",
