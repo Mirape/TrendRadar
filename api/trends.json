@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-04T11:15:51.115962+08:00",
-  "total_titles_processed": 958,
+  "generated_at": "2025-11-04T12:29:31.255659+08:00",
+  "total_titles_processed": 1078,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             2,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时30分 ~ 11时15分]"
+          "appearance_count": 14,
+          "time_info": "[00时30分 ~ 12时29分]"
         },
         {
           "title": "TES发文告别S赛",
@@ -27,11 +28,12 @@
             2,
             1,
             8,
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时30分 ~ 11时15分]"
+          "appearance_count": 14,
+          "time_info": "[00时30分 ~ 12时29分]"
         },
         {
           "title": "T1为何能统治LPL赛区",
@@ -64,23 +66,12 @@
             14,
             26,
             24,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时30分 ~ 11时15分]"
-        },
-        {
-          "title": "联盟克星!T1完虐滔搏挺进决赛",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346631&amp;topic_name=%E8%81%94%E7%9B%9F%E5%85%8B%E6%98%9F%21T1%E5%AE%8C%E8%99%90%E6%BB%94%E6%90%8F%E6%8C%BA%E8%BF%9B%E5%86%B3%E8%B5%9B",
-          "source": "贴吧",
-          "ranks": [
-            19,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时30分 ~ 11时15分]"
+          "appearance_count": 14,
+          "time_info": "[00时30分 ~ 12时29分]"
         },
         {
           "title": "云南bigbang雪地唱歌",
@@ -93,22 +84,37 @@
             25,
             19,
             20,
-            22
+            22,
+            17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时30分 ~ 11时15分]"
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 12时29分]"
+        },
+        {
+          "title": "联盟克星!T1完虐滔搏挺进决赛",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346631&amp;topic_name=%E8%81%94%E7%9B%9F%E5%85%8B%E6%98%9F%21T1%E5%AE%8C%E8%99%90%E6%BB%94%E6%90%8F%E6%8C%BA%E8%BF%9B%E5%86%B3%E8%B5%9B",
+          "source": "贴吧",
+          "ranks": [
+            19,
+            24,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时30分 ~ 12时29分]"
         },
         {
           "title": "如何看待 T1.oner 在对战 AL 决胜局中首次选择打野蒙多？",
           "url": "https://www.zhihu.com/question/1968326915627656403",
           "source": "知乎",
           "ranks": [
-            2
+            2,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时15分 ~ 12时29分]"
         },
         {
           "title": "为什么这次刀塔跟英雄联盟都没获得冠军，双方观众的态度会对选手不同？",
@@ -151,7 +157,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时15分"
         }
