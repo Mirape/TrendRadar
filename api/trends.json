@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-05T06:23:56.331929+08:00",
-  "total_titles_processed": 612,
+  "generated_at": "2025-11-05T07:29:49.488170+08:00",
+  "total_titles_processed": 688,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "T1生死局练英雄",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 06时23分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 07时29分]"
         },
         {
           "title": "黄牛哭晕在厕所,T1门票腰斩卖不出",
@@ -26,8 +26,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 06时23分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 07时29分]"
         },
         {
           "title": "T1队员疑遭变态私生饭尾随偷拍",
@@ -37,8 +37,19 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 06时23分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 07时29分]"
+        },
+        {
+          "title": "航班追踪网站Flightradar24：联合包裹5X2976航班是由一架注册号为N259UP的MD-11(F)型飞机执飞。这架机龄34年的飞机经过改装为货机，于2006年开始为联合包裹运营。",
+          "url": "https://flash.jin10.com/detail/20251105071124837800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时29分"
         },
         {
           "title": "比特币跌穿10万美元整数位心理关口，为6月份以来首次，跌幅超过6.5%。 加密货币概念股中，Bakkt跌17.4%，ProShares跌10.5%，Galaxy Digital跌8.3%，BTCS跌7.6%，Bit Digital跌6.6%，Coinbase跌6.2%，Circle跌6%。",
@@ -57,22 +68,35 @@
           "url": "https://flash.jin10.com/detail/20251105060002452800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时23分 ~ 07时29分]"
         },
         {
           "title": "澳大利亚10月AIG/PWC制造业表现指数 -22，前值-13.2。",
           "url": "https://flash.jin10.com/detail/20251105060002206800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时23分 ~ 07时29分]"
+        },
+        {
+          "title": "航班追踪网站Flightradar 24：我们正在关注有关路易斯维尔坠机事件的报道，该事件可能涉及一架 UPS MD-11货机。根据航班时间及数据丢失情况，我们正在确认涉事航班是否为注册号为N259UP 的5X2976航班。目前详情尚未得到证实。",
+          "url": "https://flash.jin10.com/detail/20251105065310174800",
+          "source": "金十数据",
+          "ranks": [
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时23分"
+          "time_info": "07时29分"
         }
       ]
     }
