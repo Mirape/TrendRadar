@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-04T21:39:11.737370+08:00",
-  "total_titles_processed": 1930,
+  "generated_at": "2025-11-04T22:25:31.562869+08:00",
+  "total_titles_processed": 1996,
   "failed_sources": [],
   "trends": [
     {
@@ -54,11 +54,12 @@
             11,
             13,
             15,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时30分 ~ 21时39分]"
+          "appearance_count": 26,
+          "time_info": "[00时30分 ~ 22时25分]"
         },
         {
           "title": "T1为何能统治LPL赛区",
@@ -141,8 +142,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时28分 ~ 21时39分]"
+          "appearance_count": 6,
+          "time_info": "[18时28分 ~ 22时25分]"
         },
         {
           "title": "黄牛哭晕在厕所,T1门票腰斩卖不出",
@@ -152,11 +153,12 @@
             4,
             6,
             8,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时28分 ~ 21时39分]"
+          "appearance_count": 7,
+          "time_info": "[17时28分 ~ 22时25分]"
         },
         {
           "title": "为什么这次刀塔跟英雄联盟都没获得冠军，双方观众的态度会对选手不同？",
