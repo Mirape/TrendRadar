@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-04T12:29:31.255659+08:00",
-  "total_titles_processed": 1078,
+  "generated_at": "2025-11-04T13:24:14.179247+08:00",
+  "total_titles_processed": 1175,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时30分 ~ 12时29分]"
+          "appearance_count": 16,
+          "time_info": "[00时30分 ~ 13时24分]"
         },
         {
           "title": "TES发文告别S赛",
@@ -29,11 +29,12 @@
             1,
             8,
             6,
-            3
+            3,
+            18
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时30分 ~ 12时29分]"
+          "appearance_count": 16,
+          "time_info": "[00时30分 ~ 13时24分]"
         },
         {
           "title": "T1为何能统治LPL赛区",
@@ -88,8 +89,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时30分 ~ 12时29分]"
+          "appearance_count": 14,
+          "time_info": "[00时30分 ~ 13时24分]"
         },
         {
           "title": "联盟克星!T1完虐滔搏挺进决赛",
@@ -101,8 +102,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时30分 ~ 12时29分]"
+          "appearance_count": 16,
+          "time_info": "[00时30分 ~ 13时24分]"
         },
         {
           "title": "如何看待 T1.oner 在对战 AL 决胜局中首次选择打野蒙多？",
@@ -110,11 +111,12 @@
           "source": "知乎",
           "ranks": [
             2,
-            3
+            3,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时15分 ~ 12时29分]"
+          "appearance_count": 4,
+          "time_info": "[11时15分 ~ 13时24分]"
         },
         {
           "title": "为什么这次刀塔跟英雄联盟都没获得冠军，双方观众的态度会对选手不同？",
