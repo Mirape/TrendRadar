@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-04T20:54:40.645320+08:00",
-  "total_titles_processed": 1845,
+  "generated_at": "2025-11-04T21:39:11.737370+08:00",
+  "total_titles_processed": 1930,
   "failed_sources": [],
   "trends": [
     {
@@ -57,8 +57,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时30分 ~ 20时54分]"
+          "appearance_count": 25,
+          "time_info": "[00时30分 ~ 21时39分]"
         },
         {
           "title": "T1为何能统治LPL赛区",
@@ -133,17 +133,6 @@
           "time_info": "[00时30分 ~ 16时36分]"
         },
         {
-          "title": "为什么这次刀塔跟英雄联盟都没获得冠军，双方观众的态度会对选手不同？",
-          "url": "https://www.zhihu.com/question/1968483602560956007",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
           "title": "T1生死局练英雄",
           "url": "https://search.bilibili.com/all?keyword=T1%E7%94%9F%E6%AD%BB%E5%B1%80%E7%BB%83%E8%8B%B1%E9%9B%84",
           "source": "bilibili 热搜",
@@ -152,8 +141,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时28分 ~ 20时54分]"
+          "appearance_count": 5,
+          "time_info": "[18时28分 ~ 21时39分]"
         },
         {
           "title": "黄牛哭晕在厕所,T1门票腰斩卖不出",
@@ -166,8 +155,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时28分 ~ 20时54分]"
+          "appearance_count": 6,
+          "time_info": "[17时28分 ~ 21时39分]"
+        },
+        {
+          "title": "为什么这次刀塔跟英雄联盟都没获得冠军，双方观众的态度会对选手不同？",
+          "url": "https://www.zhihu.com/question/1968483602560956007",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时50分"
         },
         {
           "title": "“云南BIGBANG”爆火 5人为亲兄弟",
