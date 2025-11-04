@@ -1,220 +1,44 @@
 {
-  "generated_at": "2025-11-04T23:31:37.769145+08:00",
-  "total_titles_processed": 2081,
+  "generated_at": "2025-11-05T00:30:13.017576+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 14,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "TES发文告别S赛",
-          "url": "https://search.bilibili.com/all?keyword=TES%E5%8F%91%E6%96%87%E5%91%8A%E5%88%ABS%E8%B5%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            1,
-            8,
-            6,
-            3,
-            18,
-            27,
-            25,
-            29,
-            26,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时30分 ~ 18时28分]"
-        },
-        {
-          "title": "如何看待 T1.oner 在对战 AL 决胜局中首次选择打野蒙多？",
-          "url": "https://www.zhihu.com/question/1968326915627656403",
-          "source": "知乎",
-          "ranks": [
-            2,
-            3,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时15分 ~ 17时28分]"
-        },
-        {
-          "title": "T1队员疑遭变态私生饭尾随偷拍",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346686&amp;topic_name=T1%E9%98%9F%E5%91%98%E7%96%91%E9%81%AD%E5%8F%98%E6%80%81%E7%A7%81%E7%94%9F%E9%A5%AD%E5%B0%BE%E9%9A%8F%E5%81%B7%E6%8B%8D",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            5,
-            6,
-            8,
-            10,
-            11,
-            13,
-            15,
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时30分 ~ 23时31分]"
-        },
-        {
-          "title": "T1为何能统治LPL赛区",
-          "url": "https://search.bilibili.com/all?keyword=T1%E4%B8%BA%E4%BD%95%E8%83%BD%E7%BB%9F%E6%B2%BBLPL%E8%B5%9B%E5%8C%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            17,
-            20,
-            14,
-            10,
-            27,
-            24,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时30分 ~ 09时50分]"
-        },
-        {
-          "title": "IG成立无畏契约分部",
-          "url": "https://search.bilibili.com/all?keyword=IG%E6%88%90%E7%AB%8B%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6%E5%88%86%E9%83%A8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20,
-            13,
-            12,
-            16,
-            11,
-            14,
-            26,
-            24,
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时30分 ~ 12时29分]"
-        },
-        {
-          "title": "云南bigbang雪地唱歌",
-          "url": "https://www.douyin.com/hot/2293361",
-          "source": "抖音",
-          "ranks": [
-            27,
-            30,
-            23,
-            25,
-            19,
-            20,
-            22,
-            17,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时30分 ~ 15时23分]"
-        },
-        {
-          "title": "联盟克星!T1完虐滔搏挺进决赛",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346631&amp;topic_name=%E8%81%94%E7%9B%9F%E5%85%8B%E6%98%9F%21T1%E5%AE%8C%E8%99%90%E6%BB%94%E6%90%8F%E6%8C%BA%E8%BF%9B%E5%86%B3%E8%B5%9B",
-          "source": "贴吧",
-          "ranks": [
-            19,
-            24,
-            25,
-            27,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时30分 ~ 16时36分]"
-        },
         {
           "title": "T1生死局练英雄",
           "url": "https://search.bilibili.com/all?keyword=T1%E7%94%9F%E6%AD%BB%E5%B1%80%E7%BB%83%E8%8B%B1%E9%9B%84",
           "source": "bilibili 热搜",
           "ranks": [
-            6,
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时28分 ~ 23时31分]"
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 00时30分]"
         },
         {
           "title": "黄牛哭晕在厕所,T1门票腰斩卖不出",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346705&amp;topic_name=%E9%BB%84%E7%89%9B%E5%93%AD%E6%99%95%E5%9C%A8%E5%8E%95%E6%89%80%2CT1%E9%97%A8%E7%A5%A8%E8%85%B0%E6%96%A9%E5%8D%96%E4%B8%8D%E5%87%BA",
           "source": "贴吧",
           "ranks": [
-            4,
-            6,
-            8,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时28分 ~ 23时31分]"
-        },
-        {
-          "title": "为什么这次刀塔跟英雄联盟都没获得冠军，双方观众的态度会对选手不同？",
-          "url": "https://www.zhihu.com/question/1968483602560956007",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "“云南BIGBANG”爆火 5人为亲兄弟",
-          "url": "https://www.toutiao.com/trending/7567548737661255731/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            17
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时30分 ~ 02时33分]"
+          "time_info": "[00时29分 ~ 00时30分]"
         },
         {
-          "title": "姿态谈T1换上单再进决赛",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E5%A7%BF%E6%80%81%E8%B0%88T1%E6%8D%A2%E4%B8%8A%E5%8D%95%E5%86%8D%E8%BF%9B%E5%86%B3%E8%B5%9B&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D10%26filter_type%3Drealtimehot%26c_type%3D31%26realpos%3D9%26lcate%3D5001%26cate%3D5001%26q%3D%25E5%25A7%25BF%25E6%2580%2581%25E8%25B0%2588T1%25E6%258D%25A2%25E4%25B8%258A%25E5%258D%2595%25E5%2586%258D%25E8%25BF%259B%25E5%2586%25B3%25E8%25B5%259B%26stream_entry_id%3D31%26dgr%3D0%26band_rank%3D9%26flag%3D1%26display_time%3D1762248388%26pre_seqid%3D17622483886910253635792&launchid=10000360-page_H5",
-          "source": "微博",
+          "title": "T1队员疑遭变态私生饭尾随偷拍",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346686&amp;topic_name=T1%E9%98%9F%E5%91%98%E7%96%91%E9%81%AD%E5%8F%98%E6%80%81%E7%A7%81%E7%94%9F%E9%A5%AD%E5%B0%BE%E9%9A%8F%E5%81%B7%E6%8B%8D",
+          "source": "贴吧",
           "ranks": [
-            9
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时28分"
-        },
-        {
-          "title": "冲就完事模拟器2获IGN8分",
-          "url": "https://search.bilibili.com/all?keyword=%E5%86%B2%E5%B0%B1%E5%AE%8C%E4%BA%8B%E6%A8%A1%E6%8B%9F%E5%99%A82%E8%8E%B7IGN8%E5%88%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "云南BIGBANG巧家MV",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BA%91%E5%8D%97BIGBANG%E5%B7%A7%E5%AE%B6MV",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时15分"
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 00时30分]"
         }
       ]
     }
