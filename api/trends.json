@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-06T00:35:25.914644+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-06T01:23:33.288747+08:00",
+  "total_titles_processed": 376,
   "failed_sources": [],
   "trends": [
     {
@@ -12,33 +12,36 @@
           "url": "https://search.bilibili.com/all?keyword=KT%E8%83%BD%E5%90%A6%E9%98%BB%E6%AD%A2T1%E4%B8%89%E8%BF%9E%E5%86%A0",
           "source": "bilibili 热搜",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
+          "appearance_count": 2,
+          "time_info": "[00时35分 ~ 01时23分]"
         },
         {
           "title": "黄牛哭晕在厕所,T1门票腰斩卖不出",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346705&amp;topic_name=%E9%BB%84%E7%89%9B%E5%93%AD%E6%99%95%E5%9C%A8%E5%8E%95%E6%89%80%2CT1%E9%97%A8%E7%A5%A8%E8%85%B0%E6%96%A9%E5%8D%96%E4%B8%8D%E5%87%BA",
           "source": "贴吧",
           "ranks": [
-            25
+            25,
+            23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
+          "appearance_count": 2,
+          "time_info": "[00时35分 ~ 01时23分]"
         },
         {
           "title": "T1队员疑遭变态私生饭尾随偷拍",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346686&amp;topic_name=T1%E9%98%9F%E5%91%98%E7%96%91%E9%81%AD%E5%8F%98%E6%80%81%E7%A7%81%E7%94%9F%E9%A5%AD%E5%B0%BE%E9%9A%8F%E5%81%B7%E6%8B%8D",
           "source": "贴吧",
           "ranks": [
-            29
+            29,
+            27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
+          "appearance_count": 2,
+          "time_info": "[00时35分 ~ 01时23分]"
         }
       ]
     }
