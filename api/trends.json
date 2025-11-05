@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-05T14:36:11.084812+08:00",
-  "total_titles_processed": 1255,
+  "generated_at": "2025-11-05T15:23:41.327465+08:00",
+  "total_titles_processed": 1338,
   "failed_sources": [],
   "trends": [
     {
@@ -15,41 +15,12 @@
             4,
             9,
             13,
-            5
+            5,
+            17
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时29分 ~ 14时36分]"
-        },
-        {
-          "title": "黄牛哭晕在厕所,T1门票腰斩卖不出",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346705&amp;topic_name=%E9%BB%84%E7%89%9B%E5%93%AD%E6%99%95%E5%9C%A8%E5%8E%95%E6%89%80%2CT1%E9%97%A8%E7%A5%A8%E8%85%B0%E6%96%A9%E5%8D%96%E4%B8%8D%E5%87%BA",
-          "source": "贴吧",
-          "ranks": [
-            13,
-            18,
-            19,
-            20,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时29分 ~ 14时36分]"
-        },
-        {
-          "title": "T1队员疑遭变态私生饭尾随偷拍",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346686&amp;topic_name=T1%E9%98%9F%E5%91%98%E7%96%91%E9%81%AD%E5%8F%98%E6%80%81%E7%A7%81%E7%94%9F%E9%A5%AD%E5%B0%BE%E9%9A%8F%E5%81%B7%E6%8B%8D",
-          "source": "贴吧",
-          "ranks": [
-            19,
-            24,
-            25,
-            26,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时29分 ~ 14时36分]"
+          "appearance_count": 16,
+          "time_info": "[00时29分 ~ 15时23分]"
         },
         {
           "title": "如何看待 2025 英雄联盟全球总决赛，T1 对战 AL 的八强战中，T1 打野 oner 现场学英雄？",
@@ -62,8 +33,40 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时51分 ~ 14时36分]"
+          "appearance_count": 7,
+          "time_info": "[09时51分 ~ 15时23分]"
+        },
+        {
+          "title": "黄牛哭晕在厕所,T1门票腰斩卖不出",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346705&amp;topic_name=%E9%BB%84%E7%89%9B%E5%93%AD%E6%99%95%E5%9C%A8%E5%8E%95%E6%89%80%2CT1%E9%97%A8%E7%A5%A8%E8%85%B0%E6%96%A9%E5%8D%96%E4%B8%8D%E5%87%BA",
+          "source": "贴吧",
+          "ranks": [
+            13,
+            18,
+            19,
+            20,
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时29分 ~ 15时23分]"
+        },
+        {
+          "title": "T1队员疑遭变态私生饭尾随偷拍",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346686&amp;topic_name=T1%E9%98%9F%E5%91%98%E7%96%91%E9%81%AD%E5%8F%98%E6%80%81%E7%A7%81%E7%94%9F%E9%A5%AD%E5%B0%BE%E9%9A%8F%E5%81%B7%E6%8B%8D",
+          "source": "贴吧",
+          "ranks": [
+            19,
+            24,
+            25,
+            26,
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时29分 ~ 15时23分]"
         },
         {
           "title": "航班追踪网站Flightradar24：联合包裹5X2976航班是由一架注册号为N259UP的MD-11(F)型飞机执飞。这架机龄34年的飞机经过改装为货机，于2006年开始为联合包裹运营。",
@@ -130,7 +133,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时36分"
         },
