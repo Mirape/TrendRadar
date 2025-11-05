@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-06T02:34:40.166669+08:00",
-  "total_titles_processed": 434,
+  "generated_at": "2025-11-06T03:20:04.942886+08:00",
+  "total_titles_processed": 468,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             2,
-            1
+            1,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时35分 ~ 02时34分]"
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 03时20分]"
         },
         {
           "title": "黄牛哭晕在厕所,T1门票腰斩卖不出",
@@ -28,8 +29,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时35分 ~ 02时34分]"
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 03时20分]"
         },
         {
           "title": "T1队员疑遭变态私生饭尾随偷拍",
@@ -40,8 +41,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时35分 ~ 02时34分]"
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 03时20分]"
         }
       ]
     }
