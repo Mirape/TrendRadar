@@ -1,188 +1,44 @@
 {
-  "generated_at": "2025-11-05T23:26:47.613293+08:00",
-  "total_titles_processed": 2099,
+  "generated_at": "2025-11-06T00:35:25.914644+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 13,
+      "match_count": 3,
       "titles": [
         {
-          "title": "如何看待 2025 英雄联盟全球总决赛，T1 对战 AL 的八强战中，T1 打野 oner 现场学英雄？",
-          "url": "https://www.zhihu.com/question/1968973023521543510",
-          "source": "知乎",
-          "ranks": [
-            1,
-            3,
-            4,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时51分 ~ 17时27分]"
-        },
-        {
-          "title": "T1生死局练英雄",
-          "url": "https://search.bilibili.com/all?keyword=T1%E7%94%9F%E6%AD%BB%E5%B1%80%E7%BB%83%E8%8B%B1%E9%9B%84",
+          "title": "KT能否阻止T1三连冠",
+          "url": "https://search.bilibili.com/all?keyword=KT%E8%83%BD%E5%90%A6%E9%98%BB%E6%AD%A2T1%E4%B8%89%E8%BF%9E%E5%86%A0",
           "source": "bilibili 热搜",
           "ranks": [
-            4,
-            9,
-            13,
-            5,
-            17,
-            20,
-            24
+            2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时29分 ~ 17时27分]"
+          "appearance_count": 1,
+          "time_info": "00时35分"
         },
         {
           "title": "黄牛哭晕在厕所,T1门票腰斩卖不出",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346705&amp;topic_name=%E9%BB%84%E7%89%9B%E5%93%AD%E6%99%95%E5%9C%A8%E5%8E%95%E6%89%80%2CT1%E9%97%A8%E7%A5%A8%E8%85%B0%E6%96%A9%E5%8D%96%E4%B8%8D%E5%87%BA",
           "source": "贴吧",
           "ranks": [
-            13,
-            18,
-            19,
-            20,
-            21,
-            22,
-            24,
-            25,
-            26,
-            27,
-            28
+            25
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时29分 ~ 23时26分]"
+          "appearance_count": 1,
+          "time_info": "00时35分"
         },
         {
           "title": "T1队员疑遭变态私生饭尾随偷拍",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346686&amp;topic_name=T1%E9%98%9F%E5%91%98%E7%96%91%E9%81%AD%E5%8F%98%E6%80%81%E7%A7%81%E7%94%9F%E9%A5%AD%E5%B0%BE%E9%9A%8F%E5%81%B7%E6%8B%8D",
           "source": "贴吧",
           "ranks": [
-            19,
-            24,
-            25,
-            26,
-            27,
-            28,
-            30,
             29
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时29分 ~ 23时26分]"
-        },
-        {
-          "title": "KT能否阻止T1三连冠",
-          "url": "https://search.bilibili.com/all?keyword=KT%E8%83%BD%E5%90%A6%E9%98%BB%E6%AD%A2T1%E4%B8%89%E8%BF%9E%E5%86%A0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25,
-            14,
-            26,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[20时50分 ~ 23时26分]"
-        },
-        {
-          "title": "航班追踪网站Flightradar24：联合包裹5X2976航班是由一架注册号为N259UP的MD-11(F)型飞机执飞。这架机龄34年的飞机经过改装为货机，于2006年开始为联合包裹运营。",
-          "url": "https://flash.jin10.com/detail/20251105071124837800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时29分"
-        },
-        {
-          "title": "玩英雄联盟十年以上是什么体验",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8E%A9%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E5%8D%81%E5%B9%B4%E4%BB%A5%E4%B8%8A%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12,
-            14,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时28分 ~ 21时36分]"
-        },
-        {
-          "title": "比特币跌穿10万美元整数位心理关口，为6月份以来首次，跌幅超过6.5%。 加密货币概念股中，Bakkt跌17.4%，ProShares跌10.5%，Galaxy Digital跌8.3%，BTCS跌7.6%，Bit Digital跌6.6%，Coinbase跌6.2%，Circle跌6%。",
-          "url": "https://wallstreetcn.com/livenews/2999358",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时20分 ~ 04时27分]"
-        },
-        {
-          "title": "澳大利亚10月AIG建筑业表现指数 -7.1，前值12.3。",
-          "url": "https://flash.jin10.com/detail/20251105060002452800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时23分 ~ 07时29分]"
-        },
-        {
-          "title": "澳大利亚10月AIG/PWC制造业表现指数 -22，前值-13.2。",
-          "url": "https://flash.jin10.com/detail/20251105060002206800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时23分 ~ 07时29分]"
-        },
-        {
-          "title": "航班追踪网站Flightradar 24：我们正在关注有关路易斯维尔坠机事件的报道，该事件可能涉及一架 UPS MD-11货机。根据航班时间及数据丢失情况，我们正在确认涉事航班是否为注册号为N259UP 的5X2976航班。目前详情尚未得到证实。",
-          "url": "https://flash.jin10.com/detail/20251105065310174800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时29分"
-        },
-        {
-          "title": "软银：预计与OpenAI的合资企业将在日本独家推广Crystal Intelligence，计划于2026年上市。",
-          "url": "https://flash.jin10.com/detail/20251105140720098800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时36分"
-        },
-        {
-          "title": "美国民主党人Abigail Spanberger在弗吉尼亚州州长竞选中获胜。（NBC）",
-          "url": "https://wallstreetcn.com/livenews/2999499",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时51分"
+          "time_info": "00时35分"
         }
       ]
     }
