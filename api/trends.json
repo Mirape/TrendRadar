@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-05T22:25:24.716073+08:00",
-  "total_titles_processed": 2010,
+  "generated_at": "2025-11-05T23:26:47.613293+08:00",
+  "total_titles_processed": 2099,
   "failed_sources": [],
   "trends": [
     {
@@ -56,8 +56,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时29分 ~ 22时25分]"
+          "appearance_count": 26,
+          "time_info": "[00时29分 ~ 23时26分]"
         },
         {
           "title": "T1队员疑遭变态私生饭尾随偷拍",
@@ -74,8 +74,22 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时29分 ~ 22时25分]"
+          "appearance_count": 21,
+          "time_info": "[00时29分 ~ 23时26分]"
+        },
+        {
+          "title": "KT能否阻止T1三连冠",
+          "url": "https://search.bilibili.com/all?keyword=KT%E8%83%BD%E5%90%A6%E9%98%BB%E6%AD%A2T1%E4%B8%89%E8%BF%9E%E5%86%A0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25,
+            14,
+            26,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时50分 ~ 23时26分]"
         },
         {
           "title": "航班追踪网站Flightradar24：联合包裹5X2976航班是由一架注册号为N259UP的MD-11(F)型飞机执飞。这架机龄34年的飞机经过改装为货机，于2006年开始为联合包裹运营。",
@@ -100,19 +114,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[18时28分 ~ 21时36分]"
-        },
-        {
-          "title": "KT能否阻止T1三连冠",
-          "url": "https://search.bilibili.com/all?keyword=KT%E8%83%BD%E5%90%A6%E9%98%BB%E6%AD%A2T1%E4%B8%89%E8%BF%9E%E5%86%A0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25,
-            14,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时50分 ~ 22时25分]"
         },
         {
           "title": "比特币跌穿10万美元整数位心理关口，为6月份以来首次，跌幅超过6.5%。 加密货币概念股中，Bakkt跌17.4%，ProShares跌10.5%，Galaxy Digital跌8.3%，BTCS跌7.6%，Bit Digital跌6.6%，Coinbase跌6.2%，Circle跌6%。",
