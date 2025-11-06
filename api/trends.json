@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-06T09:53:33.246315+08:00",
-  "total_titles_processed": 829,
+  "generated_at": "2025-11-06T11:18:12.604410+08:00",
+  "total_titles_processed": 952,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "KT能否阻止T1三连冠",
@@ -35,8 +35,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时35分 ~ 09时53分]"
+          "appearance_count": 14,
+          "time_info": "[00时35分 ~ 11时18分]"
         },
         {
           "title": "T1队员疑遭变态私生饭尾随偷拍",
@@ -50,6 +50,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时35分 ~ 06时23分]"
+        },
+        {
+          "title": "T1 已经连续四年进入总决赛，如果今年 T1 三连冠，一家独大，有没有可能先解散的不是 LPL 而是 LCK？",
+          "url": "https://www.zhihu.com/question/1969215528783574160",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时17分 ~ 11时18分]"
         }
       ]
     }
