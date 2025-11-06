@@ -1,22 +1,23 @@
 {
-  "generated_at": "2025-11-07T04:27:48.438981+08:00",
-  "total_titles_processed": 511,
+  "generated_at": "2025-11-07T05:23:26.763631+08:00",
+  "total_titles_processed": 558,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "管泽元带于谦入坑S赛",
           "url": "https://search.bilibili.com/all?keyword=%E7%AE%A1%E6%B3%BD%E5%85%83%E5%B8%A6%E4%BA%8E%E8%B0%A6%E5%85%A5%E5%9D%91S%E8%B5%9B",
           "source": "bilibili 热搜",
           "ranks": [
-            1
+            1,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 04时27分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 05时23分]"
         },
         {
           "title": "KT对阵T1赛前预测",
@@ -25,11 +26,23 @@
           "ranks": [
             18,
             16,
-            20
+            20,
+            24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 04时27分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 05时23分]"
+        },
+        {
+          "title": "航班追踪网站Flightradar24：目前飞往布鲁塞尔机场的航班正在停飞等待或改变航线，未经证实的无人机目击报告再次出现。",
+          "url": "https://flash.jin10.com/detail/20251107045430169800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时23分"
         }
       ]
     }
