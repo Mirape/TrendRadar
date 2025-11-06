@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-06T16:33:02.090328+08:00",
-  "total_titles_processed": 1432,
+  "generated_at": "2025-11-06T17:27:17.725894+08:00",
+  "total_titles_processed": 1537,
   "failed_sources": [],
   "trends": [
     {
@@ -30,11 +30,12 @@
           "ranks": [
             5,
             6,
-            9
+            9,
+            15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时17分 ~ 16时33分]"
+          "appearance_count": 10,
+          "time_info": "[11时17分 ~ 17时27分]"
         },
         {
           "title": "黄牛哭晕在厕所,T1门票腰斩卖不出",
@@ -70,11 +71,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             6,
-            4
+            4,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时23分 ~ 16时33分]"
+          "appearance_count": 4,
+          "time_info": "[15时23分 ~ 17时27分]"
         }
       ]
     }
