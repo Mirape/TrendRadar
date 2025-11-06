@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-06T20:50:25.018925+08:00",
-  "total_titles_processed": 1839,
+  "generated_at": "2025-11-06T21:35:28.494673+08:00",
+  "total_titles_processed": 1917,
   "failed_sources": [],
   "trends": [
     {
@@ -67,6 +67,18 @@
           "time_info": "[00时35分 ~ 06时23分]"
         },
         {
+          "title": "管泽元带于谦入坑S赛",
+          "url": "https://search.bilibili.com/all?keyword=%E7%AE%A1%E6%B3%BD%E5%85%83%E5%B8%A6%E4%BA%8E%E8%B0%A6%E5%85%A5%E5%9D%91S%E8%B5%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时29分 ~ 21时35分]"
+        },
+        {
           "title": "KT对阵T1赛前预测",
           "url": "https://search.bilibili.com/all?keyword=KT%E5%AF%B9%E9%98%B5T1%E8%B5%9B%E5%89%8D%E9%A2%84%E6%B5%8B",
           "source": "bilibili 热搜",
@@ -76,23 +88,12 @@
             27,
             13,
             10,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时23分 ~ 20时50分]"
-        },
-        {
-          "title": "管泽元带于谦入坑S赛",
-          "url": "https://search.bilibili.com/all?keyword=%E7%AE%A1%E6%B3%BD%E5%85%83%E5%B8%A6%E4%BA%8E%E8%B0%A6%E5%85%A5%E5%9D%91S%E8%B5%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时29分 ~ 20时50分]"
+          "appearance_count": 8,
+          "time_info": "[15时23分 ~ 21时35分]"
         }
       ]
     }
