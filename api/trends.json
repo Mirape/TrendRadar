@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-07T01:24:53.418979+08:00",
-  "total_titles_processed": 381,
+  "generated_at": "2025-11-07T02:35:53.291389+08:00",
+  "total_titles_processed": 445,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 01时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 02时35分]"
         },
         {
           "title": "KT对阵T1赛前预测",
@@ -24,11 +24,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             18,
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 01时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 02时35分]"
         }
       ]
     }
