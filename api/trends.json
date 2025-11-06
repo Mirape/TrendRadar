@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-06T19:21:55.707216+08:00",
-  "total_titles_processed": 1708,
+  "generated_at": "2025-11-06T20:50:25.018925+08:00",
+  "total_titles_processed": 1839,
   "failed_sources": [],
   "trends": [
     {
@@ -75,22 +75,24 @@
             4,
             27,
             13,
-            10
+            10,
+            17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时23分 ~ 19时21分]"
+          "appearance_count": 7,
+          "time_info": "[15时23分 ~ 20时50分]"
         },
         {
           "title": "管泽元带于谦入坑S赛",
           "url": "https://search.bilibili.com/all?keyword=%E7%AE%A1%E6%B3%BD%E5%85%83%E5%B8%A6%E4%BA%8E%E8%B0%A6%E5%85%A5%E5%9D%91S%E8%B5%9B",
           "source": "bilibili 热搜",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时29分 ~ 19时21分]"
+          "appearance_count": 3,
+          "time_info": "[18时29分 ~ 20时50分]"
         }
       ]
     }
