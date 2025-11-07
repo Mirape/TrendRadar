@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-08T04:24:21.365603+08:00",
-  "total_titles_processed": 517,
+  "generated_at": "2025-11-08T05:20:07.813103+08:00",
+  "total_titles_processed": 531,
   "failed_sources": [],
   "trends": [
     {
@@ -18,20 +18,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时27分 ~ 04时24分]"
-        },
-        {
-          "title": "美国能源部长Wright：乌克兰将通过波兰加大进口美国液化天然气（LNG）。（CNBC）",
-          "url": "https://wallstreetcn.com/livenews/3001371",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时20分 ~ 04时24分]"
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 05时20分]"
         },
         {
           "title": "T1能否三连冠",
@@ -43,8 +31,21 @@
             24
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 05时20分]"
+        },
+        {
+          "title": "美国能源部长Wright：乌克兰将通过波兰加大进口美国液化天然气（LNG）。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3001371",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            14,
+            21
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时27分 ~ 03时20分]"
+          "time_info": "[03时20分 ~ 05时20分]"
         }
       ]
     }
