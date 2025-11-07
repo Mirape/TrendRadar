@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-07T07:22:23.271480+08:00",
-  "total_titles_processed": 682,
+  "generated_at": "2025-11-07T09:50:59.383743+08:00",
+  "total_titles_processed": 857,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             1,
             18,
             10,
-            12
+            12,
+            23
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时33分 ~ 07时22分]"
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 09时50分]"
         },
         {
           "title": "KT对阵T1赛前预测",
@@ -30,11 +31,12 @@
             16,
             20,
             24,
-            21
+            21,
+            29
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时33分 ~ 07时22分]"
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 09时50分]"
         },
         {
           "title": "航班追踪网站Flightradar24：目前飞往布鲁塞尔机场的航班正在停飞等待或改变航线，未经证实的无人机目击报告再次出现。",
