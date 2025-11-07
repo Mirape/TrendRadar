@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-08T03:20:27.457862+08:00",
-  "total_titles_processed": 473,
+  "generated_at": "2025-11-08T04:24:21.365603+08:00",
+  "total_titles_processed": 517,
   "failed_sources": [],
   "trends": [
     {
@@ -8,28 +8,30 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "美国能源部长Wright：乌克兰将通过波兰加大进口美国液化天然气（LNG）。（CNBC）",
-          "url": "https://wallstreetcn.com/livenews/3001371",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时20分"
-        },
-        {
           "title": "云南bigbang清唱也好听",
           "url": "https://www.douyin.com/hot/2298264",
           "source": "抖音",
           "ranks": [
             15,
             8,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 03时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 04时24分]"
+        },
+        {
+          "title": "美国能源部长Wright：乌克兰将通过波兰加大进口美国液化天然气（LNG）。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3001371",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时20分 ~ 04时24分]"
         },
         {
           "title": "T1能否三连冠",
