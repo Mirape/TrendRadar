@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-07T21:33:29.530358+08:00",
-  "total_titles_processed": 1903,
+  "generated_at": "2025-11-07T22:25:18.411639+08:00",
+  "total_titles_processed": 1986,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "管泽元带于谦入坑S赛",
@@ -49,6 +49,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
+        },
+        {
+          "title": "云南bigbang清唱也好听",
+          "url": "https://www.douyin.com/hot/2298264",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
         }
       ]
     }
