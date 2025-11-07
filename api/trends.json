@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-07T09:50:59.383743+08:00",
-  "total_titles_processed": 857,
+  "generated_at": "2025-11-07T11:14:29.583292+08:00",
+  "total_titles_processed": 964,
   "failed_sources": [],
   "trends": [
     {
@@ -32,11 +32,12 @@
             20,
             24,
             21,
-            29
+            29,
+            27
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时33分 ~ 09时50分]"
+          "appearance_count": 11,
+          "time_info": "[00时33分 ~ 11时14分]"
         },
         {
           "title": "航班追踪网站Flightradar24：目前飞往布鲁塞尔机场的航班正在停飞等待或改变航线，未经证实的无人机目击报告再次出现。",
