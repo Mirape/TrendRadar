@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-09T05:19:53.942652+08:00",
-  "total_titles_processed": 392,
+  "generated_at": "2025-11-09T06:20:36.205382+08:00",
+  "total_titles_processed": 401,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             23,
             26,
             10,
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 05时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时26分 ~ 06时20分]"
         },
         {
           "title": "英雄联盟新英雄亚恒",
@@ -27,11 +28,12 @@
           "source": "抖音",
           "ranks": [
             15,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时23分 ~ 05时19分]"
+          "appearance_count": 3,
+          "time_info": "[04时23分 ~ 06时20分]"
         },
         {
           "title": "T1八强战对战AL语音",
