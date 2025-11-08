@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-08T16:28:35.168052+08:00",
-  "total_titles_processed": 1148,
+  "generated_at": "2025-11-08T17:22:14.472256+08:00",
+  "total_titles_processed": 1220,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "英雄联盟赵信CG上线",
@@ -15,11 +15,12 @@
             2,
             3,
             4,
-            5
+            5,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时28分 ~ 16时28分]"
+          "appearance_count": 9,
+          "time_info": "[12时28分 ~ 17时22分]"
         },
         {
           "title": "云南bigbang清唱也好听",
@@ -69,6 +70,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时20分 ~ 05时20分]"
+        },
+        {
+          "title": "T1八强战对战AL语音",
+          "url": "https://search.bilibili.com/all?keyword=T1%E5%85%AB%E5%BC%BA%E6%88%98%E5%AF%B9%E6%88%98AL%E8%AF%AD%E9%9F%B3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时21分 ~ 17时22分]"
         }
       ]
     }
