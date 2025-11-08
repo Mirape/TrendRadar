@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-08T15:21:47.981224+08:00",
-  "total_titles_processed": 1075,
+  "generated_at": "2025-11-08T16:28:35.168052+08:00",
+  "total_titles_processed": 1148,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             2,
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时28分 ~ 15时21分]"
+          "appearance_count": 7,
+          "time_info": "[12时28分 ~ 16时28分]"
         },
         {
           "title": "云南bigbang清唱也好听",
@@ -36,8 +37,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时27分 ~ 15时21分]"
+          "appearance_count": 19,
+          "time_info": "[00时27分 ~ 16时28分]"
         },
         {
           "title": "T1能否三连冠",
