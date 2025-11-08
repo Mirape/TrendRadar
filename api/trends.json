@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-08T13:22:04.228434+08:00",
-  "total_titles_processed": 953,
+  "generated_at": "2025-11-08T14:32:48.269410+08:00",
+  "total_titles_processed": 1020,
   "failed_sources": [],
   "trends": [
     {
@@ -18,11 +18,12 @@
             10,
             13,
             6,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时27分 ~ 13时22分]"
+          "appearance_count": 17,
+          "time_info": "[00时27分 ~ 14时32分]"
         },
         {
           "title": "T1能否三连冠",
@@ -50,8 +51,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时28分 ~ 13时22分]"
+          "appearance_count": 5,
+          "time_info": "[12时28分 ~ 14时32分]"
         },
         {
           "title": "美国能源部长Wright：乌克兰将通过波兰加大进口美国液化天然气（LNG）。（CNBC）",
