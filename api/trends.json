@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-08T11:08:07.715261+08:00",
-  "total_titles_processed": 808,
+  "generated_at": "2025-11-08T12:29:10.391666+08:00",
+  "total_titles_processed": 898,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "云南bigbang清唱也好听",
@@ -20,8 +20,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时27分 ~ 11时08分]"
+          "appearance_count": 14,
+          "time_info": "[00时27分 ~ 12时29分]"
         },
         {
           "title": "T1能否三连冠",
@@ -33,11 +33,23 @@
             24,
             23,
             27,
-            16
+            16,
+            30
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 11时08分]"
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 12时29分]"
+        },
+        {
+          "title": "英雄联盟赵信CG上线",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E8%B5%B5%E4%BF%A1CG%E4%B8%8A%E7%BA%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时28分 ~ 12时29分]"
         },
         {
           "title": "美国能源部长Wright：乌克兰将通过波兰加大进口美国液化天然气（LNG）。（CNBC）",
