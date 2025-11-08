@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-08T19:18:31.505508+08:00",
-  "total_titles_processed": 1347,
+  "generated_at": "2025-11-08T20:44:31.001507+08:00",
+  "total_titles_processed": 1414,
   "failed_sources": [],
   "trends": [
     {
@@ -18,11 +18,12 @@
             5,
             13,
             18,
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时28分 ~ 19时18分]"
+          "appearance_count": 13,
+          "time_info": "[12时28分 ~ 20时44分]"
         },
         {
           "title": "云南bigbang清唱也好听",
