@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-09T02:30:55.050381+08:00",
-  "total_titles_processed": 353,
+  "generated_at": "2025-11-09T03:17:59.270390+08:00",
+  "total_titles_processed": 364,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             23,
             26,
-            10
+            10,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 02时30分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 03时17分]"
         },
         {
           "title": "T1八强战对战AL语音",
@@ -27,7 +28,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时30分"
         }
