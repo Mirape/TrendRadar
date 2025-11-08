@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-11-08T14:32:48.269410+08:00",
-  "total_titles_processed": 1020,
+  "generated_at": "2025-11-08T15:21:47.981224+08:00",
+  "total_titles_processed": 1075,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
       "match_count": 4,
       "titles": [
+        {
+          "title": "英雄联盟赵信CG上线",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E8%B5%B5%E4%BF%A1CG%E4%B8%8A%E7%BA%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时28分 ~ 15时21分]"
+        },
         {
           "title": "云南bigbang清唱也好听",
           "url": "https://www.douyin.com/hot/2298264",
@@ -19,11 +32,12 @@
             13,
             6,
             9,
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时27分 ~ 14时32分]"
+          "appearance_count": 18,
+          "time_info": "[00时27分 ~ 15时21分]"
         },
         {
           "title": "T1能否三连冠",
@@ -41,18 +55,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时27分 ~ 12时29分]"
-        },
-        {
-          "title": "英雄联盟赵信CG上线",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E8%B5%B5%E4%BF%A1CG%E4%B8%8A%E7%BA%BF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时28分 ~ 14时32分]"
         },
         {
           "title": "美国能源部长Wright：乌克兰将通过波兰加大进口美国液化天然气（LNG）。（CNBC）",
