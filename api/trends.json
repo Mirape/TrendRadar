@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-09T07:21:51.453052+08:00",
-  "total_titles_processed": 415,
+  "generated_at": "2025-11-09T09:55:13.114709+08:00",
+  "total_titles_processed": 527,
   "failed_sources": [],
   "trends": [
     {
@@ -30,11 +30,12 @@
           "ranks": [
             15,
             16,
-            17
+            17,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时23分 ~ 07时21分]"
+          "appearance_count": 6,
+          "time_info": "[04时23分 ~ 09时55分]"
         },
         {
           "title": "T1八强战对战AL语音",
