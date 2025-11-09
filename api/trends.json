@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-09T13:23:52.478644+08:00",
-  "total_titles_processed": 703,
+  "generated_at": "2025-11-09T14:35:02.984424+08:00",
+  "total_titles_processed": 761,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "英雄联盟赵信CG上线",
@@ -22,6 +22,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时26分 ~ 07时21分]"
+        },
+        {
+          "title": "T1对阵KT",
+          "url": "https://www.douyin.com/hot/2300126",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时34分 ~ 14时35分]"
         },
         {
           "title": "英雄联盟新英雄亚恒",
