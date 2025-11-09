@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-10T05:20:29.922149+08:00",
-  "total_titles_processed": 423,
+  "generated_at": "2025-11-10T06:21:31.688866+08:00",
+  "total_titles_processed": 439,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84T1%E6%88%98%E8%83%9CKT%E5%A4%BA%E5%86%A0",
           "source": "bilibili 热搜",
           "ranks": [
-            1
+            1,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 05时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 06时21分]"
         },
         {
           "title": "体验到了S赛的现场氛围",
@@ -29,8 +30,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 05时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 06时21分]"
         },
         {
           "title": "鏖战五局不敌 T1，KT 战队在这个系列赛里有哪些亮眼 / 不足？",
@@ -41,22 +42,24 @@
             7,
             4,
             12,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 05时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 06时21分]"
         },
         {
           "title": "S15 总决赛 T1 3:2 KT 夺得三连冠，队史第六座全球总决赛奖杯，如何评价这场比赛？",
           "url": "https://www.zhihu.com/question/1970862817872666913",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 05时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 06时21分]"
         },
         {
           "title": "多兰首个S赛冠军",
@@ -66,8 +69,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 05时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 06时21分]"
         },
         {
           "title": "Tabe谈T1总能拿下决胜局原因",
@@ -79,11 +82,26 @@
             25,
             20,
             10,
-            8
+            8,
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 05时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 06时21分]"
+        },
+        {
+          "title": "T1战胜KT拿下第六冠",
+          "url": "https://search.bilibili.com/all?keyword=KT%20T1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 06时21分]"
         },
         {
           "title": "心态爆炸!T1全员红温丑态尽显",
@@ -94,8 +112,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 05时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 06时21分]"
         },
         {
           "title": "T1六星王朝铸造传奇",
@@ -106,21 +124,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 05时20分]"
-        },
-        {
-          "title": "T1战胜KT拿下第六冠",
-          "url": "https://search.bilibili.com/all?keyword=KT%20T1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 05时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 06时21分]"
         },
         {
           "title": "T1夺冠赛后数据",
@@ -134,8 +139,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 05时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 06时21分]"
         },
         {
           "title": "T1决胜局队内语音",
@@ -147,11 +152,12 @@
             21,
             19,
             23,
-            29
+            29,
+            28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 05时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 06时21分]"
         },
         {
           "title": "T1击败KT夺冠",
@@ -163,8 +169,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 05时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 06时21分]"
         },
         {
           "title": "S15决赛T1战胜KT夺冠",
@@ -174,8 +180,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 05时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 06时21分]"
         },
         {
           "title": "T1三连冠",
@@ -184,11 +190,12 @@
           "ranks": [
             17,
             16,
-            15
+            15,
+            24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 05时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 06时21分]"
         },
         {
           "title": "T1全球总决赛三连冠 Faker成六冠王",
@@ -198,11 +205,12 @@
             25,
             24,
             21,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 05时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 06时21分]"
         },
         {
           "title": "T1三连冠",
@@ -214,8 +222,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 05时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 06时21分]"
         },
         {
           "title": "多兰说是带着信心来T1的",
