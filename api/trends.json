@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-10T09:56:52.688010+08:00",
-  "total_titles_processed": 651,
+  "generated_at": "2025-11-10T11:23:33.529387+08:00",
+  "total_titles_processed": 765,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "锐评T1战胜KT夺冠",
@@ -15,11 +15,12 @@
             1,
             8,
             7,
-            16
+            16,
+            14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时26分 ~ 09时56分]"
+          "appearance_count": 11,
+          "time_info": "[00时26分 ~ 11时23分]"
         },
         {
           "title": "体验到了S赛的现场氛围",
@@ -30,11 +31,12 @@
             8,
             7,
             9,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时26分 ~ 09时56分]"
+          "appearance_count": 11,
+          "time_info": "[00时26分 ~ 11时23分]"
         },
         {
           "title": "Tabe谈T1总能拿下决胜局原因",
@@ -49,11 +51,12 @@
             8,
             18,
             19,
-            4
+            4,
+            12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时26分 ~ 09时56分]"
+          "appearance_count": 11,
+          "time_info": "[00时26分 ~ 11时23分]"
         },
         {
           "title": "多兰首个S赛冠军",
@@ -65,8 +68,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时26分 ~ 09时56分]"
+          "appearance_count": 11,
+          "time_info": "[00时26分 ~ 11时23分]"
         },
         {
           "title": "T1战胜KT拿下第六冠",
@@ -79,8 +82,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时26分 ~ 09时56分]"
+          "appearance_count": 11,
+          "time_info": "[00时26分 ~ 11时23分]"
         },
         {
           "title": "心态爆炸!T1全员红温丑态尽显",
@@ -90,11 +93,12 @@
             10,
             11,
             13,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时26分 ~ 09时56分]"
+          "appearance_count": 11,
+          "time_info": "[00时26分 ~ 11时23分]"
         },
         {
           "title": "T1六星王朝铸造传奇",
@@ -106,8 +110,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时26分 ~ 09时56分]"
+          "appearance_count": 11,
+          "time_info": "[00时26分 ~ 11时23分]"
         },
         {
           "title": "T1夺冠赛后数据",
@@ -119,11 +123,12 @@
             15,
             13,
             14,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时26分 ~ 09时56分]"
+          "appearance_count": 11,
+          "time_info": "[00时26分 ~ 11时23分]"
         },
         {
           "title": "T1决胜局队内语音",
@@ -139,8 +144,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时26分 ~ 09时56分]"
+          "appearance_count": 11,
+          "time_info": "[00时26分 ~ 11时23分]"
         },
         {
           "title": "T1击败KT夺冠",
@@ -153,8 +158,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时26分 ~ 09时56分]"
+          "appearance_count": 11,
+          "time_info": "[00时26分 ~ 11时23分]"
         },
         {
           "title": "T1三连冠",
@@ -167,8 +172,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时26分 ~ 09时56分]"
+          "appearance_count": 11,
+          "time_info": "[00时26分 ~ 11时23分]"
         },
         {
           "title": "鏖战五局不敌 T1，KT 战队在这个系列赛里有哪些亮眼 / 不足？",
@@ -241,6 +246,17 @@
           "time_info": "[00时26分 ~ 06时21分]"
         },
         {
+          "title": "英雄联盟黄金期结束了吗",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E9%BB%84%E9%87%91%E6%9C%9F%E7%BB%93%E6%9D%9F%E4%BA%86%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时56分 ~ 11时23分]"
+        },
+        {
           "title": "多兰说是带着信心来T1的",
           "url": "https://search.bilibili.com/all?keyword=%E5%A4%9A%E5%85%B0%E8%AF%B4%E6%98%AF%E5%B8%A6%E7%9D%80%E4%BF%A1%E5%BF%83%E6%9D%A5T1%E7%9A%84",
           "source": "bilibili 热搜",
@@ -256,15 +272,15 @@
           "time_info": "[01时18分 ~ 07时20分]"
         },
         {
-          "title": "英雄联盟黄金期结束了吗",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E9%BB%84%E9%87%91%E6%9C%9F%E7%BB%93%E6%9D%9F%E4%BA%86%E5%90%97",
-          "source": "bilibili 热搜",
+          "title": "在 T1 三连冠后，如何看待社区中「定制冠军」「官方造神」「LCK 已死 /LPL 不玩了」的声音？",
+          "url": "https://www.zhihu.com/question/1970960825096344112",
+          "source": "知乎",
           "ranks": [
-            1
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时56分"
+          "time_info": "11时23分"
         },
         {
           "title": "T1 三连冠，如何看待定制冠军、 LoL 造神、 lck 已死、 lpl 不玩了等说法？",
@@ -273,7 +289,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
         },
@@ -282,22 +298,35 @@
           "url": "https://www.zhihu.com/question/1970948729612756344",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时56分 ~ 11时23分]"
         },
         {
           "title": "T1决胜局队内语音",
           "url": "https://www.douyin.com/hot/2300646",
           "source": "抖音",
           "ranks": [
-            26
+            26,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时56分 ~ 11时23分]"
+        },
+        {
+          "title": "为什么 T1 总是在大赛初期看上去成绩平平，但总是能在后期取得好成绩甚至夺冠？",
+          "url": "https://www.zhihu.com/question/1927398611458725416",
+          "source": "知乎",
+          "ranks": [
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时56分"
+          "time_info": "11时23分"
         }
       ]
     }
