@@ -1,12 +1,26 @@
 {
-  "generated_at": "2025-11-10T18:28:49.676046+08:00",
-  "total_titles_processed": 1391,
+  "generated_at": "2025-11-10T19:22:46.426915+08:00",
+  "total_titles_processed": 1487,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 32,
+      "match_count": 35,
       "titles": [
+        {
+          "title": "在 T1 三连冠后，如何看待社区中「定制冠军」「官方造神」「LCK 已死 /LPL 不玩了」的声音？",
+          "url": "https://www.zhihu.com/question/1970960825096344112",
+          "source": "知乎",
+          "ranks": [
+            2,
+            3,
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时23分 ~ 19时22分]"
+        },
         {
           "title": "锐评T1战胜KT夺冠",
           "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84T1%E6%88%98%E8%83%9CKT%E5%A4%BA%E5%86%A0",
@@ -38,22 +52,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时26分 ~ 18时28分]"
-        },
-        {
-          "title": "在 T1 三连冠后，如何看待社区中「定制冠军」「官方造神」「LCK 已死 /LPL 不玩了」的声音？",
-          "url": "https://www.zhihu.com/question/1970960825096344112",
-          "source": "知乎",
-          "ranks": [
-            2,
-            3,
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时23分 ~ 18时28分]"
+          "appearance_count": 14,
+          "time_info": "[00时26分 ~ 19时22分]"
         },
         {
           "title": "Tabe谈T1总能拿下决胜局原因",
@@ -88,11 +88,12 @@
             22,
             18,
             24,
-            30
+            30,
+            23
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时26分 ~ 18时28分]"
+          "appearance_count": 19,
+          "time_info": "[00时26分 ~ 19时22分]"
         },
         {
           "title": "心态爆炸!T1全员红温丑态尽显",
@@ -109,11 +110,12 @@
             21,
             24,
             25,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时26分 ~ 18时28分]"
+          "appearance_count": 19,
+          "time_info": "[00时26分 ~ 19时22分]"
         },
         {
           "title": "T1战胜KT拿下第六冠",
@@ -161,8 +163,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时26分 ~ 18时28分]"
+          "appearance_count": 17,
+          "time_info": "[00时26分 ~ 19时22分]"
         },
         {
           "title": "T1决胜局队内语音",
@@ -250,6 +252,20 @@
           "time_info": "[00时26分 ~ 07时20分]"
         },
         {
+          "title": "万字解析T1战胜KT夺冠",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%87%E5%AD%97%E8%A7%A3%E6%9E%90T1%E6%88%98%E8%83%9CKT%E5%A4%BA%E5%86%A0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            7,
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时31分 ~ 19时22分]"
+        },
+        {
           "title": "S15决赛T1战胜KT夺冠",
           "url": "https://www.baidu.com/s?wd=S15%E5%86%B3%E8%B5%9BT1%E6%88%98%E8%83%9CKT%E5%A4%BA%E5%86%A0",
           "source": "百度热搜",
@@ -274,20 +290,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时26分 ~ 07时20分]"
-        },
-        {
-          "title": "万字解析T1战胜KT夺冠",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%87%E5%AD%97%E8%A7%A3%E6%9E%90T1%E6%88%98%E8%83%9CKT%E5%A4%BA%E5%86%A0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            7,
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时31分 ~ 18时28分]"
         },
         {
           "title": "为什么 T1 总是在大赛初期看上去成绩平平，但总是能在后期取得好成绩甚至夺冠？",
@@ -338,11 +340,12 @@
           "source": "贴吧",
           "ranks": [
             5,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时38分 ~ 18时28分]"
+          "appearance_count": 6,
+          "time_info": "[14时38分 ~ 19时22分]"
         },
         {
           "title": "英雄联盟黄金期结束了吗",
@@ -371,6 +374,31 @@
           "time_info": "[01时18分 ~ 07时20分]"
         },
         {
+          "title": "拳头或将推出英雄联盟2",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8B%B3%E5%A4%B4%E6%88%96%E5%B0%86%E6%8E%A8%E5%87%BA%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12,
+            7,
+            10,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时38分 ~ 19时22分]"
+        },
+        {
+          "title": "T1战队赛后采访全程",
+          "url": "https://search.bilibili.com/all?keyword=T1%E6%88%98%E9%98%9F%E8%B5%9B%E5%90%8E%E9%87%87%E8%AE%BF%E5%85%A8%E7%A8%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
           "title": "T1 三连冠，如何看待定制冠军、 LoL 造神、 lck 已死、 lpl 不玩了等说法？",
           "url": "https://www.zhihu.com/question/1970960825096344112",
           "source": "知乎",
@@ -380,19 +408,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
-        },
-        {
-          "title": "拳头或将推出英雄联盟2",
-          "url": "https://search.bilibili.com/all?keyword=%E6%8B%B3%E5%A4%B4%E6%88%96%E5%B0%86%E6%8E%A8%E5%87%BA%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12,
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时38分 ~ 18时28分]"
         },
         {
           "title": "宙斯祝贺T1",
@@ -405,8 +420,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时24分 ~ 18时28分]"
+          "appearance_count": 5,
+          "time_info": "[15时24分 ~ 19时22分]"
         },
         {
           "title": "英雄联盟2",
@@ -459,6 +474,17 @@
           "time_info": "[09时56分 ~ 11时23分]"
         },
         {
+          "title": "米勒赛后评T1三连冠",
+          "url": "https://search.bilibili.com/all?keyword=%E7%B1%B3%E5%8B%92%E8%B5%9B%E5%90%8E%E8%AF%84T1%E4%B8%89%E8%BF%9E%E5%86%A0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
           "title": "如何评价《英雄联盟》S15 总决赛 KT 对战 T1 中多兰的发挥？",
           "url": "https://www.zhihu.com/question/1970945544181485613",
           "source": "知乎",
@@ -479,6 +505,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
+        },
+        {
+          "title": "巴克莱发行首批欧元AT1债券 以趁风险情绪改善加强资本基础",
+          "url": "https://flash.jin10.com/detail/20251110183013220800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
         }
       ]
     }
