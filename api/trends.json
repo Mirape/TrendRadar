@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-11T01:22:54.413036+08:00",
-  "total_titles_processed": 386,
+  "generated_at": "2025-11-11T02:35:16.646496+08:00",
+  "total_titles_processed": 448,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 01时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 02时35分]"
         },
         {
           "title": "米勒赛后评T1三连冠",
@@ -25,11 +26,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             7,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 01时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 02时35分]"
         },
         {
           "title": "T1刚夺冠游戏就凉,LOL2强势踢馆",
@@ -39,8 +41,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 01时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 02时35分]"
         },
         {
           "title": "万字解析T1战胜KT夺冠",
@@ -51,8 +53,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 01时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 02时35分]"
         },
         {
           "title": "T1战队赛后采访全程",
@@ -60,11 +62,24 @@
           "source": "bilibili 热搜",
           "ranks": [
             15,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 01时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 02时35分]"
+        },
+        {
+          "title": "全球S赛现场对比",
+          "url": "https://search.bilibili.com/all?keyword=%E5%85%A8%E7%90%83S%E8%B5%9B%E7%8E%B0%E5%9C%BA%E5%AF%B9%E6%AF%94",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 02时35分]"
         },
         {
           "title": "拳头或将推出英雄联盟2",
@@ -72,22 +87,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             20,
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 01时22分]"
-        },
-        {
-          "title": "全球S赛现场对比",
-          "url": "https://search.bilibili.com/all?keyword=%E5%85%A8%E7%90%83S%E8%B5%9B%E7%8E%B0%E5%9C%BA%E5%AF%B9%E6%AF%94",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 01时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 02时35分]"
         },
         {
           "title": "心态爆炸!T1全员红温丑态尽显",
@@ -97,8 +102,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 01时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 02时35分]"
         },
         {
           "title": "明明 S15 总决赛上 Faker 对线拼拼被 BDD 压制，为什么 T1 最终还是赢下来了呢？",
@@ -109,8 +114,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 01时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 02时35分]"
         }
       ]
     }
