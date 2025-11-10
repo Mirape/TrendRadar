@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-10T07:20:53.068563+08:00",
-  "total_titles_processed": 487,
+  "generated_at": "2025-11-10T09:56:52.688010+08:00",
+  "total_titles_processed": 651,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 17,
+      "match_count": 21,
       "titles": [
         {
           "title": "锐评T1战胜KT夺冠",
@@ -14,11 +14,12 @@
           "ranks": [
             1,
             8,
-            7
+            7,
+            16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 07时20分]"
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 09时56分]"
         },
         {
           "title": "体验到了S赛的现场氛围",
@@ -28,11 +29,146 @@
             5,
             8,
             7,
+            9,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 09时56分]"
+        },
+        {
+          "title": "Tabe谈T1总能拿下决胜局原因",
+          "url": "https://search.bilibili.com/all?keyword=Tabe%E8%B0%88T1%E6%80%BB%E8%83%BD%E6%8B%BF%E4%B8%8B%E5%86%B3%E8%83%9C%E5%B1%80%E5%8E%9F%E5%9B%A0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30,
+            15,
+            25,
+            20,
+            10,
+            8,
+            18,
+            19,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 09时56分]"
+        },
+        {
+          "title": "多兰首个S赛冠军",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%9A%E5%85%B0%E9%A6%96%E4%B8%AAS%E8%B5%9B%E5%86%A0%E5%86%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            8,
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 07时20分]"
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 09时56分]"
+        },
+        {
+          "title": "T1战胜KT拿下第六冠",
+          "url": "https://search.bilibili.com/all?keyword=KT%20T1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 09时56分]"
+        },
+        {
+          "title": "心态爆炸!T1全员红温丑态尽显",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346911&amp;topic_name=%E5%BF%83%E6%80%81%E7%88%86%E7%82%B8%21T1%E5%85%A8%E5%91%98%E7%BA%A2%E6%B8%A9%E4%B8%91%E6%80%81%E5%B0%BD%E6%98%BE",
+          "source": "贴吧",
+          "ranks": [
+            10,
+            11,
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 09时56分]"
+        },
+        {
+          "title": "T1六星王朝铸造传奇",
+          "url": "https://search.bilibili.com/all?keyword=T1%E5%85%AD%E6%98%9F%E7%8E%8B%E6%9C%9D%E9%93%B8%E9%80%A0%E4%BC%A0%E5%A5%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 09时56分]"
+        },
+        {
+          "title": "T1夺冠赛后数据",
+          "url": "https://search.bilibili.com/all?keyword=T1%E5%A4%BA%E5%86%A0%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12,
+            16,
+            15,
+            13,
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 09时56分]"
+        },
+        {
+          "title": "T1决胜局队内语音",
+          "url": "https://search.bilibili.com/all?keyword=T1%E5%86%B3%E8%83%9C%E5%B1%80%E9%98%9F%E5%86%85%E8%AF%AD%E9%9F%B3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14,
+            22,
+            21,
+            19,
+            23,
+            29,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 09时56分]"
+        },
+        {
+          "title": "T1击败KT夺冠",
+          "url": "https://www.douyin.com/hot/2300126",
+          "source": "抖音",
+          "ranks": [
+            16,
+            14,
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 09时56分]"
+        },
+        {
+          "title": "T1三连冠",
+          "url": "https://search.bilibili.com/all?keyword=T1%E4%B8%89%E8%BF%9E%E5%86%A0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21,
+            20,
+            22,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 09时56分]"
         },
         {
           "title": "鏖战五局不敌 T1，KT 战队在这个系列赛里有哪些亮眼 / 不足？",
@@ -52,18 +188,6 @@
           "time_info": "[00时26分 ~ 07时20分]"
         },
         {
-          "title": "多兰首个S赛冠军",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%9A%E5%85%B0%E9%A6%96%E4%B8%AAS%E8%B5%9B%E5%86%A0%E5%86%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 07时20分]"
-        },
-        {
           "title": "S15 总决赛 T1 3:2 KT 夺得三连冠，队史第六座全球总决赛奖杯，如何评价这场比赛？",
           "url": "https://www.zhihu.com/question/1970862817872666913",
           "source": "知乎",
@@ -71,108 +195,6 @@
             6,
             7,
             10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 07时20分]"
-        },
-        {
-          "title": "Tabe谈T1总能拿下决胜局原因",
-          "url": "https://search.bilibili.com/all?keyword=Tabe%E8%B0%88T1%E6%80%BB%E8%83%BD%E6%8B%BF%E4%B8%8B%E5%86%B3%E8%83%9C%E5%B1%80%E5%8E%9F%E5%9B%A0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30,
-            15,
-            25,
-            20,
-            10,
-            8,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 07时20分]"
-        },
-        {
-          "title": "T1战胜KT拿下第六冠",
-          "url": "https://search.bilibili.com/all?keyword=KT%20T1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            12,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 07时20分]"
-        },
-        {
-          "title": "心态爆炸!T1全员红温丑态尽显",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346911&amp;topic_name=%E5%BF%83%E6%80%81%E7%88%86%E7%82%B8%21T1%E5%85%A8%E5%91%98%E7%BA%A2%E6%B8%A9%E4%B8%91%E6%80%81%E5%B0%BD%E6%98%BE",
-          "source": "贴吧",
-          "ranks": [
-            10,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 07时20分]"
-        },
-        {
-          "title": "T1六星王朝铸造传奇",
-          "url": "https://search.bilibili.com/all?keyword=T1%E5%85%AD%E6%98%9F%E7%8E%8B%E6%9C%9D%E9%93%B8%E9%80%A0%E4%BC%A0%E5%A5%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 07时20分]"
-        },
-        {
-          "title": "T1夺冠赛后数据",
-          "url": "https://search.bilibili.com/all?keyword=T1%E5%A4%BA%E5%86%A0%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12,
-            16,
-            15,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 07时20分]"
-        },
-        {
-          "title": "T1决胜局队内语音",
-          "url": "https://search.bilibili.com/all?keyword=T1%E5%86%B3%E8%83%9C%E5%B1%80%E9%98%9F%E5%86%85%E8%AF%AD%E9%9F%B3",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14,
-            22,
-            21,
-            19,
-            23,
-            29,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 07时20分]"
-        },
-        {
-          "title": "T1击败KT夺冠",
-          "url": "https://www.douyin.com/hot/2300126",
-          "source": "抖音",
-          "ranks": [
-            16,
-            14,
-            15
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -196,19 +218,6 @@
           "ranks": [
             25,
             24,
-            21,
-            20,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 07时20分]"
-        },
-        {
-          "title": "T1三连冠",
-          "url": "https://search.bilibili.com/all?keyword=T1%E4%B8%89%E8%BF%9E%E5%86%A0",
-          "source": "bilibili 热搜",
-          "ranks": [
             21,
             20,
             22
@@ -245,6 +254,50 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时18分 ~ 07时20分]"
+        },
+        {
+          "title": "英雄联盟黄金期结束了吗",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E9%BB%84%E9%87%91%E6%9C%9F%E7%BB%93%E6%9D%9F%E4%BA%86%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
+        },
+        {
+          "title": "T1 三连冠，如何看待定制冠军、 LoL 造神、 lck 已死、 lpl 不玩了等说法？",
+          "url": "https://www.zhihu.com/question/1970960825096344112",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
+        },
+        {
+          "title": "S15 过后是否意味着 T1 当前的 AD 辅助和打野已经超越了前代 SKT 的三位冠军组员？",
+          "url": "https://www.zhihu.com/question/1970948729612756344",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
+        },
+        {
+          "title": "T1决胜局队内语音",
+          "url": "https://www.douyin.com/hot/2300646",
+          "source": "抖音",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
         }
       ]
     }
