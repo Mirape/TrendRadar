@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-11T06:23:55.425716+08:00",
-  "total_titles_processed": 602,
+  "generated_at": "2025-11-11T07:23:17.124366+08:00",
+  "total_titles_processed": 645,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,24 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时32分 ~ 06时23分]"
+          "appearance_count": 11,
+          "time_info": "[00时32分 ~ 07时23分]"
+        },
+        {
+          "title": "全球S赛现场对比",
+          "url": "https://search.bilibili.com/all?keyword=%E5%85%A8%E7%90%83S%E8%B5%9B%E7%8E%B0%E5%9C%BA%E5%AF%B9%E6%AF%94",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22,
+            19,
+            23,
+            20,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时32分 ~ 07时23分]"
         },
         {
           "title": "T1战队赛后采访全程",
@@ -34,8 +50,22 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时32分 ~ 07时23分]"
+        },
+        {
+          "title": "明明 S15 总决赛上 Faker 对线拼拼被 BDD 压制，为什么 T1 最终还是赢下来了呢？",
+          "url": "https://www.zhihu.com/question/1970947822217027619",
+          "source": "知乎",
+          "ranks": [
+            9,
+            6,
+            20,
+            8
+          ],
+          "is_new": false,
           "appearance_count": 10,
-          "time_info": "[00时32分 ~ 06时23分]"
+          "time_info": "[00时33分 ~ 07时23分]"
         },
         {
           "title": "米勒赛后评T1三连冠",
@@ -45,11 +75,12 @@
             7,
             9,
             8,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时32分 ~ 06时23分]"
+          "appearance_count": 11,
+          "time_info": "[00时32分 ~ 07时23分]"
         },
         {
           "title": "T1刚夺冠游戏就凉,LOL2强势踢馆",
@@ -59,23 +90,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时32分 ~ 06时23分]"
-        },
-        {
-          "title": "全球S赛现场对比",
-          "url": "https://search.bilibili.com/all?keyword=%E5%85%A8%E7%90%83S%E8%B5%9B%E7%8E%B0%E5%9C%BA%E5%AF%B9%E6%AF%94",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22,
-            19,
-            23,
-            20,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时32分 ~ 06时23分]"
+          "appearance_count": 11,
+          "time_info": "[00时32分 ~ 07时23分]"
         },
         {
           "title": "万字解析T1战胜KT夺冠",
@@ -88,32 +104,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时32分 ~ 06时23分]"
-        },
-        {
-          "title": "心态爆炸!T1全员红温丑态尽显",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346911&amp;topic_name=%E5%BF%83%E6%80%81%E7%88%86%E7%82%B8%21T1%E5%85%A8%E5%91%98%E7%BA%A2%E6%B8%A9%E4%B8%91%E6%80%81%E5%B0%BD%E6%98%BE",
-          "source": "贴吧",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时32分 ~ 06时23分]"
-        },
-        {
-          "title": "明明 S15 总决赛上 Faker 对线拼拼被 BDD 压制，为什么 T1 最终还是赢下来了呢？",
-          "url": "https://www.zhihu.com/question/1970947822217027619",
-          "source": "知乎",
-          "ranks": [
-            9,
-            6,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时33分 ~ 06时23分]"
+          "appearance_count": 11,
+          "time_info": "[00时32分 ~ 07时23分]"
         },
         {
           "title": "拳头或将推出英雄联盟2",
@@ -125,11 +117,24 @@
             29,
             25,
             26,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时32分 ~ 05时22分]"
+          "appearance_count": 10,
+          "time_info": "[00时32分 ~ 07时23分]"
+        },
+        {
+          "title": "心态爆炸!T1全员红温丑态尽显",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346911&amp;topic_name=%E5%BF%83%E6%80%81%E7%88%86%E7%82%B8%21T1%E5%85%A8%E5%91%98%E7%BA%A2%E6%B8%A9%E4%B8%91%E6%80%81%E5%B0%BD%E6%98%BE",
+          "source": "贴吧",
+          "ranks": [
+            29,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时32分 ~ 07时23分]"
         },
         {
           "title": "美国能源部长Chris Wright：核能将从能源部贷款办公室获得最多的贷款。 迄今，对这个贷款资源利用最多的就是核电站，首先将用于建设核电站。",
