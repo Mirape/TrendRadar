@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-11T18:28:10.044328+08:00",
-  "total_titles_processed": 1597,
+  "generated_at": "2025-11-11T19:21:54.295852+08:00",
+  "total_titles_processed": 1694,
   "failed_sources": [],
   "trends": [
     {
@@ -19,11 +19,12 @@
             20,
             18,
             16,
-            14
+            14,
+            22
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时32分 ~ 18时28分]"
+          "appearance_count": 25,
+          "time_info": "[00时32分 ~ 19时21分]"
         },
         {
           "title": "IG全员续约,神人班再战一年",
@@ -39,8 +40,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时29分 ~ 18时28分]"
+          "appearance_count": 11,
+          "time_info": "[12时29分 ~ 19时21分]"
         },
         {
           "title": "T1战队赛后采访全程",
@@ -77,11 +78,12 @@
             9,
             16,
             11,
-            29
+            29,
+            13
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时32分 ~ 18时28分]"
+          "appearance_count": 25,
+          "time_info": "[00时32分 ~ 19时21分]"
         },
         {
           "title": "明明 S15 总决赛上 Faker 对线拼拼被 BDD 压制，为什么 T1 最终还是赢下来了呢？",
@@ -134,8 +136,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时32分 ~ 18时28分]"
+          "appearance_count": 25,
+          "time_info": "[00时32分 ~ 19时21分]"
         },
         {
           "title": "万字解析T1战胜KT夺冠",
