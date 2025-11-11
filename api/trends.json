@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-11T11:18:12.350382+08:00",
-  "total_titles_processed": 936,
+  "generated_at": "2025-11-11T12:30:03.024452+08:00",
+  "total_titles_processed": 1034,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "UP主分析T1如何战胜KT",
@@ -15,28 +15,12 @@
             5,
             3,
             2,
-            1
+            1,
+            20
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时32分 ~ 11时18分]"
-        },
-        {
-          "title": "T1战队赛后采访全程",
-          "url": "https://search.bilibili.com/all?keyword=T1%E6%88%98%E9%98%9F%E8%B5%9B%E5%90%8E%E9%87%87%E8%AE%BF%E5%85%A8%E7%A8%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15,
-            17,
-            18,
-            8,
-            9,
-            3,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时32分 ~ 11时18分]"
+          "appearance_count": 16,
+          "time_info": "[00时32分 ~ 12时30分]"
         },
         {
           "title": "全球S赛现场对比",
@@ -53,8 +37,26 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时32分 ~ 11时18分]"
+          "appearance_count": 16,
+          "time_info": "[00时32分 ~ 12时30分]"
+        },
+        {
+          "title": "T1战队赛后采访全程",
+          "url": "https://search.bilibili.com/all?keyword=T1%E6%88%98%E9%98%9F%E8%B5%9B%E5%90%8E%E9%87%87%E8%AE%BF%E5%85%A8%E7%A8%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            17,
+            18,
+            8,
+            9,
+            3,
+            19,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时32分 ~ 12时30分]"
         },
         {
           "title": "明明 S15 总决赛上 Faker 对线拼拼被 BDD 压制，为什么 T1 最终还是赢下来了呢？",
@@ -83,8 +85,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时32分 ~ 11时18分]"
+          "appearance_count": 16,
+          "time_info": "[00时32分 ~ 12时30分]"
         },
         {
           "title": "T1刚夺冠游戏就凉,LOL2强势踢馆",
@@ -93,11 +95,12 @@
           "ranks": [
             9,
             13,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时32分 ~ 11时18分]"
+          "appearance_count": 16,
+          "time_info": "[00时32分 ~ 12时30分]"
         },
         {
           "title": "万字解析T1战胜KT夺冠",
@@ -143,6 +146,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时32分 ~ 07时23分]"
+        },
+        {
+          "title": "IG全员续约,神人班再战一年",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346978&amp;topic_name=IG%E5%85%A8%E5%91%98%E7%BB%AD%E7%BA%A6%2C%E7%A5%9E%E4%BA%BA%E7%8F%AD%E5%86%8D%E6%88%98%E4%B8%80%E5%B9%B4",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时29分 ~ 12时30分]"
         },
         {
           "title": "知情人士透露，Novonor SA即将与债权人达成协议，将其在Braskem SA的控股权出售给资产管理公司IG4 Capital运营的一只基金。（彭博）",
