@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-11T09:52:55.327265+08:00",
-  "total_titles_processed": 809,
+  "generated_at": "2025-11-11T11:18:12.350382+08:00",
+  "total_titles_processed": 936,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "UP主分析T1如何战胜KT",
@@ -18,8 +18,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时32分 ~ 09时52分]"
+          "appearance_count": 14,
+          "time_info": "[00时32分 ~ 11时18分]"
         },
         {
           "title": "T1战队赛后采访全程",
@@ -31,11 +31,12 @@
             18,
             8,
             9,
-            3
+            3,
+            19
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时32分 ~ 09时52分]"
+          "appearance_count": 14,
+          "time_info": "[00时32分 ~ 11时18分]"
         },
         {
           "title": "全球S赛现场对比",
@@ -48,11 +49,12 @@
             20,
             6,
             3,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时32分 ~ 09时52分]"
+          "appearance_count": 14,
+          "time_info": "[00时32分 ~ 11时18分]"
         },
         {
           "title": "明明 S15 总决赛上 Faker 对线拼拼被 BDD 压制，为什么 T1 最终还是赢下来了呢？",
@@ -77,11 +79,12 @@
             9,
             8,
             17,
-            18
+            18,
+            15
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时32分 ~ 09时52分]"
+          "appearance_count": 14,
+          "time_info": "[00时32分 ~ 11时18分]"
         },
         {
           "title": "T1刚夺冠游戏就凉,LOL2强势踢馆",
@@ -89,11 +92,12 @@
           "source": "贴吧",
           "ranks": [
             9,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时32分 ~ 09时52分]"
+          "appearance_count": 14,
+          "time_info": "[00时32分 ~ 11时18分]"
         },
         {
           "title": "万字解析T1战胜KT夺冠",
@@ -103,11 +107,12 @@
             13,
             14,
             12,
-            11
+            11,
+            20
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时32分 ~ 09时52分]"
+          "appearance_count": 14,
+          "time_info": "[00时32分 ~ 11时18分]"
         },
         {
           "title": "拳头或将推出英雄联盟2",
@@ -144,11 +149,12 @@
           "url": "https://wallstreetcn.com/livenews/3002438",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时52分 ~ 11时18分]"
         },
         {
           "title": "美国能源部长Chris Wright：核能将从能源部贷款办公室获得最多的贷款。 迄今，对这个贷款资源利用最多的就是核电站，首先将用于建设核电站。",
@@ -161,6 +167,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时22分 ~ 06时23分]"
+        },
+        {
+          "title": "明明 S15 总决赛上 Faker 对线频频被 BDD 压制，为什么 T1 最终还是赢下来了呢？",
+          "url": "https://www.zhihu.com/question/1970947822217027619",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时17分 ~ 11时18分]"
         }
       ]
     }
