@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-12T03:20:09.591977+08:00",
-  "total_titles_processed": 481,
+  "generated_at": "2025-11-12T04:27:43.742719+08:00",
+  "total_titles_processed": 509,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 03时20分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 04时27分]"
         },
         {
           "title": "T1 三连冠后，如何看待之后 LPL 的发展？",
@@ -25,11 +25,12 @@
           "ranks": [
             9,
             8,
-            6
+            6,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 03时20分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 04时27分]"
         },
         {
           "title": "IG全员续约,神人班再战一年",
@@ -39,8 +40,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 03时20分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 04时27分]"
         },
         {
           "title": "T1刚夺冠游戏就凉,LOL2强势踢馆",
@@ -50,8 +51,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 03时20分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 04时27分]"
         }
       ]
     }
