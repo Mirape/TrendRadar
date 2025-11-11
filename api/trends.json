@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-11T16:32:38.220897+08:00",
-  "total_titles_processed": 1385,
+  "generated_at": "2025-11-11T17:28:18.159976+08:00",
+  "total_titles_processed": 1495,
   "failed_sources": [],
   "trends": [
     {
@@ -22,8 +22,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时32分 ~ 16时32分]"
+          "appearance_count": 22,
+          "time_info": "[00时32分 ~ 17时28分]"
         },
         {
           "title": "T1战队赛后采访全程",
@@ -38,11 +38,12 @@
             3,
             19,
             22,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时32分 ~ 16时32分]"
+          "appearance_count": 22,
+          "time_info": "[00时32分 ~ 17时28分]"
         },
         {
           "title": "全球S赛现场对比",
@@ -62,8 +63,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时32分 ~ 16时32分]"
+          "appearance_count": 22,
+          "time_info": "[00时32分 ~ 17时28分]"
         },
         {
           "title": "明明 S15 总决赛上 Faker 对线拼拼被 BDD 压制，为什么 T1 最终还是赢下来了呢？",
@@ -92,11 +93,12 @@
             15,
             13,
             19,
-            12
+            12,
+            16
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时32分 ~ 16时32分]"
+          "appearance_count": 22,
+          "time_info": "[00时32分 ~ 17时28分]"
         },
         {
           "title": "T1刚夺冠游戏就凉,LOL2强势踢馆",
@@ -110,11 +112,12 @@
             19,
             20,
             22,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时32分 ~ 16时32分]"
+          "appearance_count": 22,
+          "time_info": "[00时32分 ~ 17时28分]"
         },
         {
           "title": "万字解析T1战胜KT夺冠",
@@ -170,11 +173,12 @@
             6,
             7,
             10,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时29分 ~ 16时32分]"
+          "appearance_count": 8,
+          "time_info": "[12时29分 ~ 17时28分]"
         },
         {
           "title": "知情人士透露，Novonor SA即将与债权人达成协议，将其在Braskem SA的控股权出售给资产管理公司IG4 Capital运营的一只基金。（彭博）",
