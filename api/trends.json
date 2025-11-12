@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-13T00:33:52.513240+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-13T01:23:33.392393+08:00",
+  "total_titles_processed": 386,
   "failed_sources": [],
   "trends": [
     {
@@ -15,30 +15,32 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
-        },
-        {
-          "title": "T1主力全留,明年剑指四连冠?",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347016&amp;topic_name=T1%E4%B8%BB%E5%8A%9B%E5%85%A8%E7%95%99%2C%E6%98%8E%E5%B9%B4%E5%89%91%E6%8C%87%E5%9B%9B%E8%BF%9E%E5%86%A0%3F",
-          "source": "贴吧",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 01时23分]"
         },
         {
           "title": "IG疑似全员续约",
           "url": "https://search.bilibili.com/all?keyword=IG%E7%96%91%E4%BC%BC%E5%85%A8%E5%91%98%E7%BB%AD%E7%BA%A6",
           "source": "bilibili 热搜",
           "ranks": [
-            25
+            25,
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 01时23分]"
+        },
+        {
+          "title": "T1主力全留,明年剑指四连冠?",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347016&amp;topic_name=T1%E4%B8%BB%E5%8A%9B%E5%85%A8%E7%95%99%2C%E6%98%8E%E5%B9%B4%E5%89%91%E6%8C%87%E5%9B%9B%E8%BF%9E%E5%86%A0%3F",
+          "source": "贴吧",
+          "ranks": [
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 01时23分]"
         }
       ]
     }
