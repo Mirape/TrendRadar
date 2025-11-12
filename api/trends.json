@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-12T11:16:38.817882+08:00",
-  "total_titles_processed": 934,
+  "generated_at": "2025-11-12T12:30:18.042055+08:00",
+  "total_titles_processed": 1027,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             5,
             6,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时31分 ~ 11时16分]"
+          "appearance_count": 13,
+          "time_info": "[00时31分 ~ 12时30分]"
         },
         {
           "title": "IG全员续约,神人班再战一年",
@@ -27,11 +28,12 @@
           "ranks": [
             16,
             17,
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时31分 ~ 11时16分]"
+          "appearance_count": 13,
+          "time_info": "[00时31分 ~ 12时30分]"
         },
         {
           "title": "T1刚夺冠游戏就凉,LOL2强势踢馆",
@@ -65,11 +67,12 @@
           "url": "https://www.zhihu.com/question/1971214899054098283",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时51分 ~ 11时16分]"
+          "appearance_count": 3,
+          "time_info": "[09时51分 ~ 12时30分]"
         },
         {
           "title": "IG疑似全员续约",
@@ -77,22 +80,24 @@
           "source": "bilibili 热搜",
           "ranks": [
             6,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时51分 ~ 11时16分]"
+          "appearance_count": 3,
+          "time_info": "[09时51分 ~ 12时30分]"
         },
         {
           "title": "云南BIGBANG自己负责妆造",
           "url": "https://www.douyin.com/hot/2302997",
           "source": "抖音",
           "ranks": [
-            26
+            26,
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时51分"
+          "appearance_count": 2,
+          "time_info": "[09时51分 ~ 12时30分]"
         },
         {
           "title": "苹果新配件iPhone Pocket1299元起售",
@@ -101,7 +106,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
         }
