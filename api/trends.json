@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-13T03:21:15.277867+08:00",
-  "total_titles_processed": 513,
+  "generated_at": "2025-11-13T04:27:42.433813+08:00",
+  "total_titles_processed": 546,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "今年的T1经历了什么",
@@ -15,8 +15,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 03时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 04时27分]"
+        },
+        {
+          "title": "澳大利亚另类投资管理公司Navigator首席执行官表示，计划扩大其投资组合，到2030年将收益翻一番。Navigator现有投资组合可实现每年10%的盈利增长。主要股东Blue Owl认为存在巨大上涨空间。",
+          "url": "https://flash.jin10.com/detail/20251113040202574800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时27分"
         },
         {
           "title": "IG疑似全员续约",
@@ -26,11 +37,12 @@
             25,
             19,
             16,
-            12
+            12,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 03时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 04时27分]"
         },
         {
           "title": "T1主力全留,明年剑指四连冠?",
@@ -41,8 +53,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 03时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 04时27分]"
         }
       ]
     }
