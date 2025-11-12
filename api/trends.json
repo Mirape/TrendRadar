@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-12T13:25:04.359769+08:00",
-  "total_titles_processed": 1107,
+  "generated_at": "2025-11-12T14:37:11.850533+08:00",
+  "total_titles_processed": 1210,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             5,
             6,
             9,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时31分 ~ 13时25分]"
+          "appearance_count": 17,
+          "time_info": "[00时31分 ~ 14时37分]"
         },
         {
           "title": "IG全员续约,神人班再战一年",
@@ -29,11 +30,12 @@
             16,
             17,
             19,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时31分 ~ 13时25分]"
+          "appearance_count": 17,
+          "time_info": "[00时31分 ~ 14时37分]"
         },
         {
           "title": "T1刚夺冠游戏就凉,LOL2强势踢馆",
@@ -69,11 +71,12 @@
           "ranks": [
             5,
             7,
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时51分 ~ 13时25分]"
+          "appearance_count": 7,
+          "time_info": "[09时51分 ~ 14时37分]"
         },
         {
           "title": "IG疑似全员续约",
@@ -85,8 +88,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时51分 ~ 13时25分]"
+          "appearance_count": 7,
+          "time_info": "[09时51分 ~ 14时37分]"
         },
         {
           "title": "云南BIGBANG自己负责妆造",
@@ -94,11 +97,12 @@
           "source": "抖音",
           "ranks": [
             26,
-            20
+            20,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时51分 ~ 12时30分]"
+          "appearance_count": 4,
+          "time_info": "[09时51分 ~ 14时37分]"
         },
         {
           "title": "苹果新配件iPhone Pocket1299元起售",
