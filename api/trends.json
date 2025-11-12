@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-12T12:30:18.042055+08:00",
-  "total_titles_processed": 1027,
+  "generated_at": "2025-11-12T13:25:04.359769+08:00",
+  "total_titles_processed": 1107,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时31分 ~ 12时30分]"
+          "appearance_count": 15,
+          "time_info": "[00时31分 ~ 13时25分]"
         },
         {
           "title": "IG全员续约,神人班再战一年",
@@ -32,8 +32,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时31分 ~ 12时30分]"
+          "appearance_count": 15,
+          "time_info": "[00时31分 ~ 13时25分]"
         },
         {
           "title": "T1刚夺冠游戏就凉,LOL2强势踢馆",
@@ -68,11 +68,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时51分 ~ 12时30分]"
+          "appearance_count": 5,
+          "time_info": "[09时51分 ~ 13时25分]"
         },
         {
           "title": "IG疑似全员续约",
@@ -84,8 +85,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时51分 ~ 12时30分]"
+          "appearance_count": 5,
+          "time_info": "[09时51分 ~ 13时25分]"
         },
         {
           "title": "云南BIGBANG自己负责妆造",
