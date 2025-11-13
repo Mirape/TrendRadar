@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-14T02:35:08.503986+08:00",
-  "total_titles_processed": 443,
+  "generated_at": "2025-11-14T03:20:19.321852+08:00",
+  "total_titles_processed": 502,
   "failed_sources": [],
   "trends": [
     {
@@ -16,19 +16,32 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 02时35分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 03时20分]"
         },
         {
           "title": "T1揭秘夺冠的幕后故事",
           "url": "https://search.bilibili.com/all?keyword=T1%E6%8F%AD%E7%A7%98%E5%A4%BA%E5%86%A0%E7%9A%84%E5%B9%95%E5%90%8E%E6%95%85%E4%BA%8B",
           "source": "bilibili 热搜",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 02时35分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 03时20分]"
+        },
+        {
+          "title": "T1主力全留,明年剑指四连冠?",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347016&amp;topic_name=T1%E4%B8%BB%E5%8A%9B%E5%85%A8%E7%95%99%2C%E6%98%8E%E5%B9%B4%E5%89%91%E6%8C%87%E5%9B%9B%E8%BF%9E%E5%86%A0%3F",
+          "source": "贴吧",
+          "ranks": [
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 03时20分]"
         },
         {
           "title": "英雄联盟亚恒台词解析",
@@ -38,18 +51,6 @@
             23,
             30,
             29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 02时35分]"
-        },
-        {
-          "title": "T1主力全留,明年剑指四连冠?",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347016&amp;topic_name=T1%E4%B8%BB%E5%8A%9B%E5%85%A8%E7%95%99%2C%E6%98%8E%E5%B9%B4%E5%89%91%E6%8C%87%E5%9B%9B%E8%BF%9E%E5%86%A0%3F",
-          "source": "贴吧",
-          "ranks": [
-            29,
-            30
           ],
           "is_new": false,
           "appearance_count": 4,
