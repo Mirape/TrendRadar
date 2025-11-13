@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-13T11:19:29.442422+08:00",
-  "total_titles_processed": 960,
+  "generated_at": "2025-11-13T12:30:22.794588+08:00",
+  "total_titles_processed": 1065,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             7,
             9,
-            8
+            8,
+            16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时33分 ~ 11时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时33分 ~ 12时30分]"
         },
         {
           "title": "T1主力全留,明年剑指四连冠?",
@@ -27,11 +28,12 @@
           "ranks": [
             21,
             22,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时33分 ~ 11时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时33分 ~ 12时30分]"
         },
         {
           "title": "IG疑似全员续约",
