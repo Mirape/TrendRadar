@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-13T20:52:36.311405+08:00",
-  "total_titles_processed": 1844,
+  "generated_at": "2025-11-13T21:36:38.373110+08:00",
+  "total_titles_processed": 1953,
   "failed_sources": [],
   "trends": [
     {
@@ -40,8 +40,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时33分 ~ 20时52分]"
+          "appearance_count": 21,
+          "time_info": "[00时33分 ~ 21时36分]"
         },
         {
           "title": "IG疑似全员续约",
@@ -77,11 +77,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             6,
-            14
+            14,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时22分 ~ 20时52分]"
+          "appearance_count": 3,
+          "time_info": "[19时22分 ~ 21时36分]"
         },
         {
           "title": "瑞士经济部发言人表示，瑞士经济部长Guy Parmelin和国务秘书Helene Budliger Artieda将前往华盛顿，就完成与美国的贸易协议进行进一步会谈，",
