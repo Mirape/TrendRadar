@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-14T03:20:19.321852+08:00",
-  "total_titles_processed": 502,
+  "generated_at": "2025-11-14T04:28:13.836102+08:00",
+  "total_titles_processed": 541,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             7,
-            5
+            5,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 03时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时33分 ~ 04时28分]"
         },
         {
           "title": "T1揭秘夺冠的幕后故事",
@@ -25,11 +26,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             8,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 03时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时33分 ~ 04时28分]"
         },
         {
           "title": "T1主力全留,明年剑指四连冠?",
@@ -40,8 +42,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时33分 ~ 03时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时33分 ~ 04时28分]"
         },
         {
           "title": "英雄联盟亚恒台词解析",
@@ -50,11 +52,12 @@
           "ranks": [
             23,
             30,
-            29
+            29,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 02时35分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 04时28分]"
         }
       ]
     }
