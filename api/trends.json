@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-14T01:24:33.079592+08:00",
-  "total_titles_processed": 382,
+  "generated_at": "2025-11-14T02:35:08.503986+08:00",
+  "total_titles_processed": 443,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/1971965884215030620",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 01时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 02时35分]"
         },
         {
           "title": "T1揭秘夺冠的幕后故事",
@@ -26,8 +27,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 01时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 02时35分]"
         },
         {
           "title": "英雄联盟亚恒台词解析",
@@ -35,11 +36,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             23,
-            30
+            30,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 01时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 02时35分]"
         },
         {
           "title": "T1主力全留,明年剑指四连冠?",
@@ -50,8 +52,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 01时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 02时35分]"
         }
       ]
     }
