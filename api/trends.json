@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-14T09:52:21.348259+08:00",
-  "total_titles_processed": 863,
+  "generated_at": "2025-11-14T11:17:03.610916+08:00",
+  "total_titles_processed": 977,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             5,
             12,
             4,
-            8
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时33分 ~ 09时52分]"
+          "appearance_count": 14,
+          "time_info": "[00时33分 ~ 11时17分]"
         },
         {
           "title": "T1揭秘夺冠的幕后故事",
@@ -31,11 +32,12 @@
             7,
             9,
             16,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时33分 ~ 09时52分]"
+          "appearance_count": 14,
+          "time_info": "[00时33分 ~ 11时17分]"
         },
         {
           "title": "英雄联盟亚恒台词解析",
