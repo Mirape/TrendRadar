@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-15T17:22:25.846449+08:00",
-  "total_titles_processed": 1236,
+  "generated_at": "2025-11-15T18:22:57.456453+08:00",
+  "total_titles_processed": 1308,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "13F报告显示：Coatue Management三季度建仓新思科技Synopsys、应用材料、谷歌C、Snowflake、Figma。 清仓飞利浦莫里斯、礼来、Generac、百胜中国、LexinFintech。 增持谷歌A、Applovin、甲骨文、微软、台积电。 减持CoreWeave、Arm控股、亚马逊、Intuit、KKR。 重仓Meta、微软、台积电、GE Vernova、亚马逊。",
@@ -49,9 +49,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
+        },
+        {
+          "title": "Faker复盘iG打T1",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23Faker%E5%A4%8D%E7%9B%98iG%E6%89%93T1%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523Faker%25E5%25A4%258D%25E7%259B%2598iG%25E6%2589%2593T1%2523%26filter_type%3Drealtimehot%26dgr%3D0%26c_type%3D31%26realpos%3D28%26cate%3D5001%26stream_entry_id%3D31%26band_rank%3D28%26lcate%3D5001%26pos%3D28%26flag%3D1%26display_time%3D1763202006%26pre_seqid%3D176320200638803305412154&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
         }
       ]
     }
