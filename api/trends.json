@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-15T22:20:26.493347+08:00",
-  "total_titles_processed": 1555,
+  "generated_at": "2025-11-15T23:21:49.674200+08:00",
+  "total_titles_processed": 1600,
   "failed_sources": [],
   "trends": [
     {
@@ -14,9 +14,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时20分 ~ 23时21分]"
         },
         {
           "title": "13F报告显示：Coatue Management三季度建仓新思科技Synopsys、应用材料、谷歌C、Snowflake、Figma。 清仓飞利浦莫里斯、礼来、Generac、百胜中国、LexinFintech。 增持谷歌A、Applovin、甲骨文、微软、台积电。 减持CoreWeave、Arm控股、亚马逊、Intuit、KKR。 重仓Meta、微软、台积电、GE Vernova、亚马逊。",
@@ -43,6 +43,18 @@
           "time_info": "[04时27分 ~ 05时22分]"
         },
         {
+          "title": "如果把多兰换成 bin，S15T1 还能夺冠吗？",
+          "url": "https://www.zhihu.com/question/1971215004335310091",
+          "source": "知乎",
+          "ranks": [
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时20分 ~ 23时21分]"
+        },
+        {
           "title": "13F报告显示：高盛集团三季度建仓Figma、BitMine Immersion Technologies、摩根大通国际债券机会ETF等。 增持英伟达、苹果、微软、谷歌等。 减持Enbridge、iShares罗素2000 ETF等。 重仓英伟达、微软、苹果、SPDR标普500 ETF信托、亚马逊。",
           "url": "https://wallstreetcn.com/livenews/3005068",
           "source": "华尔街见闻-快讯",
@@ -63,17 +75,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
-        },
-        {
-          "title": "如果把多兰换成 bin，S15T1 还能夺冠吗？",
-          "url": "https://www.zhihu.com/question/1971215004335310091",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时20分"
         },
         {
           "title": "Faker复盘iG打T1",
