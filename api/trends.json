@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-17T01:19:35.071780+08:00",
-  "total_titles_processed": 337,
+  "generated_at": "2025-11-17T02:31:38.079195+08:00",
+  "total_titles_processed": 357,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/livenews/3005333",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 01时19分]"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 02时31分]"
         },
         {
           "title": "T1转会期",
@@ -25,7 +26,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
         }
