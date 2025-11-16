@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-16T11:23:47.685101+08:00",
-  "total_titles_processed": 618,
+  "generated_at": "2025-11-16T12:29:33.540374+08:00",
+  "total_titles_processed": 686,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             12,
             8,
             16,
-            25
+            25,
+            22
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 11时23分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 12时29分]"
         },
         {
           "title": "Uzi被曝加入iG",
@@ -31,8 +32,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时57分 ~ 11时23分]"
+          "appearance_count": 3,
+          "time_info": "[09时57分 ~ 12时29分]"
         }
       ]
     }
