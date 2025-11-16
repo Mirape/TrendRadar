@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-17T03:18:41.995363+08:00",
-  "total_titles_processed": 370,
+  "generated_at": "2025-11-17T04:25:25.081262+08:00",
+  "total_titles_processed": 387,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             17,
-            19
+            19,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 03时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 04时25分]"
         },
         {
           "title": "T1转会期",
