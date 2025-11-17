@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-17T17:30:22.442191+08:00",
-  "total_titles_processed": 1359,
+  "generated_at": "2025-11-17T18:28:56.929276+08:00",
+  "total_titles_processed": 1452,
   "failed_sources": [],
   "trends": [
     {
@@ -22,6 +22,19 @@
           "time_info": "[09时53分 ~ 14时37分]"
         },
         {
+          "title": "五毛特效,腾竞S赛宣传片太招笑",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347196&amp;topic_name=%E4%BA%94%E6%AF%9B%E7%89%B9%E6%95%88%2C%E8%85%BE%E7%AB%9ES%E8%B5%9B%E5%AE%A3%E4%BC%A0%E7%89%87%E5%A4%AA%E6%8B%9B%E7%AC%91",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时24分 ~ 18时28分]"
+        },
+        {
           "title": "据俄罗斯国家媒体报道：总统普京上周在哈萨克斯坦总统到访期间与石油公司Rosneft的CEO Igor Sechin对话。",
           "url": "https://wallstreetcn.com/livenews/3005333",
           "source": "华尔街见闻-快讯",
@@ -34,19 +47,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时27分 ~ 05时20分]"
-        },
-        {
-          "title": "五毛特效,腾竞S赛宣传片太招笑",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347196&amp;topic_name=%E4%BA%94%E6%AF%9B%E7%89%B9%E6%95%88%2C%E8%85%BE%E7%AB%9ES%E8%B5%9B%E5%AE%A3%E4%BC%A0%E7%89%87%E5%A4%AA%E6%8B%9B%E7%AC%91",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时24分 ~ 17时30分]"
         },
         {
           "title": "AL 战队发布 S15 纪录片《未竟》，惜败 T1 止步八强，你有哪些感触？",
