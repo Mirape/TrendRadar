@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-17T16:35:18.451708+08:00",
-  "total_titles_processed": 1267,
+  "generated_at": "2025-11-17T17:30:22.442191+08:00",
+  "total_titles_processed": 1359,
   "failed_sources": [],
   "trends": [
     {
@@ -41,11 +41,12 @@
           "source": "贴吧",
           "ranks": [
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时24分 ~ 16时35分]"
+          "appearance_count": 4,
+          "time_info": "[15时24分 ~ 17时30分]"
         },
         {
           "title": "AL 战队发布 S15 纪录片《未竟》，惜败 T1 止步八强，你有哪些感触？",
