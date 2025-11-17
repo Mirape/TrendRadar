@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-18T05:22:47.799218+08:00",
-  "total_titles_processed": 564,
+  "generated_at": "2025-11-18T06:23:43.040557+08:00",
+  "total_titles_processed": 616,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 05时22分]"
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 06时23分]"
         },
         {
           "title": "Guma离队,T1银河战舰解体",
@@ -26,8 +26,22 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 05时22分]"
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 06时23分]"
+        },
+        {
+          "title": "如何评价 T1 官宣 Gumayusi 离队？",
+          "url": "https://www.zhihu.com/question/1973848743590794899",
+          "source": "知乎",
+          "ranks": [
+            2,
+            6,
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 06时23分]"
         },
         {
           "title": "T1官宣Gumayusi离队",
@@ -38,24 +52,12 @@
             5,
             4,
             6,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 05时22分]"
-        },
-        {
-          "title": "如何评价 T1 官宣 Gumayusi 离队？",
-          "url": "https://www.zhihu.com/question/1973848743590794899",
-          "source": "知乎",
-          "ranks": [
-            2,
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 05时22分]"
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 06时23分]"
         },
         {
           "title": "T1官宣Doran续约",
@@ -66,11 +68,12 @@
             5,
             11,
             17,
-            19
+            19,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 05时22分]"
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 06时23分]"
         },
         {
           "title": "五毛特效,腾竞S赛宣传片太招笑",
@@ -80,8 +83,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 05时22分]"
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 06时23分]"
         },
         {
           "title": "T1官宣Gumayusi离队",
@@ -93,8 +96,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时23分 ~ 05时22分]"
+          "appearance_count": 6,
+          "time_info": "[01时23分 ~ 06时23分]"
         },
         {
           "title": "T1管理层",
@@ -112,11 +115,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E6%96%B0%E8%B5%9B%E5%AD%A3%E6%95%85%E4%BA%8B",
           "source": "bilibili 热搜",
           "ranks": [
-            29
+            29,
+            27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时27分"
+          "appearance_count": 2,
+          "time_info": "[04时27分 ~ 06时23分]"
         }
       ]
     }
