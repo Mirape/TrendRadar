@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-17T18:28:56.929276+08:00",
-  "total_titles_processed": 1452,
+  "generated_at": "2025-11-17T19:21:41.607768+08:00",
+  "total_titles_processed": 1535,
   "failed_sources": [],
   "trends": [
     {
@@ -28,11 +28,12 @@
           "ranks": [
             5,
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时24分 ~ 18时28分]"
+          "appearance_count": 6,
+          "time_info": "[15时24分 ~ 19时21分]"
         },
         {
           "title": "据俄罗斯国家媒体报道：总统普京上周在哈萨克斯坦总统到访期间与石油公司Rosneft的CEO Igor Sechin对话。",
