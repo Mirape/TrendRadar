@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-18T09:51:16.261413+08:00",
-  "total_titles_processed": 809,
+  "generated_at": "2025-11-18T11:16:36.385632+08:00",
+  "total_titles_processed": 926,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "Guma离队,T1银河战舰解体",
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             1,
-            2
+            2,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时33分 ~ 09时51分]"
+          "appearance_count": 11,
+          "time_info": "[00时33分 ~ 11时16分]"
         },
         {
           "title": "Gumayusi将离开T1",
@@ -25,11 +26,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             1,
-            6
+            6,
+            17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时33分 ~ 09时51分]"
+          "appearance_count": 11,
+          "time_info": "[00时33分 ~ 11时16分]"
         },
         {
           "title": "如何评价 T1 官宣 Gumayusi 离队？",
@@ -85,11 +87,12 @@
           "source": "贴吧",
           "ranks": [
             11,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时33分 ~ 09时51分]"
+          "appearance_count": 11,
+          "time_info": "[00时33分 ~ 11时16分]"
         },
         {
           "title": "T1官宣Gumayusi离队",
@@ -126,6 +129,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时27分 ~ 06时23分]"
+        },
+        {
+          "title": "T1官宣Smash离队",
+          "url": "https://search.bilibili.com/all?keyword=T1%E5%AE%98%E5%AE%A3Smash%E7%A6%BB%E9%98%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
         },
         {
           "title": "Tiger Woods和马斯克预计将出席美国总统特朗普与MBS（沙特王储）的宴会。（PunchBowl）",
