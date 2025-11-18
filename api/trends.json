@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-19T01:23:16.249443+08:00",
-  "total_titles_processed": 377,
+  "generated_at": "2025-11-19T02:36:04.899572+08:00",
+  "total_titles_processed": 452,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 01时23分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 02时36分]"
         },
         {
           "title": "JDG出手举报,Peyz加盟T1告吹？",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 01时23分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 02时36分]"
         },
         {
           "title": "韩华野心搂不住,妄想T1成分部",
@@ -38,8 +38,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 01时23分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 02时36分]"
         },
         {
           "title": "Guma离队,T1银河战舰解体",
@@ -49,8 +49,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 01时23分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 02时36分]"
         }
       ]
     }
