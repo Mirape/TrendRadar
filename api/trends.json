@@ -1,24 +1,12 @@
 {
-  "generated_at": "2025-11-19T04:29:09.721222+08:00",
-  "total_titles_processed": 529,
+  "generated_at": "2025-11-19T06:24:43.010724+08:00",
+  "total_titles_processed": 597,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
       "match_count": 4,
       "titles": [
-        {
-          "title": "真实锐评Gumayusi离开T1",
-          "url": "https://search.bilibili.com/all?keyword=%E7%9C%9F%E5%AE%9E%E9%94%90%E8%AF%84Gumayusi%E7%A6%BB%E5%BC%80T1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 04时29分]"
-        },
         {
           "title": "JDG出手举报,Peyz加盟T1告吹？",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347250&amp;topic_name=JDG%E5%87%BA%E6%89%8B%E4%B8%BE%E6%8A%A5%2CPeyz%E5%8A%A0%E7%9B%9FT1%E5%91%8A%E5%90%B9%EF%BC%9F",
@@ -27,8 +15,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 04时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 06时24分]"
+        },
+        {
+          "title": "真实锐评Gumayusi离开T1",
+          "url": "https://search.bilibili.com/all?keyword=%E7%9C%9F%E5%AE%9E%E9%94%90%E8%AF%84Gumayusi%E7%A6%BB%E5%BC%80T1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            1,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 06时24分]"
         },
         {
           "title": "韩华野心搂不住,妄想T1成分部",
@@ -38,8 +39,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 04时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 06时24分]"
         },
         {
           "title": "Guma离队,T1银河战舰解体",
@@ -49,8 +50,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 04时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 06时24分]"
         }
       ]
     }
