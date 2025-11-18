@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-18T19:23:23.370576+08:00",
-  "total_titles_processed": 1684,
+  "generated_at": "2025-11-18T20:50:55.232093+08:00",
+  "total_titles_processed": 1780,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "Gumayusi将离开T1",
@@ -50,8 +50,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时33分 ~ 19时23分]"
+          "appearance_count": 22,
+          "time_info": "[00时33分 ~ 20时50分]"
         },
         {
           "title": "T1官宣Doran续约",
@@ -140,6 +140,17 @@
           "time_info": "[00时33分 ~ 18时28分]"
         },
         {
+          "title": "真实锐评Gumayusi离开T1",
+          "url": "https://search.bilibili.com/all?keyword=%E7%9C%9F%E5%AE%9E%E9%94%90%E8%AF%84Gumayusi%E7%A6%BB%E5%BC%80T1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
+        },
+        {
           "title": "人形机器人量产交付视频遭Figure创始人公开质疑造假，优必选回应",
           "url": "https://wallstreetcn.com/livenews/3006288",
           "source": "华尔街见闻-快讯",
@@ -175,6 +186,17 @@
           "time_info": "[01时23分 ~ 02时34分]"
         },
         {
+          "title": "韩华野心搂不住,妄想T1成分部",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347247&amp;topic_name=%E9%9F%A9%E5%8D%8E%E9%87%8E%E5%BF%83%E6%90%82%E4%B8%8D%E4%BD%8F%2C%E5%A6%84%E6%83%B3T1%E6%88%90%E5%88%86%E9%83%A8",
+          "source": "贴吧",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时23分 ~ 20时50分]"
+        },
+        {
           "title": "英雄联盟新赛季故事",
           "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E6%96%B0%E8%B5%9B%E5%AD%A3%E6%95%85%E4%BA%8B",
           "source": "bilibili 热搜",
@@ -196,17 +218,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
-        },
-        {
-          "title": "韩华野心搂不住,妄想T1成分部",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347247&amp;topic_name=%E9%9F%A9%E5%8D%8E%E9%87%8E%E5%BF%83%E6%90%82%E4%B8%8D%E4%BD%8F%2C%E5%A6%84%E6%83%B3T1%E6%88%90%E5%88%86%E9%83%A8",
-          "source": "贴吧",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时23分"
         }
       ]
     }
