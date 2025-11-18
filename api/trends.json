@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-18T07:22:21.722457+08:00",
-  "total_titles_processed": 658,
+  "generated_at": "2025-11-18T09:51:16.261413+08:00",
+  "total_titles_processed": 809,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347214&amp;topic_name=Guma%E7%A6%BB%E9%98%9F%2CT1%E9%93%B6%E6%B2%B3%E6%88%98%E8%88%B0%E8%A7%A3%E4%BD%93",
           "source": "贴吧",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时33分 ~ 07时22分]"
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 09时51分]"
         },
         {
           "title": "Gumayusi将离开T1",
@@ -27,8 +28,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时33分 ~ 07时22分]"
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 09时51分]"
         },
         {
           "title": "如何评价 T1 官宣 Gumayusi 离队？",
@@ -43,6 +44,23 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时33分 ~ 07时22分]"
+        },
+        {
+          "title": "T1官宣Doran续约",
+          "url": "https://search.bilibili.com/all?keyword=T1%E5%AE%98%E5%AE%A3Doran%E7%BB%AD%E7%BA%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            5,
+            11,
+            17,
+            19,
+            12,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 09时51分]"
         },
         {
           "title": "T1官宣Gumayusi离队",
@@ -62,31 +80,16 @@
           "time_info": "[00时33分 ~ 07时22分]"
         },
         {
-          "title": "T1官宣Doran续约",
-          "url": "https://search.bilibili.com/all?keyword=T1%E5%AE%98%E5%AE%A3Doran%E7%BB%AD%E7%BA%A6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            5,
-            11,
-            17,
-            19,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时33分 ~ 07时22分]"
-        },
-        {
           "title": "五毛特效,腾竞S赛宣传片太招笑",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347196&amp;topic_name=%E4%BA%94%E6%AF%9B%E7%89%B9%E6%95%88%2C%E8%85%BE%E7%AB%9ES%E8%B5%9B%E5%AE%A3%E4%BC%A0%E7%89%87%E5%A4%AA%E6%8B%9B%E7%AC%91",
           "source": "贴吧",
           "ranks": [
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时33分 ~ 07时22分]"
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 09时51分]"
         },
         {
           "title": "T1官宣Gumayusi离队",
@@ -131,7 +134,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         }
