@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-18T17:27:42.147093+08:00",
-  "total_titles_processed": 1507,
+  "generated_at": "2025-11-18T18:28:40.616024+08:00",
+  "total_titles_processed": 1599,
   "failed_sources": [],
   "trends": [
     {
@@ -21,23 +21,6 @@
           "time_info": "[00时33分 ~ 11时16分]"
         },
         {
-          "title": "Guma离队,T1银河战舰解体",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347214&amp;topic_name=Guma%E7%A6%BB%E9%98%9F%2CT1%E9%93%B6%E6%B2%B3%E6%88%98%E8%88%B0%E8%A7%A3%E4%BD%93",
-          "source": "贴吧",
-          "ranks": [
-            1,
-            2,
-            6,
-            7,
-            10,
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时33分 ~ 17时27分]"
-        },
-        {
           "title": "如何评价 T1 官宣 Gumayusi 离队？",
           "url": "https://www.zhihu.com/question/1973848743590794899",
           "source": "知乎",
@@ -50,6 +33,24 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时33分 ~ 07时22分]"
+        },
+        {
+          "title": "Guma离队,T1银河战舰解体",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347214&amp;topic_name=Guma%E7%A6%BB%E9%98%9F%2CT1%E9%93%B6%E6%B2%B3%E6%88%98%E8%88%B0%E8%A7%A3%E4%BD%93",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            2,
+            6,
+            7,
+            10,
+            12,
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 20,
+          "time_info": "[00时33分 ~ 18时28分]"
         },
         {
           "title": "T1官宣Doran续约",
@@ -67,6 +68,22 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时33分 ~ 09时51分]"
+        },
+        {
+          "title": "T1官宣Smash离队",
+          "url": "https://search.bilibili.com/all?keyword=T1%E5%AE%98%E5%AE%A3Smash%E7%A6%BB%E9%98%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            9,
+            10,
+            4,
+            11,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时16分 ~ 18时28分]"
         },
         {
           "title": "T1官宣Gumayusi离队",
@@ -103,21 +120,6 @@
           "time_info": "[01时23分 ~ 16时32分]"
         },
         {
-          "title": "T1官宣Smash离队",
-          "url": "https://search.bilibili.com/all?keyword=T1%E5%AE%98%E5%AE%A3Smash%E7%A6%BB%E9%98%9F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            9,
-            10,
-            4,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时16分 ~ 17时27分]"
-        },
-        {
           "title": "五毛特效,腾竞S赛宣传片太招笑",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347196&amp;topic_name=%E4%BA%94%E6%AF%9B%E7%89%B9%E6%95%88%2C%E8%85%BE%E7%AB%9ES%E8%B5%9B%E5%AE%A3%E4%BC%A0%E7%89%87%E5%A4%AA%E6%8B%9B%E7%AC%91",
           "source": "贴吧",
@@ -128,11 +130,12 @@
             19,
             22,
             24,
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时33分 ~ 17时27分]"
+          "appearance_count": 20,
+          "time_info": "[00时33分 ~ 18时28分]"
         },
         {
           "title": "人形机器人量产交付视频遭Figure创始人公开质疑造假，优必选回应",
