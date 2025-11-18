@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-18T12:29:25.975317+08:00",
-  "total_titles_processed": 1031,
+  "generated_at": "2025-11-18T13:24:36.826891+08:00",
+  "total_titles_processed": 1110,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时33分 ~ 12时29分]"
+          "appearance_count": 13,
+          "time_info": "[00时33分 ~ 13时24分]"
         },
         {
           "title": "Gumayusi将离开T1",
@@ -93,8 +93,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时33分 ~ 12时29分]"
+          "appearance_count": 13,
+          "time_info": "[00时33分 ~ 13时24分]"
         },
         {
           "title": "T1官宣Gumayusi离队",
@@ -103,11 +103,24 @@
           "ranks": [
             8,
             24,
-            7
+            7,
+            21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时23分 ~ 07时22分]"
+          "appearance_count": 8,
+          "time_info": "[01时23分 ~ 13时24分]"
+        },
+        {
+          "title": "T1官宣Smash离队",
+          "url": "https://search.bilibili.com/all?keyword=T1%E5%AE%98%E5%AE%A3Smash%E7%A6%BB%E9%98%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时16分 ~ 13时24分]"
         },
         {
           "title": "T1管理层",
@@ -119,17 +132,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时23分 ~ 02时34分]"
-        },
-        {
-          "title": "T1官宣Smash离队",
-          "url": "https://search.bilibili.com/all?keyword=T1%E5%AE%98%E5%AE%A3Smash%E7%A6%BB%E9%98%9F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时16分 ~ 12时29分]"
         },
         {
           "title": "英雄联盟新赛季故事",
