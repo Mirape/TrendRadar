@@ -1,27 +1,12 @@
 {
-  "generated_at": "2025-11-18T15:24:06.660585+08:00",
-  "total_titles_processed": 1296,
+  "generated_at": "2025-11-18T16:32:57.143356+08:00",
+  "total_titles_processed": 1411,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
       "match_count": 13,
       "titles": [
-        {
-          "title": "Guma离队,T1银河战舰解体",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347214&amp;topic_name=Guma%E7%A6%BB%E9%98%9F%2CT1%E9%93%B6%E6%B2%B3%E6%88%98%E8%88%B0%E8%A7%A3%E4%BD%93",
-          "source": "贴吧",
-          "ranks": [
-            1,
-            2,
-            6,
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时33分 ~ 15时24分]"
-        },
         {
           "title": "Gumayusi将离开T1",
           "url": "https://search.bilibili.com/all?keyword=Gumayusi%E5%B0%86%E7%A6%BB%E5%BC%80T1",
@@ -34,6 +19,22 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时33分 ~ 11时16分]"
+        },
+        {
+          "title": "Guma离队,T1银河战舰解体",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347214&amp;topic_name=Guma%E7%A6%BB%E9%98%9F%2CT1%E9%93%B6%E6%B2%B3%E6%88%98%E8%88%B0%E8%A7%A3%E4%BD%93",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            2,
+            6,
+            7,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[00时33分 ~ 16时32分]"
         },
         {
           "title": "如何评价 T1 官宣 Gumayusi 离队？",
@@ -93,11 +94,12 @@
             7,
             21,
             23,
-            28
+            28,
+            27
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时23分 ~ 15时24分]"
+          "appearance_count": 13,
+          "time_info": "[01时23分 ~ 16时32分]"
         },
         {
           "title": "五毛特效,腾竞S赛宣传片太招笑",
@@ -108,11 +110,12 @@
             14,
             18,
             19,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时33分 ~ 15时24分]"
+          "appearance_count": 18,
+          "time_info": "[00时33分 ~ 16时32分]"
         },
         {
           "title": "T1官宣Smash离队",
@@ -121,11 +124,12 @@
           "ranks": [
             6,
             9,
-            10
+            10,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时16分 ~ 15时24分]"
+          "appearance_count": 8,
+          "time_info": "[11时16分 ~ 16时32分]"
         },
         {
           "title": "人形机器人量产交付视频遭Figure创始人公开质疑造假，优必选回应",
