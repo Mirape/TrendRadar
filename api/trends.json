@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-20T00:32:49.601962+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-20T01:22:36.200752+08:00",
+  "total_titles_processed": 381,
   "failed_sources": [],
   "trends": [
     {
@@ -12,33 +12,60 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347298&amp;topic_name=Peyz%E5%BA%95%E8%96%AA%E5%8A%A0%E7%9B%9FT1%2C%E5%A4%A7%E5%B7%A5%E8%B4%BC%E6%97%B6%E4%BB%A3%E6%9D%A5%E4%B8%B4",
           "source": "贴吧",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时22分]"
         },
         {
           "title": "Shy哥暂离呼吸顶,IG神话成笑柄",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347271&amp;topic_name=Shy%E5%93%A5%E6%9A%82%E7%A6%BB%E5%91%BC%E5%90%B8%E9%A1%B6%2CIG%E7%A5%9E%E8%AF%9D%E6%88%90%E7%AC%91%E6%9F%84",
           "source": "贴吧",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时22分]"
+        },
+        {
+          "title": "如何评价 T1 官宣 Peyz 加入，双方将合作至 2028 年？",
+          "url": "https://www.zhihu.com/question/1974558741924967910",
+          "source": "知乎",
+          "ranks": [
+            20,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时22分]"
         },
         {
           "title": "2025英雄联盟职业赛事冬季转会期公告",
           "url": "https://search.bilibili.com/all?keyword=2025%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E8%81%8C%E4%B8%9A%E8%B5%9B%E4%BA%8B%E5%86%AC%E5%AD%A3%E8%BD%AC%E4%BC%9A%E6%9C%9F%E5%85%AC%E5%91%8A",
           "source": "bilibili 热搜",
           "ranks": [
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时22分]"
+        },
+        {
+          "title": "T1官宣Peyz加入",
+          "url": "https://search.bilibili.com/all?keyword=T1%E5%AE%98%E5%AE%A3Peyz%E5%8A%A0%E5%85%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21,
             19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时22分]"
         },
         {
           "title": "T1官宣Peyz加入",
@@ -48,41 +75,20 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时22分]"
         },
         {
           "title": "JDG出手举报,Peyz加盟T1告吹？",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347250&amp;topic_name=JDG%E5%87%BA%E6%89%8B%E4%B8%BE%E6%8A%A5%2CPeyz%E5%8A%A0%E7%9B%9FT1%E5%91%8A%E5%90%B9%EF%BC%9F",
           "source": "贴吧",
           "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        },
-        {
-          "title": "如何评价 T1 官宣 Peyz 加入，双方将合作至 2028 年？",
-          "url": "https://www.zhihu.com/question/1974558741924967910",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        },
-        {
-          "title": "T1官宣Peyz加入",
-          "url": "https://search.bilibili.com/all?keyword=T1%E5%AE%98%E5%AE%A3Peyz%E5%8A%A0%E5%85%A5",
-          "source": "bilibili 热搜",
-          "ranks": [
+            20,
             21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时22分]"
         },
         {
           "title": "韩华野心搂不住,妄想T1成分部",
