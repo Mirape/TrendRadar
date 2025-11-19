@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-19T22:25:27.843479+08:00",
-  "total_titles_processed": 1796,
+  "generated_at": "2025-11-19T23:26:47.410160+08:00",
+  "total_titles_processed": 1873,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "Shy哥暂离呼吸顶,IG神话成笑柄",
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时32分 ~ 22时25分]"
+          "appearance_count": 9,
+          "time_info": "[16时32分 ~ 23时26分]"
         },
         {
           "title": "真实锐评Gumayusi离开T1",
@@ -57,8 +57,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时33分 ~ 22时25分]"
+          "appearance_count": 28,
+          "time_info": "[00时33分 ~ 23时26分]"
         },
         {
           "title": "韩华野心搂不住,妄想T1成分部",
@@ -79,8 +79,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时33分 ~ 22时25分]"
+          "appearance_count": 28,
+          "time_info": "[00时33分 ~ 23时26分]"
         },
         {
           "title": "Guma离队,T1银河战舰解体",
@@ -118,11 +118,12 @@
           "ranks": [
             6,
             7,
-            10
+            10,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时51分 ~ 22时25分]"
+          "appearance_count": 4,
+          "time_info": "[20时51分 ~ 23时26分]"
         },
         {
           "title": "2025英雄联盟职业赛事冬季转会期公告",
@@ -131,11 +132,12 @@
           "ranks": [
             22,
             16,
-            20
+            20,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时51分 ~ 22时25分]"
+          "appearance_count": 4,
+          "time_info": "[20时51分 ~ 23时26分]"
         },
         {
           "title": "faker 六冠王，t1 三连冠，对英雄联盟这个游戏的整个发展而言是好事吗？",
@@ -148,6 +150,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时51分 ~ 11时15分]"
+        },
+        {
+          "title": "T1官宣Peyz加入",
+          "url": "https://www.douyin.com/hot/2311634",
+          "source": "抖音",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         }
       ]
     }
