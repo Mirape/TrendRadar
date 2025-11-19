@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-20T05:19:43.246030+08:00",
-  "total_titles_processed": 585,
+  "generated_at": "2025-11-20T06:23:27.311353+08:00",
+  "total_titles_processed": 645,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 05时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 06时23分]"
         },
         {
           "title": "Shy哥暂离呼吸顶,IG神话成笑柄",
@@ -28,8 +28,22 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 05时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 06时23分]"
+        },
+        {
+          "title": "T1官宣Peyz加入",
+          "url": "https://www.douyin.com/hot/2311634",
+          "source": "抖音",
+          "ranks": [
+            19,
+            18,
+            16,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 06时23分]"
         },
         {
           "title": "2025英雄联盟职业赛事冬季转会期公告",
@@ -43,8 +57,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 05时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 06时23分]"
         },
         {
           "title": "T1官宣Peyz加入",
@@ -54,11 +68,24 @@
             21,
             19,
             28,
-            12
+            12,
+            23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 05时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 06时23分]"
+        },
+        {
+          "title": "JDG出手举报,Peyz加盟T1告吹？",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347250&amp;topic_name=JDG%E5%87%BA%E6%89%8B%E4%B8%BE%E6%8A%A5%2CPeyz%E5%8A%A0%E7%9B%9FT1%E5%91%8A%E5%90%B9%EF%BC%9F",
+          "source": "贴吧",
+          "ranks": [
+            20,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 06时23分]"
         },
         {
           "title": "如何评价 T1 官宣 Peyz 加入，双方将合作至 2028 年？",
@@ -70,31 +97,6 @@
             15,
             18,
             13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 05时19分]"
-        },
-        {
-          "title": "T1官宣Peyz加入",
-          "url": "https://www.douyin.com/hot/2311634",
-          "source": "抖音",
-          "ranks": [
-            19,
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 05时19分]"
-        },
-        {
-          "title": "JDG出手举报,Peyz加盟T1告吹？",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347250&amp;topic_name=JDG%E5%87%BA%E6%89%8B%E4%B8%BE%E6%8A%A5%2CPeyz%E5%8A%A0%E7%9B%9FT1%E5%91%8A%E5%90%B9%EF%BC%9F",
-          "source": "贴吧",
-          "ranks": [
-            20,
-            21
           ],
           "is_new": false,
           "appearance_count": 7,
