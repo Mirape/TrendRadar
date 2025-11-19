@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-19T14:36:15.220615+08:00",
-  "total_titles_processed": 1099,
+  "generated_at": "2025-11-19T15:24:10.542748+08:00",
+  "total_titles_processed": 1199,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             5,
             4,
             6,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时33分 ~ 14时36分]"
+          "appearance_count": 19,
+          "time_info": "[00时33分 ~ 15时24分]"
         },
         {
           "title": "真实锐评Gumayusi离开T1",
@@ -34,11 +35,12 @@
             13,
             27,
             23,
-            30
+            30,
+            24
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时33分 ~ 14时36分]"
+          "appearance_count": 19,
+          "time_info": "[00时33分 ~ 15时24分]"
         },
         {
           "title": "韩华野心搂不住,妄想T1成分部",
@@ -50,11 +52,12 @@
             14,
             16,
             18,
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时33分 ~ 14时36分]"
+          "appearance_count": 19,
+          "time_info": "[00时33分 ~ 15时24分]"
         },
         {
           "title": "Guma离队,T1银河战舰解体",
