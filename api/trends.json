@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-19T09:51:32.495579+08:00",
-  "total_titles_processed": 778,
+  "generated_at": "2025-11-19T11:15:45.877352+08:00",
+  "total_titles_processed": 888,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             5,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时33分 ~ 09时51分]"
+          "appearance_count": 13,
+          "time_info": "[00时33分 ~ 11时15分]"
         },
         {
           "title": "真实锐评Gumayusi离开T1",
@@ -28,11 +29,12 @@
             1,
             9,
             5,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时33分 ~ 09时51分]"
+          "appearance_count": 13,
+          "time_info": "[00时33分 ~ 11时15分]"
         },
         {
           "title": "韩华野心搂不住,妄想T1成分部",
@@ -40,11 +42,12 @@
           "source": "贴吧",
           "ranks": [
             11,
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时33分 ~ 09时51分]"
+          "appearance_count": 13,
+          "time_info": "[00时33分 ~ 11时15分]"
         },
         {
           "title": "Guma离队,T1银河战舰解体",
@@ -52,22 +55,24 @@
           "source": "贴吧",
           "ranks": [
             21,
-            20
+            20,
+            24
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时33分 ~ 09时51分]"
+          "appearance_count": 13,
+          "time_info": "[00时33分 ~ 11时15分]"
         },
         {
           "title": "faker 六冠王，t1 三连冠，对英雄联盟这个游戏的整个发展而言是好事吗？",
           "url": "https://www.zhihu.com/question/1970972779491862059",
           "source": "知乎",
           "ranks": [
-            15
+            15,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时51分 ~ 11时15分]"
         }
       ]
     }
