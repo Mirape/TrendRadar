@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-19T21:35:50.327906+08:00",
-  "total_titles_processed": 1720,
+  "generated_at": "2025-11-19T22:25:27.843479+08:00",
+  "total_titles_processed": 1796,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时32分 ~ 21时35分]"
+          "appearance_count": 8,
+          "time_info": "[16时32分 ~ 22时25分]"
         },
         {
           "title": "真实锐评Gumayusi离开T1",
@@ -56,8 +57,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时33分 ~ 21时35分]"
+          "appearance_count": 27,
+          "time_info": "[00时33分 ~ 22时25分]"
         },
         {
           "title": "韩华野心搂不住,妄想T1成分部",
@@ -74,11 +75,12 @@
             24,
             26,
             27,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时33分 ~ 21时35分]"
+          "appearance_count": 27,
+          "time_info": "[00时33分 ~ 22时25分]"
         },
         {
           "title": "Guma离队,T1银河战舰解体",
@@ -102,11 +104,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            8
+            8,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时51分 ~ 21时35分]"
+          "appearance_count": 3,
+          "time_info": "[20时51分 ~ 22时25分]"
         },
         {
           "title": "T1官宣Peyz加入",
@@ -114,11 +117,25 @@
           "source": "bilibili 热搜",
           "ranks": [
             6,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时51分 ~ 21时35分]"
+          "appearance_count": 3,
+          "time_info": "[20时51分 ~ 22时25分]"
+        },
+        {
+          "title": "2025英雄联盟职业赛事冬季转会期公告",
+          "url": "https://search.bilibili.com/all?keyword=2025%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E8%81%8C%E4%B8%9A%E8%B5%9B%E4%BA%8B%E5%86%AC%E5%AD%A3%E8%BD%AC%E4%BC%9A%E6%9C%9F%E5%85%AC%E5%91%8A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22,
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时51分 ~ 22时25分]"
         },
         {
           "title": "faker 六冠王，t1 三连冠，对英雄联盟这个游戏的整个发展而言是好事吗？",
@@ -131,18 +148,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时51分 ~ 11时15分]"
-        },
-        {
-          "title": "2025英雄联盟职业赛事冬季转会期公告",
-          "url": "https://search.bilibili.com/all?keyword=2025%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E8%81%8C%E4%B8%9A%E8%B5%9B%E4%BA%8B%E5%86%AC%E5%AD%A3%E8%BD%AC%E4%BC%9A%E6%9C%9F%E5%85%AC%E5%91%8A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时51分 ~ 21时35分]"
         }
       ]
     }
