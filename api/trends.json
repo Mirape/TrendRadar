@@ -1,29 +1,12 @@
 {
-  "generated_at": "2025-11-19T17:27:52.210490+08:00",
-  "total_titles_processed": 1376,
+  "generated_at": "2025-11-19T18:27:59.839115+08:00",
+  "total_titles_processed": 1459,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
       "match_count": 6,
       "titles": [
-        {
-          "title": "JDG出手举报,Peyz加盟T1告吹？",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347250&amp;topic_name=JDG%E5%87%BA%E6%89%8B%E4%B8%BE%E6%8A%A5%2CPeyz%E5%8A%A0%E7%9B%9FT1%E5%91%8A%E5%90%B9%EF%BC%9F",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            4,
-            6,
-            7,
-            10,
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时33分 ~ 17时27分]"
-        },
         {
           "title": "真实锐评Gumayusi离开T1",
           "url": "https://search.bilibili.com/all?keyword=%E7%9C%9F%E5%AE%9E%E9%94%90%E8%AF%84Gumayusi%E7%A6%BB%E5%BC%80T1",
@@ -42,8 +25,26 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时33分 ~ 17时27分]"
+          "appearance_count": 23,
+          "time_info": "[00时33分 ~ 18时27分]"
+        },
+        {
+          "title": "JDG出手举报,Peyz加盟T1告吹？",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347250&amp;topic_name=JDG%E5%87%BA%E6%89%8B%E4%B8%BE%E6%8A%A5%2CPeyz%E5%8A%A0%E7%9B%9FT1%E5%91%8A%E5%90%B9%EF%BC%9F",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            4,
+            6,
+            7,
+            10,
+            12,
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 23,
+          "time_info": "[00时33分 ~ 18时27分]"
         },
         {
           "title": "韩华野心搂不住,妄想T1成分部",
@@ -58,11 +59,12 @@
             19,
             22,
             24,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时33分 ~ 17时27分]"
+          "appearance_count": 23,
+          "time_info": "[00时33分 ~ 18时27分]"
         },
         {
           "title": "Guma离队,T1银河战舰解体",
@@ -89,8 +91,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时32分 ~ 17时27分]"
+          "appearance_count": 4,
+          "time_info": "[16时32分 ~ 18时27分]"
         },
         {
           "title": "faker 六冠王，t1 三连冠，对英雄联盟这个游戏的整个发展而言是好事吗？",
