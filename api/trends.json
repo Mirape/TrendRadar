@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-20T03:20:47.799456+08:00",
-  "total_titles_processed": 505,
+  "generated_at": "2025-11-20T04:24:56.078078+08:00",
+  "total_titles_processed": 538,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 03时20分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 04时24分]"
         },
         {
           "title": "Shy哥暂离呼吸顶,IG神话成笑柄",
@@ -28,8 +28,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 03时20分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 04时24分]"
         },
         {
           "title": "2025英雄联盟职业赛事冬季转会期公告",
@@ -39,11 +39,26 @@
             19,
             16,
             11,
+            12,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 04时24分]"
+        },
+        {
+          "title": "T1官宣Peyz加入",
+          "url": "https://search.bilibili.com/all?keyword=T1%E5%AE%98%E5%AE%A3Peyz%E5%8A%A0%E5%85%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21,
+            19,
+            28,
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 03时20分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 04时24分]"
         },
         {
           "title": "如何评价 T1 官宣 Peyz 加入，双方将合作至 2028 年？",
@@ -56,8 +71,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 03时20分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 04时24分]"
         },
         {
           "title": "T1官宣Peyz加入",
@@ -65,24 +80,12 @@
           "source": "抖音",
           "ranks": [
             19,
-            18
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 03时20分]"
-        },
-        {
-          "title": "T1官宣Peyz加入",
-          "url": "https://search.bilibili.com/all?keyword=T1%E5%AE%98%E5%AE%A3Peyz%E5%8A%A0%E5%85%A5",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21,
-            19,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 03时20分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 04时24分]"
         },
         {
           "title": "JDG出手举报,Peyz加盟T1告吹？",
@@ -93,8 +96,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 03时20分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 04时24分]"
         },
         {
           "title": "韩华野心搂不住,妄想T1成分部",
