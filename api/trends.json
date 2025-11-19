@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-19T11:15:45.877352+08:00",
-  "total_titles_processed": 888,
+  "generated_at": "2025-11-19T12:29:23.323138+08:00",
+  "total_titles_processed": 981,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时33分 ~ 11时15分]"
+          "appearance_count": 14,
+          "time_info": "[00时33分 ~ 12时29分]"
         },
         {
           "title": "真实锐评Gumayusi离开T1",
@@ -30,11 +30,12 @@
             9,
             5,
             14,
-            13
+            13,
+            27
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时33分 ~ 11时15分]"
+          "appearance_count": 14,
+          "time_info": "[00时33分 ~ 12时29分]"
         },
         {
           "title": "韩华野心搂不住,妄想T1成分部",
@@ -43,11 +44,12 @@
           "ranks": [
             11,
             10,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时33分 ~ 11时15分]"
+          "appearance_count": 14,
+          "time_info": "[00时33分 ~ 12时29分]"
         },
         {
           "title": "Guma离队,T1银河战舰解体",
@@ -56,11 +58,12 @@
           "ranks": [
             21,
             20,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时33分 ~ 11时15分]"
+          "appearance_count": 14,
+          "time_info": "[00时33分 ~ 12时29分]"
         },
         {
           "title": "faker 六冠王，t1 三连冠，对英雄联盟这个游戏的整个发展而言是好事吗？",
