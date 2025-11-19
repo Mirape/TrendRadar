@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-19T16:33:01.135266+08:00",
-  "total_titles_processed": 1297,
+  "generated_at": "2025-11-19T17:27:52.210490+08:00",
+  "total_titles_processed": 1376,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             6,
             7,
             10,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时33分 ~ 16时33分]"
+          "appearance_count": 22,
+          "time_info": "[00时33分 ~ 17时27分]"
         },
         {
           "title": "真实锐评Gumayusi离开T1",
@@ -41,8 +42,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时33分 ~ 16时33分]"
+          "appearance_count": 22,
+          "time_info": "[00时33分 ~ 17时27分]"
         },
         {
           "title": "韩华野心搂不住,妄想T1成分部",
@@ -56,11 +57,12 @@
             18,
             19,
             22,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时33分 ~ 16时33分]"
+          "appearance_count": 22,
+          "time_info": "[00时33分 ~ 17时27分]"
         },
         {
           "title": "Guma离队,T1银河战舰解体",
@@ -83,11 +85,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347271&amp;topic_name=Shy%E5%93%A5%E6%9A%82%E7%A6%BB%E5%91%BC%E5%90%B8%E9%A1%B6%2CIG%E7%A5%9E%E8%AF%9D%E6%88%90%E7%AC%91%E6%9F%84",
           "source": "贴吧",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时32分 ~ 16时33分]"
+          "appearance_count": 3,
+          "time_info": "[16时32分 ~ 17时27分]"
         },
         {
           "title": "faker 六冠王，t1 三连冠，对英雄联盟这个游戏的整个发展而言是好事吗？",
