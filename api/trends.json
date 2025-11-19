@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-19T19:21:39.391944+08:00",
-  "total_titles_processed": 1543,
+  "generated_at": "2025-11-19T20:51:42.666686+08:00",
+  "total_titles_processed": 1647,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "真实锐评Gumayusi离开T1",
@@ -44,8 +44,20 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时33分 ~ 19时21分]"
+          "appearance_count": 25,
+          "time_info": "[00时33分 ~ 20时51分]"
+        },
+        {
+          "title": "Shy哥暂离呼吸顶,IG神话成笑柄",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347271&amp;topic_name=Shy%E5%93%A5%E6%9A%82%E7%A6%BB%E5%91%BC%E5%90%B8%E9%A1%B6%2CIG%E7%A5%9E%E8%AF%9D%E6%88%90%E7%AC%91%E6%9F%84",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时32分 ~ 20时51分]"
         },
         {
           "title": "韩华野心搂不住,妄想T1成分部",
@@ -65,8 +77,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时33分 ~ 19时21分]"
+          "appearance_count": 25,
+          "time_info": "[00时33分 ~ 20时51分]"
         },
         {
           "title": "Guma离队,T1银河战舰解体",
@@ -85,16 +97,15 @@
           "time_info": "[00时33分 ~ 14时36分]"
         },
         {
-          "title": "Shy哥暂离呼吸顶,IG神话成笑柄",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347271&amp;topic_name=Shy%E5%93%A5%E6%9A%82%E7%A6%BB%E5%91%BC%E5%90%B8%E9%A1%B6%2CIG%E7%A5%9E%E8%AF%9D%E6%88%90%E7%AC%91%E6%9F%84",
-          "source": "贴吧",
+          "title": "如何看待 TGA2025 最佳电竞选手提名《英雄联盟》Chovy 选手？格斗游戏提名猪皇而没有小孩？",
+          "url": "https://www.zhihu.com/question/1974113614165140417",
+          "source": "知乎",
           "ranks": [
-            3,
-            4
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时32分 ~ 19时21分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
         },
         {
           "title": "faker 六冠王，t1 三连冠，对英雄联盟这个游戏的整个发展而言是好事吗？",
@@ -107,6 +118,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时51分 ~ 11时15分]"
+        },
+        {
+          "title": "T1官宣Peyz加入",
+          "url": "https://search.bilibili.com/all?keyword=T1%E5%AE%98%E5%AE%A3Peyz%E5%8A%A0%E5%85%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
+        },
+        {
+          "title": "2025英雄联盟职业赛事冬季转会期公告",
+          "url": "https://search.bilibili.com/all?keyword=2025%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E8%81%8C%E4%B8%9A%E8%B5%9B%E4%BA%8B%E5%86%AC%E5%AD%A3%E8%BD%AC%E4%BC%9A%E6%9C%9F%E5%85%AC%E5%91%8A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
         }
       ]
     }
