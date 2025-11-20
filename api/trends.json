@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-20T17:26:49.178468+08:00",
-  "total_titles_processed": 1447,
+  "generated_at": "2025-11-20T18:27:30.466307+08:00",
+  "total_titles_processed": 1552,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "Peyz底薪加盟T1,大工贼时代来临",
@@ -18,11 +18,24 @@
             5,
             6,
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时32分 ~ 17时26分]"
+          "appearance_count": 21,
+          "time_info": "[00时32分 ~ 18时27分]"
+        },
+        {
+          "title": "机器人“进厂”先头部队绩效如何？Figure披露：已参与3万辆宝马汽车生产",
+          "url": "https://www.cls.cn/detail/2205843",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时24分 ~ 18时27分]"
         },
         {
           "title": "Shy哥暂离呼吸顶,IG神话成笑柄",
@@ -36,11 +49,12 @@
             13,
             14,
             16,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时32分 ~ 17时26分]"
+          "appearance_count": 21,
+          "time_info": "[00时32分 ~ 18时27分]"
         },
         {
           "title": "T1官宣Peyz加入",
@@ -113,18 +127,6 @@
           "time_info": "[00时32分 ~ 16时34分]"
         },
         {
-          "title": "机器人“进厂”先头部队绩效如何？Figure披露：已参与3万辆宝马汽车生产",
-          "url": "https://www.cls.cn/detail/2205843",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时24分 ~ 17时26分]"
-        },
-        {
           "title": "Gumayusi离队是T1的问题吗",
           "url": "https://search.bilibili.com/all?keyword=Gumayusi%E7%A6%BB%E9%98%9F%E6%98%AFT1%E7%9A%84%E9%97%AE%E9%A2%98%E5%90%97",
           "source": "bilibili 热搜",
@@ -175,6 +177,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时13分 ~ 12时27分]"
+        },
+        {
+          "title": "iG Elk",
+          "url": "https://s.weibo.com/weibo?q=iG%20Elk&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
         },
         {
           "title": "IG谋略单曲全神依旧",
