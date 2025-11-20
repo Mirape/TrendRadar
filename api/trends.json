@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-20T09:50:13.682928+08:00",
-  "total_titles_processed": 861,
+  "generated_at": "2025-11-20T11:13:39.441010+08:00",
+  "total_titles_processed": 971,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "Peyz底薪加盟T1,大工贼时代来临",
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             4,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时32分 ~ 09时50分]"
+          "appearance_count": 12,
+          "time_info": "[00时32分 ~ 11时13分]"
         },
         {
           "title": "Shy哥暂离呼吸顶,IG神话成笑柄",
@@ -25,11 +26,30 @@
           "source": "贴吧",
           "ranks": [
             6,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时32分 ~ 09时50分]"
+          "appearance_count": 12,
+          "time_info": "[00时32分 ~ 11时13分]"
+        },
+        {
+          "title": "T1官宣Peyz加入",
+          "url": "https://search.bilibili.com/all?keyword=T1%E5%AE%98%E5%AE%A3Peyz%E5%8A%A0%E5%85%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21,
+            19,
+            28,
+            12,
+            23,
+            15,
+            14,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时32分 ~ 11时13分]"
         },
         {
           "title": "T1官宣Peyz加入",
@@ -55,28 +75,12 @@
             11,
             12,
             18,
-            20
+            20,
+            25
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时32分 ~ 09时50分]"
-        },
-        {
-          "title": "T1官宣Peyz加入",
-          "url": "https://search.bilibili.com/all?keyword=T1%E5%AE%98%E5%AE%A3Peyz%E5%8A%A0%E5%85%A5",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21,
-            19,
-            28,
-            12,
-            23,
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时32分 ~ 09时50分]"
+          "appearance_count": 12,
+          "time_info": "[00时32分 ~ 11时13分]"
         },
         {
           "title": "JDG出手举报,Peyz加盟T1告吹？",
@@ -84,11 +88,12 @@
           "source": "贴吧",
           "ranks": [
             20,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时32分 ~ 09时50分]"
+          "appearance_count": 12,
+          "time_info": "[00时32分 ~ 11时13分]"
         },
         {
           "title": "如何评价 T1 官宣 Peyz 加入，双方将合作至 2028 年？",
@@ -104,6 +109,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时32分 ~ 05时19分]"
+        },
+        {
+          "title": "如何评价 T1 官宣下路选手 Smash 离队？他下一站可能去哪里？",
+          "url": "https://www.zhihu.com/question/1974088787484177504",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时13分"
         },
         {
           "title": "韩华野心搂不住,妄想T1成分部",
