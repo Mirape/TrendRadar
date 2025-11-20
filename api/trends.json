@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-20T12:27:58.751920+08:00",
-  "total_titles_processed": 1051,
+  "generated_at": "2025-11-20T13:24:57.570244+08:00",
+  "total_titles_processed": 1106,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "Peyz底薪加盟T1,大工贼时代来临",
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时32分 ~ 12时27分]"
+          "appearance_count": 14,
+          "time_info": "[00时32分 ~ 13时24分]"
         },
         {
           "title": "Shy哥暂离呼吸顶,IG神话成笑柄",
@@ -31,8 +31,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时32分 ~ 12时27分]"
+          "appearance_count": 14,
+          "time_info": "[00时32分 ~ 13时24分]"
         },
         {
           "title": "T1官宣Peyz加入",
@@ -46,11 +46,12 @@
             23,
             15,
             14,
-            8
+            8,
+            25
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时32分 ~ 12时27分]"
+          "appearance_count": 14,
+          "time_info": "[00时32分 ~ 13时24分]"
         },
         {
           "title": "T1官宣Peyz加入",
@@ -79,11 +80,12 @@
             18,
             20,
             25,
-            22
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时32分 ~ 12时27分]"
+          "appearance_count": 14,
+          "time_info": "[00时32分 ~ 13时24分]"
         },
         {
           "title": "JDG出手举报,Peyz加盟T1告吹？",
@@ -96,8 +98,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时32分 ~ 12时27分]"
+          "appearance_count": 14,
+          "time_info": "[00时32分 ~ 13时24分]"
         },
         {
           "title": "如何评价 T1 官宣 Peyz 加入，双方将合作至 2028 年？",
@@ -131,11 +133,23 @@
           "url": "https://www.zhihu.com/question/1974483598263476355",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时27分 ~ 13时24分]"
+        },
+        {
+          "title": "机器人“进厂”先头部队绩效如何？Figure披露：已参与3万辆宝马汽车生产",
+          "url": "https://www.cls.cn/detail/2205843",
+          "source": "财联社热门",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时27分"
+          "time_info": "13时24分"
         },
         {
           "title": "韩华野心搂不住,妄想T1成分部",
