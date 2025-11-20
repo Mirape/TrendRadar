@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-20T15:24:15.624978+08:00",
-  "total_titles_processed": 1274,
+  "generated_at": "2025-11-20T16:34:02.788441+08:00",
+  "total_titles_processed": 1366,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             3,
             1,
             5,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时32分 ~ 15时24分]"
+          "appearance_count": 19,
+          "time_info": "[00时32分 ~ 16时34分]"
         },
         {
           "title": "Shy哥暂离呼吸顶,IG神话成笑柄",
@@ -32,11 +33,12 @@
             9,
             12,
             13,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时32分 ~ 15时24分]"
+          "appearance_count": 19,
+          "time_info": "[00时32分 ~ 16时34分]"
         },
         {
           "title": "T1官宣Peyz加入",
@@ -101,11 +103,24 @@
             23,
             26,
             27,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时32分 ~ 15时24分]"
+          "appearance_count": 19,
+          "time_info": "[00时32分 ~ 16时34分]"
+        },
+        {
+          "title": "机器人“进厂”先头部队绩效如何？Figure披露：已参与3万辆宝马汽车生产",
+          "url": "https://www.cls.cn/detail/2205843",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时24分 ~ 16时34分]"
         },
         {
           "title": "Gumayusi离队是T1的问题吗",
@@ -133,17 +148,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时32分 ~ 05时19分]"
-        },
-        {
-          "title": "机器人“进厂”先头部队绩效如何？Figure披露：已参与3万辆宝马汽车生产",
-          "url": "https://www.cls.cn/detail/2205843",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时24分 ~ 15时24分]"
         },
         {
           "title": "如何评价谷歌新发布的软件开发平台 Antigravity?",
