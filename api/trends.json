@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-21T22:24:12.917356+08:00",
-  "total_titles_processed": 2090,
+  "generated_at": "2025-11-21T23:22:12.098402+08:00",
+  "total_titles_processed": 2187,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             1,
             2,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时28分 ~ 22时24分]"
+          "appearance_count": 17,
+          "time_info": "[12时28分 ~ 23时22分]"
         },
         {
           "title": "Peyz底薪加盟T1,大工贼时代来临",
@@ -32,11 +33,12 @@
             21,
             23,
             24,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时32分 ~ 22时24分]"
+          "appearance_count": 31,
+          "time_info": "[00时32分 ~ 23时22分]"
         },
         {
           "title": "Shy哥暂离呼吸顶,IG神话成笑柄",
@@ -56,6 +58,19 @@
           "time_info": "[00时32分 ~ 18时26分]"
         },
         {
+          "title": "云南bigbang上海外滩正片来了",
+          "url": "https://www.douyin.com/hot/2313641",
+          "source": "抖音",
+          "ranks": [
+            27,
+            26,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[20时48分 ~ 23时22分]"
+        },
+        {
           "title": "BLG教练BigWei卸任",
           "url": "https://search.bilibili.com/all?keyword=BLG%E6%95%99%E7%BB%83BigWei%E5%8D%B8%E4%BB%BB",
           "source": "bilibili 热搜",
@@ -68,19 +83,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[15时24分 ~ 18时26分]"
-        },
-        {
-          "title": "云南bigbang上海外滩正片来了",
-          "url": "https://www.douyin.com/hot/2313641",
-          "source": "抖音",
-          "ranks": [
-            27,
-            26,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时48分 ~ 22时24分]"
         },
         {
           "title": "机器人初创公司Physical Intelligence按56亿美元估值融资。",
