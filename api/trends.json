@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-11-22T02:32:04.893092+08:00",
-  "total_titles_processed": 429,
+  "generated_at": "2025-11-22T03:21:03.876788+08:00",
+  "total_titles_processed": 478,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
       "match_count": 6,
       "titles": [
+        {
+          "title": "ELK遭嫌,无缘IG转投WBG",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347349&amp;topic_name=ELK%E9%81%AD%E5%AB%8C%2C%E6%97%A0%E7%BC%98IG%E8%BD%AC%E6%8A%95WBG",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时30分 ~ 03时21分]"
+        },
         {
           "title": "谷歌公司推出BigQuery AI。",
           "url": "https://wallstreetcn.com/livenews/3008826",
@@ -19,18 +31,6 @@
           "time_info": "01时21分"
         },
         {
-          "title": "ELK遭嫌,无缘IG转投WBG",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347349&amp;topic_name=ELK%E9%81%AD%E5%AB%8C%2C%E6%97%A0%E7%BC%98IG%E8%BD%AC%E6%8A%95WBG",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 02时32分]"
-        },
-        {
           "title": "云南bigbang上海外滩正片来了",
           "url": "https://www.douyin.com/hot/2313641",
           "source": "抖音",
@@ -40,8 +40,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 02时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时30分 ~ 03时21分]"
         },
         {
           "title": "谷歌推出BigQuery AI",
@@ -50,7 +50,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
         },
@@ -61,7 +61,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
         },
