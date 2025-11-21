@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-21T07:22:44.531490+08:00",
-  "total_titles_processed": 717,
+  "generated_at": "2025-11-21T09:51:00.304429+08:00",
+  "total_titles_processed": 879,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时32分 ~ 07时22分]"
+          "appearance_count": 13,
+          "time_info": "[00时32分 ~ 09时51分]"
         },
         {
           "title": "Shy哥暂离呼吸顶,IG神话成笑柄",
@@ -28,8 +28,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时32分 ~ 07时22分]"
+          "appearance_count": 13,
+          "time_info": "[00时32分 ~ 09时51分]"
         },
         {
           "title": "机器人初创公司Physical Intelligence按56亿美元估值融资。",
@@ -73,7 +73,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         }
