@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-21T17:26:34.774014+08:00",
-  "total_titles_processed": 1589,
+  "generated_at": "2025-11-21T18:26:17.278753+08:00",
+  "total_titles_processed": 1698,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时28分 ~ 17时26分]"
+          "appearance_count": 9,
+          "time_info": "[12时28分 ~ 18时26分]"
         },
         {
           "title": "Peyz底薪加盟T1,大工贼时代来临",
@@ -33,8 +33,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时32分 ~ 17时26分]"
+          "appearance_count": 23,
+          "time_info": "[00时32分 ~ 18时26分]"
         },
         {
           "title": "Shy哥暂离呼吸顶,IG神话成笑柄",
@@ -50,8 +50,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时32分 ~ 17时26分]"
+          "appearance_count": 23,
+          "time_info": "[00时32分 ~ 18时26分]"
         },
         {
           "title": "BLG教练BigWei卸任",
@@ -60,11 +60,12 @@
           "ranks": [
             18,
             16,
-            19
+            19,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时24分 ~ 17时26分]"
+          "appearance_count": 5,
+          "time_info": "[15时24分 ~ 18时26分]"
         },
         {
           "title": "机器人初创公司Physical Intelligence按56亿美元估值融资。",
