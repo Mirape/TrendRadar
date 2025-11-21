@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-22T03:21:03.876788+08:00",
-  "total_titles_processed": 478,
+  "generated_at": "2025-11-22T04:28:13.964967+08:00",
+  "total_titles_processed": 522,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,22 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 03时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时30分 ~ 04时28分]"
+        },
+        {
+          "title": "云南bigbang上海外滩正片来了",
+          "url": "https://www.douyin.com/hot/2313641",
+          "source": "抖音",
+          "ranks": [
+            28,
+            22,
+            30,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时30分 ~ 04时28分]"
         },
         {
           "title": "谷歌公司推出BigQuery AI。",
@@ -29,19 +43,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
-        },
-        {
-          "title": "云南bigbang上海外滩正片来了",
-          "url": "https://www.douyin.com/hot/2313641",
-          "source": "抖音",
-          "ranks": [
-            28,
-            22,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 03时21分]"
         },
         {
           "title": "谷歌推出BigQuery AI",
