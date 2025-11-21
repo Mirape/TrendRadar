@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-22T01:21:43.881546+08:00",
-  "total_titles_processed": 375,
+  "generated_at": "2025-11-22T02:32:04.893092+08:00",
+  "total_titles_processed": 429,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "谷歌公司推出BigQuery AI。",
@@ -14,7 +14,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
         },
@@ -27,8 +27,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时30分 ~ 01时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时30分 ~ 02时32分]"
         },
         {
           "title": "云南bigbang上海外滩正片来了",
@@ -36,11 +36,34 @@
           "source": "抖音",
           "ranks": [
             28,
-            22
+            22,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时30分 ~ 01时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时30分 ~ 02时32分]"
+        },
+        {
+          "title": "谷歌推出BigQuery AI",
+          "url": "https://wallstreetcn.com/livenews/3008826",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时32分"
+        },
+        {
+          "title": "谷歌：我们推出BigQuery AI。",
+          "url": "https://flash.jin10.com/detail/20251122011317548800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时32分"
         },
         {
           "title": "Peyz底薪加盟T1,大工贼时代来临",
