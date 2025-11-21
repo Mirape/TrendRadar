@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-22T04:28:13.964967+08:00",
-  "total_titles_processed": 522,
+  "generated_at": "2025-11-22T05:21:41.352930+08:00",
+  "total_titles_processed": 556,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时30分 ~ 04时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时30分 ~ 05时21分]"
         },
         {
           "title": "云南bigbang上海外滩正片来了",
@@ -27,11 +27,12 @@
             28,
             22,
             30,
-            25
+            25,
+            24
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时30分 ~ 04时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时30分 ~ 05时21分]"
         },
         {
           "title": "谷歌公司推出BigQuery AI。",
