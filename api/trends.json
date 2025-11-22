@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-22T12:27:42.167541+08:00",
-  "total_titles_processed": 871,
+  "generated_at": "2025-11-22T13:22:46.124414+08:00",
+  "total_titles_processed": 924,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "ELK遭嫌,无缘IG转投WBG",
@@ -18,8 +18,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时30分 ~ 12时27分]"
+          "appearance_count": 16,
+          "time_info": "[00时30分 ~ 13时22分]"
         },
         {
           "title": "云南bigbang上海外滩正片来了",
@@ -62,6 +62,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[06时23分 ~ 12时27分]"
+        },
+        {
+          "title": "云南bigbang上海外滩MV",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BA%91%E5%8D%97bigbang%E4%B8%8A%E6%B5%B7%E5%A4%96%E6%BB%A9MV",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时22分"
         },
         {
           "title": "谷歌推出BigQuery AI",
