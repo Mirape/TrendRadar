@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-23T01:19:33.512930+08:00",
-  "total_titles_processed": 333,
+  "generated_at": "2025-11-23T02:31:59.593076+08:00",
+  "total_titles_processed": 348,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 01时19分]"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 02时31分]"
         },
         {
           "title": "云南bigbang上海外滩MV",
@@ -24,11 +24,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             8,
-            12
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 01时19分]"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 02时31分]"
         },
         {
           "title": "ELK遭嫌,无缘IG转投WBG",
@@ -38,8 +39,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 01时19分]"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 02时31分]"
         }
       ]
     }
