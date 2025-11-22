@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-22T16:29:41.033909+08:00",
-  "total_titles_processed": 1112,
+  "generated_at": "2025-11-22T17:22:53.233816+08:00",
+  "total_titles_processed": 1170,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时30分 ~ 16时29分]"
+          "appearance_count": 20,
+          "time_info": "[00时30分 ~ 17时22分]"
         },
         {
           "title": "云南bigbang上海外滩正片来了",
@@ -69,11 +69,24 @@
           "source": "bilibili 热搜",
           "ranks": [
             8,
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时22分 ~ 17时22分]"
+        },
+        {
+          "title": "如何评价《英雄联盟》新英雄亚恒的强度和手感？",
+          "url": "https://www.zhihu.com/question/1974748815832683898",
+          "source": "知乎",
+          "ranks": [
+            13,
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时22分 ~ 16时29分]"
+          "appearance_count": 2,
+          "time_info": "[16时29分 ~ 17时22分]"
         },
         {
           "title": "T1新AD Peyz的高能操作",
@@ -82,18 +95,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时29分"
-        },
-        {
-          "title": "如何评价《英雄联盟》新英雄亚恒的强度和手感？",
-          "url": "https://www.zhihu.com/question/1974748815832683898",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         },
