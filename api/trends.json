@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-22T19:18:13.437683+08:00",
-  "total_titles_processed": 1296,
+  "generated_at": "2025-11-22T20:42:23.813016+08:00",
+  "total_titles_processed": 1365,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             12,
             16,
             18,
-            21
+            21,
+            17
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时30分 ~ 19时18分]"
+          "appearance_count": 24,
+          "time_info": "[00时30分 ~ 20时42分]"
         },
         {
           "title": "云南bigbang上海外滩正片来了",
@@ -50,8 +51,20 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时22分 ~ 19时18分]"
+          "appearance_count": 9,
+          "time_info": "[13时22分 ~ 20时42分]"
+        },
+        {
+          "title": "英雄联盟解说杯决赛",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%B4%E6%9D%AF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时23分 ~ 20时42分]"
         },
         {
           "title": "谷歌公司推出BigQuery AI。",
@@ -78,18 +91,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[06时23分 ~ 12时27分]"
-        },
-        {
-          "title": "英雄联盟解说杯决赛",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%B4%E6%9D%AF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时23分 ~ 19时18分]"
         },
         {
           "title": "如何评价《英雄联盟》新英雄亚恒的强度和手感？",
