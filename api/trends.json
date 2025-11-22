@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-22T22:20:44.120789+08:00",
-  "total_titles_processed": 1494,
+  "generated_at": "2025-11-22T23:22:02.565334+08:00",
+  "total_titles_processed": 1544,
   "failed_sources": [],
   "trends": [
     {
@@ -18,11 +18,12 @@
             16,
             18,
             21,
-            17
+            17,
+            22
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时30分 ~ 22时20分]"
+          "appearance_count": 28,
+          "time_info": "[00时30分 ~ 23时22分]"
         },
         {
           "title": "云南bigbang上海外滩MV",
@@ -34,11 +35,12 @@
             18,
             16,
             21,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时22分 ~ 22时20分]"
+          "appearance_count": 13,
+          "time_info": "[13时22分 ~ 23时22分]"
         },
         {
           "title": "云南bigbang上海外滩正片来了",
