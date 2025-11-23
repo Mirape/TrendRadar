@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-24T01:20:05.862979+08:00",
-  "total_titles_processed": 339,
+  "generated_at": "2025-11-24T02:32:25.315470+08:00",
+  "total_titles_processed": 360,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 01时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 02时32分]"
         },
         {
           "title": "越传越真,IG.UZI有戏吗?",
@@ -24,11 +24,12 @@
           "source": "贴吧",
           "ranks": [
             21,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 01时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 02时32分]"
         },
         {
           "title": "Faker回应S赛BO5面对LPL全胜",
