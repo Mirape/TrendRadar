@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-23T17:23:14.513615+08:00",
-  "total_titles_processed": 890,
+  "generated_at": "2025-11-23T18:23:37.398585+08:00",
+  "total_titles_processed": 956,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             7,
             9,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时27分 ~ 17时23分]"
+          "appearance_count": 18,
+          "time_info": "[00时27分 ~ 18时23分]"
         },
         {
           "title": "ELK遭嫌,无缘IG转投WBG",
@@ -26,11 +27,12 @@
           "source": "贴吧",
           "ranks": [
             23,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时27分 ~ 17时23分]"
+          "appearance_count": 18,
+          "time_info": "[00时27分 ~ 18时23分]"
         },
         {
           "title": "云南bigbang上海外滩MV",
@@ -56,11 +58,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            3
+            3,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时29分 ~ 17时23分]"
+          "appearance_count": 3,
+          "time_info": "[16时29分 ~ 18时23分]"
         }
       ]
     }
