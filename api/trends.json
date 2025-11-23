@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-23T10:05:19.469425+08:00",
-  "total_titles_processed": 514,
+  "generated_at": "2025-11-23T11:58:53.060723+08:00",
+  "total_titles_processed": 619,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,24 @@
           "source": "贴吧",
           "ranks": [
             7,
-            9
+            9,
+            14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时27分 ~ 10时05分]"
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 11时58分]"
+        },
+        {
+          "title": "ELK遭嫌,无缘IG转投WBG",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347349&amp;topic_name=ELK%E9%81%AD%E5%AB%8C%2C%E6%97%A0%E7%BC%98IG%E8%BD%AC%E6%8A%95WBG",
+          "source": "贴吧",
+          "ranks": [
+            23,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 11时58分]"
         },
         {
           "title": "云南bigbang上海外滩MV",
@@ -32,17 +45,6 @@
             10,
             14,
             25
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时27分 ~ 10时05分]"
-        },
-        {
-          "title": "ELK遭嫌,无缘IG转投WBG",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347349&amp;topic_name=ELK%E9%81%AD%E5%AB%8C%2C%E6%97%A0%E7%BC%98IG%E8%BD%AC%E6%8A%95WBG",
-          "source": "贴吧",
-          "ranks": [
-            23
           ],
           "is_new": false,
           "appearance_count": 9,
