@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-23T18:23:37.398585+08:00",
-  "total_titles_processed": 956,
+  "generated_at": "2025-11-23T19:18:56.770628+08:00",
+  "total_titles_processed": 1008,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             7,
             9,
             14,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时27分 ~ 18时23分]"
+          "appearance_count": 19,
+          "time_info": "[00时27分 ~ 19时18分]"
         },
         {
           "title": "ELK遭嫌,无缘IG转投WBG",
@@ -59,11 +60,12 @@
           "ranks": [
             2,
             3,
-            9
+            9,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时29分 ~ 18时23分]"
+          "appearance_count": 4,
+          "time_info": "[16时29分 ~ 19时18分]"
         }
       ]
     }
