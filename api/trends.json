@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-24T15:24:24.388158+08:00",
-  "total_titles_processed": 1098,
+  "generated_at": "2025-11-24T16:35:59.294877+08:00",
+  "total_titles_processed": 1208,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             4,
             6,
             5,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时27分 ~ 15时24分]"
+          "appearance_count": 18,
+          "time_info": "[00时27分 ~ 16时35分]"
         },
         {
           "title": "越传越真,IG.UZI有戏吗?",
@@ -45,11 +46,12 @@
           "ranks": [
             3,
             2,
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时39分 ~ 15时24分]"
+          "appearance_count": 7,
+          "time_info": "[11时39分 ~ 16时35分]"
         },
         {
           "title": "如何评价《英雄联盟》新英雄亚恒的强度和手感？",
