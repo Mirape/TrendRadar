@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-24T16:35:59.294877+08:00",
-  "total_titles_processed": 1208,
+  "generated_at": "2025-11-24T17:31:04.805604+08:00",
+  "total_titles_processed": 1317,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,27 @@
             6,
             5,
             9,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时27分 ~ 16时35分]"
+          "appearance_count": 20,
+          "time_info": "[00时27分 ~ 17时31分]"
+        },
+        {
+          "title": "T1官方认证!Faker电竞詹皇封神",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347422&amp;topic_name=T1%E5%AE%98%E6%96%B9%E8%AE%A4%E8%AF%81%21Faker%E7%94%B5%E7%AB%9E%E8%A9%B9%E7%9A%87%E5%B0%81%E7%A5%9E",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            2,
+            6,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时39分 ~ 17时31分]"
         },
         {
           "title": "越传越真,IG.UZI有戏吗?",
@@ -38,20 +54,6 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时27分 ~ 15时24分]"
-        },
-        {
-          "title": "T1官方认证!Faker电竞詹皇封神",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347422&amp;topic_name=T1%E5%AE%98%E6%96%B9%E8%AE%A4%E8%AF%81%21Faker%E7%94%B5%E7%AB%9E%E8%A9%B9%E7%9A%87%E5%B0%81%E7%A5%9E",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            2,
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时39分 ~ 16时35分]"
         },
         {
           "title": "如何评价《英雄联盟》新英雄亚恒的强度和手感？",
