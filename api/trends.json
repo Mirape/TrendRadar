@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-24T09:59:19.547925+08:00",
-  "total_titles_processed": 647,
+  "generated_at": "2025-11-24T11:39:29.235868+08:00",
+  "total_titles_processed": 789,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "Guma宙斯重聚首,HLE能否挑战T1?",
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             2,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时27分 ~ 09时59分]"
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 11时39分]"
         },
         {
           "title": "越传越真,IG.UZI有戏吗?",
@@ -27,11 +28,23 @@
             21,
             22,
             23,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时27分 ~ 09时59分]"
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 11时39分]"
+        },
+        {
+          "title": "T1官方认证!Faker电竞詹皇封神",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347422&amp;topic_name=T1%E5%AE%98%E6%96%B9%E8%AE%A4%E8%AF%81%21Faker%E7%94%B5%E7%AB%9E%E8%A9%B9%E7%9A%87%E5%B0%81%E7%A5%9E",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时39分"
         },
         {
           "title": "如何评价《英雄联盟》新英雄亚恒的强度和手感？",
