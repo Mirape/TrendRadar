@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-25T18:29:40.550588+08:00",
-  "total_titles_processed": 1602,
+  "generated_at": "2025-11-25T19:22:26.979018+08:00",
+  "total_titles_processed": 1693,
   "failed_sources": [],
   "trends": [
     {
@@ -58,11 +58,12 @@
             17,
             14,
             12,
-            18
+            18,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时38分 ~ 18时29分]"
+          "appearance_count": 6,
+          "time_info": "[14时38分 ~ 19时22分]"
         },
         {
           "title": "iG Uzi",
