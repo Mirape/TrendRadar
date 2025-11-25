@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-25T11:18:57.694655+08:00",
-  "total_titles_processed": 920,
+  "generated_at": "2025-11-25T12:31:01.137316+08:00",
+  "total_titles_processed": 1035,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             17,
             19,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时28分 ~ 11时18分]"
+          "appearance_count": 15,
+          "time_info": "[00时28分 ~ 12时31分]"
         },
         {
           "title": "Guma宙斯重聚首,HLE能否挑战T1?",
@@ -27,11 +28,12 @@
           "ranks": [
             18,
             20,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时28分 ~ 11时18分]"
+          "appearance_count": 15,
+          "time_info": "[00时28分 ~ 12时31分]"
         },
         {
           "title": "iG转会期",
