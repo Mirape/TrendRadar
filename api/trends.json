@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-26T14:37:56.819384+08:00",
-  "total_titles_processed": 1231,
+  "generated_at": "2025-11-26T15:23:50.995405+08:00",
+  "total_titles_processed": 1314,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             14,
             11,
-            12
+            12,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时18分 ~ 14时37分]"
+          "appearance_count": 6,
+          "time_info": "[11时18分 ~ 15时23分]"
         },
         {
           "title": "iG阵容",
@@ -38,11 +39,12 @@
           "ranks": [
             21,
             17,
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时31分 ~ 14时37分]"
+          "appearance_count": 4,
+          "time_info": "[12时31分 ~ 15时23分]"
         }
       ]
     }
