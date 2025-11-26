@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-26T16:33:51.942812+08:00",
-  "total_titles_processed": 1421,
+  "generated_at": "2025-11-26T17:28:48.391588+08:00",
+  "total_titles_processed": 1515,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时18分 ~ 16时33分]"
+          "appearance_count": 8,
+          "time_info": "[11时18分 ~ 17时28分]"
         },
         {
           "title": "老外吐槽IGN燕云评分",
@@ -31,11 +31,12 @@
             17,
             20,
             18,
-            23
+            23,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时31分 ~ 16时33分]"
+          "appearance_count": 6,
+          "time_info": "[12时31分 ~ 17时28分]"
         },
         {
           "title": "iG阵容",
