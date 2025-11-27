@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-27T14:38:00.850051+08:00",
-  "total_titles_processed": 1270,
+  "generated_at": "2025-11-27T15:25:30.231546+08:00",
+  "total_titles_processed": 1378,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "url": "https://s.weibo.com/weibo?q=Ming%E5%9B%9E%E5%BA%94Uzi%E5%8E%BBiG&t=31&band_rank=8&Refer=top",
           "source": "微博",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时37分 ~ 14时38分]"
+          "appearance_count": 3,
+          "time_info": "[14时37分 ~ 15时25分]"
         },
         {
           "title": "Knight回复369",
