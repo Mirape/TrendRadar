@@ -1,7 +1,25 @@
 {
-  "generated_at": "2025-11-29T17:24:15.194161+08:00",
-  "total_titles_processed": 1123,
+  "generated_at": "2025-11-29T18:24:21.996609+08:00",
+  "total_titles_processed": 1198,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "iG S赛 英雄联盟 T1",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "IG新瓜!除Wei外全员摆烂休战",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347591&amp;topic_name=IG%E6%96%B0%E7%93%9C%21%E9%99%A4Wei%E5%A4%96%E5%85%A8%E5%91%98%E6%91%86%E7%83%82%E4%BC%91%E6%88%98",
+          "source": "贴吧",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://github.com/Mirape/TrendRadar/img/news.jpg"
 }
