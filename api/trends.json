@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-29T22:21:36.758943+08:00",
-  "total_titles_processed": 1429,
+  "generated_at": "2025-11-29T23:22:53.861977+08:00",
+  "total_titles_processed": 1477,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时24分 ~ 22时21分]"
+          "appearance_count": 6,
+          "time_info": "[18时24分 ~ 23时22分]"
         },
         {
           "title": "BLG官宣Knight续约",
@@ -27,11 +27,12 @@
             2,
             13,
             29,
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时19分 ~ 22时21分]"
+          "appearance_count": 5,
+          "time_info": "[19时19分 ~ 23时22分]"
         }
       ]
     }
