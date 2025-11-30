@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T11:59:07.617552+08:00",
-  "total_titles_processed": 659,
+  "generated_at": "2025-11-30T12:40:25.229363+08:00",
+  "total_titles_processed": 698,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             7,
             8,
             11,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时28分 ~ 11时59分]"
+          "appearance_count": 14,
+          "time_info": "[00时28分 ~ 12时40分]"
         },
         {
           "title": "BLG官宣Knight续约",
@@ -53,11 +54,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347600&amp;topic_name=%E7%BA%A2%E7%89%9B%E6%9D%AFG2%E6%9A%B4%E6%89%93T1%2CPeyz%E9%A6%96%E7%A7%80%E7%BF%BB%E8%BD%A6",
           "source": "贴吧",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时58分 ~ 11时59分]"
+          "appearance_count": 3,
+          "time_info": "[11时58分 ~ 12时40分]"
         }
       ]
     }
