@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-30T10:04:17.477775+08:00",
-  "total_titles_processed": 542,
+  "generated_at": "2025-11-30T11:59:07.617552+08:00",
+  "total_titles_processed": 659,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "IG新瓜!除Wei外全员摆烂休战",
@@ -14,11 +14,12 @@
           "ranks": [
             7,
             8,
-            11
+            11,
+            15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 10时04分]"
+          "appearance_count": 13,
+          "time_info": "[00时28分 ~ 11时59分]"
         },
         {
           "title": "BLG官宣Knight续约",
@@ -35,6 +36,28 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时28分 ~ 10时04分]"
+        },
+        {
+          "title": "G2战胜T1",
+          "url": "https://search.bilibili.com/all?keyword=G2%E6%88%98%E8%83%9CT1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时58分 ~ 11时59分]"
+        },
+        {
+          "title": "红牛杯G2暴打T1,Peyz首秀翻车",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347600&amp;topic_name=%E7%BA%A2%E7%89%9B%E6%9D%AFG2%E6%9A%B4%E6%89%93T1%2CPeyz%E9%A6%96%E7%A7%80%E7%BF%BB%E8%BD%A6",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时58分 ~ 11时59分]"
         }
       ]
     }
