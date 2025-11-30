@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T20:44:54.050733+08:00",
-  "total_titles_processed": 1141,
+  "generated_at": "2025-11-30T21:30:09.038064+08:00",
+  "total_titles_processed": 1178,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             5,
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时58分 ~ 20时44分]"
+          "appearance_count": 16,
+          "time_info": "[11时58分 ~ 21时30分]"
         },
         {
           "title": "IG新瓜!除Wei外全员摆烂休战",
@@ -31,11 +32,12 @@
             15,
             16,
             17,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时28分 ~ 20时44分]"
+          "appearance_count": 27,
+          "time_info": "[00时28分 ~ 21时30分]"
         },
         {
           "title": "BLG官宣Knight续约",
