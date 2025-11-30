@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-01T01:20:37.655989+08:00",
-  "total_titles_processed": 333,
+  "generated_at": "2025-12-01T02:33:37.624316+08:00",
+  "total_titles_processed": 351,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 01时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 02时33分]"
         },
         {
           "title": "TheShy说赢了T1就能进决赛",
@@ -26,8 +26,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 01时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 02时33分]"
         },
         {
           "title": "红牛杯G2暴打T1,Peyz首秀翻车",
@@ -38,8 +38,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 01时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 02时33分]"
         },
         {
           "title": "IG新瓜!除Wei外全员摆烂休战",
@@ -50,8 +50,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 01时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时28分 ~ 02时33分]"
         }
       ]
     }
