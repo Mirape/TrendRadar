@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-01T16:37:48.755690+08:00",
-  "total_titles_processed": 1200,
+  "generated_at": "2025-12-01T17:34:11.311388+08:00",
+  "total_titles_processed": 1305,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,23 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时28分 ~ 16时37分]"
+          "appearance_count": 19,
+          "time_info": "[00时28分 ~ 17时34分]"
+        },
+        {
+          "title": "IG发布2025纪录片",
+          "url": "https://search.bilibili.com/all?keyword=IG%E5%8F%91%E5%B8%832025%E7%BA%AA%E5%BD%95%E7%89%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            7,
+            6,
+            12,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时13分 ~ 17时34分]"
         },
         {
           "title": "TheShy说赢了T1就能进决赛",
@@ -46,35 +61,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时28分 ~ 16时37分]"
-        },
-        {
-          "title": "IG新瓜!除Wei外全员摆烂休战",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347591&amp;topic_name=IG%E6%96%B0%E7%93%9C%21%E9%99%A4Wei%E5%A4%96%E5%85%A8%E5%91%98%E6%91%86%E7%83%82%E4%BC%91%E6%88%98",
-          "source": "贴吧",
-          "ranks": [
-            20,
-            21,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时28分 ~ 13时32分]"
-        },
-        {
-          "title": "IG发布2025纪录片",
-          "url": "https://search.bilibili.com/all?keyword=IG%E5%8F%91%E5%B8%832025%E7%BA%AA%E5%BD%95%E7%89%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            7,
-            6,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时13分 ~ 16时37分]"
+          "appearance_count": 19,
+          "time_info": "[00时28分 ~ 17时34分]"
         },
         {
           "title": "TheShy说赢了T1就能进决赛",
@@ -89,8 +77,21 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时11分 ~ 16时37分]"
+          "appearance_count": 10,
+          "time_info": "[10时11分 ~ 17时34分]"
+        },
+        {
+          "title": "IG新瓜!除Wei外全员摆烂休战",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347591&amp;topic_name=IG%E6%96%B0%E7%93%9C%21%E9%99%A4Wei%E5%A4%96%E5%85%A8%E5%91%98%E6%91%86%E7%83%82%E4%BC%91%E6%88%98",
+          "source": "贴吧",
+          "ranks": [
+            20,
+            21,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 13时32分]"
         },
         {
           "title": "G2战胜T1",
