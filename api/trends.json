@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-01T18:29:26.330223+08:00",
-  "total_titles_processed": 1402,
+  "generated_at": "2025-12-01T19:23:09.111329+08:00",
+  "total_titles_processed": 1487,
   "failed_sources": [],
   "trends": [
     {
@@ -33,11 +33,12 @@
             11,
             13,
             17,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时28分 ~ 18时29分]"
+          "appearance_count": 22,
+          "time_info": "[00时28分 ~ 19时23分]"
         },
         {
           "title": "TheShy说赢了T1就能进决赛",
