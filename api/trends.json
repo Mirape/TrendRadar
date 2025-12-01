@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-01T20:53:00.395195+08:00",
-  "total_titles_processed": 1597,
+  "generated_at": "2025-12-01T21:39:33.295653+08:00",
+  "total_titles_processed": 1683,
   "failed_sources": [],
   "trends": [
     {
@@ -18,11 +18,12 @@
             12,
             30,
             25,
-            8
+            8,
+            16
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时13分 ~ 20时53分]"
+          "appearance_count": 13,
+          "time_info": "[12时13分 ~ 21时39分]"
         },
         {
           "title": "Shy哥嘴硬王者,输T1赖运气",
@@ -38,8 +39,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时28分 ~ 20时53分]"
+          "appearance_count": 25,
+          "time_info": "[00时28分 ~ 21时39分]"
         },
         {
           "title": "TheShy说赢了T1就能进决赛",
@@ -105,8 +106,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时52分 ~ 20时53分]"
+          "appearance_count": 3,
+          "time_info": "[20时52分 ~ 21时39分]"
         },
         {
           "title": "G2战胜T1",
