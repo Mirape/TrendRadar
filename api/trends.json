@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-01T14:40:16.095482+08:00",
-  "total_titles_processed": 992,
+  "generated_at": "2025-12-01T15:28:13.885679+08:00",
+  "total_titles_processed": 1085,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             1,
             9,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时28分 ~ 14时40分]"
+          "appearance_count": 16,
+          "time_info": "[00时28分 ~ 15时28分]"
         },
         {
           "title": "TheShy说赢了T1就能进决赛",
@@ -39,11 +40,12 @@
             11,
             12,
             22,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时28分 ~ 14时40分]"
+          "appearance_count": 16,
+          "time_info": "[00时28分 ~ 15时28分]"
         },
         {
           "title": "IG新瓜!除Wei外全员摆烂休战",
@@ -68,8 +70,23 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时13分 ~ 14时40分]"
+          "appearance_count": 6,
+          "time_info": "[12时13分 ~ 15时28分]"
+        },
+        {
+          "title": "TheShy说赢了T1就能进决赛",
+          "url": "https://www.douyin.com/hot/2322609",
+          "source": "抖音",
+          "ranks": [
+            16,
+            21,
+            20,
+            18,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时11分 ~ 15时28分]"
         },
         {
           "title": "G2战胜T1",
@@ -82,20 +99,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时19分 ~ 07时22分]"
-        },
-        {
-          "title": "TheShy说赢了T1就能进决赛",
-          "url": "https://www.douyin.com/hot/2322609",
-          "source": "抖音",
-          "ranks": [
-            16,
-            21,
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时11分 ~ 14时40分]"
         },
         {
           "title": "Gala在iG队内吐露心声",
