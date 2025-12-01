@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-02T01:26:16.767607+08:00",
-  "total_titles_processed": 359,
+  "generated_at": "2025-12-02T02:39:59.621009+08:00",
+  "total_titles_processed": 411,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://search.bilibili.com/all?keyword=iG%E5%AE%98%E5%AE%A3Gala%E7%A6%BB%E9%98%9F",
           "source": "bilibili 热搜",
           "ranks": [
-            2
+            2,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 01时26分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 02时39分]"
         },
         {
           "title": "Shy哥嘴硬王者,输T1赖运气",
@@ -27,8 +28,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 01时26分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 02时39分]"
         },
         {
           "title": "IG发布2025纪录片",
