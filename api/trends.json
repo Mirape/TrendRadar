@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-01T13:32:32.396741+08:00",
-  "total_titles_processed": 909,
+  "generated_at": "2025-12-01T14:40:16.095482+08:00",
+  "total_titles_processed": 992,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             1,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时28分 ~ 13时32分]"
+          "appearance_count": 14,
+          "time_info": "[00时28分 ~ 14时40分]"
         },
         {
           "title": "TheShy说赢了T1就能进决赛",
@@ -37,11 +38,12 @@
           "ranks": [
             11,
             12,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时28分 ~ 13时32分]"
+          "appearance_count": 14,
+          "time_info": "[00时28分 ~ 14时40分]"
         },
         {
           "title": "IG新瓜!除Wei外全员摆烂休战",
@@ -57,6 +59,19 @@
           "time_info": "[00时28分 ~ 13时32分]"
         },
         {
+          "title": "IG发布2025纪录片",
+          "url": "https://search.bilibili.com/all?keyword=IG%E5%8F%91%E5%B8%832025%E7%BA%AA%E5%BD%95%E7%89%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时13分 ~ 14时40分]"
+        },
+        {
           "title": "G2战胜T1",
           "url": "https://www.douyin.com/hot/2321816",
           "source": "抖音",
@@ -69,29 +84,18 @@
           "time_info": "[03时19分 ~ 07时22分]"
         },
         {
-          "title": "IG发布2025纪录片",
-          "url": "https://search.bilibili.com/all?keyword=IG%E5%8F%91%E5%B8%832025%E7%BA%AA%E5%BD%95%E7%89%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时13分 ~ 13时32分]"
-        },
-        {
           "title": "TheShy说赢了T1就能进决赛",
           "url": "https://www.douyin.com/hot/2322609",
           "source": "抖音",
           "ranks": [
             16,
             21,
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时11分 ~ 13时32分]"
+          "appearance_count": 5,
+          "time_info": "[10时11分 ~ 14时40分]"
         },
         {
           "title": "Gala在iG队内吐露心声",
@@ -100,7 +104,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         }
