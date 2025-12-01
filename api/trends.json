@@ -1,22 +1,23 @@
 {
-  "generated_at": "2025-12-01T10:11:23.326176+08:00",
-  "total_titles_processed": 648,
+  "generated_at": "2025-12-01T12:13:31.532610+08:00",
+  "total_titles_processed": 803,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "Shy哥嘴硬王者,输T1赖运气",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347609&amp;topic_name=Shy%E5%93%A5%E5%98%B4%E7%A1%AC%E7%8E%8B%E8%80%85%2C%E8%BE%93T1%E8%B5%96%E8%BF%90%E6%B0%94",
           "source": "贴吧",
           "ranks": [
-            1
+            1,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 10时11分]"
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 12时13分]"
         },
         {
           "title": "TheShy说赢了T1就能进决赛",
@@ -35,11 +36,12 @@
           "source": "贴吧",
           "ranks": [
             11,
-            12
+            12,
+            22
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 10时11分]"
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 12时13分]"
         },
         {
           "title": "IG新瓜!除Wei外全员摆烂休战",
@@ -47,11 +49,12 @@
           "source": "贴吧",
           "ranks": [
             20,
-            21
+            21,
+            30
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 10时11分]"
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 12时13分]"
         },
         {
           "title": "G2战胜T1",
@@ -66,15 +69,27 @@
           "time_info": "[03时19分 ~ 07时22分]"
         },
         {
+          "title": "IG发布2025纪录片",
+          "url": "https://search.bilibili.com/all?keyword=IG%E5%8F%91%E5%B8%832025%E7%BA%AA%E5%BD%95%E7%89%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        },
+        {
           "title": "TheShy说赢了T1就能进决赛",
           "url": "https://www.douyin.com/hot/2322609",
           "source": "抖音",
           "ranks": [
-            16
+            16,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时11分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时11分 ~ 12时13分]"
         }
       ]
     }
