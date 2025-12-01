@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-02T00:35:05.179722+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-02T01:26:16.767607+08:00",
+  "total_titles_processed": 359,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 00时35分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 01时26分]"
         },
         {
           "title": "Shy哥嘴硬王者,输T1赖运气",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347609&amp;topic_name=Shy%E5%93%A5%E5%98%B4%E7%A1%AC%E7%8E%8B%E8%80%85%2C%E8%BE%93T1%E8%B5%96%E8%BF%90%E6%B0%94",
           "source": "贴吧",
           "ranks": [
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 00时35分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 01时26分]"
         },
         {
           "title": "IG发布2025纪录片",
