@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-02T16:35:59.483439+08:00",
-  "total_titles_processed": 1309,
+  "generated_at": "2025-12-02T17:31:42.941412+08:00",
+  "total_titles_processed": 1408,
   "failed_sources": [],
   "trends": [
     {
@@ -57,8 +57,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时26分 ~ 16时35分]"
+          "appearance_count": 3,
+          "time_info": "[15时26分 ~ 17时31分]"
         },
         {
           "title": "WBG官宣Light离队",
@@ -67,9 +67,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时35分 ~ 17时31分]"
         },
         {
           "title": "英雄联盟新赛季改动介绍",
@@ -81,8 +81,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时38分 ~ 16时35分]"
+          "appearance_count": 5,
+          "time_info": "[14时38分 ~ 17时31分]"
         },
         {
           "title": "IG发布2025纪录片",
