@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-03T03:23:44.822147+08:00",
-  "total_titles_processed": 484,
+  "generated_at": "2025-12-03T04:30:45.707221+08:00",
+  "total_titles_processed": 507,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "《英雄联盟》新赛季移除厄塔汗、下路增装备栏、上路改动，将如何影响峡谷格局？",
@@ -16,8 +16,30 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时39分 ~ 03时23分]"
+          "appearance_count": 3,
+          "time_info": "[02时39分 ~ 04时30分]"
+        },
+        {
+          "title": "IG解体内幕:Shy哥开躺Gala跑路",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347661&amp;topic_name=IG%E8%A7%A3%E4%BD%93%E5%86%85%E5%B9%95%3AShy%E5%93%A5%E5%BC%80%E8%BA%BAGala%E8%B7%91%E8%B7%AF",
+          "source": "贴吧",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时34分 ~ 04时30分]"
+        },
+        {
+          "title": "网传iG新阵容",
+          "url": "https://s.weibo.com/weibo?q=%E7%BD%91%E4%BC%A0iG%E6%96%B0%E9%98%B5%E5%AE%B9&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时30分"
         },
         {
           "title": "WBG官宣Light离队",
@@ -28,17 +50,6 @@
             9,
             22,
             10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 03时23分]"
-        },
-        {
-          "title": "IG解体内幕:Shy哥开躺Gala跑路",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347661&amp;topic_name=IG%E8%A7%A3%E4%BD%93%E5%86%85%E5%B9%95%3AShy%E5%93%A5%E5%BC%80%E8%BA%BAGala%E8%B7%91%E8%B7%AF",
-          "source": "贴吧",
-          "ranks": [
-            11
           ],
           "is_new": false,
           "appearance_count": 5,
