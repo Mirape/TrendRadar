@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-02T17:31:42.941412+08:00",
-  "total_titles_processed": 1408,
+  "generated_at": "2025-12-02T18:28:58.796792+08:00",
+  "total_titles_processed": 1478,
   "failed_sources": [],
   "trends": [
     {
@@ -54,22 +54,12 @@
           "source": "贴吧",
           "ranks": [
             4,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时26分 ~ 17时31分]"
-        },
-        {
-          "title": "WBG官宣Light离队",
-          "url": "https://search.bilibili.com/all?keyword=WBG%E5%AE%98%E5%AE%A3Light%E7%A6%BB%E9%98%9F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时35分 ~ 17时31分]"
+          "appearance_count": 4,
+          "time_info": "[15时26分 ~ 18时28分]"
         },
         {
           "title": "英雄联盟新赛季改动介绍",
@@ -78,11 +68,24 @@
           "ranks": [
             21,
             23,
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时38分 ~ 17时31分]"
+          "appearance_count": 6,
+          "time_info": "[14时38分 ~ 18时28分]"
+        },
+        {
+          "title": "WBG官宣Light离队",
+          "url": "https://search.bilibili.com/all?keyword=WBG%E5%AE%98%E5%AE%A3Light%E7%A6%BB%E9%98%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时35分 ~ 18时28分]"
         },
         {
           "title": "IG发布2025纪录片",
