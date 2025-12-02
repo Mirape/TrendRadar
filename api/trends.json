@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-02T09:55:37.164424+08:00",
-  "total_titles_processed": 771,
+  "generated_at": "2025-12-02T11:22:51.977584+08:00",
+  "total_titles_processed": 886,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             2,
             6,
             3,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时34分 ~ 09时55分]"
+          "appearance_count": 12,
+          "time_info": "[00时34分 ~ 11时22分]"
         },
         {
           "title": "Shy哥嘴硬王者,输T1赖运气",
@@ -27,11 +28,12 @@
           "source": "贴吧",
           "ranks": [
             21,
-            22
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时34分 ~ 09时55分]"
+          "appearance_count": 12,
+          "time_info": "[00时34分 ~ 11时22分]"
         },
         {
           "title": "IG发布2025纪录片",
@@ -52,7 +54,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
         },
@@ -63,7 +65,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
         }
