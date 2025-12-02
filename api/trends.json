@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-12-03T00:35:12.457438+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-03T01:27:22.020641+08:00",
+  "total_titles_processed": 385,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
       "match_count": 2,
       "titles": [
+        {
+          "title": "WBG官宣Light离队",
+          "url": "https://search.bilibili.com/all?keyword=WBG%E5%AE%98%E5%AE%A3Light%E7%A6%BB%E9%98%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 01时27分]"
+        },
         {
           "title": "IG解体内幕:Shy哥开躺Gala跑路",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347661&amp;topic_name=IG%E8%A7%A3%E4%BD%93%E5%86%85%E5%B9%95%3AShy%E5%93%A5%E5%BC%80%E8%BA%BAGala%E8%B7%91%E8%B7%AF",
@@ -15,19 +27,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 00时35分]"
-        },
-        {
-          "title": "WBG官宣Light离队",
-          "url": "https://search.bilibili.com/all?keyword=WBG%E5%AE%98%E5%AE%A3Light%E7%A6%BB%E9%98%9F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 00时35分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 01时27分]"
         }
       ]
     }
