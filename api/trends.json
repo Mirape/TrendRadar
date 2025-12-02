@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-02T18:28:58.796792+08:00",
-  "total_titles_processed": 1478,
+  "generated_at": "2025-12-02T19:24:23.601889+08:00",
+  "total_titles_processed": 1587,
   "failed_sources": [],
   "trends": [
     {
@@ -55,11 +55,12 @@
           "ranks": [
             4,
             5,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时26分 ~ 18时28分]"
+          "appearance_count": 5,
+          "time_info": "[15时26分 ~ 19时24分]"
         },
         {
           "title": "英雄联盟新赛季改动介绍",
@@ -81,11 +82,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             4,
-            10
+            10,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时35分 ~ 18时28分]"
+          "appearance_count": 4,
+          "time_info": "[16时35分 ~ 19时24分]"
         },
         {
           "title": "IG发布2025纪录片",
