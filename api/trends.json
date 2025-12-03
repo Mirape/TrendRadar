@@ -1,169 +1,22 @@
 {
-  "generated_at": "2025-12-03T23:29:56.206808+08:00",
-  "total_titles_processed": 2083,
+  "generated_at": "2025-12-04T00:35:32.486462+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 12,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "《英雄联盟》新赛季移除厄塔汗、下路增装备栏、上路改动，将如何影响峡谷格局？",
-          "url": "https://www.zhihu.com/question/1979004300354142931",
-          "source": "知乎",
-          "ranks": [
-            5,
-            4,
-            13,
-            12,
-            8,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时39分 ~ 12时32分]"
-        },
-        {
-          "title": "IG解体内幕:Shy哥开躺Gala跑路",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347661&amp;topic_name=IG%E8%A7%A3%E4%BD%93%E5%86%85%E5%B9%95%3AShy%E5%93%A5%E5%BC%80%E8%BA%BAGala%E8%B7%91%E8%B7%AF",
-          "source": "贴吧",
-          "ranks": [
-            11,
-            14,
-            16,
-            17,
-            18,
-            20,
-            21,
-            24,
-            25,
-            28,
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时34分 ~ 23时29分]"
-        },
-        {
-          "title": "网传IG新阵容",
-          "url": "https://www.douyin.com/hot/2324660",
-          "source": "抖音",
-          "ranks": [
-            28,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时21分 ~ 16时35分]"
-        },
-        {
-          "title": "美国商务部长卢特尼克：半导体初创企业xLight在努力促进芯片制造。",
-          "url": "https://flash.jin10.com/detail/20251203231827729800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时29分"
-        },
-        {
-          "title": "网传iG新阵容",
-          "url": "https://s.weibo.com/weibo?q=%E7%BD%91%E4%BC%A0iG%E6%96%B0%E9%98%B5%E5%AE%B9&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时30分"
-        },
-        {
-          "title": "WBG官宣Light离队",
-          "url": "https://search.bilibili.com/all?keyword=WBG%E5%AE%98%E5%AE%A3Light%E7%A6%BB%E9%98%9F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15,
-            9,
-            22,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 03时23分]"
-        },
-        {
-          "title": "郑乃馨直播回应和bright分手",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%83%91%E4%B9%83%E9%A6%A8%E7%9B%B4%E6%92%AD%E5%9B%9E%E5%BA%94%E5%92%8Cbright%E5%88%86%E6%89%8B%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24,
-            23,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时29分 ~ 19时24分]"
-        },
-        {
-          "title": "澳大利亚11月AIG/PWC制造业表现指数 -18，前值-22。",
-          "url": "https://flash.jin10.com/detail/20251203061409183800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时21分 ~ 07时23分]"
-        },
         {
           "title": "如何评价《英雄联盟》S16 赛季针对补位玩家的「勇气之神佑」失败不扣分，获胜双倍积分机制？",
           "url": "https://www.zhihu.com/question/1979211459335513428",
           "source": "知乎",
           "ranks": [
-            5,
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时27分 ~ 23时29分]"
-        },
-        {
-          "title": "玩了这么多年的英雄联盟了，还是没有上砖石，砖石玩家到底会了多少东西?",
-          "url": "https://www.zhihu.com/question/1897435759989998424",
-          "source": "知乎",
-          "ranks": [
-            11,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时53分 ~ 21时39分]"
-        },
-        {
-          "title": "英雄联盟为什么不用多种方式激励玩家玩辅助?",
-          "url": "https://www.zhihu.com/question/663381236",
-          "source": "知乎",
-          "ranks": [
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时26分 ~ 16时35分]"
-        },
-        {
-          "title": "澳大利亚11月AIG建筑业表现指数 -18.7，前值-7.1。",
-          "url": "https://flash.jin10.com/detail/20251203061415509800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时23分"
+          "time_info": "00时35分"
         }
       ]
     }
