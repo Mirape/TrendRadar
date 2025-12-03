@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-03T22:27:33.757357+08:00",
-  "total_titles_processed": 1998,
+  "generated_at": "2025-12-03T23:29:56.206808+08:00",
+  "total_titles_processed": 2083,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "《英雄联盟》新赛季移除厄塔汗、下路增装备栏、上路改动，将如何影响峡谷格局？",
@@ -42,8 +42,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时34分 ~ 22时27分]"
+          "appearance_count": 28,
+          "time_info": "[00时34分 ~ 23时29分]"
         },
         {
           "title": "网传IG新阵容",
@@ -58,6 +58,17 @@
           "time_info": "[11时21分 ~ 16时35分]"
         },
         {
+          "title": "美国商务部长卢特尼克：半导体初创企业xLight在努力促进芯片制造。",
+          "url": "https://flash.jin10.com/detail/20251203231827729800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
           "title": "网传iG新阵容",
           "url": "https://s.weibo.com/weibo?q=%E7%BD%91%E4%BC%A0iG%E6%96%B0%E9%98%B5%E5%AE%B9&t=31&band_rank=5&Refer=top",
           "source": "微博",
@@ -67,17 +78,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时30分"
-        },
-        {
-          "title": "如何评价《英雄联盟》S16 赛季针对补位玩家的「勇气之神佑」失败不扣分，获胜双倍积分机制？",
-          "url": "https://www.zhihu.com/question/1979211459335513428",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时27分"
         },
         {
           "title": "WBG官宣Light离队",
@@ -117,6 +117,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时21分 ~ 07时23分]"
+        },
+        {
+          "title": "如何评价《英雄联盟》S16 赛季针对补位玩家的「勇气之神佑」失败不扣分，获胜双倍积分机制？",
+          "url": "https://www.zhihu.com/question/1979211459335513428",
+          "source": "知乎",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时27分 ~ 23时29分]"
         },
         {
           "title": "玩了这么多年的英雄联盟了，还是没有上砖石，砖石玩家到底会了多少东西?",
