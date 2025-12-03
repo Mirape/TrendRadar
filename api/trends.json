@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-03T21:39:56.622400+08:00",
-  "total_titles_processed": 1902,
+  "generated_at": "2025-12-03T22:27:33.757357+08:00",
+  "total_titles_processed": 1998,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "《英雄联盟》新赛季移除厄塔汗、下路增装备栏、上路改动，将如何影响峡谷格局？",
@@ -38,11 +38,12 @@
             24,
             25,
             28,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时34分 ~ 21时39分]"
+          "appearance_count": 27,
+          "time_info": "[00时34分 ~ 22时27分]"
         },
         {
           "title": "网传IG新阵容",
@@ -66,6 +67,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时30分"
+        },
+        {
+          "title": "如何评价《英雄联盟》S16 赛季针对补位玩家的「勇气之神佑」失败不扣分，获胜双倍积分机制？",
+          "url": "https://www.zhihu.com/question/1979211459335513428",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
         },
         {
           "title": "WBG官宣Light离队",
