@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-03T07:23:33.650487+08:00",
-  "total_titles_processed": 671,
+  "generated_at": "2025-12-03T09:54:45.113027+08:00",
+  "total_titles_processed": 844,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347661&amp;topic_name=IG%E8%A7%A3%E4%BD%93%E5%86%85%E5%B9%95%3AShy%E5%93%A5%E5%BC%80%E8%BA%BAGala%E8%B7%91%E8%B7%AF",
           "source": "贴吧",
           "ranks": [
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时34分 ~ 07时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时34分 ~ 09时54分]"
         },
         {
           "title": "《英雄联盟》新赛季移除厄塔汗、下路增装备栏、上路改动，将如何影响峡谷格局？",
@@ -26,11 +27,12 @@
             5,
             4,
             13,
-            12
+            12,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时39分 ~ 07时23分]"
+          "appearance_count": 7,
+          "time_info": "[02时39分 ~ 09时54分]"
         },
         {
           "title": "网传iG新阵容",
@@ -76,7 +78,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         }
