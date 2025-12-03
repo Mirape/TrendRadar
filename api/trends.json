@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-03T15:26:35.548220+08:00",
-  "total_titles_processed": 1309,
+  "generated_at": "2025-12-03T16:35:01.440578+08:00",
+  "total_titles_processed": 1416,
   "failed_sources": [],
   "trends": [
     {
@@ -33,11 +33,12 @@
             16,
             17,
             18,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时34分 ~ 15时26分]"
+          "appearance_count": 18,
+          "time_info": "[00时34分 ~ 16时35分]"
         },
         {
           "title": "网传IG新阵容",
@@ -48,8 +49,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时21分 ~ 15时26分]"
+          "appearance_count": 8,
+          "time_info": "[11时21分 ~ 16时35分]"
         },
         {
           "title": "网传iG新阵容",
@@ -93,11 +94,12 @@
           "url": "https://www.zhihu.com/question/663381236",
           "source": "知乎",
           "ranks": [
-            20
+            20,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时26分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时26分 ~ 16时35分]"
         },
         {
           "title": "澳大利亚11月AIG建筑业表现指数 -18.7，前值-7.1。",
