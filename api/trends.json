@@ -1,12 +1,28 @@
 {
-  "generated_at": "2025-12-03T11:21:44.601745+08:00",
-  "total_titles_processed": 973,
+  "generated_at": "2025-12-03T12:32:55.830899+08:00",
+  "total_titles_processed": 1081,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
       "match_count": 7,
       "titles": [
+        {
+          "title": "《英雄联盟》新赛季移除厄塔汗、下路增装备栏、上路改动，将如何影响峡谷格局？",
+          "url": "https://www.zhihu.com/question/1979004300354142931",
+          "source": "知乎",
+          "ranks": [
+            5,
+            4,
+            13,
+            12,
+            8,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[02时39分 ~ 12时32分]"
+        },
         {
           "title": "IG解体内幕:Shy哥开躺Gala跑路",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347661&amp;topic_name=IG%E8%A7%A3%E4%BD%93%E5%86%85%E5%B9%95%3AShy%E5%93%A5%E5%BC%80%E8%BA%BAGala%E8%B7%91%E8%B7%AF",
@@ -17,23 +33,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时34分 ~ 11时21分]"
-        },
-        {
-          "title": "《英雄联盟》新赛季移除厄塔汗、下路增装备栏、上路改动，将如何影响峡谷格局？",
-          "url": "https://www.zhihu.com/question/1979004300354142931",
-          "source": "知乎",
-          "ranks": [
-            5,
-            4,
-            13,
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时39分 ~ 11时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时34分 ~ 12时32分]"
         },
         {
           "title": "网传iG新阵容",
@@ -73,6 +74,18 @@
           "time_info": "[06时21分 ~ 07时23分]"
         },
         {
+          "title": "网传IG新阵容",
+          "url": "https://www.douyin.com/hot/2324660",
+          "source": "抖音",
+          "ranks": [
+            28,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时21分 ~ 12时32分]"
+        },
+        {
           "title": "澳大利亚11月AIG建筑业表现指数 -18.7，前值-7.1。",
           "url": "https://flash.jin10.com/detail/20251203061415509800",
           "source": "金十数据",
@@ -82,17 +95,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
-        },
-        {
-          "title": "网传IG新阵容",
-          "url": "https://www.douyin.com/hot/2324660",
-          "source": "抖音",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时21分"
         }
       ]
     }
