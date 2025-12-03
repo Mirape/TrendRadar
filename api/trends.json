@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-03T19:24:00.733626+08:00",
-  "total_titles_processed": 1703,
+  "generated_at": "2025-12-03T20:54:14.850907+08:00",
+  "total_titles_processed": 1802,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "《英雄联盟》新赛季移除厄塔汗、下路增装备栏、上路改动，将如何影响峡谷格局？",
@@ -36,11 +36,12 @@
             20,
             21,
             24,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时34分 ~ 19时24分]"
+          "appearance_count": 25,
+          "time_info": "[00时34分 ~ 20时54分]"
         },
         {
           "title": "网传IG新阵容",
@@ -115,6 +116,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时26分 ~ 16时35分]"
+        },
+        {
+          "title": "玩了这么多年的英雄联盟了，还是没有上砖石，砖石玩家到底会了多少东西?",
+          "url": "https://www.zhihu.com/question/1897435759989998424",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 20时54分]"
         },
         {
           "title": "澳大利亚11月AIG建筑业表现指数 -18.7，前值-7.1。",
