@@ -1,33 +1,46 @@
 {
-  "generated_at": "2025-12-04T01:27:14.077345+08:00",
-  "total_titles_processed": 393,
+  "generated_at": "2025-12-04T02:38:17.216149+08:00",
+  "total_titles_processed": 436,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "美议员：五角大楼评估Signal事件，发现防长海格塞斯违反国防部规定",
+          "url": "https://flash.jin10.com/detail/20251204020235928800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时38分"
+        },
         {
           "title": "如何评价《英雄联盟》S16 赛季针对补位玩家的「勇气之神佑」失败不扣分，获胜双倍积分机制？",
           "url": "https://www.zhihu.com/question/1979211459335513428",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时35分 ~ 01时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时35分 ~ 02时38分]"
         },
         {
           "title": "明晟公司MSCI北欧国家指数跌0.2%，连续第三个交易日走低，报353.72点。 在十个板块中，北欧电信板块跌幅最大。 Gjensidige Forsikring ASA跌2.7%，在一众北欧个股里表现最差。",
           "url": "https://wallstreetcn.com/livenews/3014569",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 02时38分]"
         }
       ]
     }
