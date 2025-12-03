@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-03T13:25:15.830508+08:00",
-  "total_titles_processed": 1152,
+  "generated_at": "2025-12-03T14:38:49.238019+08:00",
+  "total_titles_processed": 1229,
   "failed_sources": [],
   "trends": [
     {
@@ -31,11 +31,12 @@
             11,
             14,
             16,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时34分 ~ 13时25分]"
+          "appearance_count": 15,
+          "time_info": "[00时34分 ~ 14时38分]"
         },
         {
           "title": "网传iG新阵容",
@@ -63,6 +64,18 @@
           "time_info": "[00时34分 ~ 03时23分]"
         },
         {
+          "title": "网传IG新阵容",
+          "url": "https://www.douyin.com/hot/2324660",
+          "source": "抖音",
+          "ranks": [
+            28,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时21分 ~ 14时38分]"
+        },
+        {
           "title": "澳大利亚11月AIG/PWC制造业表现指数 -18，前值-22。",
           "url": "https://flash.jin10.com/detail/20251203061409183800",
           "source": "金十数据",
@@ -73,18 +86,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时21分 ~ 07时23分]"
-        },
-        {
-          "title": "网传IG新阵容",
-          "url": "https://www.douyin.com/hot/2324660",
-          "source": "抖音",
-          "ranks": [
-            28,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时21分 ~ 13时25分]"
         },
         {
           "title": "澳大利亚11月AIG建筑业表现指数 -18.7，前值-7.1。",
