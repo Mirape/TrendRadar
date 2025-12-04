@@ -1,12 +1,28 @@
 {
-  "generated_at": "2025-12-04T22:27:11.346003+08:00",
-  "total_titles_processed": 1914,
+  "generated_at": "2025-12-04T23:29:46.295261+08:00",
+  "total_titles_processed": 2007,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
       "match_count": 7,
       "titles": [
+        {
+          "title": "新赛季英雄联盟传奇上线",
+          "url": "https://search.bilibili.com/all?keyword=%E6%96%B0%E8%B5%9B%E5%AD%A3%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E4%BC%A0%E5%A5%87%E4%B8%8A%E7%BA%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30,
+            20,
+            25,
+            24,
+            27,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时29分 ~ 23时29分]"
+        },
         {
           "title": "云南BIGBANG发布原创歌曲",
           "url": "https://search.bilibili.com/all?keyword=%E4%BA%91%E5%8D%97BIGBANG%E5%8F%91%E5%B8%83%E5%8E%9F%E5%88%9B%E6%AD%8C%E6%9B%B2",
@@ -33,21 +49,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时35分 ~ 05时22分]"
-        },
-        {
-          "title": "新赛季英雄联盟传奇上线",
-          "url": "https://search.bilibili.com/all?keyword=%E6%96%B0%E8%B5%9B%E5%AD%A3%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E4%BC%A0%E5%A5%87%E4%B8%8A%E7%BA%BF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30,
-            20,
-            25,
-            24,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时29分 ~ 22时27分]"
         },
         {
           "title": "美议员：五角大楼评估Signal事件，发现防长海格塞斯违反国防部规定",
@@ -94,7 +95,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时27分"
         }
