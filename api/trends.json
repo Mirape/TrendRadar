@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-04T11:23:55.995367+08:00",
-  "total_titles_processed": 900,
+  "generated_at": "2025-12-04T12:35:24.019458+08:00",
+  "total_titles_processed": 1030,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             1,
-            4
+            4,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时55分 ~ 11时23分]"
+          "appearance_count": 3,
+          "time_info": "[09时55分 ~ 12时35分]"
         },
         {
           "title": "美议员：五角大楼评估Signal事件，发现防长海格塞斯违反国防部规定",
