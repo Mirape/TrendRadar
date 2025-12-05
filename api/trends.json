@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-06T04:28:49.644450+08:00",
-  "total_titles_processed": 473,
+  "generated_at": "2025-12-06T05:23:04.369579+08:00",
+  "total_titles_processed": 503,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            10
+            10,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时21分 ~ 04时28分]"
+          "appearance_count": 3,
+          "time_info": "[03时21分 ~ 05时23分]"
         },
         {
           "title": "软银洽谈收购数据中心私募DigitalBridge，希望借机把握AI基础设施热潮",
