@@ -1,73 +1,33 @@
 {
-  "generated_at": "2025-12-07T23:22:05.885496+08:00",
-  "total_titles_processed": 1336,
+  "generated_at": "2025-12-08T00:28:31.884896+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 4,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "云南bigbang都帅成啥样了",
-          "url": "https://www.douyin.com/hot/2329283",
-          "source": "抖音",
-          "ranks": [
-            27,
-            10,
-            5,
-            6,
-            11,
-            14,
-            17,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[13时23分 ~ 23时22分]"
-        },
-        {
-          "title": "英雄联盟S16新装备测试",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9FS16%E6%96%B0%E8%A3%85%E5%A4%87%E6%B5%8B%E8%AF%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            13,
-            17,
-            9,
-            12,
-            6,
-            25,
-            15,
-            14,
-            18,
-            29,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时28分 ~ 14时34分]"
-        },
         {
           "title": "LCK造新神,恶剪T1捧Guma",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347785&amp;topic_name=LCK%E9%80%A0%E6%96%B0%E7%A5%9E%2C%E6%81%B6%E5%89%AAT1%E6%8D%A7Guma",
           "source": "贴吧",
           "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时29分 ~ 23时22分]"
-        },
-        {
-          "title": "LCK纪录片被曝曲解T1选手",
-          "url": "https://s.weibo.com/weibo?q=LCK%E7%BA%AA%E5%BD%95%E7%89%87%E8%A2%AB%E6%9B%9D%E6%9B%B2%E8%A7%A3T1%E9%80%89%E6%89%8B&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时29分"
+          "time_info": "00时28分"
+        },
+        {
+          "title": "云南bigbang都帅成啥样了",
+          "url": "https://www.douyin.com/hot/2329283",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时28分"
         }
       ]
     }
