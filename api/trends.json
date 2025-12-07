@@ -1,12 +1,29 @@
 {
-  "generated_at": "2025-12-07T18:23:05.561722+08:00",
-  "total_titles_processed": 1048,
+  "generated_at": "2025-12-07T19:19:41.075467+08:00",
+  "total_titles_processed": 1103,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
       "match_count": 2,
       "titles": [
+        {
+          "title": "云南bigbang都帅成啥样了",
+          "url": "https://www.douyin.com/hot/2329283",
+          "source": "抖音",
+          "ranks": [
+            27,
+            10,
+            5,
+            6,
+            11,
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时23分 ~ 19时19分]"
+        },
         {
           "title": "英雄联盟S16新装备测试",
           "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9FS16%E6%96%B0%E8%A3%85%E5%A4%87%E6%B5%8B%E8%AF%95",
@@ -28,22 +45,6 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时28分 ~ 14时34分]"
-        },
-        {
-          "title": "云南bigbang都帅成啥样了",
-          "url": "https://www.douyin.com/hot/2329283",
-          "source": "抖音",
-          "ranks": [
-            27,
-            10,
-            5,
-            6,
-            11,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时23分 ~ 18时23分]"
         }
       ]
     }
