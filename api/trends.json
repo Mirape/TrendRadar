@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-07T20:44:33.375163+08:00",
-  "total_titles_processed": 1182,
+  "generated_at": "2025-12-07T21:29:48.282688+08:00",
+  "total_titles_processed": 1219,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "云南bigbang都帅成啥样了",
@@ -21,8 +21,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时23分 ~ 20时44分]"
+          "appearance_count": 12,
+          "time_info": "[13时23分 ~ 21时29分]"
         },
         {
           "title": "英雄联盟S16新装备测试",
@@ -45,6 +45,28 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时28分 ~ 14时34分]"
+        },
+        {
+          "title": "LCK造新神,恶剪T1捧Guma",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347785&amp;topic_name=LCK%E9%80%A0%E6%96%B0%E7%A5%9E%2C%E6%81%B6%E5%89%AAT1%E6%8D%A7Guma",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
+        },
+        {
+          "title": "LCK纪录片被曝曲解T1选手",
+          "url": "https://s.weibo.com/weibo?q=LCK%E7%BA%AA%E5%BD%95%E7%89%87%E8%A2%AB%E6%9B%9D%E6%9B%B2%E8%A7%A3T1%E9%80%89%E6%89%8B&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
         }
       ]
     }
