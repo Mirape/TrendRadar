@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-08T04:26:29.679075+08:00",
-  "total_titles_processed": 379,
+  "generated_at": "2025-12-08T05:20:34.713710+08:00",
+  "total_titles_processed": 401,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 04时26分]"
+          "appearance_count": 7,
+          "time_info": "[00时28分 ~ 05时20分]"
         },
         {
           "title": "云南bigbang都帅成啥样了",
@@ -27,11 +27,12 @@
             13,
             10,
             8,
-            20
+            20,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 04时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 05时20分]"
         }
       ]
     }
