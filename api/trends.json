@@ -1,56 +1,22 @@
 {
-  "generated_at": "2025-12-08T23:28:54.809424+08:00",
-  "total_titles_processed": 1834,
+  "generated_at": "2025-12-09T00:34:35.865550+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
           "title": "LCK造新神,恶剪T1捧Guma",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347785&amp;topic_name=LCK%E9%80%A0%E6%96%B0%E7%A5%9E%2C%E6%81%B6%E5%89%AAT1%E6%8D%A7Guma",
           "source": "贴吧",
           "ranks": [
-            5,
-            6,
-            9,
-            12,
-            15,
-            19,
-            20,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时28分 ~ 23时28分]"
-        },
-        {
-          "title": "云南bigbang都帅成啥样了",
-          "url": "https://www.douyin.com/hot/2329283",
-          "source": "抖音",
-          "ranks": [
-            13,
-            10,
-            8,
-            20,
-            15,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 09时56分]"
-        },
-        {
-          "title": "剑桥科技：拟向境外全资子公司CIG美国增资1亿美元，扩张公司在北美及东南亚地区高速光模块产能配套",
-          "url": "https://wallstreetcn.com/livenews/3016867",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时34分"
+          "time_info": "00时34分"
         }
       ]
     }
