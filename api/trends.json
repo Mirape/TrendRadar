@@ -1,12 +1,29 @@
 {
-  "generated_at": "2025-12-09T18:31:00.475166+08:00",
-  "total_titles_processed": 1642,
+  "generated_at": "2025-12-09T19:24:21.316307+08:00",
+  "total_titles_processed": 1736,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
       "match_count": 4,
       "titles": [
+        {
+          "title": "IGN评测逃离塔科夫",
+          "url": "https://search.bilibili.com/all?keyword=IGN%E8%AF%84%E6%B5%8B%E9%80%83%E7%A6%BB%E5%A1%94%E7%A7%91%E5%A4%AB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21,
+            15,
+            26,
+            23,
+            19,
+            28,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时22分 ~ 19时24分]"
+        },
         {
           "title": "LCK造新神,恶剪T1捧Guma",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347785&amp;topic_name=LCK%E9%80%A0%E6%96%B0%E7%A5%9E%2C%E6%81%B6%E5%89%AAT1%E6%8D%A7Guma",
@@ -19,22 +36,6 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时34分 ~ 11时22分]"
-        },
-        {
-          "title": "IGN评测逃离塔科夫",
-          "url": "https://search.bilibili.com/all?keyword=IGN%E8%AF%84%E6%B5%8B%E9%80%83%E7%A6%BB%E5%A1%94%E7%A7%91%E5%A4%AB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21,
-            15,
-            26,
-            23,
-            19,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时22分 ~ 18时31分]"
         },
         {
           "title": "IGN年度大奖提名名单",
