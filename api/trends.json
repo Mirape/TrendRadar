@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-09T15:27:10.776181+08:00",
-  "total_titles_processed": 1317,
+  "generated_at": "2025-12-09T16:36:41.044385+08:00",
+  "total_titles_processed": 1438,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "LCK造新神,恶剪T1捧Guma",
@@ -28,11 +28,23 @@
             21,
             15,
             26,
-            23
+            23,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时22分 ~ 15时27分]"
+          "appearance_count": 7,
+          "time_info": "[11时22分 ~ 16时36分]"
+        },
+        {
+          "title": "IGN年度大奖提名名单",
+          "url": "https://search.bilibili.com/all?keyword=IGN%E5%B9%B4%E5%BA%A6%E5%A4%A7%E5%A5%96%E6%8F%90%E5%90%8D%E5%90%8D%E5%8D%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
         },
         {
           "title": "印度民航总局要求靛蓝航空（IndiGo）削减高需求、高频次航线的航班班次。 当地时间12月10日下午5点前提交修订后的航班计划表。 要求靛蓝航空在冬春航季削减 5% 的航班运力。",
