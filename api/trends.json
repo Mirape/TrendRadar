@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-09T16:36:41.044385+08:00",
-  "total_titles_processed": 1438,
+  "generated_at": "2025-12-09T17:29:42.962073+08:00",
+  "total_titles_processed": 1535,
   "failed_sources": [],
   "trends": [
     {
@@ -42,9 +42,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时36分 ~ 17时29分]"
         },
         {
           "title": "印度民航总局要求靛蓝航空（IndiGo）削减高需求、高频次航线的航班班次。 当地时间12月10日下午5点前提交修订后的航班计划表。 要求靛蓝航空在冬春航季削减 5% 的航班运力。",
