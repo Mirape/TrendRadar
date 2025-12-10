@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-10T14:39:44.742099+08:00",
-  "total_titles_processed": 1303,
+  "generated_at": "2025-12-10T15:27:46.812047+08:00",
+  "total_titles_processed": 1388,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             1,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时26分 ~ 14时39分]"
+          "appearance_count": 3,
+          "time_info": "[13时26分 ~ 15时27分]"
         },
         {
           "title": "IGN评测逃离塔科夫",
