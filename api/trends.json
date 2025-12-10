@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-11T06:25:11.264641+08:00",
-  "total_titles_processed": 685,
+  "generated_at": "2025-12-11T07:22:40.944202+08:00",
+  "total_titles_processed": 744,
   "failed_sources": [],
   "trends": [
     {
@@ -30,11 +30,12 @@
             24,
             5,
             6,
-            2
+            2,
+            18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时36分 ~ 06时25分]"
+          "appearance_count": 10,
+          "time_info": "[02时36分 ~ 07时22分]"
         },
         {
           "title": "Blue Owl Capital高管Craig Packer：数据中心是一个“实实在在地具有吸引力的领域”。 银行业利用SRTs（重大风险转移）来管控数据中心风险，这样做是“睿智的”。 零售产品的资金流入偏高。 软件（在投资组合中的表现）是本公司表现“最强”的一个方面。（彭博电视）",
