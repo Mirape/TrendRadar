@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T17:31:04.551914+08:00",
-  "total_titles_processed": 1597,
+  "generated_at": "2025-12-10T18:30:38.826002+08:00",
+  "total_titles_processed": 1678,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "IG官宣Daeny离队",
@@ -16,33 +16,37 @@
             4,
             5,
             15,
-            13
+            13,
+            23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时26分 ~ 17时31分]"
+          "appearance_count": 8,
+          "time_info": "[13时26分 ~ 18时30分]"
         },
         {
           "title": "IG官宣Rookie续约",
           "url": "https://search.bilibili.com/all?keyword=IG%E5%AE%98%E5%AE%A3Rookie%E7%BB%AD%E7%BA%A6",
           "source": "bilibili 热搜",
           "ranks": [
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时30分 ~ 17时31分]"
+          "appearance_count": 4,
+          "time_info": "[17时30分 ~ 18时30分]"
         },
         {
           "title": "iG官宣Rookie续约",
           "url": "https://s.weibo.com/weibo?q=%23iG%E5%AE%98%E5%AE%A3Rookie%E7%BB%AD%E7%BA%A6%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
           "ranks": [
-            5
+            5,
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时30分 ~ 17时31分]"
+          "appearance_count": 4,
+          "time_info": "[17时30分 ~ 18时30分]"
         },
         {
           "title": "IGN评测逃离塔科夫",
@@ -56,6 +60,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时33分 ~ 09时58分]"
+        },
+        {
+          "title": "iG官宣Meiko续约",
+          "url": "https://s.weibo.com/weibo?q=%23iG%E5%AE%98%E5%AE%A3Meiko%E7%BB%AD%E7%BA%A6%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时29分 ~ 18时30分]"
         },
         {
           "title": "iG官宣Daeny卸任",
