@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T19:23:20.906729+08:00",
-  "total_titles_processed": 1757,
+  "generated_at": "2025-12-10T20:54:46.005995+08:00",
+  "total_titles_processed": 1870,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "IG官宣Daeny离队",
@@ -50,13 +50,24 @@
           "time_info": "[17时30分 ~ 19时23分]"
         },
         {
+          "title": "IG官宣TheShy暂离赛场",
+          "url": "https://search.bilibili.com/all?keyword=IG%E5%AE%98%E5%AE%A3TheShy%E6%9A%82%E7%A6%BB%E8%B5%9B%E5%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
           "title": "IG官宣Meiko续约",
           "url": "https://search.bilibili.com/all?keyword=IG%E5%AE%98%E5%AE%A3Meiko%E7%BB%AD%E7%BA%A6",
           "source": "bilibili 热搜",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         },
@@ -67,9 +78,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
+        },
+        {
+          "title": "iG官宣TheShy离场",
+          "url": "https://s.weibo.com/weibo?q=%23iG%E5%AE%98%E5%AE%A3TheShy%E7%A6%BB%E5%9C%BA%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         },
         {
           "title": "IGN评测逃离塔科夫",
