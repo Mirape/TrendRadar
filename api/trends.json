@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-10T07:24:47.775273+08:00",
-  "total_titles_processed": 720,
+  "generated_at": "2025-12-10T09:58:11.359485+08:00",
+  "total_titles_processed": 882,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             27,
-            28
+            28,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时33分 ~ 03时19分]"
+          "appearance_count": 5,
+          "time_info": "[02时33分 ~ 09时58分]"
         },
         {
           "title": "明晟公司MSCI北欧国家指数涨0.2%，报357.92点。 在十个板块中，北欧电信服务板块涨幅最大。 挪威保险公司Gjensidige Forsikring ASA涨3.6%，在一众北欧个股里领跑。",
