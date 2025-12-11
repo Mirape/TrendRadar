@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-11T17:31:43.970678+08:00",
-  "total_titles_processed": 1655,
+  "generated_at": "2025-12-11T18:31:17.719550+08:00",
+  "total_titles_processed": 1758,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "IG官宣TheShy暂离赛场",
@@ -46,11 +46,23 @@
           "url": "https://search.bilibili.com/all?keyword=IG%E5%AE%98%E5%AE%A3Photic%E5%8A%A0%E5%85%A5",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            4,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时31分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时31分 ~ 18时31分]"
+        },
+        {
+          "title": "HLE对战T1",
+          "url": "https://s.weibo.com/weibo?q=HLE%E5%AF%B9%E6%88%98T1&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时30分 ~ 18时31分]"
         },
         {
           "title": "Meiko回应续约iG",
