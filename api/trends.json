@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-11T09:59:25.891200+08:00",
-  "total_titles_processed": 901,
+  "generated_at": "2025-12-11T11:40:07.979225+08:00",
+  "total_titles_processed": 1035,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "IG官宣TheShy暂离赛场",
@@ -31,11 +31,23 @@
             5,
             6,
             2,
-            18
+            18,
+            22
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[02时36分 ~ 09时59分]"
+          "appearance_count": 13,
+          "time_info": "[02时36分 ~ 11时40分]"
+        },
+        {
+          "title": "Meiko回应续约iG",
+          "url": "https://s.weibo.com/weibo?q=Meiko%E5%9B%9E%E5%BA%94%E7%BB%AD%E7%BA%A6iG&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时39分 ~ 11时40分]"
         },
         {
           "title": "Blue Owl Capital高管Craig Packer：数据中心是一个“实实在在地具有吸引力的领域”。 银行业利用SRTs（重大风险转移）来管控数据中心风险，这样做是“睿智的”。 零售产品的资金流入偏高。 软件（在投资组合中的表现）是本公司表现“最强”的一个方面。（彭博电视）",
