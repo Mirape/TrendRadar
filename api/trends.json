@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-11T21:43:02.802171+08:00",
-  "total_titles_processed": 2024,
+  "generated_at": "2025-12-11T22:27:03.768962+08:00",
+  "total_titles_processed": 2113,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "IG官宣TheShy暂离赛场",
@@ -132,6 +132,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
+        },
+        {
+          "title": "HLE战胜T1",
+          "url": "https://www.douyin.com/hot/2333691",
+          "source": "抖音",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
         }
       ]
     }
