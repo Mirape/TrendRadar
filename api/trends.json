@@ -1,71 +1,12 @@
 {
-  "generated_at": "2025-12-11T23:31:20.432175+08:00",
-  "total_titles_processed": 2197,
+  "generated_at": "2025-12-12T00:37:48.103027+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 12,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "IG官宣TheShy暂离赛场",
-          "url": "https://search.bilibili.com/all?keyword=IG%E5%AE%98%E5%AE%A3TheShy%E6%9A%82%E7%A6%BB%E8%B5%9B%E5%9C%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            2,
-            3,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时33分 ~ 06时25分]"
-        },
-        {
-          "title": "IG官宣TheShy暂离赛场",
-          "url": "https://www.douyin.com/hot/2332702",
-          "source": "抖音",
-          "ranks": [
-            16,
-            24,
-            5,
-            6,
-            2,
-            18,
-            22,
-            19,
-            27,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[02时36分 ~ 14时40分]"
-        },
-        {
-          "title": "IG官宣Photic加入",
-          "url": "https://search.bilibili.com/all?keyword=IG%E5%AE%98%E5%AE%A3Photic%E5%8A%A0%E5%85%A5",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时31分 ~ 19时24分]"
-        },
-        {
-          "title": "HLE对战T1",
-          "url": "https://s.weibo.com/weibo?q=HLE%E5%AF%B9%E6%88%98T1&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时30分 ~ 19时24分]"
-        },
         {
           "title": "T1遭HLE暴打,虐NS进败决",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347899&amp;topic_name=T1%E9%81%ADHLE%E6%9A%B4%E6%89%93%2C%E8%99%90NS%E8%BF%9B%E8%B4%A5%E5%86%B3",
@@ -73,88 +14,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时31分"
+          "time_info": "00时37分"
         },
         {
-          "title": "HLE战胜T1",
-          "url": "https://www.douyin.com/hot/2333691",
-          "source": "抖音",
-          "ranks": [
-            24,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时27分 ~ 23时31分]"
-        },
-        {
-          "title": "Meiko回应续约iG",
-          "url": "https://s.weibo.com/weibo?q=Meiko%E5%9B%9E%E5%BA%94%E7%BB%AD%E7%BA%A6iG&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时39分 ~ 11时40分]"
-        },
-        {
-          "title": "Blue Owl Capital高管Craig Packer：数据中心是一个“实实在在地具有吸引力的领域”。 银行业利用SRTs（重大风险转移）来管控数据中心风险，这样做是“睿智的”。 零售产品的资金流入偏高。 软件（在投资组合中的表现）是本公司表现“最强”的一个方面。（彭博电视）",
-          "url": "https://wallstreetcn.com/livenews/3018538",
+          "title": "迪士尼CEO Bob Iger：与OpenAI达成的Sora协议是一个“不错的投资”。 将在Disney+投放部分用户生产的Sora视频。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3019319",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时27分]"
-        },
-        {
-          "title": "HLE战胜T1",
-          "url": "https://s.weibo.com/weibo?q=%23HLE%E6%88%98%E8%83%9CT1%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时55分"
-        },
-        {
-          "title": "AIG涨4.3%，刷新日高，创4月份以来最大盘中涨幅。",
-          "url": "https://wallstreetcn.com/livenews/3018650",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时28分"
-        },
-        {
-          "title": "戴尔科技：此前与美国能源部长Wright的会谈非常不错。",
-          "url": "https://wallstreetcn.com/livenews/3018649",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时28分"
-        },
-        {
-          "title": "iG官宣TheShy离场",
-          "url": "https://s.weibo.com/weibo?q=%23iG%E5%AE%98%E5%AE%A3TheShy%E7%A6%BB%E5%9C%BA%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时27分"
+          "time_info": "00时37分"
         }
       ]
     }
