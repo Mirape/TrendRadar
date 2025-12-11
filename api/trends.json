@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-11T22:27:03.768962+08:00",
-  "total_titles_processed": 2113,
+  "generated_at": "2025-12-11T23:31:20.432175+08:00",
+  "total_titles_processed": 2197,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "IG官宣TheShy暂离赛场",
@@ -65,6 +65,29 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[18时30分 ~ 19时24分]"
+        },
+        {
+          "title": "T1遭HLE暴打,虐NS进败决",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347899&amp;topic_name=T1%E9%81%ADHLE%E6%9A%B4%E6%89%93%2C%E8%99%90NS%E8%BF%9B%E8%B4%A5%E5%86%B3",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
+        },
+        {
+          "title": "HLE战胜T1",
+          "url": "https://www.douyin.com/hot/2333691",
+          "source": "抖音",
+          "ranks": [
+            24,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时27分 ~ 23时31分]"
         },
         {
           "title": "Meiko回应续约iG",
@@ -132,17 +155,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
-        },
-        {
-          "title": "HLE战胜T1",
-          "url": "https://www.douyin.com/hot/2333691",
-          "source": "抖音",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时27分"
         }
       ]
     }
