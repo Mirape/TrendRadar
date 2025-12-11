@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-12T02:37:19.715498+08:00",
-  "total_titles_processed": 454,
+  "generated_at": "2025-12-12T03:23:46.992921+08:00",
+  "total_titles_processed": 515,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时37分 ~ 02时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时37分 ~ 03时23分]"
         },
         {
           "title": "IG官宣Photic加入",
@@ -25,9 +25,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时37分 ~ 03时23分]"
         },
         {
           "title": "HLE战胜T1",
@@ -36,9 +36,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时37分 ~ 03时23分]"
         },
         {
           "title": "迪士尼CEO Bob Iger：与OpenAI达成的Sora协议是一个“不错的投资”。 将在Disney+投放部分用户生产的Sora视频。（CNBC）",
