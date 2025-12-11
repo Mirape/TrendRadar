@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-11T13:28:08.059100+08:00",
-  "total_titles_processed": 1214,
+  "generated_at": "2025-12-11T14:40:23.439021+08:00",
+  "total_titles_processed": 1325,
   "failed_sources": [],
   "trends": [
     {
@@ -34,11 +34,12 @@
             18,
             22,
             19,
-            27
+            27,
+            23
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[02时36分 ~ 13时28分]"
+          "appearance_count": 17,
+          "time_info": "[02时36分 ~ 14时40分]"
         },
         {
           "title": "Meiko回应续约iG",
