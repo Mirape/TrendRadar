@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-12T07:24:24.956144+08:00",
-  "total_titles_processed": 686,
+  "generated_at": "2025-12-12T09:58:32.001461+08:00",
+  "total_titles_processed": 854,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时37分 ~ 07时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时37分 ~ 09时58分]"
         },
         {
           "title": "HLE战胜T1",
