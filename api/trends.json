@@ -1,25 +1,12 @@
 {
-  "generated_at": "2025-12-12T12:37:35.521589+08:00",
-  "total_titles_processed": 1123,
+  "generated_at": "2025-12-12T13:27:05.947768+08:00",
+  "total_titles_processed": 1199,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
       "match_count": 4,
       "titles": [
-        {
-          "title": "T1遭HLE暴打,虐NS进败决",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347899&amp;topic_name=T1%E9%81%ADHLE%E6%9A%B4%E6%89%93%2C%E8%99%90NS%E8%BF%9B%E8%B4%A5%E5%86%B3",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时37分 ~ 12时37分]"
-        },
         {
           "title": "HLE战胜T1",
           "url": "https://www.douyin.com/hot/2333691",
@@ -31,6 +18,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时37分 ~ 07时24分]"
+        },
+        {
+          "title": "T1遭HLE暴打,虐NS进败决",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347899&amp;topic_name=T1%E9%81%ADHLE%E6%9A%B4%E6%89%93%2C%E8%99%90NS%E8%BF%9B%E8%B4%A5%E5%86%B3",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            7,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时37分 ~ 13时27分]"
         },
         {
           "title": "IG官宣Photic加入",
