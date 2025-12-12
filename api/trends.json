@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-12T13:27:05.947768+08:00",
-  "total_titles_processed": 1199,
+  "generated_at": "2025-12-12T14:40:00.766969+08:00",
+  "total_titles_processed": 1305,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "HLE战胜T1",
@@ -27,11 +27,12 @@
             2,
             7,
             9,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时37分 ~ 13时27分]"
+          "appearance_count": 17,
+          "time_info": "[00时37分 ~ 14时40分]"
         },
         {
           "title": "IG官宣Photic加入",
@@ -43,6 +44,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时37分 ~ 03时23分]"
+        },
+        {
+          "title": "据韩联社：摩根大通资产管理公司策略师Kerry Craig驳斥人工智能泡沫担忧，对韩国KOSPI指数表示乐观。",
+          "url": "https://flash.jin10.com/detail/20251212142602428800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
         },
         {
           "title": "迪士尼CEO Bob Iger：与OpenAI达成的Sora协议是一个“不错的投资”。 将在Disney+投放部分用户生产的Sora视频。（CNBC）",
