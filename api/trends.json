@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-12T14:40:00.766969+08:00",
-  "total_titles_processed": 1305,
+  "generated_at": "2025-12-12T15:28:16.500666+08:00",
+  "total_titles_processed": 1407,
   "failed_sources": [],
   "trends": [
     {
@@ -28,11 +28,12 @@
             7,
             9,
             10,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时37分 ~ 14时40分]"
+          "appearance_count": 18,
+          "time_info": "[00时37分 ~ 15时28分]"
         },
         {
           "title": "IG官宣Photic加入",
@@ -52,7 +53,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
         },
