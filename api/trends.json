@@ -1,105 +1,22 @@
 {
-  "generated_at": "2025-12-13T23:23:31.911565+08:00",
-  "total_titles_processed": 1555,
+  "generated_at": "2025-12-14T00:29:45.338826+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 7,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "DK白忙活输HLE,败决将战T1",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347937&amp;topic_name=DK%E7%99%BD%E5%BF%99%E6%B4%BB%E8%BE%93HLE%2C%E8%B4%A5%E5%86%B3%E5%B0%86%E6%88%98T1",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            7,
-            8,
-            10,
-            11,
-            12,
-            13,
-            17,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 32,
-          "time_info": "[00时31分 ~ 21时31分]"
-        },
-        {
-          "title": "T1遭HLE暴打,虐NS进败决",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347899&amp;topic_name=T1%E9%81%ADHLE%E6%9A%B4%E6%89%93%2C%E8%99%90NS%E8%BF%9B%E8%B4%A5%E5%86%B3",
-          "source": "贴吧",
-          "ranks": [
-            20,
-            21,
-            22,
-            24,
-            25,
-            26,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时31分 ~ 19时20分]"
-        },
         {
           "title": "T1让二追三!DK经典打满败",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347952&amp;topic_name=T1%E8%AE%A9%E4%BA%8C%E8%BF%BD%E4%B8%89%21DK%E7%BB%8F%E5%85%B8%E6%89%93%E6%BB%A1%E8%B4%A5",
           "source": "贴吧",
           "ranks": [
-            3,
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[21时30分 ~ 23时23分]"
-        },
-        {
-          "title": "T1让二追三击败DK",
-          "url": "https://search.bilibili.com/all?keyword=T1%E8%AE%A9%E4%BA%8C%E8%BF%BD%E4%B8%89%E5%87%BB%E8%B4%A5DK",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时30分 ~ 22时22分]"
-        },
-        {
-          "title": "T1让二追三DK",
-          "url": "https://s.weibo.com/weibo?q=T1%E8%AE%A9%E4%BA%8C%E8%BF%BD%E4%B8%89DK&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时30分 ~ 21时31分]"
-        },
-        {
-          "title": "IG转会期是如何走到这步的",
-          "url": "https://search.bilibili.com/all?keyword=IG%E8%BD%AC%E4%BC%9A%E6%9C%9F%E6%98%AF%E5%A6%82%E4%BD%95%E8%B5%B0%E5%88%B0%E8%BF%99%E6%AD%A5%E7%9A%84",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时28分 ~ 09时52分]"
-        },
-        {
-          "title": "瑞银集团涨幅重新扩大至3.5%，报34.80（瑞郎），瑞士盘初曾达到35.17，创2008年一季度以来盘中新高，延续近期上涨的趋势。 一个由具有影响力的瑞士议员组成的团体建议，降低针对瑞银的（AT1）资本要求。",
-          "url": "https://wallstreetcn.com/livenews/3020055",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时31分"
+          "time_info": "00时29分"
         }
       ]
     }
