@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-13T07:24:00.371405+08:00",
-  "total_titles_processed": 590,
+  "generated_at": "2025-12-13T09:52:19.588172+08:00",
+  "total_titles_processed": 736,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347937&amp;topic_name=DK%E7%99%BD%E5%BF%99%E6%B4%BB%E8%BE%93HLE%2C%E8%B4%A5%E5%86%B3%E5%B0%86%E6%88%98T1",
           "source": "贴吧",
           "ranks": [
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时31分 ~ 07时24分]"
+          "appearance_count": 13,
+          "time_info": "[00时31分 ~ 09时52分]"
         },
         {
           "title": "T1遭HLE暴打,虐NS进败决",
@@ -24,11 +25,24 @@
           "source": "贴吧",
           "ranks": [
             20,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时31分 ~ 07时24分]"
+          "appearance_count": 13,
+          "time_info": "[00时31分 ~ 09时52分]"
+        },
+        {
+          "title": "IG转会期是如何走到这步的",
+          "url": "https://search.bilibili.com/all?keyword=IG%E8%BD%AC%E4%BC%9A%E6%9C%9F%E6%98%AF%E5%A6%82%E4%BD%95%E8%B5%B0%E5%88%B0%E8%BF%99%E6%AD%A5%E7%9A%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时28分 ~ 09时52分]"
         },
         {
           "title": "瑞银集团涨幅重新扩大至3.5%，报34.80（瑞郎），瑞士盘初曾达到35.17，创2008年一季度以来盘中新高，延续近期上涨的趋势。 一个由具有影响力的瑞士议员组成的团体建议，降低针对瑞银的（AT1）资本要求。",
@@ -40,17 +54,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
-        },
-        {
-          "title": "IG转会期是如何走到这步的",
-          "url": "https://search.bilibili.com/all?keyword=IG%E8%BD%AC%E4%BC%9A%E6%9C%9F%E6%98%AF%E5%A6%82%E4%BD%95%E8%B5%B0%E5%88%B0%E8%BF%99%E6%AD%A5%E7%9A%84",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时28分"
         }
       ]
     }
