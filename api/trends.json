@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-13T20:47:10.188278+08:00",
-  "total_titles_processed": 1380,
+  "generated_at": "2025-12-13T21:31:13.323474+08:00",
+  "total_titles_processed": 1422,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "DK白忙活输HLE,败决将战T1",
@@ -19,11 +19,12 @@
             11,
             12,
             13,
-            17
+            17,
+            30
           ],
           "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[00时31分 ~ 20时47分]"
+          "appearance_count": 32,
+          "time_info": "[00时31分 ~ 21时31分]"
         },
         {
           "title": "T1遭HLE暴打,虐NS进败决",
@@ -41,6 +42,39 @@
           "is_new": false,
           "appearance_count": 28,
           "time_info": "[00时31分 ~ 19时20分]"
+        },
+        {
+          "title": "T1让二追三!DK经典打满败",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347952&amp;topic_name=T1%E8%AE%A9%E4%BA%8C%E8%BF%BD%E4%B8%89%21DK%E7%BB%8F%E5%85%B8%E6%89%93%E6%BB%A1%E8%B4%A5",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时30分 ~ 21时31分]"
+        },
+        {
+          "title": "T1让二追三击败DK",
+          "url": "https://search.bilibili.com/all?keyword=T1%E8%AE%A9%E4%BA%8C%E8%BF%BD%E4%B8%89%E5%87%BB%E8%B4%A5DK",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时30分 ~ 21时31分]"
+        },
+        {
+          "title": "T1让二追三DK",
+          "url": "https://s.weibo.com/weibo?q=T1%E8%AE%A9%E4%BA%8C%E8%BF%BD%E4%B8%89DK&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时30分 ~ 21时31分]"
         },
         {
           "title": "IG转会期是如何走到这步的",
