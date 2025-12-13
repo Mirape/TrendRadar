@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-13T19:20:08.917817+08:00",
-  "total_titles_processed": 1293,
+  "generated_at": "2025-12-13T20:47:10.188278+08:00",
+  "total_titles_processed": 1380,
   "failed_sources": [],
   "trends": [
     {
@@ -18,11 +18,12 @@
             10,
             11,
             12,
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时31分 ~ 19时20分]"
+          "appearance_count": 30,
+          "time_info": "[00时31分 ~ 20时47分]"
         },
         {
           "title": "T1遭HLE暴打,虐NS进败决",
