@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-13T18:24:42.982389+08:00",
-  "total_titles_processed": 1236,
+  "generated_at": "2025-12-13T19:20:08.917817+08:00",
+  "total_titles_processed": 1293,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             8,
             10,
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时31分 ~ 18时24分]"
+          "appearance_count": 28,
+          "time_info": "[00时31分 ~ 19时20分]"
         },
         {
           "title": "T1遭HLE暴打,虐NS进败决",
@@ -33,11 +34,12 @@
             22,
             24,
             25,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时31分 ~ 18时24分]"
+          "appearance_count": 28,
+          "time_info": "[00时31分 ~ 19时20分]"
         },
         {
           "title": "IG转会期是如何走到这步的",
