@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T21:31:16.717184+08:00",
-  "total_titles_processed": 1320,
+  "generated_at": "2025-12-14T22:22:43.842014+08:00",
+  "total_titles_processed": 1377,
   "failed_sources": [],
   "trends": [
     {
@@ -34,8 +34,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时46分 ~ 21时31分]"
+          "appearance_count": 4,
+          "time_info": "[20时46分 ~ 22时22分]"
         },
         {
           "title": "T1夺冠",
@@ -50,6 +50,18 @@
           "time_info": "[20时46分 ~ 21时31分]"
         },
         {
+          "title": "T1夺冠",
+          "url": "https://s.weibo.com/weibo?q=T1%E5%A4%BA%E5%86%A0&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时46分 ~ 22时22分]"
+        },
+        {
           "title": "T1对战HLE",
           "url": "https://s.weibo.com/weibo?q=%23T1%E5%AF%B9%E6%88%98HLE%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
@@ -60,18 +72,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时24分 ~ 20时47分]"
-        },
-        {
-          "title": "T1夺冠",
-          "url": "https://s.weibo.com/weibo?q=T1%E5%A4%BA%E5%86%A0&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时46分 ~ 21时31分]"
         },
         {
           "title": "T1战胜HLE",
