@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-15T01:20:54.478793+08:00",
-  "total_titles_processed": 346,
+  "generated_at": "2025-12-15T02:34:11.735383+08:00",
+  "total_titles_processed": 361,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 02时34分]"
         },
         {
           "title": "T1夺得K杯冠军",
@@ -27,8 +27,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 02时34分]"
         }
       ]
     }
