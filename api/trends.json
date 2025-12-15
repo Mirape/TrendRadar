@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-15T13:31:07.703510+08:00",
-  "total_titles_processed": 882,
+  "generated_at": "2025-12-15T14:42:03.233712+08:00",
+  "total_titles_processed": 1000,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时29分 ~ 13时31分]"
+          "appearance_count": 18,
+          "time_info": "[00时29分 ~ 14时42分]"
         },
         {
           "title": "T1夺得K杯冠军",
@@ -33,6 +33,18 @@
           "time_info": "[00时29分 ~ 12时06分]"
         },
         {
+          "title": "T1 3-2 HLE赛后数据",
+          "url": "https://search.bilibili.com/all?keyword=T1%203-2%20HLE%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时06分 ~ 14时42分]"
+        },
+        {
           "title": "T1 击败 HLE 夺得 KESPA 杯冠军，dofpk 组合迎来首冠，如何评价他们在比赛中的表现？",
           "url": "https://www.zhihu.com/question/1983646684992000035",
           "source": "知乎",
@@ -45,26 +57,16 @@
           "time_info": "[10时02分 ~ 12时06分]"
         },
         {
-          "title": "T1 3-2 HLE赛后数据",
-          "url": "https://search.bilibili.com/all?keyword=T1%203-2%20HLE%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时06分 ~ 13时31分]"
-        },
-        {
           "title": "锐评T1首个K杯冠军",
           "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84T1%E9%A6%96%E4%B8%AAK%E6%9D%AF%E5%86%A0%E5%86%9B",
           "source": "bilibili 热搜",
           "ranks": [
-            7
+            7,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时30分 ~ 13时31分]"
+          "appearance_count": 4,
+          "time_info": "[13时30分 ~ 14时42分]"
         }
       ]
     }
