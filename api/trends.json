@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-15T19:24:40.554947+08:00",
-  "total_titles_processed": 1494,
+  "generated_at": "2025-12-15T20:56:29.398521+08:00",
+  "total_titles_processed": 1615,
   "failed_sources": [],
   "trends": [
     {
@@ -33,8 +33,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时29分 ~ 19时24分]"
+          "appearance_count": 25,
+          "time_info": "[00时29分 ~ 20时56分]"
         },
         {
           "title": "T1 3-2 HLE赛后数据",
@@ -46,11 +46,12 @@
             8,
             19,
             22,
-            23
+            23,
+            11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时06分 ~ 19时24分]"
+          "appearance_count": 11,
+          "time_info": "[12时06分 ~ 20时56分]"
         },
         {
           "title": "锐评T1首个K杯冠军",
@@ -61,11 +62,12 @@
             22,
             20,
             23,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时30分 ~ 18时32分]"
+          "appearance_count": 8,
+          "time_info": "[13时30分 ~ 20时56分]"
         },
         {
           "title": "T1 击败 HLE 夺得 KESPA 杯冠军，dofpk 组合迎来首冠，如何评价他们在比赛中的表现？",
