@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-12-16T00:37:47.003472+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-16T01:29:03.887561+08:00",
+  "total_titles_processed": 369,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
       "match_count": 2,
       "titles": [
+        {
+          "title": "T1 3-2 HLE赛后数据",
+          "url": "https://search.bilibili.com/all?keyword=T1%203-2%20HLE%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时37分 ~ 01时29分]"
+        },
         {
           "title": "T1戏耍HLE,Faker首夺K杯冠军",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347968&amp;topic_name=T1%E6%88%8F%E8%80%8DHLE%2CFaker%E9%A6%96%E5%A4%BAK%E6%9D%AF%E5%86%A0%E5%86%9B",
@@ -15,19 +27,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
-        },
-        {
-          "title": "T1 3-2 HLE赛后数据",
-          "url": "https://search.bilibili.com/all?keyword=T1%203-2%20HLE%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
+          "appearance_count": 3,
+          "time_info": "[00时37分 ~ 01时29分]"
         }
       ]
     }
