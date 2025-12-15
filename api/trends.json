@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-16T06:25:40.243497+08:00",
-  "total_titles_processed": 635,
+  "generated_at": "2025-12-16T07:49:04.925052+08:00",
+  "total_titles_processed": 725,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时37分 ~ 06时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时37分 ~ 07时49分]"
         },
         {
           "title": "T1 3-2 HLE赛后数据",
@@ -27,11 +27,12 @@
             16,
             14,
             3,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 06时25分]"
+          "appearance_count": 9,
+          "time_info": "[00时37分 ~ 07时49分]"
         },
         {
           "title": "据华尔街日报：福特将停止生产其F-150皮卡的电动版本，即Lightning。",
