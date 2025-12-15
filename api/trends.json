@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-15T07:22:35.775336+08:00",
-  "total_titles_processed": 465,
+  "generated_at": "2025-12-15T10:02:53.200772+08:00",
+  "total_titles_processed": 617,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "T1戏耍HLE,Faker首夺K杯冠军",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时29分 ~ 07时22分]"
+          "appearance_count": 13,
+          "time_info": "[00时29分 ~ 10时02分]"
         },
         {
           "title": "T1夺得K杯冠军",
@@ -27,8 +27,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时29分 ~ 07时22分]"
+          "appearance_count": 13,
+          "time_info": "[00时29分 ~ 10时02分]"
+        },
+        {
+          "title": "T1 击败 HLE 夺得 KESPA 杯冠军，dofpk 组合迎来首冠，如何评价他们在比赛中的表现？",
+          "url": "https://www.zhihu.com/question/1983646684992000035",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
         }
       ]
     }
