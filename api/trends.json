@@ -1,7 +1,25 @@
 {
-  "generated_at": "2025-12-17T02:38:38.670099+08:00",
-  "total_titles_processed": 450,
+  "generated_at": "2025-12-17T03:23:13.195935+08:00",
+  "total_titles_processed": 502,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "iG S赛 英雄联盟 T1",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "巴西石油公司同意收购英国石油旗下太阳能和电池子公司Lightsource在巴西的子公司股份。",
+          "url": "https://flash.jin10.com/detail/20251217023807579800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时23分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://github.com/Mirape/TrendRadar/img/news.jpg"
 }
