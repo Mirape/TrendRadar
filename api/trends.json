@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-17T22:28:33.309860+08:00",
-  "total_titles_processed": 2043,
+  "generated_at": "2025-12-17T23:29:52.852143+08:00",
+  "total_titles_processed": 2129,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "摊牌了!Guma拒当T1永久打工人",
@@ -21,8 +21,19 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时24分 ~ 22时28分]"
+          "appearance_count": 16,
+          "time_info": "[11时24分 ~ 23时29分]"
+        },
+        {
+          "title": "华沙WIG能源指数涨3.1%，创最近一周最佳盘中表现。",
+          "url": "https://wallstreetcn.com/livenews/3022487",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "巴西石油公司同意收购英国石油旗下太阳能和电池子公司Lightsource在巴西的子公司股份。",
