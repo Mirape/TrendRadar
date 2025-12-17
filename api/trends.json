@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-17T15:27:38.794050+08:00",
-  "total_titles_processed": 1340,
+  "generated_at": "2025-12-17T16:36:32.837559+08:00",
+  "total_titles_processed": 1474,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             2,
             3,
             4,
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时24分 ~ 15时27分]"
+          "appearance_count": 7,
+          "time_info": "[11时24分 ~ 16时36分]"
         },
         {
           "title": "巴西石油公司同意收购英国石油旗下太阳能和电池子公司Lightsource在巴西的子公司股份。",
