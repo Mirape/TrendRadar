@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-18T16:35:41.698786+08:00",
-  "total_titles_processed": 1452,
+  "generated_at": "2025-12-18T17:32:08.950478+08:00",
+  "total_titles_processed": 1551,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "摊牌了!Guma拒当T1永久打工人",
@@ -24,6 +24,17 @@
           "is_new": false,
           "appearance_count": 21,
           "time_info": "[00时35分 ~ 16时35分]"
+        },
+        {
+          "title": "英雄联盟",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时31分 ~ 17时32分]"
         },
         {
           "title": "IGN评测弗莱迪餐馆之五夜惊魂2",
