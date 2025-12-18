@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-18T15:27:44.296816+08:00",
-  "total_titles_processed": 1326,
+  "generated_at": "2025-12-18T16:35:41.698786+08:00",
+  "total_titles_processed": 1452,
   "failed_sources": [],
   "trends": [
     {
@@ -18,11 +18,12 @@
             22,
             24,
             25,
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时35分 ~ 15时27分]"
+          "appearance_count": 21,
+          "time_info": "[00时35分 ~ 16时35分]"
         },
         {
           "title": "IGN评测弗莱迪餐馆之五夜惊魂2",
@@ -53,7 +54,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
         }
