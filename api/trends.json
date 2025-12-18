@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-18T07:24:08.970082+08:00",
-  "total_titles_processed": 690,
+  "generated_at": "2025-12-18T09:55:12.162945+08:00",
+  "total_titles_processed": 851,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "摊牌了!Guma拒当T1永久打工人",
@@ -16,8 +16,19 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时35分 ~ 07时24分]"
+          "appearance_count": 13,
+          "time_info": "[00时35分 ~ 09时55分]"
+        },
+        {
+          "title": "IGN评测弗莱迪餐馆之五夜惊魂2",
+          "url": "https://search.bilibili.com/all?keyword=IGN%E8%AF%84%E6%B5%8B%E5%BC%97%E8%8E%B1%E8%BF%AA%E9%A4%90%E9%A6%86%E4%B9%8B%E4%BA%94%E5%A4%9C%E6%83%8A%E9%AD%822",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时54分 ~ 09时55分]"
         },
         {
           "title": "美国监管机构发言人：Caroline Pham会继续担任美国商品期货交易委员会（CFTC）代理主席，直至特朗普任命的Mike Selig获得确认。",
