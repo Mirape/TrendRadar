@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T05:23:32.500932+08:00",
-  "total_titles_processed": 587,
+  "generated_at": "2025-12-20T06:25:07.704601+08:00",
+  "total_titles_processed": 618,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             9,
             4,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 05时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 06时25分]"
         },
         {
           "title": "LCK年度最佳:T1和GEN全员包场",
@@ -29,8 +30,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 05时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 06时25分]"
         },
         {
           "title": "安进表示，与美国政府携手采取行动，降低美国患者的药品成本，将Aimovig和Amjevita以每月299美元的折扣价提供。",
