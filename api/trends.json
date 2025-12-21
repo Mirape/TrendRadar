@@ -1,27 +1,7 @@
 {
-  "generated_at": "2025-12-21T23:23:53.082305+08:00",
-  "total_titles_processed": 1340,
+  "generated_at": "2025-12-22T00:29:11.477188+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "贝佐斯旗下蓝色起源公司（Blue Origin）运载火箭点火起飞，载运六名机组人员进行一次亚轨道（观光）飞行。",
-          "url": "https://wallstreetcn.com/livenews/3024310",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            9,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 07时22分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://github.com/Mirape/TrendRadar/img/news.jpg"
 }
