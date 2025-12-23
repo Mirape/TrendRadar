@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-23T14:40:58.828283+08:00",
-  "total_titles_processed": 1237,
+  "generated_at": "2025-12-23T15:28:29.055635+08:00",
+  "total_titles_processed": 1326,
   "failed_sources": [],
   "trends": [
     {
@@ -19,11 +19,12 @@
             25,
             17,
             14,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时32分 ~ 14时40分]"
+          "appearance_count": 16,
+          "time_info": "[00时32分 ~ 15时28分]"
         },
         {
           "title": "《英雄联盟》「海克斯大乱斗」最没用的符文都是哪些？",
