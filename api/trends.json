@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-25T02:36:15.541357+08:00",
-  "total_titles_processed": 419,
+  "generated_at": "2025-12-25T03:19:52.110038+08:00",
+  "total_titles_processed": 451,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 02时36分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 03时19分]"
         },
         {
           "title": "陪李哥打到退役,oner续约T1",
@@ -27,8 +27,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 02时36分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 03时19分]"
         },
         {
           "title": "Oner与T1续约至2028年",
@@ -36,11 +36,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             20,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时21分 ~ 02时36分]"
+          "appearance_count": 5,
+          "time_info": "[01时21分 ~ 03时19分]"
         }
       ]
     }
