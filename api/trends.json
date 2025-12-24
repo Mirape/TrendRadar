@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-24T19:23:33.366318+08:00",
-  "total_titles_processed": 1598,
+  "generated_at": "2025-12-24T20:52:04.627200+08:00",
+  "total_titles_processed": 1690,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             3,
             1,
-            2
+            2,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时27分 ~ 19时23分]"
+          "appearance_count": 9,
+          "time_info": "[15时27分 ~ 20时52分]"
         },
         {
           "title": "陪李哥打到退役,oner续约T1",
@@ -29,11 +30,12 @@
             7,
             9,
             12,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时39分 ~ 19时23分]"
+          "appearance_count": 14,
+          "time_info": "[12时39分 ~ 20时52分]"
         },
         {
           "title": "33号远征队获IGN年度游戏",
