@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-24T17:29:07.663578+08:00",
-  "total_titles_processed": 1423,
+  "generated_at": "2025-12-24T18:27:38.301575+08:00",
+  "total_titles_processed": 1502,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             5,
             7,
             9,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时39分 ~ 17时29分]"
+          "appearance_count": 11,
+          "time_info": "[12时39分 ~ 18时27分]"
         },
         {
           "title": "Oner与T1续约至2028年",
@@ -27,11 +28,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             3,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时27分 ~ 17时29分]"
+          "appearance_count": 6,
+          "time_info": "[15时27分 ~ 18时27分]"
         },
         {
           "title": "33号远征队获IGN年度游戏",
