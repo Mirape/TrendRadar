@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-24T22:25:11.665437+08:00",
-  "total_titles_processed": 1840,
+  "generated_at": "2025-12-24T23:27:02.709783+08:00",
+  "total_titles_processed": 1923,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "Oner与T1续约至2028年",
@@ -33,11 +33,12 @@
             12,
             13,
             16,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[12时39分 ~ 22时25分]"
+          "appearance_count": 19,
+          "time_info": "[12时39分 ~ 23时27分]"
         },
         {
           "title": "33号远征队获IGN年度游戏",
@@ -63,6 +64,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时39分 ~ 13时29分]"
+        },
+        {
+          "title": "云南BIGBANG跨年路透藏不住了",
+          "url": "https://www.douyin.com/hot/2346065",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时26分 ~ 23时27分]"
         },
         {
           "title": "T1再与oner续约两年",
