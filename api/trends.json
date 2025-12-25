@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-25T13:29:06.614352+08:00",
-  "total_titles_processed": 1065,
+  "generated_at": "2025-12-25T14:39:54.841270+08:00",
+  "total_titles_processed": 1142,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,12 @@
             19,
             22,
             28,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时31分 ~ 13时29分]"
+          "appearance_count": 18,
+          "time_info": "[00时31分 ~ 14时39分]"
         },
         {
           "title": "Oner与T1续约至2028年",
