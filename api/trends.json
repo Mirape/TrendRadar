@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-25T19:22:26.483318+08:00",
-  "total_titles_processed": 1565,
+  "generated_at": "2025-12-25T20:51:26.346317+08:00",
+  "total_titles_processed": 1659,
   "failed_sources": [],
   "trends": [
     {
@@ -47,8 +47,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时34分 ~ 19时22分]"
+          "appearance_count": 5,
+          "time_info": "[16时34分 ~ 20时51分]"
         },
         {
           "title": "Oner与T1续约至2028年",
@@ -68,11 +68,12 @@
           "url": "https://www.zhihu.com/question/1985274385993573570",
           "source": "知乎",
           "ranks": [
-            15
+            15,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时22分 ~ 20时51分]"
         }
       ]
     }
