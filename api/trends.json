@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T03:20:03.686107+08:00",
-  "total_titles_processed": 406,
+  "generated_at": "2025-12-26T04:28:47.780650+08:00",
+  "total_titles_processed": 419,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 03时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 04时28分]"
         },
         {
           "title": "拳头游戏回应『英雄联盟 2』传闻，称其非续作但皮肤可继承，这是出于怎样的商业考量？",
@@ -24,11 +24,12 @@
           "source": "知乎",
           "ranks": [
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 03时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 04时28分]"
         }
       ]
     }
