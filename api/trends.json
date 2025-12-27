@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T12:36:38.517464+08:00",
-  "total_titles_processed": 848,
+  "generated_at": "2025-12-27T13:26:36.439516+08:00",
+  "total_titles_processed": 900,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            9
+            9,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时28分 ~ 12时36分]"
+          "appearance_count": 3,
+          "time_info": "[11时28分 ~ 13时26分]"
         },
         {
           "title": "IG战胜TES",
