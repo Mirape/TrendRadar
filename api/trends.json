@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T22:23:22.921472+08:00",
-  "total_titles_processed": 1469,
+  "generated_at": "2025-12-27T23:24:38.819073+08:00",
+  "total_titles_processed": 1514,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348465&amp;topic_name=TES%E9%81%87T1%E5%90%93%E5%B0%BF%2C%E5%B0%8F%E5%A5%B6%E6%B2%B9%E6%9B%BE%E6%80%92%E6%80%BC%E6%95%99%E7%BB%83",
           "source": "贴吧",
           "ranks": [
-            4
+            4,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时23分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时23分 ~ 23时24分]"
         },
         {
           "title": "马斯克转发粉丝“DogeDesigner”的帖子，声称Grok的日活跃用户在过去28天里增长了66.17%。",
