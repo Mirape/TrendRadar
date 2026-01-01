@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-01T13:32:23.524169+08:00",
-  "total_titles_processed": 978,
+  "generated_at": "2026-01-01T14:40:14.587853+08:00",
+  "total_titles_processed": 1032,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "T1祝大家新年快乐",
@@ -20,6 +20,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时22分 ~ 07时25分]"
+        },
+        {
+          "title": "IG法务出击,炫神败诉赔到破产",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348622&amp;topic_name=IG%E6%B3%95%E5%8A%A1%E5%87%BA%E5%87%BB%2C%E7%82%AB%E7%A5%9E%E8%B4%A5%E8%AF%89%E8%B5%94%E5%88%B0%E7%A0%B4%E4%BA%A7",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时39分 ~ 14时40分]"
         }
       ]
     }
