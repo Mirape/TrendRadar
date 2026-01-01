@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T16:35:43.606748+08:00",
-  "total_titles_processed": 1169,
+  "generated_at": "2026-01-01T17:31:22.812805+08:00",
+  "total_titles_processed": 1222,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             2,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时39分 ~ 16时35分]"
+          "appearance_count": 5,
+          "time_info": "[14时39分 ~ 17时31分]"
         },
         {
           "title": "T1祝大家新年快乐",
