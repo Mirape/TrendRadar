@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-01T22:24:57.681359+08:00",
-  "total_titles_processed": 1494,
+  "generated_at": "2026-01-01T23:27:22.734357+08:00",
+  "total_titles_processed": 1539,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "IG法务出击,炫神败诉赔到破产",
@@ -16,22 +16,24 @@
             3,
             5,
             7,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时39分 ~ 22时24分]"
+          "appearance_count": 12,
+          "time_info": "[14时39分 ~ 23时27分]"
         },
         {
           "title": "轻松碾压!IG零封LNG挺进决赛",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348629&amp;topic_name=%E8%BD%BB%E6%9D%BE%E7%A2%BE%E5%8E%8B%21IG%E9%9B%B6%E5%B0%81LNG%E6%8C%BA%E8%BF%9B%E5%86%B3%E8%B5%9B",
           "source": "贴吧",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时36分 ~ 22时24分]"
+          "appearance_count": 4,
+          "time_info": "[21时36分 ~ 23时27分]"
         },
         {
           "title": "T1祝大家新年快乐",
@@ -46,6 +48,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时22分 ~ 07时25分]"
+        },
+        {
+          "title": "IG战胜LNG",
+          "url": "https://www.douyin.com/hot/2354627",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
         },
         {
           "title": "iG战胜LNG",
