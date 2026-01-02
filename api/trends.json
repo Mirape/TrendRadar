@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T21:36:44.124771+08:00",
-  "total_titles_processed": 1492,
+  "generated_at": "2026-01-02T22:26:35.911493+08:00",
+  "total_titles_processed": 1565,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             11,
             12,
             14,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时33分 ~ 21时36分]"
+          "appearance_count": 24,
+          "time_info": "[00时33分 ~ 22时26分]"
         },
         {
           "title": "IG法务出击,炫神败诉赔到破产",
@@ -33,11 +34,12 @@
             13,
             14,
             16,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时33分 ~ 21时36分]"
+          "appearance_count": 24,
+          "time_info": "[00时33分 ~ 22时26分]"
         },
         {
           "title": "IG战胜LNG",
