@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-04T01:21:59.575210+08:00",
-  "total_titles_processed": 388,
+  "generated_at": "2026-01-04T02:35:04.481536+08:00",
+  "total_titles_processed": 467,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 02时35分]"
         },
         {
           "title": "IG夺得德杯冠军",
           "url": "https://search.bilibili.com/all?keyword=IG%E5%A4%BA%E5%BE%97%E5%BE%B7%E6%9D%AF%E5%86%A0%E5%86%9B",
           "source": "bilibili 热搜",
           "ranks": [
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 02时35分]"
         },
         {
           "title": "IG法务出击,炫神败诉赔到破产",
@@ -37,8 +38,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 02时35分]"
         },
         {
           "title": "委内瑞拉反对派领导人Maria Machado声称：“人民主权”（Popular sovereignty）已经到来。 Edmundo Gonzalez应当“立即”掌权，委内瑞拉武装力量应当对这样的结果予以承认。 我们已准备好履行“使命”并接管权力。 反对派将给委内瑞拉“带来秩序”。",
@@ -58,7 +59,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
         },
