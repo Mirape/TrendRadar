@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-04T00:31:24.278995+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-04T01:21:59.575210+08:00",
+  "total_titles_processed": 388,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "Wei哥超神,iG零封JDG夺冠",
@@ -15,8 +15,30 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时21分]"
+        },
+        {
+          "title": "IG夺得德杯冠军",
+          "url": "https://search.bilibili.com/all?keyword=IG%E5%A4%BA%E5%BE%97%E5%BE%B7%E6%9D%AF%E5%86%A0%E5%86%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时21分]"
+        },
+        {
+          "title": "IG法务出击,炫神败诉赔到破产",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348622&amp;topic_name=IG%E6%B3%95%E5%8A%A1%E5%87%BA%E5%87%BB%2C%E7%82%AB%E7%A5%9E%E8%B4%A5%E8%AF%89%E8%B5%94%E5%88%B0%E7%A0%B4%E4%BA%A7",
+          "source": "贴吧",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时21分]"
         },
         {
           "title": "委内瑞拉反对派领导人Maria Machado声称：“人民主权”（Popular sovereignty）已经到来。 Edmundo Gonzalez应当“立即”掌权，委内瑞拉武装力量应当对这样的结果予以承认。 我们已准备好履行“使命”并接管权力。 反对派将给委内瑞拉“带来秩序”。",
@@ -30,26 +52,15 @@
           "time_info": "00时31分"
         },
         {
-          "title": "IG夺得德杯冠军",
-          "url": "https://search.bilibili.com/all?keyword=IG%E5%A4%BA%E5%BE%97%E5%BE%B7%E6%9D%AF%E5%86%A0%E5%86%9B",
-          "source": "bilibili 热搜",
+          "title": "Telesur：委内瑞拉副总统Rodriguez仍然在国内。",
+          "url": "https://wallstreetcn.com/livenews/3030111",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            20
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时31分"
-        },
-        {
-          "title": "IG法务出击,炫神败诉赔到破产",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348622&amp;topic_name=IG%E6%B3%95%E5%8A%A1%E5%87%BA%E5%87%BB%2C%E7%82%AB%E7%A5%9E%E8%B4%A5%E8%AF%89%E8%B5%94%E5%88%B0%E7%A0%B4%E4%BA%A7",
-          "source": "贴吧",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "time_info": "01时21分"
         },
         {
           "title": "俄罗斯称，有关委内瑞拉副总统Delcy Rodriguez目前身在俄罗斯的报道不实。",
