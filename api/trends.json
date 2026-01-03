@@ -1,148 +1,77 @@
 {
-  "generated_at": "2026-01-03T23:24:44.617549+08:00",
-  "total_titles_processed": 1574,
+  "generated_at": "2026-01-04T00:31:24.278995+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 11,
+      "match_count": 6,
       "titles": [
-        {
-          "title": "轻松碾压!IG零封LNG挺进决赛",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348629&amp;topic_name=%E8%BD%BB%E6%9D%BE%E7%A2%BE%E5%8E%8B%21IG%E9%9B%B6%E5%B0%81LNG%E6%8C%BA%E8%BF%9B%E5%86%B3%E8%B5%9B",
-          "source": "贴吧",
-          "ranks": [
-            17,
-            18,
-            20,
-            21,
-            22,
-            23,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时31分 ~ 20时49分]"
-        },
-        {
-          "title": "IG法务出击,炫神败诉赔到破产",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348622&amp;topic_name=IG%E6%B3%95%E5%8A%A1%E5%87%BA%E5%87%BB%2C%E7%82%AB%E7%A5%9E%E8%B4%A5%E8%AF%89%E8%B5%94%E5%88%B0%E7%A0%B4%E4%BA%A7",
-          "source": "贴吧",
-          "ranks": [
-            19,
-            20,
-            22,
-            23,
-            24,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时31分 ~ 23时24分]"
-        },
         {
           "title": "Wei哥超神,iG零封JDG夺冠",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348654&amp;topic_name=Wei%E5%93%A5%E8%B6%85%E7%A5%9E%2CiG%E9%9B%B6%E5%B0%81JDG%E5%A4%BA%E5%86%A0",
           "source": "贴吧",
           "ranks": [
-            3,
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时49分 ~ 23时24分]"
+          "appearance_count": 1,
+          "time_info": "00时31分"
         },
         {
-          "title": "根据实时航班追踪器FlightRadar24信息，整个美国空军几乎关闭了所有飞行跟踪应答器。",
-          "url": "https://flash.jin10.com/detail/20260103151507333800",
-          "source": "金十数据",
+          "title": "委内瑞拉反对派领导人Maria Machado声称：“人民主权”（Popular sovereignty）已经到来。 Edmundo Gonzalez应当“立即”掌权，委内瑞拉武装力量应当对这样的结果予以承认。 我们已准备好履行“使命”并接管权力。 反对派将给委内瑞拉“带来秩序”。",
+          "url": "https://wallstreetcn.com/livenews/3030097",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
-            20
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时23分 ~ 16时32分]"
+          "appearance_count": 1,
+          "time_info": "00时31分"
         },
         {
           "title": "IG夺得德杯冠军",
           "url": "https://search.bilibili.com/all?keyword=IG%E5%A4%BA%E5%BE%97%E5%BE%B7%E6%9D%AF%E5%86%A0%E5%86%9B",
           "source": "bilibili 热搜",
           "ranks": [
-            12,
-            13,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时32分 ~ 23时24分]"
-        },
-        {
-          "title": "Flightradar24：目前没有追踪到任何飞越委内瑞拉的飞机",
-          "url": "https://flash.jin10.com/detail/20260103150844891800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时23分 ~ 16时32分]"
-        },
-        {
-          "title": "iG夺得德杯冠军",
-          "url": "https://s.weibo.com/weibo?q=%23iG%E5%A4%BA%E5%BE%97%E5%BE%B7%E6%9D%AF%E5%86%A0%E5%86%9B%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时49分 ~ 21时32分]"
+          "appearance_count": 1,
+          "time_info": "00时31分"
         },
         {
-          "title": "云南BIGBANG湖州正片来了",
-          "url": "https://www.douyin.com/hot/2355172",
-          "source": "抖音",
+          "title": "IG法务出击,炫神败诉赔到破产",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348622&amp;topic_name=IG%E6%B3%95%E5%8A%A1%E5%87%BA%E5%87%BB%2C%E7%82%AB%E7%A5%9E%E8%B4%A5%E8%AF%89%E8%B5%94%E5%88%B0%E7%A0%B4%E4%BA%A7",
+          "source": "贴吧",
           "ranks": [
-            21
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时55分 ~ 09时56分]"
+          "appearance_count": 1,
+          "time_info": "00时31分"
         },
         {
           "title": "俄罗斯称，有关委内瑞拉副总统Delcy Rodriguez目前身在俄罗斯的报道不实。",
           "url": "https://wallstreetcn.com/livenews/3030081",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时24分"
+          "time_info": "00时31分"
         },
         {
           "title": "俄罗斯外长拉夫罗夫与委内瑞拉副总统Delcy Rodriguez通电话。",
           "url": "https://wallstreetcn.com/livenews/3030078",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时24分"
-        },
-        {
-          "title": "委内瑞拉副总统Delcy Rodriguez目前身在俄罗斯。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3030067",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时24分"
+          "time_info": "00时31分"
         }
       ]
     }
