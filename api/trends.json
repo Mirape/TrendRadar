@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-03T17:26:10.174775+08:00",
-  "total_titles_processed": 1081,
+  "generated_at": "2026-01-03T18:26:32.192273+08:00",
+  "total_titles_processed": 1182,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             18,
             20,
             21,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时31分 ~ 17时26分]"
+          "appearance_count": 24,
+          "time_info": "[00时31分 ~ 18时26分]"
         },
         {
           "title": "IG法务出击,炫神败诉赔到破产",
@@ -31,11 +32,12 @@
             20,
             22,
             23,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时31分 ~ 17时26分]"
+          "appearance_count": 24,
+          "time_info": "[00时31分 ~ 18时26分]"
         },
         {
           "title": "根据实时航班追踪器FlightRadar24信息，整个美国空军几乎关闭了所有飞行跟踪应答器。",
