@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-04T20:50:44.651522+08:00",
-  "total_titles_processed": 1407,
+  "generated_at": "2026-01-04T21:33:25.538276+08:00",
+  "total_titles_processed": 1463,
   "failed_sources": [],
   "trends": [
     {
@@ -21,11 +21,27 @@
             15,
             16,
             17,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时31分 ~ 20时50分]"
+          "appearance_count": 26,
+          "time_info": "[00时31分 ~ 21时33分]"
+        },
+        {
+          "title": "深度解析IG零封JDG夺德杯冠军",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90IG%E9%9B%B6%E5%B0%81JDG%E5%A4%BA%E5%BE%B7%E6%9D%AF%E5%86%A0%E5%86%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            7,
+            9,
+            14,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时38分 ~ 21时33分]"
         },
         {
           "title": "IG夺得德杯冠军",
@@ -60,20 +76,6 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时31分 ~ 14时38分]"
-        },
-        {
-          "title": "深度解析IG零封JDG夺德杯冠军",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90IG%E9%9B%B6%E5%B0%81JDG%E5%A4%BA%E5%BE%B7%E6%9D%AF%E5%86%A0%E5%86%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            7,
-            9,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时38分 ~ 20时50分]"
         },
         {
           "title": "委内瑞拉副总统Delcy Rodriguez在国家电视台表示：我们要求（特朗普政府）立即释放总统马杜罗。 我们永远都不会再沦为殖民地。",
