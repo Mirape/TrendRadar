@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-04T17:25:03.560578+08:00",
-  "total_titles_processed": 1194,
+  "generated_at": "2026-01-04T18:25:38.022784+08:00",
+  "total_titles_processed": 1251,
   "failed_sources": [],
   "trends": [
     {
@@ -19,11 +19,12 @@
             10,
             12,
             15,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时31分 ~ 17时25分]"
+          "appearance_count": 23,
+          "time_info": "[00时31分 ~ 18时25分]"
         },
         {
           "title": "IG夺得德杯冠军",
