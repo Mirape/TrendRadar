@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-04T13:31:12.379851+08:00",
-  "total_titles_processed": 954,
+  "generated_at": "2026-01-04T14:38:31.069725+08:00",
+  "total_titles_processed": 1017,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "Wei哥超神,iG零封JDG夺冠",
@@ -15,11 +15,12 @@
             4,
             3,
             7,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时31分 ~ 13时31分]"
+          "appearance_count": 17,
+          "time_info": "[00时31分 ~ 14时38分]"
         },
         {
           "title": "IG夺得德杯冠军",
@@ -32,11 +33,12 @@
             14,
             29,
             19,
-            20
+            20,
+            30
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时31分 ~ 13时31分]"
+          "appearance_count": 17,
+          "time_info": "[00时31分 ~ 14时38分]"
         },
         {
           "title": "IG法务出击,炫神败诉赔到破产",
@@ -46,11 +48,12 @@
             23,
             22,
             27,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时31分 ~ 13时31分]"
+          "appearance_count": 17,
+          "time_info": "[00时31分 ~ 14时38分]"
         },
         {
           "title": "委内瑞拉副总统Delcy Rodriguez在国家电视台表示：我们要求（特朗普政府）立即释放总统马杜罗。 我们永远都不会再沦为殖民地。",
@@ -75,6 +78,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时28分 ~ 07时24分]"
+        },
+        {
+          "title": "深度解析IG零封JDG夺德杯冠军",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90IG%E9%9B%B6%E5%B0%81JDG%E5%A4%BA%E5%BE%B7%E6%9D%AF%E5%86%A0%E5%86%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
         },
         {
           "title": "委内瑞拉反对派领导人Maria Machado声称：“人民主权”（Popular sovereignty）已经到来。 Edmundo Gonzalez应当“立即”掌权，委内瑞拉武装力量应当对这样的结果予以承认。 我们已准备好履行“使命”并接管权力。 反对派将给委内瑞拉“带来秩序”。",
