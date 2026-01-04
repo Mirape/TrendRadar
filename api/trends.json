@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-04T16:34:12.666602+08:00",
-  "total_titles_processed": 1136,
+  "generated_at": "2026-01-04T17:25:03.560578+08:00",
+  "total_titles_processed": 1194,
   "failed_sources": [],
   "trends": [
     {
@@ -18,11 +18,12 @@
             9,
             10,
             12,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时31分 ~ 16时34分]"
+          "appearance_count": 22,
+          "time_info": "[00时31分 ~ 17时25分]"
         },
         {
           "title": "IG夺得德杯冠军",
@@ -40,8 +41,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时31分 ~ 16时34分]"
+          "appearance_count": 21,
+          "time_info": "[00时31分 ~ 17时25分]"
         },
         {
           "title": "IG法务出击,炫神败诉赔到破产",
@@ -57,6 +58,19 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时31分 ~ 14时38分]"
+        },
+        {
+          "title": "深度解析IG零封JDG夺德杯冠军",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90IG%E9%9B%B6%E5%B0%81JDG%E5%A4%BA%E5%BE%B7%E6%9D%AF%E5%86%A0%E5%86%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时38分 ~ 17时25分]"
         },
         {
           "title": "委内瑞拉副总统Delcy Rodriguez在国家电视台表示：我们要求（特朗普政府）立即释放总统马杜罗。 我们永远都不会再沦为殖民地。",
@@ -83,27 +97,16 @@
           "time_info": "[04时28分 ~ 07时24分]"
         },
         {
-          "title": "深度解析IG零封JDG夺德杯冠军",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90IG%E9%9B%B6%E5%B0%81JDG%E5%A4%BA%E5%BE%B7%E6%9D%AF%E5%86%A0%E5%86%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时38分 ~ 16时34分]"
-        },
-        {
           "title": "《英雄联盟》有没有绝对 counter 的对线情况？",
           "url": "https://www.zhihu.com/question/400835646",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时33分 ~ 16时34分]"
+          "appearance_count": 4,
+          "time_info": "[16时33分 ~ 17时25分]"
         },
         {
           "title": "委内瑞拉反对派领导人Maria Machado声称：“人民主权”（Popular sovereignty）已经到来。 Edmundo Gonzalez应当“立即”掌权，委内瑞拉武装力量应当对这样的结果予以承认。 我们已准备好履行“使命”并接管权力。 反对派将给委内瑞拉“带来秩序”。",
