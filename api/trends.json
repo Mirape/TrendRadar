@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-04T15:26:26.687519+08:00",
-  "total_titles_processed": 1069,
+  "generated_at": "2026-01-04T16:34:12.666602+08:00",
+  "total_titles_processed": 1136,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "Wei哥超神,iG零封JDG夺冠",
@@ -17,11 +17,12 @@
             7,
             9,
             10,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时31分 ~ 15时26分]"
+          "appearance_count": 20,
+          "time_info": "[00时31分 ~ 16时34分]"
         },
         {
           "title": "IG夺得德杯冠军",
@@ -35,11 +36,12 @@
             29,
             19,
             20,
-            30
+            30,
+            27
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时31分 ~ 14时38分]"
+          "appearance_count": 19,
+          "time_info": "[00时31分 ~ 16时34分]"
         },
         {
           "title": "IG法务出击,炫神败诉赔到破产",
@@ -89,8 +91,19 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时38分 ~ 16时34分]"
+        },
+        {
+          "title": "《英雄联盟》有没有绝对 counter 的对线情况？",
+          "url": "https://www.zhihu.com/question/400835646",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时38分 ~ 15时26分]"
+          "time_info": "[16时33分 ~ 16时34分]"
         },
         {
           "title": "委内瑞拉反对派领导人Maria Machado声称：“人民主权”（Popular sovereignty）已经到来。 Edmundo Gonzalez应当“立即”掌权，委内瑞拉武装力量应当对这样的结果予以承认。 我们已准备好履行“使命”并接管权力。 反对派将给委内瑞拉“带来秩序”。",
