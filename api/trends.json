@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-04T19:20:54.240235+08:00",
-  "total_titles_processed": 1302,
+  "generated_at": "2026-01-04T20:50:44.651522+08:00",
+  "total_titles_processed": 1407,
   "failed_sources": [],
   "trends": [
     {
@@ -24,8 +24,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时31分 ~ 19时20分]"
+          "appearance_count": 25,
+          "time_info": "[00时31分 ~ 20时50分]"
         },
         {
           "title": "IG夺得德杯冠军",
@@ -68,11 +68,12 @@
           "ranks": [
             8,
             7,
-            9
+            9,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时38分 ~ 19时20分]"
+          "appearance_count": 8,
+          "time_info": "[14时38分 ~ 20时50分]"
         },
         {
           "title": "委内瑞拉副总统Delcy Rodriguez在国家电视台表示：我们要求（特朗普政府）立即释放总统马杜罗。 我们永远都不会再沦为殖民地。",
