@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-06T05:26:23.723351+08:00",
-  "total_titles_processed": 578,
+  "generated_at": "2026-01-06T06:26:15.990573+08:00",
+  "total_titles_processed": 627,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             2,
-            1
+            1,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时33分 ~ 05时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 06时26分]"
         },
         {
           "title": "瑞士销售30亿美元AT1，获得投资者超过210亿美元认购。",
