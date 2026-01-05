@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-01-05T22:29:51.217457+08:00",
-  "total_titles_processed": 1821,
+  "generated_at": "2026-01-05T23:30:00.009138+08:00",
+  "total_titles_processed": 1909,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
       "match_count": 11,
       "titles": [
+        {
+          "title": "如何看待《英雄联盟》1 月 5 日疑似因 SSL 证书到期导致全球玩家无法登录？SSL 证书是什么？",
+          "url": "https://www.zhihu.com/question/1991452361722439018",
+          "source": "知乎",
+          "ranks": [
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时37分 ~ 23时29分]"
+        },
         {
           "title": "深度解析IG零封JDG夺德杯冠军",
           "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90IG%E9%9B%B6%E5%B0%81JDG%E5%A4%BA%E5%BE%B7%E6%9D%AF%E5%86%A0%E5%86%9B",
@@ -19,19 +32,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时30分 ~ 07时25分]"
-        },
-        {
-          "title": "如何看待《英雄联盟》1 月 5 日疑似因 SSL 证书到期导致全球玩家无法登录？SSL 证书是什么？",
-          "url": "https://www.zhihu.com/question/1991452361722439018",
-          "source": "知乎",
-          "ranks": [
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时37分 ~ 22时29分]"
         },
         {
           "title": "美国国务卿卢比奥：预计美国石油企业对（投资）委内瑞拉的兴趣较高。 预计委内瑞拉民众将从（美国）石油行业获得石油开采特许权使用费。 （美国）能源部长Wright和内政部长Burgum将对（多家美国）石油公司讲话。",
