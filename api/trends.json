@@ -1,34 +1,22 @@
 {
-  "generated_at": "2026-01-07T23:31:44.850969+08:00",
-  "total_titles_processed": 2128,
+  "generated_at": "2026-01-08T00:36:49.510310+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "全面解读英雄联盟S16新版本",
           "url": "https://search.bilibili.com/all?keyword=%E5%85%A8%E9%9D%A2%E8%A7%A3%E8%AF%BB%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9FS16%E6%96%B0%E7%89%88%E6%9C%AC",
           "source": "bilibili 热搜",
           "ranks": [
-            16,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时43分 ~ 23时31分]"
-        },
-        {
-          "title": "美国能源部长Wright：委内瑞拉石油销售收入将进入美国账户。 石油销售所得将“造福”委内瑞拉民众。",
-          "url": "https://wallstreetcn.com/livenews/3032513",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时29分"
+          "time_info": "00时36分"
         }
       ]
     }
