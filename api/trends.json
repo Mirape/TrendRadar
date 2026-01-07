@@ -1,22 +1,34 @@
 {
-  "generated_at": "2026-01-08T00:36:49.510310+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-01-08T01:31:31.951090+08:00",
+  "total_titles_processed": 387,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "全面解读英雄联盟S16新版本",
           "url": "https://search.bilibili.com/all?keyword=%E5%85%A8%E9%9D%A2%E8%A7%A3%E8%AF%BB%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9FS16%E6%96%B0%E7%89%88%E6%9C%AC",
           "source": "bilibili 热搜",
           "ranks": [
-            18
+            18,
+            28
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 01时31分]"
+        },
+        {
+          "title": "digi 解散",
+          "url": "https://s.weibo.com/weibo?q=digi%20%E8%A7%A3%E6%95%A3&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时36分"
+          "time_info": "01时31分"
         }
       ]
     }
