@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-01-08T18:31:31.439436+08:00",
-  "total_titles_processed": 1659,
+  "generated_at": "2026-01-08T19:26:07.723972+08:00",
+  "total_titles_processed": 1749,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "英雄联盟S16赛季CG",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9FS16%E8%B5%9B%E5%AD%A3CG",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            13,
+            12,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时03分 ~ 19时26分]"
+        },
         {
           "title": "全面解读英雄联盟S16新版本",
           "url": "https://search.bilibili.com/all?keyword=%E5%85%A8%E9%9D%A2%E8%A7%A3%E8%AF%BB%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9FS16%E6%96%B0%E7%89%88%E6%9C%AC",
@@ -19,25 +33,12 @@
             14,
             16,
             17,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时36分 ~ 18时31分]"
-        },
-        {
-          "title": "英雄联盟S16赛季CG",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9FS16%E8%B5%9B%E5%AD%A3CG",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            13,
-            12,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时03分 ~ 18时31分]"
+          "appearance_count": 15,
+          "time_info": "[00时36分 ~ 19时26分]"
         },
         {
           "title": "美国能源部长Wright：（美国石油行业）对委内瑞拉投资的兴趣“非常庞大”。",
@@ -49,6 +50,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时26分"
+        },
+        {
+          "title": "派瑞股份：与某供应商及其关联方签署采购相关协议，约定公司在协议期限内向某供应商及其关联方采购IGBT芯片及相关服务，旨在拓展公司高压直流输电领域业务。根据采购框架协议，公司于2026及2027年度不可撤销的原材料及相关服务订单采购金额约1.74亿元人民币；2028、2029及2030年度预测供货总量合计金额约为人民币13~14亿元。",
+          "url": "https://wallstreetcn.com/livenews/3033263",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
         },
         {
           "title": "贝森特、卢特尼克、Wright、Greer、Sacks和Witkoff将随同特朗普参加达沃斯论坛。（Semafor）",
