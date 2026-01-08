@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-08T17:33:50.273104+08:00",
-  "total_titles_processed": 1558,
+  "generated_at": "2026-01-08T18:31:31.439436+08:00",
+  "total_titles_processed": 1659,
   "failed_sources": [],
   "trends": [
     {
@@ -22,8 +22,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时36分 ~ 17时33分]"
+          "appearance_count": 13,
+          "time_info": "[00时36分 ~ 18时31分]"
         },
         {
           "title": "英雄联盟S16赛季CG",
@@ -32,11 +32,12 @@
           "ranks": [
             11,
             13,
-            12
+            12,
+            30
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时03分 ~ 17时33分]"
+          "appearance_count": 8,
+          "time_info": "[12时03分 ~ 18时31分]"
         },
         {
           "title": "美国能源部长Wright：（美国石油行业）对委内瑞拉投资的兴趣“非常庞大”。",
