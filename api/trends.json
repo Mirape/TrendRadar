@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-08T20:55:43.684429+08:00",
-  "total_titles_processed": 1870,
+  "generated_at": "2026-01-08T21:44:29.808613+08:00",
+  "total_titles_processed": 1957,
   "failed_sources": [],
   "trends": [
     {
@@ -76,6 +76,17 @@
           "time_info": "07时25分"
         },
         {
+          "title": "英雄联盟新赛季CG",
+          "url": "https://www.douyin.com/hot/2361018",
+          "source": "抖音",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时55分 ~ 21时44分]"
+        },
+        {
           "title": "美国能源部长Chris Wright声称：美国并没有攫取委内瑞拉的石油。 美方只是要控制（委内瑞拉石油出口产生的）资金流动。 美国将利用委内瑞拉石油所得来解决委国的经济。",
           "url": "https://wallstreetcn.com/livenews/3032662",
           "source": "华尔街见闻-快讯",
@@ -93,18 +104,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时55分"
-        },
-        {
-          "title": "英雄联盟新赛季CG",
-          "url": "https://www.douyin.com/hot/2361018",
-          "source": "抖音",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时55分"
         },
