@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-09T12:04:27.012674+08:00",
-  "total_titles_processed": 1020,
+  "generated_at": "2026-01-09T13:31:39.471697+08:00",
+  "total_titles_processed": 1135,
   "failed_sources": [],
   "trends": [
     {
@@ -56,11 +56,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             27,
-            29
+            29,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时04分 ~ 12时04分]"
+          "appearance_count": 3,
+          "time_info": "[10时04分 ~ 13时31分]"
         },
         {
           "title": "最准外汇预测家、Prestige Economics总裁Jason Schenker，鉴于美联储今年前六个月将降息两次，美元将走弱。 Schenker在彭博对主要外汇对预测的评比中连续三个季度力压群雄。 他预计，随着美国经济复苏，美元将在下半年反弹。 他还说：“大宗商品货币今年可能会走强”，比如澳元、卢布、墨西哥比索和巴西雷亚尔。",
