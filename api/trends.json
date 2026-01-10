@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T17:26:03.524469+08:00",
-  "total_titles_processed": 1316,
+  "generated_at": "2026-01-10T18:25:47.794404+08:00",
+  "total_titles_processed": 1368,
   "failed_sources": [],
   "trends": [
     {
@@ -18,6 +18,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时25分 ~ 10时00分]"
+        },
+        {
+          "title": "T1六冠纪录片",
+          "url": "https://search.bilibili.com/all?keyword=T1%E5%85%AD%E5%86%A0%E7%BA%AA%E5%BD%95%E7%89%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时25分 ~ 18时25分]"
         },
         {
           "title": "美国总统特朗普：今天的石油会议主要讨论关于委内瑞拉的（投资）问题。 能源部长Wright和Burgum下周将会见其他的石油公司。",
@@ -42,17 +54,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时25分 ~ 10时00分]"
-        },
-        {
-          "title": "T1六冠纪录片",
-          "url": "https://search.bilibili.com/all?keyword=T1%E5%85%AD%E5%86%A0%E7%BA%AA%E5%BD%95%E7%89%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时25分 ~ 17时26分]"
         },
         {
           "title": "Trafigura公司CEO在美国白宫会议上宣称：（计划）装载委内瑞拉石油的第一批轮船下周装货。",
