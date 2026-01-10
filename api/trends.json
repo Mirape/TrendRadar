@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T18:25:47.794404+08:00",
-  "total_titles_processed": 1368,
+  "generated_at": "2026-01-10T19:21:42.319478+08:00",
+  "total_titles_processed": 1421,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             9,
-            18
+            18,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时25分 ~ 18时25分]"
+          "appearance_count": 4,
+          "time_info": "[17时25分 ~ 19时21分]"
         },
         {
           "title": "美国总统特朗普：今天的石油会议主要讨论关于委内瑞拉的（投资）问题。 能源部长Wright和Burgum下周将会见其他的石油公司。",
