@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-01-11T23:25:23.781116+08:00",
-  "total_titles_processed": 1408,
+  "generated_at": "2026-01-12T00:31:36.367349+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "如何看待《英雄联盟》韩服出现神秘玩家，疑似马斯克的 AI（Grok），两天时间 93% 胜率杀进前三？",
-          "url": "https://www.zhihu.com/question/1993676340092691102",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时26分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://github.com/Mirape/TrendRadar/img/news.jpg"
 }
