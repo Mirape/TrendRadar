@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-12T18:31:59.481691+08:00",
-  "total_titles_processed": 1364,
+  "generated_at": "2026-01-12T19:26:15.779978+08:00",
+  "total_titles_processed": 1461,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "正探索延伸至AI漫剧新赛道 AIGC概念股录得6天3板 本周机构密集调研相关上市公司",
@@ -19,6 +19,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时08分 ~ 15时32分]"
+        },
+        {
+          "title": "WTT1000+冠军榜更新",
+          "url": "https://www.toutiao.com/trending/7594326775356375103/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时25分 ~ 19时26分]"
         }
       ]
     }
