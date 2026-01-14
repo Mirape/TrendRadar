@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T19:26:57.638423+08:00",
-  "total_titles_processed": 1747,
+  "generated_at": "2026-01-14T20:57:06.868511+08:00",
+  "total_titles_processed": 1874,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "WBG vs IG LPL揭幕战",
@@ -19,13 +19,46 @@
           "time_info": "[17时34分 ~ 19时26分]"
         },
         {
+          "title": "WBG战胜IG",
+          "url": "https://search.bilibili.com/all?keyword=WBG%20IG",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时56分 ~ 20时57分]"
+        },
+        {
+          "title": "WBG力克iG拿下开门红",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349156&amp;topic_name=WBG%E5%8A%9B%E5%85%8BiG%E6%8B%BF%E4%B8%8B%E5%BC%80%E9%97%A8%E7%BA%A2",
+          "source": "贴吧",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时56分 ~ 20时57分]"
+        },
+        {
+          "title": "WBG战胜iG",
+          "url": "https://s.weibo.com/weibo?q=%23WBG%E6%88%98%E8%83%9CiG%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时56分 ~ 20时57分]"
+        },
+        {
           "title": "德杯黑马发力,IG斩落WBG",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349156&amp;topic_name=%E5%BE%B7%E6%9D%AF%E9%BB%91%E9%A9%AC%E5%8F%91%E5%8A%9B%2CIG%E6%96%A9%E8%90%BDWBG",
           "source": "贴吧",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时26分"
         },
