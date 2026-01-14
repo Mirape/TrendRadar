@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T21:44:59.666981+08:00",
-  "total_titles_processed": 1999,
+  "generated_at": "2026-01-14T22:31:37.127933+08:00",
+  "total_titles_processed": 2089,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时56分 ~ 21时44分]"
+          "appearance_count": 4,
+          "time_info": "[20时56分 ~ 22时31分]"
         },
         {
           "title": "WBG战胜IG",
@@ -38,8 +38,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时56分 ~ 21时44分]"
+          "appearance_count": 4,
+          "time_info": "[20时56分 ~ 22时31分]"
+        },
+        {
+          "title": "WBG 2-1 IG 赛后雷达图",
+          "url": "https://search.bilibili.com/all?keyword=WBG%202-1%20IG%20%E8%B5%9B%E5%90%8E%E9%9B%B7%E8%BE%BE%E5%9B%BE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时44分 ~ 22时31分]"
         },
         {
           "title": "WBG战胜iG",
@@ -62,17 +73,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时26分"
-        },
-        {
-          "title": "WBG 2-1 IG 赛后雷达图",
-          "url": "https://search.bilibili.com/all?keyword=WBG%202-1%20IG%20%E8%B5%9B%E5%90%8E%E9%9B%B7%E8%BE%BE%E5%9B%BE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时44分"
         },
         {
           "title": "WBG对战iG",
