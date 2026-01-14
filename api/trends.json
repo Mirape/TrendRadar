@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-15T02:40:02.083162+08:00",
-  "total_titles_processed": 456,
+  "generated_at": "2026-01-15T03:24:07.539032+08:00",
+  "total_titles_processed": 511,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时37分 ~ 02时40分]"
+          "appearance_count": 6,
+          "time_info": "[00时37分 ~ 03时24分]"
         },
         {
           "title": "WBG力克iG拿下开门红",
@@ -27,8 +27,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时37分 ~ 02时40分]"
+          "appearance_count": 6,
+          "time_info": "[00时37分 ~ 03时24分]"
         },
         {
           "title": "WBG战胜IG",
@@ -37,11 +37,12 @@
           "ranks": [
             13,
             15,
-            10
+            10,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时37分 ~ 02时40分]"
+          "appearance_count": 6,
+          "time_info": "[00时37分 ~ 03时24分]"
         },
         {
           "title": "LPL2026 赛季第一赛段组内赛 WBG 2:1 iG，如何评价这场比赛？",
@@ -51,8 +52,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时39分 ~ 02时40分]"
+          "appearance_count": 4,
+          "time_info": "[02时39分 ~ 03时24分]"
         },
         {
           "title": "WBG对战IG",
