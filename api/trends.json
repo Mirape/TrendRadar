@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-15T04:27:01.878597+08:00",
-  "total_titles_processed": 558,
+  "generated_at": "2026-01-15T05:27:28.560942+08:00",
+  "total_titles_processed": 623,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时37分 ~ 04时27分]"
+          "appearance_count": 9,
+          "time_info": "[00时37分 ~ 05时27分]"
         },
         {
           "title": "WBG力克iG拿下开门红",
@@ -27,8 +27,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时37分 ~ 04时27分]"
+          "appearance_count": 9,
+          "time_info": "[00时37分 ~ 05时27分]"
         },
         {
           "title": "WBG战胜IG",
@@ -39,11 +39,12 @@
             15,
             10,
             17,
-            14
+            14,
+            23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时37分 ~ 04时27分]"
+          "appearance_count": 9,
+          "time_info": "[00时37分 ~ 05时27分]"
         },
         {
           "title": "LPL2026 赛季第一赛段组内赛 WBG 2:1 iG，如何评价这场比赛？",
@@ -51,11 +52,12 @@
           "source": "知乎",
           "ranks": [
             20,
-            18
+            18,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时39分 ~ 04时27分]"
+          "appearance_count": 7,
+          "time_info": "[02时39分 ~ 05时27分]"
         },
         {
           "title": "据实时航班追踪器FlightRadar24，德国当局发布了新的航行通告，警告德国航空公司谨慎进入伊朗领空。",
@@ -64,7 +66,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
         },
