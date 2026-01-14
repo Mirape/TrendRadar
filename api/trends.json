@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T03:24:07.539032+08:00",
-  "total_titles_processed": 511,
+  "generated_at": "2026-01-15T04:27:01.878597+08:00",
+  "total_titles_processed": 558,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "WBG 2-1 IG 赛后雷达图",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 03时24分]"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 04时27分]"
         },
         {
           "title": "WBG力克iG拿下开门红",
@@ -27,8 +27,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 03时24分]"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 04时27分]"
         },
         {
           "title": "WBG战胜IG",
@@ -38,22 +38,35 @@
             13,
             15,
             10,
-            17
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 03时24分]"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 04时27分]"
         },
         {
           "title": "LPL2026 赛季第一赛段组内赛 WBG 2:1 iG，如何评价这场比赛？",
           "url": "https://www.zhihu.com/question/1994803522118648286",
           "source": "知乎",
           "ranks": [
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时39分 ~ 03时24分]"
+          "appearance_count": 6,
+          "time_info": "[02时39分 ~ 04时27分]"
+        },
+        {
+          "title": "据实时航班追踪器FlightRadar24，德国当局发布了新的航行通告，警告德国航空公司谨慎进入伊朗领空。",
+          "url": "https://flash.jin10.com/detail/20260115035253506800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时27分"
         },
         {
           "title": "WBG对战IG",
