@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-16T06:27:25.368139+08:00",
-  "total_titles_processed": 623,
+  "generated_at": "2026-01-16T07:27:11.253193+08:00",
+  "total_titles_processed": 679,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 06时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时40分 ~ 07时27分]"
         },
         {
           "title": "AL轻取iG,德杯冠军亦有差距",
@@ -27,8 +27,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 06时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时40分 ~ 07时27分]"
+        },
+        {
+          "title": "WBG力克iG拿下开门红",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349156&amp;topic_name=WBG%E5%8A%9B%E5%85%8BiG%E6%8B%BF%E4%B8%8B%E5%BC%80%E9%97%A8%E7%BA%A2",
+          "source": "贴吧",
+          "ranks": [
+            23,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时40分 ~ 07时27分]"
         },
         {
           "title": "AL战胜IG",
@@ -39,18 +51,6 @@
             15,
             4,
             7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 06时27分]"
-        },
-        {
-          "title": "WBG力克iG拿下开门红",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349156&amp;topic_name=WBG%E5%8A%9B%E5%85%8BiG%E6%8B%BF%E4%B8%8B%E5%BC%80%E9%97%A8%E7%BA%A2",
-          "source": "贴吧",
-          "ranks": [
-            23,
-            24
           ],
           "is_new": false,
           "appearance_count": 8,
