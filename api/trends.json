@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-15T15:30:42.518580+08:00",
-  "total_titles_processed": 1382,
+  "generated_at": "2026-01-15T16:37:32.572942+08:00",
+  "total_titles_processed": 1492,
   "failed_sources": [],
   "trends": [
     {
@@ -30,11 +30,12 @@
             7,
             12,
             13,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时37分 ~ 15时30分]"
+          "appearance_count": 21,
+          "time_info": "[00时37分 ~ 16时37分]"
         },
         {
           "title": "LPL2026 赛季第一赛段组内赛 WBG 2:1 iG，如何评价这场比赛？",
@@ -74,8 +75,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时29分 ~ 15时30分]"
+          "appearance_count": 3,
+          "time_info": "[15时29分 ~ 16时37分]"
         },
         {
           "title": "委内瑞拉代理总统Rodriguez：与美国总统特朗普的通话富有成效，也是热情友好的。",
