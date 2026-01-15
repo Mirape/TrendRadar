@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-15T22:31:41.273005+08:00",
-  "total_titles_processed": 2095,
+  "generated_at": "2026-01-15T23:31:47.637701+08:00",
+  "total_titles_processed": 2197,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时29分 ~ 22时31分]"
+          "appearance_count": 10,
+          "time_info": "[15时29分 ~ 23时31分]"
         },
         {
           "title": "WBG力克iG拿下开门红",
@@ -47,11 +47,12 @@
             18,
             19,
             25,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时37分 ~ 22时31分]"
+          "appearance_count": 28,
+          "time_info": "[00时37分 ~ 23时31分]"
         },
         {
           "title": "LPL2026 赛季第一赛段组内赛 WBG 2:1 iG，如何评价这场比赛？",
@@ -93,19 +94,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时55分 ~ 22时31分]"
+          "appearance_count": 4,
+          "time_info": "[20时55分 ~ 23时31分]"
         },
         {
           "title": "AL战胜IG",
           "url": "https://search.bilibili.com/all?keyword=IG%20AL",
           "source": "bilibili 热搜",
           "ranks": [
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时25分 ~ 22时31分]"
+          "appearance_count": 5,
+          "time_info": "[19时25分 ~ 23时31分]"
         },
         {
           "title": "IG vs AL LPL第一赛段",
