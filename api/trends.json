@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T04:31:45.838153+08:00",
-  "total_titles_processed": 511,
+  "generated_at": "2026-01-16T05:27:34.719788+08:00",
+  "total_titles_processed": 568,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 6,
+      "match_count": 10,
       "titles": [
         {
           "title": "国产T1000级碳纤维实现量产",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时40分 ~ 04时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时40分 ~ 05时27分]"
         },
         {
           "title": "AL轻取iG,德杯冠军亦有差距",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时40分 ~ 04时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时40分 ~ 05时27分]"
         },
         {
           "title": "AL战胜IG",
@@ -37,11 +37,12 @@
           "ranks": [
             14,
             15,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时40分 ~ 04时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时40分 ~ 05时27分]"
         },
         {
           "title": "WBG力克iG拿下开门红",
@@ -52,8 +53,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时40分 ~ 04时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时40分 ~ 05时27分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普即将会见委内瑞拉“反对派”Machado。 委内瑞拉代总统Rodriguez一直都配合（美方的要求）。 特朗普期待继续与委内瑞拉合作。",
@@ -67,6 +68,50 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时43分 ~ 04时31分]"
+        },
+        {
+          "title": "委内瑞拉代总统Delcy Rodriguez：12月石油产量达到120万桶/日。",
+          "url": "https://wallstreetcn.com/livenews/3038207",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时27分"
+        },
+        {
+          "title": "委内瑞拉代总统Delcy Rodriguez通过国家电视台表示：国家经济在去年增长8.5%。",
+          "url": "https://wallstreetcn.com/livenews/3038205",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时27分"
+        },
+        {
+          "title": "委内瑞拉代总统Delcy Rodriguez通过国家电视台表示：委内瑞拉整体正面临威胁。 如果必须去美国华盛顿，我也不会卑躬屈膝。",
+          "url": "https://wallstreetcn.com/livenews/3038204",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时27分"
+        },
+        {
+          "title": "美国能源部长Wright：委内瑞拉石油产量将打压油价。",
+          "url": "https://wallstreetcn.com/livenews/3038198",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时27分"
         },
         {
           "title": "市场消息：前英国保守党议员Robert Jenrick出席了由Nigel Farage领导的英国改革党（Reform UK）举行的新闻发布会。",
