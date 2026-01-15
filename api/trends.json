@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-15T07:22:33.315809+08:00",
-  "total_titles_processed": 737,
+  "generated_at": "2026-01-15T10:01:51.600656+08:00",
+  "total_titles_processed": 917,
   "failed_sources": [],
   "trends": [
     {
@@ -14,22 +14,24 @@
           "ranks": [
             1,
             2,
-            5
+            5,
+            25
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时37分 ~ 07时22分]"
+          "appearance_count": 13,
+          "time_info": "[00时37分 ~ 10时01分]"
         },
         {
           "title": "WBG力克iG拿下开门红",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349156&amp;topic_name=WBG%E5%8A%9B%E5%85%8BiG%E6%8B%BF%E4%B8%8B%E5%BC%80%E9%97%A8%E7%BA%A2",
           "source": "贴吧",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时37分 ~ 07时22分]"
+          "appearance_count": 13,
+          "time_info": "[00时37分 ~ 10时01分]"
         },
         {
           "title": "LPL2026 赛季第一赛段组内赛 WBG 2:1 iG，如何评价这场比赛？",
@@ -80,7 +82,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -91,7 +93,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -124,7 +126,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         }
