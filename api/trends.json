@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-15T12:07:06.004492+08:00",
-  "total_titles_processed": 1073,
+  "generated_at": "2026-01-15T13:31:36.429022+08:00",
+  "total_titles_processed": 1169,
   "failed_sources": [],
   "trends": [
     {
@@ -28,11 +28,12 @@
           "ranks": [
             6,
             7,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时37分 ~ 12时07分]"
+          "appearance_count": 16,
+          "time_info": "[00时37分 ~ 13时31分]"
         },
         {
           "title": "LPL2026 赛季第一赛段组内赛 WBG 2:1 iG，如何评价这场比赛？",
@@ -127,7 +128,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
         },
