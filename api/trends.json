@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T00:41:10.656857+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-01-16T01:37:32.341398+08:00",
+  "total_titles_processed": 373,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "国产T1000级碳纤维实现量产",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 00时41分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 01时37分]"
         },
         {
           "title": "AL轻取iG,德杯冠军亦有差距",
@@ -26,30 +26,43 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 00时41分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 01时37分]"
         },
         {
           "title": "AL战胜IG",
           "url": "https://search.bilibili.com/all?keyword=IG%20AL",
           "source": "bilibili 热搜",
           "ranks": [
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 00时41分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 01时37分]"
         },
         {
           "title": "WBG力克iG拿下开门红",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349156&amp;topic_name=WBG%E5%8A%9B%E5%85%8BiG%E6%8B%BF%E4%B8%8B%E5%BC%80%E9%97%A8%E7%BA%A2",
           "source": "贴吧",
           "ranks": [
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 00时41分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 01时37分]"
+        },
+        {
+          "title": "市场消息：前英国保守党议员Robert Jenrick出席了由Nigel Farage领导的英国改革党（Reform UK）举行的新闻发布会。",
+          "url": "https://flash.jin10.com/detail/20260116003911907800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时37分"
         }
       ]
     }
