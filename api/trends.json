@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-16T03:29:24.369054+08:00",
-  "total_titles_processed": 470,
+  "generated_at": "2026-01-16T04:31:45.838153+08:00",
+  "total_titles_processed": 511,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E4%BA%A7T1000%E7%BA%A7%E7%A2%B3%E7%BA%A4%E7%BB%B4%E5%AE%9E%E7%8E%B0%E9%87%8F%E4%BA%A7",
           "source": "bilibili 热搜",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时40分 ~ 03时29分]"
+          "appearance_count": 6,
+          "time_info": "[00时40分 ~ 04时31分]"
         },
         {
           "title": "AL轻取iG,德杯冠军亦有差距",
@@ -26,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时40分 ~ 03时29分]"
+          "appearance_count": 6,
+          "time_info": "[00时40分 ~ 04时31分]"
         },
         {
           "title": "AL战胜IG",
@@ -39,8 +40,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时40分 ~ 03时29分]"
+          "appearance_count": 6,
+          "time_info": "[00时40分 ~ 04时31分]"
         },
         {
           "title": "WBG力克iG拿下开门红",
@@ -51,8 +52,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时40分 ~ 03时29分]"
+          "appearance_count": 6,
+          "time_info": "[00时40分 ~ 04时31分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普即将会见委内瑞拉“反对派”Machado。 委内瑞拉代总统Rodriguez一直都配合（美方的要求）。 特朗普期待继续与委内瑞拉合作。",
@@ -60,11 +61,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            14
+            14,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时43分 ~ 03时29分]"
+          "appearance_count": 3,
+          "time_info": "[02时43分 ~ 04时31分]"
         },
         {
           "title": "市场消息：前英国保守党议员Robert Jenrick出席了由Nigel Farage领导的英国改革党（Reform UK）举行的新闻发布会。",
