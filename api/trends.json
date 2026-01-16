@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-16T17:32:27.986668+08:00",
-  "total_titles_processed": 1503,
+  "generated_at": "2026-01-16T18:31:31.739139+08:00",
+  "total_titles_processed": 1584,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             4,
             5,
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时40分 ~ 17时32分]"
+          "appearance_count": 21,
+          "time_info": "[00时40分 ~ 18时31分]"
         },
         {
           "title": "AL战胜IG",
