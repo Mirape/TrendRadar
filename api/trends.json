@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-16T12:04:39.422966+08:00",
-  "total_titles_processed": 995,
+  "generated_at": "2026-01-16T13:31:28.282643+08:00",
+  "total_titles_processed": 1100,
   "failed_sources": [],
   "trends": [
     {
@@ -16,22 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时40分 ~ 12时04分]"
-        },
-        {
-          "title": "国产T1000级碳纤维实现量产",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E4%BA%A7T1000%E7%BA%A7%E7%A2%B3%E7%BA%A4%E7%BB%B4%E5%AE%9E%E7%8E%B0%E9%87%8F%E4%BA%A7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            3,
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时40分 ~ 12时04分]"
+          "appearance_count": 13,
+          "time_info": "[00时40分 ~ 13时31分]"
         },
         {
           "title": "AL战胜IG",
@@ -41,11 +27,27 @@
             14,
             15,
             4,
-            7
+            7,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时40分 ~ 12时04分]"
+          "appearance_count": 10,
+          "time_info": "[00时40分 ~ 13时31分]"
+        },
+        {
+          "title": "国产T1000级碳纤维实现量产",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E4%BA%A7T1000%E7%BA%A7%E7%A2%B3%E7%BA%A4%E7%BB%B4%E5%AE%9E%E7%8E%B0%E9%87%8F%E4%BA%A7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            3,
+            10,
+            12,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时40分 ~ 13时31分]"
         },
         {
           "title": "WBG力克iG拿下开门红",
