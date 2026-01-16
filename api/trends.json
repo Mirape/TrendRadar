@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-16T10:04:22.102773+08:00",
-  "total_titles_processed": 845,
+  "generated_at": "2026-01-16T12:04:39.422966+08:00",
+  "total_titles_processed": 995,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349220&amp;topic_name=AL%E8%BD%BB%E5%8F%96iG%2C%E5%BE%B7%E6%9D%AF%E5%86%A0%E5%86%9B%E4%BA%A6%E6%9C%89%E5%B7%AE%E8%B7%9D",
           "source": "贴吧",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时40分 ~ 10时04分]"
+          "appearance_count": 12,
+          "time_info": "[00时40分 ~ 12时04分]"
         },
         {
           "title": "国产T1000级碳纤维实现量产",
@@ -25,23 +26,12 @@
           "ranks": [
             2,
             3,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时40分 ~ 10时04分]"
-        },
-        {
-          "title": "WBG力克iG拿下开门红",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349156&amp;topic_name=WBG%E5%8A%9B%E5%85%8BiG%E6%8B%BF%E4%B8%8B%E5%BC%80%E9%97%A8%E7%BA%A2",
-          "source": "贴吧",
-          "ranks": [
-            23,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时40分 ~ 10时04分]"
+          "appearance_count": 12,
+          "time_info": "[00时40分 ~ 12时04分]"
         },
         {
           "title": "AL战胜IG",
@@ -54,8 +44,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 06时27分]"
+          "appearance_count": 9,
+          "time_info": "[00时40分 ~ 12时04分]"
+        },
+        {
+          "title": "WBG力克iG拿下开门红",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349156&amp;topic_name=WBG%E5%8A%9B%E5%85%8BiG%E6%8B%BF%E4%B8%8B%E5%BC%80%E9%97%A8%E7%BA%A2",
+          "source": "贴吧",
+          "ranks": [
+            23,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时40分 ~ 10时04分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普即将会见委内瑞拉“反对派”Machado。 委内瑞拉代总统Rodriguez一直都配合（美方的要求）。 特朗普期待继续与委内瑞拉合作。",
