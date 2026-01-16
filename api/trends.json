@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T18:31:31.739139+08:00",
-  "total_titles_processed": 1584,
+  "generated_at": "2026-01-16T19:25:02.036756+08:00",
+  "total_titles_processed": 1684,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "AL轻取iG,德杯冠军亦有差距",
@@ -17,11 +17,12 @@
             5,
             6,
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时40分 ~ 18时31分]"
+          "appearance_count": 23,
+          "time_info": "[00时40分 ~ 19时25分]"
         },
         {
           "title": "AL战胜IG",
@@ -77,6 +78,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时43分 ~ 04时31分]"
+        },
+        {
+          "title": "HLE对战T1",
+          "url": "https://s.weibo.com/weibo?q=%23HLE%E5%AF%B9%E6%88%98T1%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时24分 ~ 19时25分]"
         },
         {
           "title": "委内瑞拉代总统Delcy Rodriguez：12月石油产量达到120万桶/日。",
