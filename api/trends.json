@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T02:39:47.028017+08:00",
-  "total_titles_processed": 443,
+  "generated_at": "2026-01-17T03:23:27.221426+08:00",
+  "total_titles_processed": 476,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 02时39分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 03时23分]"
         },
         {
           "title": "AL轻取iG,德杯冠军亦有差距",
@@ -27,8 +27,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 02时39分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 03时23分]"
         },
         {
           "title": "T1战胜HLE",
@@ -36,11 +36,12 @@
           "source": "抖音",
           "ranks": [
             10,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 02时39分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 03时23分]"
         },
         {
           "title": "T1战胜HLE",
@@ -48,11 +49,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             13,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 02时39分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 03时23分]"
         },
         {
           "title": "美国能源部长Wright：预计PJM天然气工厂合同期更长。",
@@ -60,11 +62,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            19
+            19,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时29分 ~ 02时39分]"
+          "appearance_count": 3,
+          "time_info": "[01时29分 ~ 03时23分]"
         }
       ]
     }
