@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-17T22:24:14.559916+08:00",
-  "total_titles_processed": 1523,
+  "generated_at": "2026-01-17T23:25:13.625094+08:00",
+  "total_titles_processed": 1610,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "多兰游龙!T1暴打HLE",
@@ -19,11 +19,12 @@
             13,
             15,
             17,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时35分 ~ 22时24分]"
+          "appearance_count": 28,
+          "time_info": "[00时35分 ~ 23时25分]"
         },
         {
           "title": "AL轻取iG,德杯冠军亦有差距",
@@ -115,6 +116,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[20时49分 ~ 22时24分]"
+        },
+        {
+          "title": "IG战胜JDG",
+          "url": "https://search.bilibili.com/all?keyword=JDG%20IG",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时24分 ~ 23时25分]"
         },
         {
           "title": "1 月 16 日 LCK 杯 HLE 1:2 T1，如何评价这场比赛？",
