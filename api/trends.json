@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-17T07:25:56.515079+08:00",
-  "total_titles_processed": 613,
+  "generated_at": "2026-01-17T09:58:02.610734+08:00",
+  "total_titles_processed": 761,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "多兰游龙!T1暴打HLE",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时35分 ~ 07时25分]"
+          "appearance_count": 12,
+          "time_info": "[00时35分 ~ 09时58分]"
         },
         {
           "title": "AL轻取iG,德杯冠军亦有差距",
@@ -27,8 +27,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时35分 ~ 07时25分]"
+          "appearance_count": 12,
+          "time_info": "[00时35分 ~ 09时58分]"
         },
         {
           "title": "T1战胜HLE",
@@ -37,11 +37,12 @@
           "ranks": [
             10,
             12,
-            11
+            11,
+            21
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时35分 ~ 07时25分]"
+          "appearance_count": 12,
+          "time_info": "[00时35分 ~ 09时58分]"
         },
         {
           "title": "T1战胜HLE",
@@ -51,11 +52,23 @@
             13,
             14,
             15,
-            12
+            12,
+            19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时35分 ~ 07时25分]"
+          "appearance_count": 12,
+          "time_info": "[00时35分 ~ 09时58分]"
+        },
+        {
+          "title": "1 月 16 日 LCK 杯 HLE 1:2 T1，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/1995568737525453739",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时57分 ~ 09时58分]"
         },
         {
           "title": "美国能源部长Wright：预计PJM天然气工厂合同期更长。",
@@ -69,6 +82,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时29分 ~ 03时23分]"
+        },
+        {
+          "title": "HLE不敌T1赛后现状",
+          "url": "https://search.bilibili.com/all?keyword=HLE%E4%B8%8D%E6%95%8CT1%E8%B5%9B%E5%90%8E%E7%8E%B0%E7%8A%B6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时57分 ~ 09时58分]"
         }
       ]
     }
