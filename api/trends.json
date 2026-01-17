@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T17:26:03.072479+08:00",
-  "total_titles_processed": 1191,
+  "generated_at": "2026-01-17T18:25:45.832505+08:00",
+  "total_titles_processed": 1258,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             3,
             8,
             10,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时35分 ~ 17时26分]"
+          "appearance_count": 21,
+          "time_info": "[00时35分 ~ 18时25分]"
         },
         {
           "title": "AL轻取iG,德杯冠军亦有差距",
@@ -86,18 +87,6 @@
           "time_info": "[09时57分 ~ 16时32分]"
         },
         {
-          "title": "1 月 16 日 LCK 杯 HLE 1:2 T1，如何评价这场比赛？",
-          "url": "https://www.zhihu.com/question/1995568737525453739",
-          "source": "知乎",
-          "ranks": [
-            5,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时57分 ~ 11时37分]"
-        },
-        {
           "title": "锐评T1战胜HLE",
           "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84T1%E6%88%98%E8%83%9CHLE",
           "source": "bilibili 热搜",
@@ -108,8 +97,20 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时25分 ~ 17时26分]"
+          "appearance_count": 6,
+          "time_info": "[13时25分 ~ 18时25分]"
+        },
+        {
+          "title": "1 月 16 日 LCK 杯 HLE 1:2 T1，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/1995568737525453739",
+          "source": "知乎",
+          "ranks": [
+            5,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时57分 ~ 11时37分]"
         },
         {
           "title": "美国能源部长Wright：预计PJM天然气工厂合同期更长。",
