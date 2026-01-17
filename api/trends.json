@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T09:58:02.610734+08:00",
-  "total_titles_processed": 761,
+  "generated_at": "2026-01-17T11:37:48.434215+08:00",
+  "total_titles_processed": 859,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349272&amp;topic_name=%E5%A4%9A%E5%85%B0%E6%B8%B8%E9%BE%99%21T1%E6%9A%B4%E6%89%93HLE",
           "source": "贴吧",
           "ranks": [
-            3
+            3,
+            8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时35分 ~ 09时58分]"
+          "appearance_count": 13,
+          "time_info": "[00时35分 ~ 11时37分]"
         },
         {
           "title": "AL轻取iG,德杯冠军亦有差距",
@@ -24,11 +25,12 @@
           "source": "贴吧",
           "ranks": [
             10,
-            11
+            11,
+            15
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时35分 ~ 09时58分]"
+          "appearance_count": 13,
+          "time_info": "[00时35分 ~ 11时37分]"
         },
         {
           "title": "T1战胜HLE",
@@ -38,11 +40,12 @@
             10,
             12,
             11,
-            21
+            21,
+            14
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时35分 ~ 09时58分]"
+          "appearance_count": 13,
+          "time_info": "[00时35分 ~ 11时37分]"
         },
         {
           "title": "T1战胜HLE",
@@ -53,22 +56,24 @@
             14,
             15,
             12,
-            19
+            19,
+            26
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时35分 ~ 09时58分]"
+          "appearance_count": 13,
+          "time_info": "[00时35分 ~ 11时37分]"
         },
         {
           "title": "1 月 16 日 LCK 杯 HLE 1:2 T1，如何评价这场比赛？",
           "url": "https://www.zhihu.com/question/1995568737525453739",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时57分 ~ 09时58分]"
+          "appearance_count": 3,
+          "time_info": "[09时57分 ~ 11时37分]"
         },
         {
           "title": "美国能源部长Wright：预计PJM天然气工厂合同期更长。",
@@ -88,11 +93,12 @@
           "url": "https://search.bilibili.com/all?keyword=HLE%E4%B8%8D%E6%95%8CT1%E8%B5%9B%E5%90%8E%E7%8E%B0%E7%8A%B6",
           "source": "bilibili 热搜",
           "ranks": [
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时57分 ~ 09时58分]"
+          "appearance_count": 3,
+          "time_info": "[09时57分 ~ 11时37分]"
         }
       ]
     }
