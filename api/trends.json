@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T15:24:20.798085+08:00",
-  "total_titles_processed": 1075,
+  "generated_at": "2026-01-17T16:32:33.937707+08:00",
+  "total_titles_processed": 1136,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时35分 ~ 15时24分]"
+          "appearance_count": 18,
+          "time_info": "[00时35分 ~ 16时32分]"
         },
         {
           "title": "AL轻取iG,德杯冠军亦有差距",
@@ -63,11 +63,12 @@
             18,
             23,
             21,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时35分 ~ 15时24分]"
+          "appearance_count": 18,
+          "time_info": "[00时35分 ~ 16时32分]"
         },
         {
           "title": "HLE不敌T1赛后现状",
@@ -81,8 +82,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时57分 ~ 15时24分]"
+          "appearance_count": 8,
+          "time_info": "[09时57分 ~ 16时32分]"
         },
         {
           "title": "1 月 16 日 LCK 杯 HLE 1:2 T1，如何评价这场比赛？",
@@ -115,11 +116,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             17,
-            22
+            22,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时25分 ~ 15时24分]"
+          "appearance_count": 3,
+          "time_info": "[13时25分 ~ 16时32分]"
         },
         {
           "title": "T1战胜HLE赛后数据",
