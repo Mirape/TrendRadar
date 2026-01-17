@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-18T06:25:01.636621+08:00",
-  "total_titles_processed": 400,
+  "generated_at": "2026-01-18T07:24:20.718388+08:00",
+  "total_titles_processed": 425,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 06时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 07时24分]"
         },
         {
           "title": "有效啃老,IG喜提赛季首胜",
@@ -27,8 +28,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 06时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 07时24分]"
         },
         {
           "title": "多兰游龙!T1暴打HLE",
@@ -38,8 +39,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 06时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 07时24分]"
         },
         {
           "title": "锐评T1战胜HLE",
