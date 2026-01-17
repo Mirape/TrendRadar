@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T18:25:45.832505+08:00",
-  "total_titles_processed": 1258,
+  "generated_at": "2026-01-17T19:21:28.867960+08:00",
+  "total_titles_processed": 1330,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             8,
             10,
             11,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时35分 ~ 18时25分]"
+          "appearance_count": 22,
+          "time_info": "[00时35分 ~ 19时21分]"
         },
         {
           "title": "AL轻取iG,德杯冠军亦有差距",
@@ -94,11 +95,12 @@
             17,
             22,
             20,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时25分 ~ 18时25分]"
+          "appearance_count": 7,
+          "time_info": "[13时25分 ~ 19时21分]"
         },
         {
           "title": "1 月 16 日 LCK 杯 HLE 1:2 T1，如何评价这场比赛？",
