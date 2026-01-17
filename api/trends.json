@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-17T12:36:27.517504+08:00",
-  "total_titles_processed": 910,
+  "generated_at": "2026-01-17T13:25:34.456149+08:00",
+  "total_titles_processed": 958,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "多兰游龙!T1暴打HLE",
@@ -17,8 +17,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时35分 ~ 12时36分]"
+          "appearance_count": 15,
+          "time_info": "[00时35分 ~ 13时25分]"
         },
         {
           "title": "AL轻取iG,德杯冠军亦有差距",
@@ -59,11 +59,25 @@
             12,
             19,
             26,
-            18
+            18,
+            23
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时35分 ~ 12时36分]"
+          "appearance_count": 15,
+          "time_info": "[00时35分 ~ 13时25分]"
+        },
+        {
+          "title": "HLE不敌T1赛后现状",
+          "url": "https://search.bilibili.com/all?keyword=HLE%E4%B8%8D%E6%95%8CT1%E8%B5%9B%E5%90%8E%E7%8E%B0%E7%8A%B6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时57分 ~ 13时25分]"
         },
         {
           "title": "1 月 16 日 LCK 杯 HLE 1:2 T1，如何评价这场比赛？",
@@ -91,17 +105,15 @@
           "time_info": "[01时29分 ~ 03时23分]"
         },
         {
-          "title": "HLE不敌T1赛后现状",
-          "url": "https://search.bilibili.com/all?keyword=HLE%E4%B8%8D%E6%95%8CT1%E8%B5%9B%E5%90%8E%E7%8E%B0%E7%8A%B6",
+          "title": "锐评T1战胜HLE",
+          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84T1%E6%88%98%E8%83%9CHLE",
           "source": "bilibili 热搜",
           "ranks": [
-            6,
-            9,
-            7
+            17
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时57分 ~ 12时36分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
         }
       ]
     }
