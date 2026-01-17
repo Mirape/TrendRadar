@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-18T01:21:52.665261+08:00",
-  "total_titles_processed": 335,
+  "generated_at": "2026-01-18T02:34:59.836777+08:00",
+  "total_titles_processed": 362,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://search.bilibili.com/all?keyword=JDG%20IG",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时34分]"
         },
         {
           "title": "有效啃老,IG喜提赛季首胜",
@@ -26,8 +27,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时34分]"
         },
         {
           "title": "多兰游龙!T1暴打HLE",
@@ -37,19 +38,20 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时34分]"
         },
         {
           "title": "锐评T1战胜HLE",
           "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84T1%E6%88%98%E8%83%9CHLE",
           "source": "bilibili 热搜",
           "ranks": [
-            30
+            30,
+            26
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 02时34分]"
         }
       ]
     }
