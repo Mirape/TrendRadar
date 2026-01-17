@@ -1,122 +1,12 @@
 {
-  "generated_at": "2026-01-17T23:25:13.625094+08:00",
-  "total_titles_processed": 1610,
+  "generated_at": "2026-01-18T00:29:43.363497+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 11,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "多兰游龙!T1暴打HLE",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349272&amp;topic_name=%E5%A4%9A%E5%85%B0%E6%B8%B8%E9%BE%99%21T1%E6%9A%B4%E6%89%93HLE",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            8,
-            10,
-            11,
-            13,
-            15,
-            17,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时35分 ~ 23时25分]"
-        },
-        {
-          "title": "AL轻取iG,德杯冠军亦有差距",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349220&amp;topic_name=AL%E8%BD%BB%E5%8F%96iG%2C%E5%BE%B7%E6%9D%AF%E5%86%A0%E5%86%9B%E4%BA%A6%E6%9C%89%E5%B7%AE%E8%B7%9D",
-          "source": "贴吧",
-          "ranks": [
-            10,
-            11,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时35分 ~ 11时37分]"
-        },
-        {
-          "title": "T1战胜HLE",
-          "url": "https://www.douyin.com/hot/2370083",
-          "source": "抖音",
-          "ranks": [
-            10,
-            12,
-            11,
-            21,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时35分 ~ 11时37分]"
-        },
-        {
-          "title": "T1战胜HLE",
-          "url": "https://search.bilibili.com/all?keyword=T1%E6%88%98%E8%83%9CHLE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            14,
-            15,
-            12,
-            19,
-            26,
-            18,
-            23,
-            21,
-            25,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时35分 ~ 16时32分]"
-        },
-        {
-          "title": "HLE不敌T1赛后现状",
-          "url": "https://search.bilibili.com/all?keyword=HLE%E4%B8%8D%E6%95%8CT1%E8%B5%9B%E5%90%8E%E7%8E%B0%E7%8A%B6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            9,
-            7,
-            8,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时57分 ~ 16时32分]"
-        },
-        {
-          "title": "锐评T1战胜HLE",
-          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84T1%E6%88%98%E8%83%9CHLE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17,
-            22,
-            20,
-            28,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时25分 ~ 19时21分]"
-        },
-        {
-          "title": "JDG vs IG LPL第一赛段",
-          "url": "https://search.bilibili.com/all?keyword=JDG%20IG",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时49分 ~ 22时24分]"
-        },
         {
           "title": "IG战胜JDG",
           "url": "https://search.bilibili.com/all?keyword=JDG%20IG",
@@ -125,45 +15,41 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时24分 ~ 23时25分]"
+          "appearance_count": 1,
+          "time_info": "00时29分"
         },
         {
-          "title": "1 月 16 日 LCK 杯 HLE 1:2 T1，如何评价这场比赛？",
-          "url": "https://www.zhihu.com/question/1995568737525453739",
-          "source": "知乎",
+          "title": "有效啃老,IG喜提赛季首胜",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349291&amp;topic_name=%E6%9C%89%E6%95%88%E5%95%83%E8%80%81%2CIG%E5%96%9C%E6%8F%90%E8%B5%9B%E5%AD%A3%E9%A6%96%E8%83%9C",
+          "source": "贴吧",
           "ranks": [
-            5,
-            18
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时57分 ~ 11时37分]"
+          "appearance_count": 1,
+          "time_info": "00时29分"
         },
         {
-          "title": "美国能源部长Wright：预计PJM天然气工厂合同期更长。",
-          "url": "https://wallstreetcn.com/livenews/3038949",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            19,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时29分 ~ 03时23分]"
-        },
-        {
-          "title": "T1战胜HLE赛后数据",
-          "url": "https://search.bilibili.com/all?keyword=T1%E6%88%98%E8%83%9CHLE%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE",
+          "title": "锐评T1战胜HLE",
+          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84T1%E6%88%98%E8%83%9CHLE",
           "source": "bilibili 热搜",
           "ranks": [
-            19,
             30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时37分 ~ 15时24分]"
+          "appearance_count": 1,
+          "time_info": "00时29分"
+        },
+        {
+          "title": "多兰游龙!T1暴打HLE",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349272&amp;topic_name=%E5%A4%9A%E5%85%B0%E6%B8%B8%E9%BE%99%21T1%E6%9A%B4%E6%89%93HLE",
+          "source": "贴吧",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时29分"
         }
       ]
     }
