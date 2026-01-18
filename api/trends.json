@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-19T03:20:17.391956+08:00",
-  "total_titles_processed": 382,
+  "generated_at": "2026-01-19T04:28:26.837970+08:00",
+  "total_titles_processed": 402,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://search.bilibili.com/all?keyword=BLG%E6%88%98%E8%83%9CTES%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE",
           "source": "bilibili 热搜",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 03时20分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 04时28分]"
         },
         {
           "title": "有效啃老,IG喜提赛季首胜",
@@ -27,8 +28,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 03时20分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 04时28分]"
         }
       ]
     }
