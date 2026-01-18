@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-18T07:24:20.718388+08:00",
-  "total_titles_processed": 425,
+  "generated_at": "2026-01-18T10:11:15.795436+08:00",
+  "total_titles_processed": 577,
   "failed_sources": [],
   "trends": [
     {
@@ -14,33 +14,36 @@
           "ranks": [
             4,
             3,
-            2
+            2,
+            10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 07时24分]"
+          "appearance_count": 13,
+          "time_info": "[00时29分 ~ 10时11分]"
         },
         {
           "title": "有效啃老,IG喜提赛季首胜",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349291&amp;topic_name=%E6%9C%89%E6%95%88%E5%95%83%E8%80%81%2CIG%E5%96%9C%E6%8F%90%E8%B5%9B%E5%AD%A3%E9%A6%96%E8%83%9C",
           "source": "贴吧",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 07时24分]"
+          "appearance_count": 13,
+          "time_info": "[00时29分 ~ 10时11分]"
         },
         {
           "title": "多兰游龙!T1暴打HLE",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349272&amp;topic_name=%E5%A4%9A%E5%85%B0%E6%B8%B8%E9%BE%99%21T1%E6%9A%B4%E6%89%93HLE",
           "source": "贴吧",
           "ranks": [
-            30
+            30,
+            28
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 07时24分]"
+          "appearance_count": 13,
+          "time_info": "[00时29分 ~ 10时11分]"
         },
         {
           "title": "锐评T1战胜HLE",
