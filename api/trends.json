@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-18T20:50:03.344284+08:00",
-  "total_titles_processed": 1234,
+  "generated_at": "2026-01-18T21:33:19.286605+08:00",
+  "total_titles_processed": 1284,
   "failed_sources": [],
   "trends": [
     {
@@ -32,11 +32,12 @@
             11,
             10,
             13,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时29分 ~ 20时50分]"
+          "appearance_count": 28,
+          "time_info": "[00时29分 ~ 21时33分]"
         },
         {
           "title": "多兰游龙!T1暴打HLE",
@@ -55,11 +56,12 @@
           "url": "https://search.bilibili.com/all?keyword=BLG%E6%88%98%E8%83%9CTES%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE",
           "source": "bilibili 热搜",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时49分 ~ 20时50分]"
+          "appearance_count": 4,
+          "time_info": "[20时49分 ~ 21时33分]"
         },
         {
           "title": "锐评T1战胜HLE",
