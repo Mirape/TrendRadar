@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T04:31:11.233872+08:00",
-  "total_titles_processed": 502,
+  "generated_at": "2026-01-20T05:26:16.394818+08:00",
+  "total_titles_processed": 539,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时36分 ~ 04时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时36分 ~ 05时26分]"
         },
         {
           "title": "泛欧交易所Euronext EQD PT122在欧洲中部时间（CET）15:18触发故障转移机制（failover mechanism）。",
