@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-19T13:35:47.116527+08:00",
-  "total_titles_processed": 902,
+  "generated_at": "2026-01-19T14:46:30.168632+08:00",
+  "total_titles_processed": 987,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "BLG战胜TES赛后数据",
@@ -18,11 +18,12 @@
             9,
             10,
             16,
-            17
+            17,
+            25
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时31分 ~ 13时35分]"
+          "appearance_count": 14,
+          "time_info": "[00时31分 ~ 14时46分]"
         },
         {
           "title": "有效啃老,IG喜提赛季首胜",
@@ -36,6 +37,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时31分 ~ 10时09分]"
+        },
+        {
+          "title": "锐评T1战胜DRX",
+          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84T1%E6%88%98%E8%83%9CDRX",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时46分"
         }
       ]
     }
