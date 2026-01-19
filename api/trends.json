@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-19T14:46:30.168632+08:00",
-  "total_titles_processed": 987,
+  "generated_at": "2026-01-19T15:33:12.637397+08:00",
+  "total_titles_processed": 1069,
   "failed_sources": [],
   "trends": [
     {
@@ -43,11 +43,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84T1%E6%88%98%E8%83%9CDRX",
           "source": "bilibili 热搜",
           "ranks": [
-            27
+            27,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时46分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时46分 ~ 15时33分]"
         }
       ]
     }
