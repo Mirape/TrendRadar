@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-19T10:09:11.691832+08:00",
-  "total_titles_processed": 639,
+  "generated_at": "2026-01-19T12:15:18.278963+08:00",
+  "total_titles_processed": 790,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             4,
             9,
             10,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 10时09分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 12时15分]"
         },
         {
           "title": "有效啃老,IG喜提赛季首胜",
