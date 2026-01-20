@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-20T22:37:41.003460+08:00",
-  "total_titles_processed": 1952,
+  "generated_at": "2026-01-20T23:37:08.408185+08:00",
+  "total_titles_processed": 2061,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "WBG不敌TES赛后现状",
@@ -29,11 +29,24 @@
           "url": "https://search.bilibili.com/all?keyword=IG%20BLG",
           "source": "bilibili 热搜",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时54分 ~ 22时37分]"
+          "appearance_count": 4,
+          "time_info": "[21时54分 ~ 23时37分]"
+        },
+        {
+          "title": "BLG血虐iG豪取四连胜",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349420&amp;topic_name=BLG%E8%A1%80%E8%99%90iG%E8%B1%AA%E5%8F%96%E5%9B%9B%E8%BF%9E%E8%83%9C",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时54分 ~ 23时37分]"
         },
         {
           "title": "IG vs BLG LPL第一赛段",
@@ -46,18 +59,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[19时28分 ~ 21时02分]"
-        },
-        {
-          "title": "BLG血虐iG豪取四连胜",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349420&amp;topic_name=BLG%E8%A1%80%E8%99%90iG%E8%B1%AA%E5%8F%96%E5%9B%9B%E8%BF%9E%E8%83%9C",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时54分 ~ 22时37分]"
         },
         {
           "title": "BLG战胜IG",
@@ -93,6 +94,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[21时01分 ~ 21时02分]"
+        },
+        {
+          "title": "TheShy谈iG",
+          "url": "https://s.weibo.com/weibo?q=TheShy%E8%B0%88iG&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时36分 ~ 23时37分]"
         },
         {
           "title": "泛欧交易所Euronext EQD PT122在欧洲中部时间（CET）15:18触发故障转移机制（failover mechanism）。",
