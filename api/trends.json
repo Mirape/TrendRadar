@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-21T04:15:33.874175+08:00",
-  "total_titles_processed": 533,
+  "generated_at": "2026-01-21T05:27:02.061144+08:00",
+  "total_titles_processed": 600,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "BLG零封IG",
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时41分 ~ 04时15分]"
+          "appearance_count": 7,
+          "time_info": "[00时41分 ~ 05时27分]"
         },
         {
           "title": "BLG血虐iG豪取四连胜",
@@ -27,8 +27,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时41分 ~ 04时15分]"
+          "appearance_count": 7,
+          "time_info": "[00时41分 ~ 05时27分]"
+        },
+        {
+          "title": "委内瑞拉代总统Delcy Rodriguez：委内瑞拉从5亿美元石油销售合同中获得3亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3040690",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时27分"
         },
         {
           "title": "美国能源部长Wright：我们处于吞并格陵兰的谈判初期。 最终解决并不确定，但我们将带来重大结果。",
