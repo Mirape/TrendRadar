@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-21T19:29:15.068636+08:00",
-  "total_titles_processed": 1752,
+  "generated_at": "2026-01-21T21:00:12.772447+08:00",
+  "total_titles_processed": 1872,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "BLG零封IG",
@@ -40,8 +40,19 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时41分 ~ 19时29分]"
+          "appearance_count": 22,
+          "time_info": "[00时41分 ~ 21时00分]"
+        },
+        {
+          "title": "IG vs TES LPL第一赛段",
+          "url": "https://search.bilibili.com/all?keyword=IG%20TES",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时59分 ~ 21时00分]"
         },
         {
           "title": "委内瑞拉代总统Delcy Rodriguez：委内瑞拉从5亿美元石油销售合同中获得3亿美元。",
