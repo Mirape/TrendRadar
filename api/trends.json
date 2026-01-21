@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-22T00:59:59.331133+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-22T02:01:40.671912+08:00",
+  "total_titles_processed": 385,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
+          "appearance_count": 2,
+          "time_info": "[00时59分 ~ 02时01分]"
         },
         {
           "title": "野辅发瘟,TES不敌IG小组垫底",
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
+          "appearance_count": 2,
+          "time_info": "[00时59分 ~ 02时01分]"
         }
       ]
     }
