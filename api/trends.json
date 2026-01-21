@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T18:35:21.054869+08:00",
-  "total_titles_processed": 1652,
+  "generated_at": "2026-01-21T19:29:15.068636+08:00",
+  "total_titles_processed": 1752,
   "failed_sources": [],
   "trends": [
     {
@@ -36,11 +36,12 @@
             21,
             22,
             23,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时41分 ~ 18时35分]"
+          "appearance_count": 20,
+          "time_info": "[00时41分 ~ 19时29分]"
         },
         {
           "title": "委内瑞拉代总统Delcy Rodriguez：委内瑞拉从5亿美元石油销售合同中获得3亿美元。",
