@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T10:06:30.515979+08:00",
-  "total_titles_processed": 864,
+  "generated_at": "2026-01-21T12:08:52.495422+08:00",
+  "total_titles_processed": 1014,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             3,
             7,
-            10
+            10,
+            27
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时41分 ~ 10时06分]"
+          "appearance_count": 12,
+          "time_info": "[00时41分 ~ 12时08分]"
         },
         {
           "title": "BLG血虐iG豪取四连胜",
@@ -26,11 +27,12 @@
           "source": "贴吧",
           "ranks": [
             6,
-            7
+            7,
+            18
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时41分 ~ 10时06分]"
+          "appearance_count": 12,
+          "time_info": "[00时41分 ~ 12时08分]"
         },
         {
           "title": "委内瑞拉代总统Delcy Rodriguez：委内瑞拉从5亿美元石油销售合同中获得3亿美元。",
