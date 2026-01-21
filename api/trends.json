@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-21T21:53:40.113932+08:00",
-  "total_titles_processed": 1967,
+  "generated_at": "2026-01-21T22:37:12.474401+08:00",
+  "total_titles_processed": 2053,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "BLG零封IG",
@@ -52,8 +52,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时59分 ~ 21时53分]"
+          "appearance_count": 5,
+          "time_info": "[20时59分 ~ 22时37分]"
         },
         {
           "title": "委内瑞拉代总统Delcy Rodriguez：委内瑞拉从5亿美元石油销售合同中获得3亿美元。",
@@ -78,6 +78,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时35分 ~ 02时44分]"
+        },
+        {
+          "title": "iG对战TES",
+          "url": "https://s.weibo.com/weibo?q=%23iG%E5%AF%B9%E6%88%98TES%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时36分 ~ 22时37分]"
         },
         {
           "title": "LPL2026 赛季第一赛段组内赛 iG 0:2 BLG，如何评价这场比赛？",
