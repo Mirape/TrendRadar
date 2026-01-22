@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-22T16:39:29.302962+08:00",
-  "total_titles_processed": 1436,
+  "generated_at": "2026-01-22T17:38:21.595482+08:00",
+  "total_titles_processed": 1527,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,12 @@
             8,
             12,
             13,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时59分 ~ 16时39分]"
+          "appearance_count": 15,
+          "time_info": "[00时59分 ~ 17时38分]"
         },
         {
           "title": "委内瑞拉代总统Delcy Rodriguez：已经与古巴官员Diaz-Canel通话。",
