@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-22T07:31:37.853336+08:00",
-  "total_titles_processed": 690,
+  "generated_at": "2026-01-22T10:07:57.609742+08:00",
+  "total_titles_processed": 853,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349500&amp;topic_name=%E9%87%8E%E8%BE%85%E5%8F%91%E7%98%9F%2CTES%E4%B8%8D%E6%95%8CIG%E5%B0%8F%E7%BB%84%E5%9E%AB%E5%BA%95",
           "source": "贴吧",
           "ranks": [
-            6
+            6,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时59分 ~ 07时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时59分 ~ 10时07分]"
         },
         {
           "title": "委内瑞拉代总统Delcy Rodriguez：已经与古巴官员Diaz-Canel通话。",
