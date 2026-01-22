@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-22T18:33:52.940563+08:00",
-  "total_titles_processed": 1625,
+  "generated_at": "2026-01-22T19:27:59.063380+08:00",
+  "total_titles_processed": 1711,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "IG战胜TES",
@@ -31,11 +31,12 @@
             13,
             16,
             19,
-            22
+            22,
+            21
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时59分 ~ 18时33分]"
+          "appearance_count": 17,
+          "time_info": "[00时59分 ~ 19时27分]"
         },
         {
           "title": "委内瑞拉代总统Delcy Rodriguez：已经与古巴官员Diaz-Canel通话。",
@@ -48,6 +49,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时31分 ~ 07时31分]"
+        },
+        {
+          "title": "《英雄联盟》测试服梅尔小重做，被动削弱，W 技能改为护盾，如何评价本次改动？",
+          "url": "https://www.zhihu.com/question/1997283513058223567",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时27分"
         },
         {
           "title": "托克集团（Trafigura Group）与维多集团（Vitol Group）正准备将约1200万桶委内瑞拉原油装上油轮。这两家公司已租用了一支船队，并在加勒比地区预留了存储空间，以履行美国政府的合同。（彭博）",
