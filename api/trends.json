@@ -1,76 +1,22 @@
 {
-  "generated_at": "2026-01-23T23:32:26.917067+08:00",
-  "total_titles_processed": 2179,
+  "generated_at": "2026-01-24T00:38:34.333537+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 5,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "野辅发瘟,TES不敌IG小组垫底",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349500&amp;topic_name=%E9%87%8E%E8%BE%85%E5%8F%91%E7%98%9F%2CTES%E4%B8%8D%E6%95%8CIG%E5%B0%8F%E7%BB%84%E5%9E%AB%E5%BA%95",
-          "source": "贴吧",
-          "ranks": [
-            24,
-            28,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时41分 ~ 13时32分]"
-        },
-        {
-          "title": "英雄联盟职业选手 Doinb 在 Dota2 中快速进化，这说明了他的哪些能力？",
-          "url": "https://www.zhihu.com/question/1994136874386747873",
-          "source": "知乎",
-          "ranks": [
-            19,
-            14,
-            15,
-            10,
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时07分 ~ 18时31分]"
-        },
         {
           "title": "T1战胜KT",
           "url": "https://www.douyin.com/hot/2377490",
           "source": "抖音",
           "ranks": [
-            9,
-            8,
-            10
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时48分 ~ 23时32分]"
-        },
-        {
-          "title": "T1战胜KT",
-          "url": "https://s.weibo.com/weibo?q=T1%E6%88%98%E8%83%9CKT&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时31分 ~ 19时26分]"
-        },
-        {
-          "title": "标普全球市场财智（S&P Global Market Intelligence）首席商业经济学家克里斯·威廉姆森（Chris Williamson）：美国制造业和服务业的新业务增长率均处于令人担忧的低迷水平，这进一步表明第一季度的增长可能会令人失望。 与此同时，就业增长已经令人失望，1月份上报的工资单人数再次近乎停滞，因为企业担心在充满不确定性、需求疲软和高成本的环境下增加更多员工。",
-          "url": "https://wallstreetcn.com/livenews/3043012",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时32分"
+          "time_info": "00时38分"
         }
       ]
     }
