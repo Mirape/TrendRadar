@@ -1,22 +1,34 @@
 {
-  "generated_at": "2026-01-23T10:03:26.536029+08:00",
-  "total_titles_processed": 888,
+  "generated_at": "2026-01-23T12:07:31.546426+08:00",
+  "total_titles_processed": 1036,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "野辅发瘟,TES不敌IG小组垫底",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349500&amp;topic_name=%E9%87%8E%E8%BE%85%E5%8F%91%E7%98%9F%2CTES%E4%B8%8D%E6%95%8CIG%E5%B0%8F%E7%BB%84%E5%9E%AB%E5%BA%95",
           "source": "贴吧",
           "ranks": [
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时41分 ~ 10时03分]"
+          "appearance_count": 14,
+          "time_info": "[00时41分 ~ 12时07分]"
+        },
+        {
+          "title": "英雄联盟职业选手 Doinb 在 Dota2 中快速进化，这说明了他的哪些能力？",
+          "url": "https://www.zhihu.com/question/1994136874386747873",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
         }
       ]
     }
