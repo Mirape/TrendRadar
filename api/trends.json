@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-23T20:57:28.582179+08:00",
-  "total_titles_processed": 1918,
+  "generated_at": "2026-01-23T21:49:04.717846+08:00",
+  "total_titles_processed": 2002,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "野辅发瘟,TES不敌IG小组垫底",
@@ -47,6 +47,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时31分 ~ 19时26分]"
+        },
+        {
+          "title": "T1战胜KT",
+          "url": "https://www.douyin.com/hot/2377490",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时48分 ~ 21时49分]"
         }
       ]
     }
