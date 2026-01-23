@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-23T22:31:50.294897+08:00",
-  "total_titles_processed": 2072,
+  "generated_at": "2026-01-23T23:32:26.917067+08:00",
+  "total_titles_processed": 2179,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "野辅发瘟,TES不敌IG小组垫底",
@@ -38,6 +38,19 @@
         },
         {
           "title": "T1战胜KT",
+          "url": "https://www.douyin.com/hot/2377490",
+          "source": "抖音",
+          "ranks": [
+            9,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时48分 ~ 23时32分]"
+        },
+        {
+          "title": "T1战胜KT",
           "url": "https://s.weibo.com/weibo?q=T1%E6%88%98%E8%83%9CKT&t=31&band_rank=5&Refer=top",
           "source": "微博",
           "ranks": [
@@ -49,16 +62,15 @@
           "time_info": "[18时31分 ~ 19时26分]"
         },
         {
-          "title": "T1战胜KT",
-          "url": "https://www.douyin.com/hot/2377490",
-          "source": "抖音",
+          "title": "标普全球市场财智（S&P Global Market Intelligence）首席商业经济学家克里斯·威廉姆森（Chris Williamson）：美国制造业和服务业的新业务增长率均处于令人担忧的低迷水平，这进一步表明第一季度的增长可能会令人失望。 与此同时，就业增长已经令人失望，1月份上报的工资单人数再次近乎停滞，因为企业担心在充满不确定性、需求疲软和高成本的环境下增加更多员工。",
+          "url": "https://wallstreetcn.com/livenews/3043012",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            8
+            17
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时48分 ~ 22时31分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         }
       ]
     }
