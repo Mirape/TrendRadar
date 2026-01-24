@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-24T20:52:02.436718+08:00",
-  "total_titles_processed": 1420,
+  "generated_at": "2026-01-24T21:34:50.469947+08:00",
+  "total_titles_processed": 1471,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "如何看待《英雄联盟》官方采访证实韩服 93% 胜率神秘玩家实为 BRO 中单选手 Roamer？",
@@ -69,11 +69,23 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时26分 ~ 20时52分]"
+          "appearance_count": 7,
+          "time_info": "[17时26分 ~ 21时34分]"
+        },
+        {
+          "title": "LOL新版本T1英雄榜单",
+          "url": "https://search.bilibili.com/all?keyword=LOL%E6%96%B0%E7%89%88%E6%9C%ACT1%E8%8B%B1%E9%9B%84%E6%A6%9C%E5%8D%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
         }
       ]
     }
