@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-25T06:25:21.634199+08:00",
-  "total_titles_processed": 436,
+  "generated_at": "2026-01-25T07:25:07.194501+08:00",
+  "total_titles_processed": 467,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "“木头姐”年度重磅：ARK 2026 Big Idea",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 06时25分]"
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 07时25分]"
         },
         {
           "title": "HLE战胜DNS赛后数据",
@@ -29,11 +30,23 @@
             23,
             18,
             30,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 06时25分]"
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 07时25分]"
+        },
+        {
+          "title": "英雄联盟职业选手 Doinb 在 Dota2 中快速进化，这说明了他的哪些能力？",
+          "url": "https://www.zhihu.com/question/1994136874386747873",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时24分 ~ 07时25分]"
         },
         {
           "title": "张真源big guy卡点舞",
