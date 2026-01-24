@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T22:24:54.281062+08:00",
-  "total_titles_processed": 1538,
+  "generated_at": "2026-01-24T23:25:39.689255+08:00",
+  "total_titles_processed": 1588,
   "failed_sources": [],
   "trends": [
     {
@@ -22,6 +22,20 @@
           "time_info": "[11时42分 ~ 19时22分]"
         },
         {
+          "title": "“木头姐”年度重磅：ARK 2026 Big Idea",
+          "url": "https://wallstreetcn.com/articles/3764074",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时26分 ~ 23时25分]"
+        },
+        {
           "title": "T1战胜KT",
           "url": "https://www.douyin.com/hot/2377490",
           "source": "抖音",
@@ -35,18 +49,18 @@
           "time_info": "[00时38分 ~ 07时26分]"
         },
         {
-          "title": "“木头姐”年度重磅：ARK 2026 Big Idea",
-          "url": "https://wallstreetcn.com/articles/3764074",
-          "source": "华尔街见闻",
+          "title": "张真源big guy卡点舞",
+          "url": "https://www.douyin.com/hot/2378011",
+          "source": "抖音",
           "ranks": [
-            10,
-            7,
-            6,
-            5
+            26,
+            25,
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时26分 ~ 22时24分]"
+          "appearance_count": 10,
+          "time_info": "[14时38分 ~ 23时25分]"
         },
         {
           "title": "复盘T1史诗级翻盘KT",
@@ -63,19 +77,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[13时26分 ~ 19时22分]"
-        },
-        {
-          "title": "张真源big guy卡点舞",
-          "url": "https://www.douyin.com/hot/2378011",
-          "source": "抖音",
-          "ranks": [
-            26,
-            25,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时38分 ~ 20时52分]"
         },
         {
           "title": "LOL新版本T1英雄榜单",
