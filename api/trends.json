@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T15:24:56.655788+08:00",
-  "total_titles_processed": 1061,
+  "generated_at": "2026-01-24T16:33:19.550475+08:00",
+  "total_titles_processed": 1148,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "source": "知乎",
           "ranks": [
             7,
-            5
+            5,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时42分 ~ 15时24分]"
+          "appearance_count": 7,
+          "time_info": "[11时42分 ~ 16时33分]"
         },
         {
           "title": "复盘T1史诗级翻盘KT",
@@ -39,11 +40,12 @@
           "ranks": [
             11,
             18,
-            20
+            20,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时26分 ~ 15时24分]"
+          "appearance_count": 5,
+          "time_info": "[13时26分 ~ 16时33分]"
         },
         {
           "title": "张真源big guy卡点舞",
@@ -54,8 +56,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时38分 ~ 15时24分]"
+          "appearance_count": 3,
+          "time_info": "[14时38分 ~ 16时33分]"
         }
       ]
     }
