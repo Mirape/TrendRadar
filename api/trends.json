@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T01:22:27.032405+08:00",
-  "total_titles_processed": 352,
+  "generated_at": "2026-01-25T02:36:30.424981+08:00",
+  "total_titles_processed": 408,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 02时36分]"
         },
         {
           "title": "HLE战胜DNS赛后数据",
@@ -24,11 +24,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             15,
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 02时36分]"
         }
       ]
     }
