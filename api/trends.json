@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T18:27:05.155130+08:00",
-  "total_titles_processed": 1282,
+  "generated_at": "2026-01-24T19:22:20.094620+08:00",
+  "total_titles_processed": 1340,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时42分 ~ 18时27分]"
+          "appearance_count": 11,
+          "time_info": "[11时42分 ~ 19时22分]"
         },
         {
           "title": "T1战胜KT",
@@ -43,11 +43,12 @@
             18,
             20,
             17,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时26分 ~ 18时27分]"
+          "appearance_count": 9,
+          "time_info": "[13时26分 ~ 19时22分]"
         },
         {
           "title": "张真源big guy卡点舞",
@@ -58,8 +59,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时38分 ~ 18时27分]"
+          "appearance_count": 7,
+          "time_info": "[14时38分 ~ 19时22分]"
         },
         {
           "title": "“木头姐”年度重磅：ARK 2026 Big Idea",
@@ -70,8 +71,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时26分 ~ 18时27分]"
+          "appearance_count": 4,
+          "time_info": "[17时26分 ~ 19时22分]"
         }
       ]
     }
