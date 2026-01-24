@@ -1,93 +1,33 @@
 {
-  "generated_at": "2026-01-24T23:25:39.689255+08:00",
-  "total_titles_processed": 1588,
+  "generated_at": "2026-01-25T00:31:46.333739+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 6,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "如何看待《英雄联盟》官方采访证实韩服 93% 胜率神秘玩家实为 BRO 中单选手 Roamer？",
-          "url": "https://www.zhihu.com/question/1997136777593509389",
-          "source": "知乎",
-          "ranks": [
-            7,
-            5,
-            10,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时42分 ~ 19时22分]"
-        },
         {
           "title": "“木头姐”年度重磅：ARK 2026 Big Idea",
           "url": "https://wallstreetcn.com/articles/3764074",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时26分 ~ 23时25分]"
-        },
-        {
-          "title": "T1战胜KT",
-          "url": "https://www.douyin.com/hot/2377490",
-          "source": "抖音",
-          "ranks": [
-            12,
-            10,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时38分 ~ 07时26分]"
-        },
-        {
-          "title": "张真源big guy卡点舞",
-          "url": "https://www.douyin.com/hot/2378011",
-          "source": "抖音",
-          "ranks": [
-            26,
-            25,
-            27,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时38分 ~ 23时25分]"
-        },
-        {
-          "title": "复盘T1史诗级翻盘KT",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E7%9B%98T1%E5%8F%B2%E8%AF%97%E7%BA%A7%E7%BF%BB%E7%9B%98KT",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            18,
-            20,
-            17,
-            23,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时26分 ~ 19时22分]"
-        },
-        {
-          "title": "LOL新版本T1英雄榜单",
-          "url": "https://search.bilibili.com/all?keyword=LOL%E6%96%B0%E7%89%88%E6%9C%ACT1%E8%8B%B1%E9%9B%84%E6%A6%9C%E5%8D%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时34分"
+          "time_info": "00时31分"
+        },
+        {
+          "title": "HLE战胜DNS赛后数据",
+          "url": "https://search.bilibili.com/all?keyword=HLE%E6%88%98%E8%83%9CDNS%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时31分"
         }
       ]
     }
