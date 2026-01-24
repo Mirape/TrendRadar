@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-24T12:39:33.609924+08:00",
-  "total_titles_processed": 897,
+  "generated_at": "2026-01-24T13:27:03.357042+08:00",
+  "total_titles_processed": 936,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "T1战胜KT",
@@ -28,8 +28,19 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时42分 ~ 13时27分]"
+        },
+        {
+          "title": "复盘T1史诗级翻盘KT",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E7%9B%98T1%E5%8F%B2%E8%AF%97%E7%BA%A7%E7%BF%BB%E7%9B%98KT",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时42分 ~ 12时39分]"
+          "time_info": "[13时26分 ~ 13时27分]"
         }
       ]
     }
