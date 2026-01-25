@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-26T06:26:19.636512+08:00",
-  "total_titles_processed": 427,
+  "generated_at": "2026-01-26T07:26:00.389861+08:00",
+  "total_titles_processed": 472,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 06时26分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 07时26分]"
         },
         {
           "title": "TES零封IG",
@@ -24,11 +24,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             7,
-            4
+            4,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 06时26分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 07时26分]"
         },
         {
           "title": "T1战胜BFX取得四连胜",
@@ -37,11 +38,12 @@
           "ranks": [
             28,
             30,
-            27
+            27,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时21分 ~ 05时24分]"
+          "appearance_count": 6,
+          "time_info": "[03时21分 ~ 07时26分]"
         }
       ]
     }
