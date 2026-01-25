@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-26T01:22:38.955355+08:00",
-  "total_titles_processed": 337,
+  "generated_at": "2026-01-26T02:36:36.718362+08:00",
+  "total_titles_processed": 356,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 01时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 02时36分]"
         },
         {
           "title": "TES零封IG",
@@ -26,8 +26,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 01时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 02时36分]"
         }
       ]
     }
