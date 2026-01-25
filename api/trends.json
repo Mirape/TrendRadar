@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T14:39:21.691643+08:00",
-  "total_titles_processed": 825,
+  "generated_at": "2026-01-25T15:26:34.238974+08:00",
+  "total_titles_processed": 864,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时31分 ~ 14时39分]"
+          "appearance_count": 16,
+          "time_info": "[00时31分 ~ 15时26分]"
         },
         {
           "title": "HLE战胜DNS赛后数据",
