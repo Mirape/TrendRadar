@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T07:25:07.194501+08:00",
-  "total_titles_processed": 467,
+  "generated_at": "2026-01-25T10:20:52.617489+08:00",
+  "total_titles_processed": 605,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             4,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 07时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 10时20分]"
         },
         {
           "title": "HLE战胜DNS赛后数据",
@@ -31,11 +32,12 @@
             18,
             30,
             17,
-            20
+            20,
+            26
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 07时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 10时20分]"
         },
         {
           "title": "英雄联盟职业选手 Doinb 在 Dota2 中快速进化，这说明了他的哪些能力？",
