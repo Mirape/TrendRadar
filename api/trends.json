@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-26T22:34:41.874032+08:00",
-  "total_titles_processed": 1790,
+  "generated_at": "2026-01-26T23:35:33.332965+08:00",
+  "total_titles_processed": 1882,
   "failed_sources": [],
   "trends": [
     {
@@ -35,11 +35,12 @@
             19,
             22,
             23,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时31分 ~ 22时34分]"
+          "appearance_count": 26,
+          "time_info": "[00时31分 ~ 23时35分]"
         },
         {
           "title": "T1战胜BFX取得四连胜",
