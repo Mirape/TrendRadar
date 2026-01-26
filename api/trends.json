@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-26T13:36:27.707562+08:00",
-  "total_titles_processed": 891,
+  "generated_at": "2026-01-26T14:44:45.000467+08:00",
+  "total_titles_processed": 985,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "吊车尾之战,TES复仇IG",
@@ -14,11 +14,12 @@
           "ranks": [
             2,
             4,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时31分 ~ 13时36分]"
+          "appearance_count": 15,
+          "time_info": "[00时31分 ~ 14时44分]"
         },
         {
           "title": "TES零封IG",
@@ -47,6 +48,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[03时21分 ~ 10时13分]"
+        },
+        {
+          "title": "锐评T1战胜BFX",
+          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84T1%E6%88%98%E8%83%9CBFX",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时44分"
         }
       ]
     }
