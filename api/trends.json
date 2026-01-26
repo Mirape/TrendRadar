@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-26T10:13:52.904612+08:00",
-  "total_titles_processed": 635,
+  "generated_at": "2026-01-26T12:19:30.055786+08:00",
+  "total_titles_processed": 786,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             2,
-            4
+            4,
+            11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时31分 ~ 10时13分]"
+          "appearance_count": 13,
+          "time_info": "[00时31分 ~ 12时19分]"
         },
         {
           "title": "TES零封IG",
