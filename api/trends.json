@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-26T07:26:00.389861+08:00",
-  "total_titles_processed": 472,
+  "generated_at": "2026-01-26T10:13:52.904612+08:00",
+  "total_titles_processed": 635,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349648&amp;topic_name=%E5%90%8A%E8%BD%A6%E5%B0%BE%E4%B9%8B%E6%88%98%2CTES%E5%A4%8D%E4%BB%87IG",
           "source": "贴吧",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 07时26分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 10时13分]"
         },
         {
           "title": "TES零封IG",
@@ -39,11 +40,12 @@
             28,
             30,
             27,
-            26
+            26,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时21分 ~ 07时26分]"
+          "appearance_count": 7,
+          "time_info": "[03时21分 ~ 10时13分]"
         }
       ]
     }
