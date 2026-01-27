@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T02:46:20.595884+08:00",
-  "total_titles_processed": 455,
+  "generated_at": "2026-01-28T03:31:32.604623+08:00",
+  "total_titles_processed": 494,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://search.bilibili.com/all?keyword=AL%20IG",
           "source": "bilibili 热搜",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时37分 ~ 02时46分]"
+          "appearance_count": 5,
+          "time_info": "[00时37分 ~ 03时31分]"
         }
       ]
     }
