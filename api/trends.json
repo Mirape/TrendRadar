@@ -1,7 +1,9 @@
 {
-  "generated_at": "2026-01-30T22:39:25.124339+08:00",
-  "total_titles_processed": 2017,
-  "failed_sources": [],
+  "generated_at": "2026-01-30T23:45:04.178861+08:00",
+  "total_titles_processed": 2120,
+  "failed_sources": [
+    "douyin"
+  ],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
