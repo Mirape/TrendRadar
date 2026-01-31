@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-31T20:58:00.978223+08:00",
-  "total_titles_processed": 1358,
+  "generated_at": "2026-01-31T21:46:48.320751+08:00",
+  "total_titles_processed": 1406,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349974&amp;topic_name=T1%E5%AE%8C%E8%99%90DK%2CHLE%E6%BB%91%E5%90%91%E6%B7%98%E6%B1%B0%E8%BE%B9%E7%BC%98",
           "source": "贴吧",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时57分 ~ 20时58分]"
+          "appearance_count": 3,
+          "time_info": "[20时57分 ~ 21时46分]"
         },
         {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850455&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://flash-scdn.jin10.com/fd96b6fe-677f-47dc-b581-479d7d254553.png\" height=\"120\" /></a>",
@@ -40,19 +41,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时57分 ~ 20时58分]"
+          "appearance_count": 3,
+          "time_info": "[20时57分 ~ 21时46分]"
         },
         {
           "title": "T1 3:0 DK",
           "url": "https://www.douyin.com/hot/2385419",
           "source": "抖音",
           "ranks": [
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时57分 ~ 20时58分]"
+          "appearance_count": 3,
+          "time_info": "[20时57分 ~ 21时46分]"
         },
         {
           "title": "迪士尼董事会料将在下周表决下一任CEO。 现任CEO Iger已经将自己（合同期满之前）的提前离职打算告诉其他人。（华尔街日报）",
