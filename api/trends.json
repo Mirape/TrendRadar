@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-31T12:28:17.977340+08:00",
-  "total_titles_processed": 850,
+  "generated_at": "2026-01-31T13:41:56.489778+08:00",
+  "total_titles_processed": 903,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "迪士尼董事会料将在下周表决下一任CEO。 现任CEO Iger已经将自己（合同期满之前）的提前离职打算告诉其他人。（华尔街日报）",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时31分 ~ 07时31分]"
+        },
+        {
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850455&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://flash-scdn.jin10.com/fd96b6fe-677f-47dc-b581-479d7d254553.png\" height=\"120\" /></a>",
+          "url": "https://flash.jin10.com/detail/20260131123614314800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时41分"
         }
       ]
     }
