@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-31T22:29:24.595915+08:00",
-  "total_titles_processed": 1456,
+  "generated_at": "2026-01-31T23:30:00.036255+08:00",
+  "total_titles_processed": 1495,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "T1完虐DK,HLE滑向淘汰边缘",
@@ -13,22 +13,23 @@
           "source": "贴吧",
           "ranks": [
             5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时57分 ~ 22时29分]"
-        },
-        {
-          "title": "BLG vs IG LPL第一赛段",
-          "url": "https://search.bilibili.com/all?keyword=BLG%20IG",
-          "source": "bilibili 热搜",
-          "ranks": [
+            4,
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时57分 ~ 22时29分]"
+          "appearance_count": 5,
+          "time_info": "[20时57分 ~ 23时29分]"
+        },
+        {
+          "title": "闹剧结束,BLG横扫IG止连败",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349981&amp;topic_name=%E9%97%B9%E5%89%A7%E7%BB%93%E6%9D%9F%2CBLG%E6%A8%AA%E6%89%ABIG%E6%AD%A2%E8%BF%9E%E8%B4%A5",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "T1 3:0 DK",
@@ -37,6 +38,17 @@
           "ranks": [
             6,
             8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时57分 ~ 23时29分]"
+        },
+        {
+          "title": "BLG vs IG LPL第一赛段",
+          "url": "https://search.bilibili.com/all?keyword=BLG%20IG",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -67,6 +79,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时31分 ~ 07时31分]"
+        },
+        {
+          "title": "BLG战胜IG LPL第一赛段",
+          "url": "https://search.bilibili.com/all?keyword=BLG%20IG",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         }
       ]
     }
