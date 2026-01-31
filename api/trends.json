@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-01T06:28:36.196459+08:00",
-  "total_titles_processed": 397,
+  "generated_at": "2026-02-01T07:28:34.526727+08:00",
+  "total_titles_processed": 411,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 06时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 07时28分]"
         },
         {
           "title": "T1完虐DK,HLE滑向淘汰边缘",
@@ -27,20 +27,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 06时28分]"
-        },
-        {
-          "title": "T1 3:0 DK",
-          "url": "https://www.douyin.com/hot/2385419",
-          "source": "抖音",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 06时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 07时28分]"
         },
         {
           "title": "BLG战胜IG LPL第一赛段",
@@ -52,8 +40,21 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 06时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 07时28分]"
+        },
+        {
+          "title": "T1 3:0 DK",
+          "url": "https://www.douyin.com/hot/2385419",
+          "source": "抖音",
+          "ranks": [
+            8,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 07时28分]"
         }
       ]
     }
