@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-31T15:33:45.134963+08:00",
-  "total_titles_processed": 1012,
+  "generated_at": "2026-01-31T16:37:06.305356+08:00",
+  "total_titles_processed": 1075,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             6,
             12,
-            18
+            18,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时41分 ~ 15时33分]"
+          "appearance_count": 4,
+          "time_info": "[13时41分 ~ 16时37分]"
         },
         {
           "title": "迪士尼董事会料将在下周表决下一任CEO。 现任CEO Iger已经将自己（合同期满之前）的提前离职打算告诉其他人。（华尔街日报）",
