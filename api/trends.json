@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-01T00:35:22.484501+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-02-01T01:29:00.195606+08:00",
+  "total_titles_processed": 333,
   "failed_sources": [],
   "trends": [
     {
@@ -15,41 +15,44 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
-        },
-        {
-          "title": "BLG战胜IG LPL第一赛段",
-          "url": "https://search.bilibili.com/all?keyword=BLG%20IG",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
+          "appearance_count": 3,
+          "time_info": "[00时35分 ~ 01时29分]"
         },
         {
           "title": "T1完虐DK,HLE滑向淘汰边缘",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349974&amp;topic_name=T1%E5%AE%8C%E8%99%90DK%2CHLE%E6%BB%91%E5%90%91%E6%B7%98%E6%B1%B0%E8%BE%B9%E7%BC%98",
           "source": "贴吧",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
+          "appearance_count": 3,
+          "time_info": "[00时35分 ~ 01时29分]"
+        },
+        {
+          "title": "BLG战胜IG LPL第一赛段",
+          "url": "https://search.bilibili.com/all?keyword=BLG%20IG",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时35分 ~ 01时29分]"
         },
         {
           "title": "T1 3:0 DK",
           "url": "https://www.douyin.com/hot/2385419",
           "source": "抖音",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
+          "appearance_count": 3,
+          "time_info": "[00时35分 ~ 01时29分]"
         }
       ]
     }
