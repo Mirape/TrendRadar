@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-01T02:39:42.274213+08:00",
-  "total_titles_processed": 353,
+  "generated_at": "2026-02-01T03:25:19.139092+08:00",
+  "total_titles_processed": 364,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时35分 ~ 02时39分]"
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 03时25分]"
         },
         {
           "title": "T1完虐DK,HLE滑向淘汰边缘",
@@ -27,8 +27,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时35分 ~ 02时39分]"
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 03时25分]"
         },
         {
           "title": "T1 3:0 DK",
@@ -39,8 +39,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时35分 ~ 02时39分]"
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 03时25分]"
         },
         {
           "title": "BLG战胜IG LPL第一赛段",
@@ -52,8 +52,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时35分 ~ 02时39分]"
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 03时25分]"
         }
       ]
     }
