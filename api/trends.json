@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-02-02T01:29:21.378988+08:00",
-  "total_titles_processed": 343,
+  "generated_at": "2026-02-02T02:42:03.324857+08:00",
+  "total_titles_processed": 356,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "iG S赛 英雄联盟 T1",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "何润东cos赛伊德",
+          "url": "https://www.douyin.com/hot/2386394",
+          "source": "抖音",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时41分 ~ 02时42分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://github.com/Mirape/TrendRadar/img/news.jpg"
 }
