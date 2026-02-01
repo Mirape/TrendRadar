@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-01T10:48:16.619093+08:00",
-  "total_titles_processed": 576,
+  "generated_at": "2026-02-01T13:05:39.942341+08:00",
+  "total_titles_processed": 685,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "闹剧结束,BLG横扫IG止连败",
@@ -13,24 +13,12 @@
           "source": "贴吧",
           "ranks": [
             3,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时35分 ~ 10时48分]"
-        },
-        {
-          "title": "T1完虐DK,HLE滑向淘汰边缘",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349974&amp;topic_name=T1%E5%AE%8C%E8%99%90DK%2CHLE%E6%BB%91%E5%90%91%E6%B7%98%E6%B1%B0%E8%BE%B9%E7%BC%98",
-          "source": "贴吧",
-          "ranks": [
             7,
-            8,
-            14
+            12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时35分 ~ 10时48分]"
+          "appearance_count": 12,
+          "time_info": "[00时35分 ~ 13时05分]"
         },
         {
           "title": "BLG战胜IG LPL第一赛段",
@@ -46,6 +34,20 @@
           "time_info": "[00时35分 ~ 07时28分]"
         },
         {
+          "title": "T1完虐DK,HLE滑向淘汰边缘",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349974&amp;topic_name=T1%E5%AE%8C%E8%99%90DK%2CHLE%E6%BB%91%E5%90%91%E6%B7%98%E6%B1%B0%E8%BE%B9%E7%BC%98",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            8,
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时35分 ~ 13时05分]"
+        },
+        {
           "title": "T1 3:0 DK",
           "url": "https://www.douyin.com/hot/2385419",
           "source": "抖音",
@@ -57,6 +59,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时35分 ~ 07时28分]"
+        },
+        {
+          "title": "锐评T1横扫DK",
+          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84T1%E6%A8%AA%E6%89%ABDK",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
         }
       ]
     }
