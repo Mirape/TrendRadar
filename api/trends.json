@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-01T07:28:34.526727+08:00",
-  "total_titles_processed": 411,
+  "generated_at": "2026-02-01T10:48:16.619093+08:00",
+  "total_titles_processed": 576,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349981&amp;topic_name=%E9%97%B9%E5%89%A7%E7%BB%93%E6%9D%9F%2CBLG%E6%A8%AA%E6%89%ABIG%E6%AD%A2%E8%BF%9E%E8%B4%A5",
           "source": "贴吧",
           "ranks": [
-            3
+            3,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时35分 ~ 07时28分]"
+          "appearance_count": 11,
+          "time_info": "[00时35分 ~ 10时48分]"
         },
         {
           "title": "T1完虐DK,HLE滑向淘汰边缘",
@@ -24,11 +25,12 @@
           "source": "贴吧",
           "ranks": [
             7,
-            8
+            8,
+            14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时35分 ~ 07时28分]"
+          "appearance_count": 11,
+          "time_info": "[00时35分 ~ 10时48分]"
         },
         {
           "title": "BLG战胜IG LPL第一赛段",
