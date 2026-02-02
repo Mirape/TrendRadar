@@ -1,50 +1,7 @@
 {
-  "generated_at": "2026-02-02T23:41:45.180163+08:00",
-  "total_titles_processed": 1698,
+  "generated_at": "2026-02-03T00:48:22.800922+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "何润东cos赛伊德",
-          "url": "https://www.douyin.com/hot/2386394",
-          "source": "抖音",
-          "ranks": [
-            29,
-            25,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时41分 ~ 13时01分]"
-        },
-        {
-          "title": "明星版Big Guy手势舞",
-          "url": "https://www.douyin.com/hot/2387297",
-          "source": "抖音",
-          "ranks": [
-            25,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时57分 ~ 18时54分]"
-        },
-        {
-          "title": "<a href=\"https://www.tradinghero.com/\" target=\"_blank\"><img src=\"https://flash-scdn.jin10.com/9f80725b-076d-4ee8-ac1f-4b4dc71a15f2.jpg\" height=\"120\" /></a>",
-          "url": "https://flash.jin10.com/detail/20260202143414461800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时08分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://github.com/Mirape/TrendRadar/img/news.jpg"
 }
