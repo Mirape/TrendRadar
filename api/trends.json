@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-02T17:57:34.124466+08:00",
-  "total_titles_processed": 1202,
+  "generated_at": "2026-02-02T18:54:04.752024+08:00",
+  "total_titles_processed": 1295,
   "failed_sources": [],
   "trends": [
     {
@@ -21,6 +21,18 @@
           "time_info": "[02时41分 ~ 13时01分]"
         },
         {
+          "title": "明星版Big Guy手势舞",
+          "url": "https://www.douyin.com/hot/2387297",
+          "source": "抖音",
+          "ranks": [
+            25,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时57分 ~ 18时54分]"
+        },
+        {
           "title": "<a href=\"https://www.tradinghero.com/\" target=\"_blank\"><img src=\"https://flash-scdn.jin10.com/9f80725b-076d-4ee8-ac1f-4b4dc71a15f2.jpg\" height=\"120\" /></a>",
           "url": "https://flash.jin10.com/detail/20260202143414461800",
           "source": "金十数据",
@@ -30,17 +42,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时08分"
-        },
-        {
-          "title": "明星版Big Guy手势舞",
-          "url": "https://www.douyin.com/hot/2387297",
-          "source": "抖音",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时57分"
         }
       ]
     }
