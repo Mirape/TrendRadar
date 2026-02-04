@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-04T12:44:38.315432+08:00",
-  "total_titles_processed": 1038,
+  "generated_at": "2026-02-04T13:53:54.204579+08:00",
+  "total_titles_processed": 1124,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             5,
             9,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时59分 ~ 12时44分]"
+          "appearance_count": 11,
+          "time_info": "[00时59分 ~ 13时53分]"
         },
         {
           "title": "JDG战胜IG LPL第一赛段",
