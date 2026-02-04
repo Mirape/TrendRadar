@@ -1,63 +1,22 @@
 {
-  "generated_at": "2026-02-04T23:50:50.433169+08:00",
-  "total_titles_processed": 2103,
+  "generated_at": "2026-02-05T00:56:24.799562+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
         {
-          "title": "JDG打破质疑!让一追二翻盘IG",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350158&amp;topic_name=JDG%E6%89%93%E7%A0%B4%E8%B4%A8%E7%96%91%21%E8%AE%A9%E4%B8%80%E8%BF%BD%E4%BA%8C%E7%BF%BB%E7%9B%98IG",
-          "source": "贴吧",
+          "title": "Cerebras Systems完成H轮融资，按大约230亿美元估值募集10亿美元。 本轮投资由Tiger Global领投，Benchmark、Fidelity Management & Research Company、Atreides Management、Alpha Wave Global、Altimeter、AMD、Coatue、以及1789 Capital等参与。",
+          "url": "https://wallstreetcn.com/livenews/3050004",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
-            9,
-            17,
-            18,
-            22,
-            24,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时59分 ~ 19时37分]"
-        },
-        {
-          "title": "JDG战胜IG LPL第一赛段",
-          "url": "https://search.bilibili.com/all?keyword=IG%20JDG",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 05时40分]"
-        },
-        {
-          "title": "澳大利亚12月AIG/PWC制造业表现指数 -19.4，前值-18。",
-          "url": "https://flash.jin10.com/detail/20260204060002235800",
-          "source": "金十数据",
-          "ranks": [
-            21
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时35分"
-        },
-        {
-          "title": "澳大利亚12月AIG建筑业表现指数 5.2，前值-18.7。",
-          "url": "https://flash.jin10.com/detail/20260204060002188800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时35分"
+          "time_info": "00时56分"
         }
       ]
     }
