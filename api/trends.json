@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-04T07:38:12.759462+08:00",
-  "total_titles_processed": 691,
+  "generated_at": "2026-02-04T10:28:55.392859+08:00",
+  "total_titles_processed": 876,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350158&amp;topic_name=JDG%E6%89%93%E7%A0%B4%E8%B4%A8%E7%96%91%21%E8%AE%A9%E4%B8%80%E8%BF%BD%E4%BA%8C%E7%BF%BB%E7%9B%98IG",
           "source": "贴吧",
           "ranks": [
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时59分 ~ 07时38分]"
+          "appearance_count": 9,
+          "time_info": "[00时59分 ~ 10时28分]"
         },
         {
           "title": "JDG战胜IG LPL第一赛段",
