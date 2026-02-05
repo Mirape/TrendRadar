@@ -1,38 +1,7 @@
 {
-  "generated_at": "2026-02-05T23:46:34.718408+08:00",
-  "total_titles_processed": 2018,
+  "generated_at": "2026-02-06T00:57:00.970471+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "Cerebras Systems完成H轮融资，按大约230亿美元估值募集10亿美元。 本轮投资由Tiger Global领投，Benchmark、Fidelity Management & Research Company、Atreides Management、Alpha Wave Global、Altimeter、AMD、Coatue、以及1789 Capital等参与。",
-          "url": "https://wallstreetcn.com/livenews/3050004",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
-        },
-        {
-          "title": "如何评价《英雄联盟》「海克斯大乱斗」2.0 版本更新？",
-          "url": "https://www.zhihu.com/question/2002556140484073458",
-          "source": "知乎",
-          "ranks": [
-            14,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时52分 ~ 19时39分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://github.com/Mirape/TrendRadar/img/news.jpg"
 }
