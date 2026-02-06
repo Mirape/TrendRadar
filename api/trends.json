@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-02-06T17:51:27.315184+08:00",
-  "total_titles_processed": 1468,
+  "generated_at": "2026-02-06T18:45:42.636802+08:00",
+  "total_titles_processed": 1567,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
-          "title": "WBG战胜IG",
-          "url": "https://search.bilibili.com/all?keyword=IG%20WBG",
-          "source": "bilibili 热搜",
+          "title": "IG摆烂成瘾,WBG捡漏晋级",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350337&amp;topic_name=IG%E6%91%86%E7%83%82%E6%88%90%E7%98%BE%2CWBG%E6%8D%A1%E6%BC%8F%E6%99%8B%E7%BA%A7",
+          "source": "贴吧",
           "ranks": [
-            4
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时51分"
+          "time_info": "18时45分"
         },
         {
           "title": "摩根大通Nikolaos Panigirtzoglou等策略师认为：长期而言，比特币较黄金更具有（投资）魅力。",
@@ -28,6 +28,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
+        },
+        {
+          "title": "WBG战胜IG",
+          "url": "https://search.bilibili.com/all?keyword=IG%20WBG",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时51分 ~ 18时45分]"
         },
         {
           "title": "IG vs WBG LPL第一赛段",
