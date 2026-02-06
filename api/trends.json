@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T04:39:51.856741+08:00",
-  "total_titles_processed": 541,
+  "generated_at": "2026-02-07T05:36:37.352394+08:00",
+  "total_titles_processed": 575,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时53分 ~ 04时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时53分 ~ 05时36分]"
         },
         {
           "title": "美国能源部长Wright：委内瑞拉“完全”可以达到每天超过100万桶的产量，并在此基础上扩大规模。",
@@ -24,11 +24,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            7
+            7,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时41分 ~ 04时39分]"
+          "appearance_count": 3,
+          "time_info": "[03时41分 ~ 05时36分]"
         },
         {
           "title": "WBG战胜IG",
