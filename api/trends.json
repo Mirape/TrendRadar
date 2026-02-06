@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-07T01:46:09.539609+08:00",
-  "total_titles_processed": 378,
+  "generated_at": "2026-02-07T02:58:09.711712+08:00",
+  "total_titles_processed": 454,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "IG摆烂成瘾,WBG捡漏晋级",
@@ -15,8 +15,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时53分 ~ 01时46分]"
+          "appearance_count": 5,
+          "time_info": "[00时53分 ~ 02时58分]"
         },
         {
           "title": "WBG战胜IG",
@@ -41,6 +41,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时53分 ~ 01时46分]"
+        },
+        {
+          "title": "Gen Digital首席执行官：在人工智能威胁之下，消费者既需要网络安全工具，也需要个人理财工具。",
+          "url": "https://flash.jin10.com/detail/20260207023122582800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
+        },
+        {
+          "title": "Gen Digital首席执行官：由于人工智能的兴起，网络安全威胁正变得日益复杂。",
+          "url": "https://flash.jin10.com/detail/20260207023110526800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
+        },
+        {
+          "title": "Gen Digital首席执行官：个人金融产品有助于我们与苹果(AAPL.O)以及微软(MSFT.O)内置的网络安全功能展开竞争。",
+          "url": "https://flash.jin10.com/detail/20260207023101423800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
         }
       ]
     }
