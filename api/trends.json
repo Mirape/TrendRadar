@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T06:31:07.381851+08:00",
-  "total_titles_processed": 598,
+  "generated_at": "2026-02-07T07:31:56.887998+08:00",
+  "total_titles_processed": 628,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350337&amp;topic_name=IG%E6%91%86%E7%83%82%E6%88%90%E7%98%BE%2CWBG%E6%8D%A1%E6%BC%8F%E6%99%8B%E7%BA%A7",
           "source": "贴吧",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时53分 ~ 06时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时53分 ~ 07时31分]"
         },
         {
           "title": "美国能源部长Wright：委内瑞拉“完全”可以达到每天超过100万桶的产量，并在此基础上扩大规模。",
