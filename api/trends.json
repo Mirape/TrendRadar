@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T07:31:56.887998+08:00",
-  "total_titles_processed": 628,
+  "generated_at": "2026-02-07T10:26:36.652961+08:00",
+  "total_titles_processed": 790,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             12,
-            11
+            11,
+            17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时53分 ~ 07时31分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 10时26分]"
         },
         {
           "title": "美国能源部长Wright：委内瑞拉“完全”可以达到每天超过100万桶的产量，并在此基础上扩大规模。",
@@ -39,11 +40,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             24,
-            28
+            28,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时53分 ~ 01时46分]"
+          "appearance_count": 4,
+          "time_info": "[00时53分 ~ 10时26分]"
         },
         {
           "title": "Gen Digital首席执行官：在人工智能威胁之下，消费者既需要网络安全工具，也需要个人理财工具。",
