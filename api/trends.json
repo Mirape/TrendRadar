@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-07T19:27:23.408228+08:00",
-  "total_titles_processed": 1300,
+  "generated_at": "2026-02-07T20:59:13.213085+08:00",
+  "total_titles_processed": 1388,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "IG摆烂成瘾,WBG捡漏晋级",
@@ -124,6 +124,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时53分 ~ 01时46分]"
+        },
+        {
+          "title": "徐明浩3条iG创造了360万美元价值",
+          "url": "https://s.weibo.com/weibo?q=%E5%BE%90%E6%98%8E%E6%B5%A93%E6%9D%A1iG%E5%88%9B%E9%80%A0%E4%BA%86360%E4%B8%87%E7%BE%8E%E5%85%83%E4%BB%B7%E5%80%BC&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时58分 ~ 20时59分]"
         }
       ]
     }
