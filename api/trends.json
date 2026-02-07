@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T10:26:36.652961+08:00",
-  "total_titles_processed": 790,
+  "generated_at": "2026-02-07T12:42:00.170050+08:00",
+  "total_titles_processed": 900,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             12,
             11,
-            17
+            17,
+            28
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时53分 ~ 10时26分]"
+          "appearance_count": 14,
+          "time_info": "[00时53分 ~ 12时42分]"
         },
         {
           "title": "美国能源部长Wright：委内瑞拉“完全”可以达到每天超过100万桶的产量，并在此基础上扩大规模。",
