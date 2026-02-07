@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T15:35:56.055764+08:00",
-  "total_titles_processed": 1054,
+  "generated_at": "2026-02-07T16:38:57.099560+08:00",
+  "total_titles_processed": 1111,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,40 @@
             12,
             11,
             17,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时53分 ~ 15时35分]"
+          "appearance_count": 18,
+          "time_info": "[00时53分 ~ 16时38分]"
+        },
+        {
+          "title": "据实时航班追踪网站FLIGHTRADAR24：波兰东部城市卢布林（空中）管制区/终端管制区因涉及国家安全的计划外军事活动暂时不可用。",
+          "url": "https://flash.jin10.com/detail/20260207125140342800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            7,
+            9,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时47分 ~ 16时38分]"
+        },
+        {
+          "title": "据实时航班追踪网站FLIGHTRADAR24：波兰东南部空域在过去几小时内再次关闭。",
+          "url": "https://flash.jin10.com/detail/20260207125034742800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            8,
+            10,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时47分 ~ 16时38分]"
         },
         {
           "title": "美国能源部长Wright：委内瑞拉“完全”可以达到每天超过100万桶的产量，并在此基础上扩大规模。",
@@ -34,32 +63,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时41分 ~ 06时31分]"
-        },
-        {
-          "title": "据实时航班追踪网站FLIGHTRADAR24：波兰东部城市卢布林（空中）管制区/终端管制区因涉及国家安全的计划外军事活动暂时不可用。",
-          "url": "https://flash.jin10.com/detail/20260207125140342800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时47分 ~ 15时35分]"
-        },
-        {
-          "title": "据实时航班追踪网站FLIGHTRADAR24：波兰东南部空域在过去几小时内再次关闭。",
-          "url": "https://flash.jin10.com/detail/20260207125034742800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时47分 ~ 15时35分]"
         },
         {
           "title": "WBG战胜IG",
