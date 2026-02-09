@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-09T21:31:49.150030+08:00",
-  "total_titles_processed": 1482,
+  "generated_at": "2026-02-09T23:05:37.363833+08:00",
+  "total_titles_processed": 1619,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             5,
             2,
-            7
+            7,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时20分 ~ 21时31分]"
+          "appearance_count": 5,
+          "time_info": "[18时20分 ~ 23时05分]"
         },
         {
           "title": "IG vs NIP LPL骑士之路",
@@ -26,11 +27,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             1,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时50分 ~ 21时31分]"
+          "appearance_count": 3,
+          "time_info": "[19时50分 ~ 23时05分]"
         },
         {
           "title": "为什么《英雄联盟》比赛只有「4396」这个数字成的梗最出名？",
