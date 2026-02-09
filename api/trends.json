@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-02-10T00:04:14.955119+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-10T01:53:39.172412+08:00",
+  "total_titles_processed": 421,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
-          "title": "NIP战胜IG",
-          "url": "https://search.bilibili.com/all?keyword=IG%20NIP",
-          "source": "bilibili 热搜",
+          "title": "本质涅槃?IG遭NIP血虐",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350461&amp;topic_name=%E6%9C%AC%E8%B4%A8%E6%B6%85%E6%A7%83%3FIG%E9%81%ADNIP%E8%A1%80%E8%99%90",
+          "source": "贴吧",
           "ranks": [
-            6
+            2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时04分"
+          "time_info": "01时53分"
         },
         {
           "title": "AIGC整活新春联欢会",
@@ -24,6 +24,17 @@
           "source": "bilibili 热搜",
           "ranks": [
             16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时04分 ~ 01时53分]"
+        },
+        {
+          "title": "NIP战胜IG",
+          "url": "https://search.bilibili.com/all?keyword=IG%20NIP",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
