@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-10T04:46:33.210561+08:00",
-  "total_titles_processed": 552,
+  "generated_at": "2026-02-10T05:43:47.368147+08:00",
+  "total_titles_processed": 605,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时53分 ~ 04时46分]"
+          "appearance_count": 4,
+          "time_info": "[01时53分 ~ 05时43分]"
         },
         {
           "title": "AIGC整活新春联欢会",
@@ -25,11 +25,12 @@
           "ranks": [
             16,
             12,
-            25
+            25,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时04分 ~ 04时46分]"
+          "appearance_count": 5,
+          "time_info": "[00时04分 ~ 05时43分]"
         },
         {
           "title": "NIP战胜IG",
