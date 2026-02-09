@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-09T19:50:52.256244+08:00",
-  "total_titles_processed": 1347,
+  "generated_at": "2026-02-09T21:31:49.150030+08:00",
+  "total_titles_processed": 1482,
   "failed_sources": [],
   "trends": [
     {
@@ -13,33 +13,36 @@
           "source": "bilibili 热搜",
           "ranks": [
             5,
-            2
+            2,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时20分 ~ 19时50分]"
+          "appearance_count": 4,
+          "time_info": "[18时20分 ~ 21时31分]"
         },
         {
           "title": "IG vs NIP LPL骑士之路",
           "url": "https://search.bilibili.com/all?keyword=IG%20NIP",
           "source": "bilibili 热搜",
           "ranks": [
-            1
+            1,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时50分 ~ 21时31分]"
         },
         {
           "title": "为什么《英雄联盟》比赛只有「4396」这个数字成的梗最出名？",
           "url": "https://www.zhihu.com/question/1891064971137364725",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时20分 ~ 19时50分]"
+          "appearance_count": 4,
+          "time_info": "[18时20分 ~ 21时31分]"
         },
         {
           "title": "为什么《英雄联盟》不设置个 6 级自动学习大招？",
