@@ -1,61 +1,33 @@
 {
-  "generated_at": "2026-02-09T23:05:37.363833+08:00",
-  "total_titles_processed": 1619,
+  "generated_at": "2026-02-10T00:04:14.955119+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 4,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "NIP战胜IG",
+          "url": "https://search.bilibili.com/all?keyword=IG%20NIP",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时04分"
+        },
         {
           "title": "AIGC整活新春联欢会",
           "url": "https://search.bilibili.com/all?keyword=AIGC%E6%95%B4%E6%B4%BB%E6%96%B0%E6%98%A5%E8%81%94%E6%AC%A2%E4%BC%9A",
           "source": "bilibili 热搜",
           "ranks": [
-            5,
-            2,
-            7,
-            15
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时20分 ~ 23时05分]"
-        },
-        {
-          "title": "IG vs NIP LPL骑士之路",
-          "url": "https://search.bilibili.com/all?keyword=IG%20NIP",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时50分 ~ 23时05分]"
-        },
-        {
-          "title": "为什么《英雄联盟》比赛只有「4396」这个数字成的梗最出名？",
-          "url": "https://www.zhihu.com/question/1891064971137364725",
-          "source": "知乎",
-          "ranks": [
-            9,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时20分 ~ 21时31分]"
-        },
-        {
-          "title": "为什么《英雄联盟》不设置个 6 级自动学习大招？",
-          "url": "https://www.zhihu.com/question/1914879505941636870",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 18时21分]"
+          "appearance_count": 1,
+          "time_info": "00时04分"
         }
       ]
     }
