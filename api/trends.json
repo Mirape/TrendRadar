@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-10T07:42:33.171210+08:00",
-  "total_titles_processed": 708,
+  "generated_at": "2026-02-10T10:47:10.151180+08:00",
+  "total_titles_processed": 889,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350461&amp;topic_name=%E6%9C%AC%E8%B4%A8%E6%B6%85%E6%A7%83%3FIG%E9%81%ADNIP%E8%A1%80%E8%99%90",
           "source": "贴吧",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时53分 ~ 07时42分]"
+          "appearance_count": 8,
+          "time_info": "[01时53分 ~ 10时47分]"
         },
         {
           "title": "AIGC整活新春联欢会",
@@ -28,11 +29,12 @@
             25,
             23,
             13,
-            26
+            26,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时04分 ~ 07时42分]"
+          "appearance_count": 9,
+          "time_info": "[00时04分 ~ 10时47分]"
         },
         {
           "title": "NIP战胜IG",
