@@ -1,57 +1,33 @@
 {
-  "generated_at": "2026-02-10T23:04:15.093221+08:00",
-  "total_titles_processed": 1810,
+  "generated_at": "2026-02-11T01:07:27.903253+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 3,
+      "match_count": 2,
       "titles": [
         {
           "title": "本质涅槃?IG遭NIP血虐",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350461&amp;topic_name=%E6%9C%AC%E8%B4%A8%E6%B6%85%E6%A7%83%3FIG%E9%81%ADNIP%E8%A1%80%E8%99%90",
           "source": "贴吧",
           "ranks": [
-            2,
-            4,
-            11,
-            12,
-            17,
             18
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时53分 ~ 23时04分]"
+          "appearance_count": 1,
+          "time_info": "01时07分"
         },
         {
-          "title": "AIGC整活新春联欢会",
-          "url": "https://search.bilibili.com/all?keyword=AIGC%E6%95%B4%E6%B4%BB%E6%96%B0%E6%98%A5%E8%81%94%E6%AC%A2%E4%BC%9A",
-          "source": "bilibili 热搜",
+          "title": "市场消息：特斯拉(TSLA.O)证实向员工发出备忘录，并对一名外部IG金属工会代表提出投诉。",
+          "url": "https://flash.jin10.com/detail/20260211001802280800",
+          "source": "金十数据",
           "ranks": [
-            16,
-            12,
-            25,
-            23,
-            13,
-            26,
-            14,
-            10,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时04分 ~ 17时02分]"
-        },
-        {
-          "title": "NIP战胜IG",
-          "url": "https://search.bilibili.com/all?keyword=IG%20NIP",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时04分"
+          "time_info": "01时07分"
         }
       ]
     }
