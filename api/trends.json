@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-11T03:12:47.318744+08:00",
-  "total_titles_processed": 397,
+  "generated_at": "2026-02-11T04:51:24.265876+08:00",
+  "total_titles_processed": 468,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时07分 ~ 03时12分]"
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 04时51分]"
         },
         {
           "title": "Lightspark Group的CEO David Marcus：（美国）政府应该将黄金储备转换为比特币。（彭博电视）",
@@ -26,7 +26,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
         },
