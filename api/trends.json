@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-11T21:21:06.541102+08:00",
-  "total_titles_processed": 1598,
+  "generated_at": "2026-02-11T22:59:32.166646+08:00",
+  "total_titles_processed": 1734,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             4,
             10,
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时55分 ~ 21时21分]"
+          "appearance_count": 9,
+          "time_info": "[16时55分 ~ 22时59分]"
         },
         {
           "title": "本质涅槃?IG遭NIP血虐",
