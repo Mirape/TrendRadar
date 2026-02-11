@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-02-11T19:54:08.272634+08:00",
-  "total_titles_processed": 1476,
+  "generated_at": "2026-02-11T21:21:06.541102+08:00",
+  "total_titles_processed": 1598,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
       "match_count": 8,
       "titles": [
+        {
+          "title": "IG零封OMG",
+          "url": "https://search.bilibili.com/all?keyword=IG%20OMG",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            10,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时55分 ~ 21时21分]"
+        },
         {
           "title": "本质涅槃?IG遭NIP血虐",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350461&amp;topic_name=%E6%9C%AC%E8%B4%A8%E6%B6%85%E6%A7%83%3FIG%E9%81%ADNIP%E8%A1%80%E8%99%90",
@@ -24,18 +37,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[01时07分 ~ 19时01分]"
-        },
-        {
-          "title": "IG零封OMG",
-          "url": "https://search.bilibili.com/all?keyword=IG%20OMG",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时55分 ~ 19时54分]"
         },
         {
           "title": "IG vs OMG LPL骑士之路",
