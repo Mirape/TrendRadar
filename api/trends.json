@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-11T19:01:33.493863+08:00",
-  "total_titles_processed": 1399,
+  "generated_at": "2026-02-11T19:54:08.272634+08:00",
+  "total_titles_processed": 1476,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "本质涅槃?IG遭NIP血虐",
@@ -34,8 +34,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时55分 ~ 19时01分]"
+          "appearance_count": 6,
+          "time_info": "[16时55分 ~ 19时54分]"
         },
         {
           "title": "IG vs OMG LPL骑士之路",
@@ -61,6 +61,17 @@
           "time_info": "[16时55分 ~ 19时01分]"
         },
         {
+          "title": "IG零封OMG",
+          "url": "https://www.douyin.com/hot/2397326",
+          "source": "抖音",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时53分 ~ 19时54分]"
+        },
+        {
           "title": "Lightspark Group的CEO David Marcus：（美国）政府应该将黄金储备转换为比特币。（彭博电视）",
           "url": "https://wallstreetcn.com/livenews/3053182",
           "source": "华尔街见闻-快讯",
@@ -78,7 +89,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时01分"
         },
