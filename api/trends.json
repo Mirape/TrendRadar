@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-11T16:56:12.234349+08:00",
-  "total_titles_processed": 1195,
+  "generated_at": "2026-02-11T17:59:15.435166+08:00",
+  "total_titles_processed": 1301,
   "failed_sources": [],
   "trends": [
     {
@@ -17,22 +17,12 @@
             17,
             23,
             24,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时07分 ~ 16时56分]"
-        },
-        {
-          "title": "IG零封OMG",
-          "url": "https://search.bilibili.com/all?keyword=IG%20OMG",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时55分 ~ 16时56分]"
+          "appearance_count": 13,
+          "time_info": "[01时07分 ~ 17时59分]"
         },
         {
           "title": "IG vs OMG LPL骑士之路",
@@ -46,6 +36,18 @@
           "time_info": "15时08分"
         },
         {
+          "title": "IG零封OMG",
+          "url": "https://search.bilibili.com/all?keyword=IG%20OMG",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时55分 ~ 17时59分]"
+        },
+        {
           "title": "如何看待《黑神话：悟空》制作人冯骥谈即梦 Seedance 2.0「AIGC 的童年时代，结束了」？",
           "url": "https://www.zhihu.com/question/2004509950915868142",
           "source": "知乎",
@@ -53,8 +55,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时55分 ~ 16时56分]"
+          "appearance_count": 3,
+          "time_info": "[16时55分 ~ 17时59分]"
         },
         {
           "title": "Lightspark Group的CEO David Marcus：（美国）政府应该将黄金储备转换为比特币。（彭博电视）",
