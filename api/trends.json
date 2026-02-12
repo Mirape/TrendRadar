@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-12T10:39:32.032525+08:00",
-  "total_titles_processed": 908,
+  "generated_at": "2026-02-12T13:02:26.002607+08:00",
+  "total_titles_processed": 1061,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "喵喵的结合获IGN9分",
@@ -69,13 +69,25 @@
           "time_info": "[03时17分 ~ 04时44分]"
         },
         {
+          "title": "随时随地bigguy起来",
+          "url": "https://www.douyin.com/hot/2397659",
+          "source": "抖音",
+          "ranks": [
+            23,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时39分 ~ 13时02分]"
+        },
+        {
           "title": "IG零封OMG",
           "url": "https://search.bilibili.com/all?keyword=IG%20OMG",
           "source": "bilibili 热搜",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
         },
@@ -124,15 +136,15 @@
           "time_info": "07时38分"
         },
         {
-          "title": "随时随地bigguy起来",
-          "url": "https://www.douyin.com/hot/2397659",
+          "title": "IG零封OMG",
+          "url": "https://www.douyin.com/hot/2397326",
           "source": "抖音",
           "ranks": [
-            23
+            25
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时39分"
+          "time_info": "13时02分"
         },
         {
           "title": "美国能源部长Wright：在委内瑞拉的日程是会见该国领导人，构建（两国之间的）关系。",
