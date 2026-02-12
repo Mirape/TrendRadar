@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-12T13:02:26.002607+08:00",
-  "total_titles_processed": 1061,
+  "generated_at": "2026-02-12T15:08:11.765451+08:00",
+  "total_titles_processed": 1203,
   "failed_sources": [],
   "trends": [
     {
@@ -45,6 +45,19 @@
           "time_info": "[05时38分 ~ 06时42分]"
         },
         {
+          "title": "随时随地bigguy起来",
+          "url": "https://www.douyin.com/hot/2397659",
+          "source": "抖音",
+          "ranks": [
+            23,
+            27,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时39分 ~ 15时08分]"
+        },
+        {
           "title": "英雄联盟16.4版本改动介绍",
           "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F16.4%E7%89%88%E6%9C%AC%E6%94%B9%E5%8A%A8%E4%BB%8B%E7%BB%8D",
           "source": "bilibili 热搜",
@@ -67,18 +80,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时17分 ~ 04时44分]"
-        },
-        {
-          "title": "随时随地bigguy起来",
-          "url": "https://www.douyin.com/hot/2397659",
-          "source": "抖音",
-          "ranks": [
-            23,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 13时02分]"
         },
         {
           "title": "IG零封OMG",
@@ -142,7 +143,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         },
