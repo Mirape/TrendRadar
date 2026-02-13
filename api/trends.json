@@ -1,59 +1,22 @@
 {
-  "generated_at": "2026-02-13T23:48:44.646079+08:00",
-  "total_titles_processed": 1937,
+  "generated_at": "2026-02-14T00:55:01.842140+08:00",
+  "total_titles_processed": 299,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
         {
           "title": "李哥带队入编,T1签约海军",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350646&amp;topic_name=%E6%9D%8E%E5%93%A5%E5%B8%A6%E9%98%9F%E5%85%A5%E7%BC%96%2CT1%E7%AD%BE%E7%BA%A6%E6%B5%B7%E5%86%9B",
           "source": "贴吧",
           "ranks": [
-            1,
-            4,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时52分 ~ 23时48分]"
-        },
-        {
-          "title": "美国能源部长Wright：我们对委内瑞拉的影响力是如此之大。",
-          "url": "https://wallstreetcn.com/livenews/3054711",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            22
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时40分 ~ 05时39分]"
-        },
-        {
-          "title": "美国能源部长Wright：雪佛龙已经加大在委内瑞拉的投资。 雪佛龙在委内瑞拉的设施的产量将翻倍。 美国（政府）不会向企业提供经济安全保障。 （特朗普政府强行掳走总统马杜罗之后）委内瑞拉第一年（石油）产量将提高30%-40%。",
-          "url": "https://wallstreetcn.com/livenews/3054713",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时39分"
-        },
-        {
-          "title": "美国司法部反垄断事务主管Abigail Slater离职，此前总统特朗普的白宫要求其辞职、否则将把她免职。",
-          "url": "https://wallstreetcn.com/livenews/3054656",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时09分"
+          "time_info": "[00时54分 ~ 00时55分]"
         }
       ]
     }
