@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-13T18:45:16.819439+08:00",
-  "total_titles_processed": 1485,
+  "generated_at": "2026-02-13T19:35:42.292241+08:00",
+  "total_titles_processed": 1576,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             1,
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时52分 ~ 18时45分]"
+          "appearance_count": 5,
+          "time_info": "[15时52分 ~ 19时35分]"
         },
         {
           "title": "美国能源部长Wright：我们对委内瑞拉的影响力是如此之大。",
