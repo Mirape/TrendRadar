@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-15T03:28:54.773731+08:00",
-  "total_titles_processed": 357,
+  "generated_at": "2026-02-15T04:32:38.721652+08:00",
+  "total_titles_processed": 379,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             19,
             14,
             12,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时36分 ~ 03时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时36分 ~ 04时32分]"
         },
         {
           "title": "李哥带队入编,T1签约海军",
@@ -29,8 +30,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时36分 ~ 03时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时36分 ~ 04时32分]"
         },
         {
           "title": "T1全员中文拜年",
