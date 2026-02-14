@@ -1,54 +1,33 @@
 {
-  "generated_at": "2026-02-14T23:31:09.651020+08:00",
-  "total_titles_processed": 1598,
+  "generated_at": "2026-02-15T00:37:09.607547+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 3,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "《英雄联盟》拉克丝人设是怎么崩的？",
+          "url": "https://www.zhihu.com/question/662252286",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 00时37分]"
+        },
         {
           "title": "李哥带队入编,T1签约海军",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350646&amp;topic_name=%E6%9D%8E%E5%93%A5%E5%B8%A6%E9%98%9F%E5%85%A5%E7%BC%96%2CT1%E7%AD%BE%E7%BA%A6%E6%B5%B7%E5%86%9B",
           "source": "贴吧",
           "ranks": [
-            7,
-            8,
-            16,
-            17,
-            18,
-            20,
-            21,
-            23,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时54分 ~ 23时31分]"
-        },
-        {
-          "title": "T1全员中文拜年",
-          "url": "https://search.bilibili.com/all?keyword=T1%E5%85%A8%E5%91%98%E4%B8%AD%E6%96%87%E6%8B%9C%E5%B9%B4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时36分 ~ 20时59分]"
-        },
-        {
-          "title": "13F报告显示：Harvard Management四季度建仓做多Union Pacifit/isha以太坊信托ETF、以及Figma。 增持谷歌A、博通、台积电、Booking、以及Meta。 清仓Lighter & Wonder、PureCycle、以及Maze Therapeutics。 减持iShares比特币信托ETF、微软、亚马逊、英伟达、以及SPDR黄金Shares。 重仓资产包括iShares比特币信托ETF、谷歌A、SPDR黄金Shares、微软、以及Booking。",
-          "url": "https://wallstreetcn.com/livenews/3055387",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            9
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时38分 ~ 07时36分]"
+          "time_info": "[00时36分 ~ 00时37分]"
         }
       ]
     }
