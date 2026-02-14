@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-15T00:37:09.607547+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-02-15T01:30:57.037641+08:00",
+  "total_titles_processed": 332,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/662252286",
           "source": "知乎",
           "ranks": [
-            19
+            19,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 00时37分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 01时30分]"
         },
         {
           "title": "李哥带队入编,T1签约海军",
@@ -26,8 +27,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 00时37分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 01时30分]"
         }
       ]
     }
