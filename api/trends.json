@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-14T19:27:27.296266+08:00",
-  "total_titles_processed": 1344,
+  "generated_at": "2026-02-14T20:59:09.343087+08:00",
+  "total_titles_processed": 1450,
   "failed_sources": [],
   "trends": [
     {
@@ -21,8 +21,20 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时54分 ~ 19时27分]"
+          "appearance_count": 23,
+          "time_info": "[00时54分 ~ 20时59分]"
+        },
+        {
+          "title": "T1全员中文拜年",
+          "url": "https://search.bilibili.com/all?keyword=T1%E5%85%A8%E5%91%98%E4%B8%AD%E6%96%87%E6%8B%9C%E5%B9%B4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时36分 ~ 20时59分]"
         },
         {
           "title": "13F报告显示：Harvard Management四季度建仓做多Union Pacifit/isha以太坊信托ETF、以及Figma。 增持谷歌A、博通、台积电、Booking、以及Meta。 清仓Lighter & Wonder、PureCycle、以及Maze Therapeutics。 减持iShares比特币信托ETF、微软、亚马逊、英伟达、以及SPDR黄金Shares。 重仓资产包括iShares比特币信托ETF、谷歌A、SPDR黄金Shares、微软、以及Booking。",
@@ -35,17 +47,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时38分 ~ 07时36分]"
-        },
-        {
-          "title": "T1全员中文拜年",
-          "url": "https://search.bilibili.com/all?keyword=T1%E5%85%A8%E5%91%98%E4%B8%AD%E6%96%87%E6%8B%9C%E5%B9%B4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时36分 ~ 18时32分]"
         }
       ]
     }
