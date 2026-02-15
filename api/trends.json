@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-15T12:58:27.998064+08:00",
-  "total_titles_processed": 714,
+  "generated_at": "2026-02-15T14:02:21.939810+08:00",
+  "total_titles_processed": 778,
   "failed_sources": [],
   "trends": [
     {
@@ -30,11 +30,12 @@
           "source": "贴吧",
           "ranks": [
             24,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时36分 ~ 12时58分]"
+          "appearance_count": 14,
+          "time_info": "[00时36分 ~ 14时02分]"
         },
         {
           "title": "T1全员中文拜年",
