@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-15T21:52:33.026251+08:00",
-  "total_titles_processed": 1188,
+  "generated_at": "2026-02-15T22:33:04.652671+08:00",
+  "total_titles_processed": 1231,
   "failed_sources": [],
   "trends": [
     {
@@ -47,19 +47,33 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时27分 ~ 21时52分]"
+          "appearance_count": 5,
+          "time_info": "[19时27分 ~ 22时33分]"
         },
         {
           "title": "T1被BFX虐泉",
           "url": "https://search.bilibili.com/all?keyword=T1%E8%A2%ABBFX%E8%99%90%E6%B3%89",
           "source": "bilibili 热搜",
           "ranks": [
-            2
+            2,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时52分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时52分 ~ 22时33分]"
+        },
+        {
+          "title": "张桂源bigguy好有感觉",
+          "url": "https://www.douyin.com/hot/2402062",
+          "source": "抖音",
+          "ranks": [
+            27,
+            26,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时01分 ~ 22时33分]"
         },
         {
           "title": "你都经历过哪些「煤气灯式心理操纵」（gaslighting）？",
@@ -84,18 +98,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时37分 ~ 19时27分]"
-        },
-        {
-          "title": "张桂源bigguy好有感觉",
-          "url": "https://www.douyin.com/hot/2402062",
-          "source": "抖音",
-          "ranks": [
-            27,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时01分 ~ 21时52分]"
         },
         {
           "title": "T1全员中文拜年",
