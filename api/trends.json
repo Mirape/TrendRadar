@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-15T18:32:27.336927+08:00",
-  "total_titles_processed": 1010,
+  "generated_at": "2026-02-15T19:27:46.115893+08:00",
+  "total_titles_processed": 1059,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "《英雄联盟》拉克丝人设是怎么崩的？",
@@ -39,16 +39,39 @@
           "time_info": "[00时36分 ~ 18时32分]"
         },
         {
+          "title": "爆冷!T1输BFX跌入败者组",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350725&amp;topic_name=%E7%88%86%E5%86%B7%21T1%E8%BE%93BFX%E8%B7%8C%E5%85%A5%E8%B4%A5%E8%80%85%E7%BB%84",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时27分"
+        },
+        {
           "title": "你都经历过哪些「煤气灯式心理操纵」（gaslighting）？",
           "url": "https://www.zhihu.com/question/310054437",
           "source": "知乎",
           "ranks": [
             18,
-            14
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时37分 ~ 19时27分]"
+        },
+        {
+          "title": "T1对战BFX",
+          "url": "https://s.weibo.com/weibo?q=%23T1%E5%AF%B9%E6%88%98BFX%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时37分 ~ 18时32分]"
+          "time_info": "[17时37分 ~ 19时27分]"
         },
         {
           "title": "T1全员中文拜年",
@@ -61,17 +84,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时42分 ~ 03时28分]"
-        },
-        {
-          "title": "T1对战BFX",
-          "url": "https://s.weibo.com/weibo?q=%23T1%E5%AF%B9%E6%88%98BFX%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时37分"
         }
       ]
     }
