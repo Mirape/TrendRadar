@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-15T07:30:54.827320+08:00",
-  "total_titles_processed": 415,
+  "generated_at": "2026-02-15T10:41:06.862582+08:00",
+  "total_titles_processed": 590,
   "failed_sources": [],
   "trends": [
     {
@@ -17,22 +17,24 @@
             12,
             10,
             8,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时36分 ~ 07时30分]"
+          "appearance_count": 12,
+          "time_info": "[00时36分 ~ 10时41分]"
         },
         {
           "title": "李哥带队入编,T1签约海军",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350646&amp;topic_name=%E6%9D%8E%E5%93%A5%E5%B8%A6%E9%98%9F%E5%85%A5%E7%BC%96%2CT1%E7%AD%BE%E7%BA%A6%E6%B5%B7%E5%86%9B",
           "source": "贴吧",
           "ranks": [
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时36分 ~ 07时30分]"
+          "appearance_count": 12,
+          "time_info": "[00时36分 ~ 10时41分]"
         },
         {
           "title": "T1全员中文拜年",
