@@ -1,127 +1,33 @@
 {
-  "generated_at": "2026-02-15T23:31:22.423551+08:00",
-  "total_titles_processed": 1280,
+  "generated_at": "2026-02-16T00:37:47.718148+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 9,
+      "match_count": 2,
       "titles": [
         {
-          "title": "《英雄联盟》拉克丝人设是怎么崩的？",
-          "url": "https://www.zhihu.com/question/662252286",
-          "source": "知乎",
+          "title": "T1被BFX虐泉",
+          "url": "https://search.bilibili.com/all?keyword=T1%E8%A2%ABBFX%E8%99%90%E6%B3%89",
+          "source": "bilibili 热搜",
           "ranks": [
-            19,
-            14,
-            12,
-            10,
-            8,
-            7,
-            9
+            4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时36分 ~ 10时41分]"
-        },
-        {
-          "title": "李哥带队入编,T1签约海军",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350646&amp;topic_name=%E6%9D%8E%E5%93%A5%E5%B8%A6%E9%98%9F%E5%85%A5%E7%BC%96%2CT1%E7%AD%BE%E7%BA%A6%E6%B5%B7%E5%86%9B",
-          "source": "贴吧",
-          "ranks": [
-            24,
-            28,
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时36分 ~ 18时32分]"
+          "appearance_count": 1,
+          "time_info": "00时37分"
         },
         {
           "title": "爆冷!T1输BFX跌入败者组",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350725&amp;topic_name=%E7%88%86%E5%86%B7%21T1%E8%BE%93BFX%E8%B7%8C%E5%85%A5%E8%B4%A5%E8%80%85%E7%BB%84",
           "source": "贴吧",
           "ranks": [
-            4,
-            5,
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时27分 ~ 23时31分]"
-        },
-        {
-          "title": "T1被BFX虐泉",
-          "url": "https://search.bilibili.com/all?keyword=T1%E8%A2%ABBFX%E8%99%90%E6%B3%89",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时52分 ~ 23时31分]"
-        },
-        {
-          "title": "张桂源bigguy好有感觉",
-          "url": "https://www.douyin.com/hot/2402062",
-          "source": "抖音",
-          "ranks": [
-            27,
-            26,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[21时01分 ~ 23时31分]"
-        },
-        {
-          "title": "你都经历过哪些「煤气灯式心理操纵」（gaslighting）？",
-          "url": "https://www.zhihu.com/question/310054437",
-          "source": "知乎",
-          "ranks": [
-            18,
-            14,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时37分 ~ 19时27分]"
-        },
-        {
-          "title": "T1对战BFX",
-          "url": "https://s.weibo.com/weibo?q=%23T1%E5%AF%B9%E6%88%98BFX%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时37分 ~ 19时27分]"
-        },
-        {
-          "title": "T1全员中文拜年",
-          "url": "https://search.bilibili.com/all?keyword=T1%E5%85%A8%E5%91%98%E4%B8%AD%E6%96%87%E6%8B%9C%E5%B9%B4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时42分 ~ 03时28分]"
-        },
-        {
-          "title": "T1被BFX虐泉",
-          "url": "https://s.weibo.com/weibo?q=%23T1%E8%A2%ABBFX%E8%99%90%E6%B3%89%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时01分"
+          "time_info": "00时37分"
         }
       ]
     }
