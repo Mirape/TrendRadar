@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-16T00:37:47.718148+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-16T01:31:06.194984+08:00",
+  "total_titles_processed": 344,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
+          "appearance_count": 3,
+          "time_info": "[00时37分 ~ 01时31分]"
         },
         {
           "title": "爆冷!T1输BFX跌入败者组",
@@ -26,8 +26,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
+          "appearance_count": 3,
+          "time_info": "[00时37分 ~ 01时31分]"
         }
       ]
     }
