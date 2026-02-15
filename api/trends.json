@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-15T22:33:04.652671+08:00",
-  "total_titles_processed": 1231,
+  "generated_at": "2026-02-15T23:31:22.423551+08:00",
+  "total_titles_processed": 1280,
   "failed_sources": [],
   "trends": [
     {
@@ -44,11 +44,12 @@
           "source": "贴吧",
           "ranks": [
             4,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时27分 ~ 22时33分]"
+          "appearance_count": 6,
+          "time_info": "[19时27分 ~ 23时31分]"
         },
         {
           "title": "T1被BFX虐泉",
@@ -59,8 +60,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时52分 ~ 22时33分]"
+          "appearance_count": 4,
+          "time_info": "[21时52分 ~ 23时31分]"
         },
         {
           "title": "张桂源bigguy好有感觉",
@@ -72,8 +73,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时01分 ~ 22时33分]"
+          "appearance_count": 5,
+          "time_info": "[21时01分 ~ 23时31分]"
         },
         {
           "title": "你都经历过哪些「煤气灯式心理操纵」（gaslighting）？",
