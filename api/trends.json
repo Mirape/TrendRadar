@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-02-17T00:52:55.431274+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-17T01:42:01.945768+08:00",
+  "total_titles_processed": 357,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
       "match_count": 3,
       "titles": [
-        {
-          "title": "CFTC主席Selig：很荣幸能在特朗普总统的领导下庆祝“总统日”，他为美国金融市场开启了黄金时代，并将美国打造成为世界加密货币之都。",
-          "url": "https://flash.jin10.com/detail/20260216235622274800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
-        },
         {
           "title": "T1爆冷鸽直播,粉丝白等",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350735&amp;topic_name=T1%E7%88%86%E5%86%B7%E9%B8%BD%E7%9B%B4%E6%92%AD%2C%E7%B2%89%E4%B8%9D%E7%99%BD%E7%AD%89",
@@ -26,8 +15,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
+          "appearance_count": 3,
+          "time_info": "[00时52分 ~ 01时42分]"
         },
         {
           "title": "爆冷!T1输BFX跌入败者组",
@@ -37,8 +26,20 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
+          "appearance_count": 3,
+          "time_info": "[00时52分 ~ 01时42分]"
+        },
+        {
+          "title": "CFTC主席Selig：很荣幸能在特朗普总统的领导下庆祝“总统日”，他为美国金融市场开启了黄金时代，并将美国打造成为世界加密货币之都。",
+          "url": "https://flash.jin10.com/detail/20260216235622274800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时52分 ~ 01时42分]"
         }
       ]
     }
