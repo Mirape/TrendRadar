@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-17T10:33:20.536120+08:00",
-  "total_titles_processed": 724,
+  "generated_at": "2026-02-17T12:57:06.595422+08:00",
+  "total_titles_processed": 856,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "T1爆冷鸽直播,粉丝白等",
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             17,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时52分 ~ 10时33分]"
+          "appearance_count": 14,
+          "time_info": "[00时52分 ~ 12时57分]"
         },
         {
           "title": "爆冷!T1输BFX跌入败者组",
@@ -42,6 +43,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时52分 ~ 01时42分]"
+        },
+        {
+          "title": "禾赛激光：宇树两款人形机器人全部搭载了禾赛JT128激光雷达",
+          "url": "https://flash.jin10.com/detail/20260217120824444800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时57分"
         }
       ]
     }
