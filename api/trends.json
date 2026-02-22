@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-22T23:31:30.610138+08:00",
-  "total_titles_processed": 1300,
+  "generated_at": "2026-02-23T00:37:19.160015+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 5,
+      "match_count": 4,
       "titles": [
         {
           "title": "黄牛亏麻!T1遭让二追三淘汰",
@@ -15,53 +15,41 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时31分 ~ 23时31分]"
+          "appearance_count": 1,
+          "time_info": "00时37分"
         },
         {
           "title": "DK战胜T1赛后数据",
           "url": "https://search.bilibili.com/all?keyword=DK%E6%88%98%E8%83%9CT1%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE",
           "source": "bilibili 热搜",
           "ranks": [
-            1
+            2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时31分"
+          "time_info": "00时37分"
         },
         {
           "title": "DK战胜T1",
           "url": "https://search.bilibili.com/all?keyword=DK%E6%88%98%E8%83%9CT1",
           "source": "bilibili 热搜",
           "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时31分"
-        },
-        {
-          "title": "DK战胜T1",
-          "url": "https://s.weibo.com/weibo?q=%23DK%E6%88%98%E8%83%9CT1%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18,
-            29
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时51分 ~ 22时32分]"
+          "appearance_count": 1,
+          "time_info": "00时37分"
         },
         {
           "title": "2026 LCK 第一赛段季后赛 DK 让二追三淘汰 T1，如何评价这场比赛？",
           "url": "https://www.zhihu.com/question/2009003507722781653",
           "source": "知乎",
           "ranks": [
-            12
+            8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时31分"
+          "time_info": "00时37分"
         }
       ]
     }
