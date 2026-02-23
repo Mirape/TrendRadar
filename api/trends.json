@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-23T22:54:41.910014+08:00",
-  "total_titles_processed": 1499,
+  "generated_at": "2026-02-23T23:53:00.963487+08:00",
+  "total_titles_processed": 1589,
   "failed_sources": [],
   "trends": [
     {
@@ -50,11 +50,12 @@
             11,
             10,
             12,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时37分 ~ 22时54分]"
+          "appearance_count": 24,
+          "time_info": "[00时37分 ~ 23时53分]"
         },
         {
           "title": "2026 LCK 第一赛段季后赛 DK 让二追三淘汰 T1，如何评价这场比赛？",
@@ -73,6 +74,22 @@
           "time_info": "[00时37分 ~ 06时31分]"
         },
         {
+          "title": "锐评DK战胜T1",
+          "url": "https://www.douyin.com/hot/2409308",
+          "source": "抖音",
+          "ranks": [
+            15,
+            16,
+            25,
+            23,
+            22,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时11分 ~ 23时53分]"
+        },
+        {
           "title": "T1再次无缘先锋赛",
           "url": "https://search.bilibili.com/all?keyword=T1%E5%86%8D%E6%AC%A1%E6%97%A0%E7%BC%98%E5%85%88%E9%94%8B%E8%B5%9B",
           "source": "bilibili 热搜",
@@ -86,21 +103,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[10时37分 ~ 19时42分]"
-        },
-        {
-          "title": "锐评DK战胜T1",
-          "url": "https://www.douyin.com/hot/2409308",
-          "source": "抖音",
-          "ranks": [
-            15,
-            16,
-            25,
-            23,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时11分 ~ 22时54分]"
         },
         {
           "title": "锐评DK战胜T1",
@@ -123,11 +125,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             28,
-            19
+            19,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时15分 ~ 22时54分]"
+          "appearance_count": 5,
+          "time_info": "[21时15分 ~ 23时53分]"
         }
       ]
     }
