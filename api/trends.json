@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-23T19:42:51.370374+08:00",
-  "total_titles_processed": 1281,
+  "generated_at": "2026-02-23T21:16:03.048779+08:00",
+  "total_titles_processed": 1394,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "DK战胜T1",
@@ -52,8 +52,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时37分 ~ 19时42分]"
+          "appearance_count": 21,
+          "time_info": "[00时37分 ~ 21时16分]"
         },
         {
           "title": "2026 LCK 第一赛段季后赛 DK 让二追三淘汰 T1，如何评价这场比赛？",
@@ -88,6 +88,20 @@
         },
         {
           "title": "锐评DK战胜T1",
+          "url": "https://www.douyin.com/hot/2409308",
+          "source": "抖音",
+          "ranks": [
+            15,
+            16,
+            25,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时11分 ~ 21时16分]"
+        },
+        {
+          "title": "锐评DK战胜T1",
           "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84DK%E6%88%98%E8%83%9CT1",
           "source": "bilibili 热搜",
           "ranks": [
@@ -102,17 +116,15 @@
           "time_info": "[13时02分 ~ 19时42分]"
         },
         {
-          "title": "锐评DK战胜T1",
-          "url": "https://www.douyin.com/hot/2409308",
-          "source": "抖音",
+          "title": "真实锐评DK战胜T1",
+          "url": "https://search.bilibili.com/all?keyword=%E7%9C%9F%E5%AE%9E%E9%94%90%E8%AF%84DK%E6%88%98%E8%83%9CT1",
+          "source": "bilibili 热搜",
           "ranks": [
-            15,
-            16,
-            25
+            28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时11分 ~ 19时42分]"
+          "appearance_count": 2,
+          "time_info": "[21时15分 ~ 21时16分]"
         }
       ]
     }
