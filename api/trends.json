@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-23T16:57:15.152723+08:00",
-  "total_titles_processed": 1069,
+  "generated_at": "2026-02-23T18:02:00.799643+08:00",
+  "total_titles_processed": 1166,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             2,
             7,
             26,
-            19
+            19,
+            15
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时37分 ~ 16时57分]"
+          "appearance_count": 17,
+          "time_info": "[00时37分 ~ 18时02分]"
         },
         {
           "title": "DK战胜T1赛后数据",
@@ -31,11 +32,12 @@
             4,
             7,
             14,
-            21
+            21,
+            20
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时37分 ~ 16时57分]"
+          "appearance_count": 16,
+          "time_info": "[00时37分 ~ 18时02分]"
         },
         {
           "title": "黄牛亏麻!T1遭让二追三淘汰",
@@ -45,11 +47,12 @@
             1,
             9,
             11,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时37分 ~ 16时57分]"
+          "appearance_count": 18,
+          "time_info": "[00时37分 ~ 18时02分]"
         },
         {
           "title": "2026 LCK 第一赛段季后赛 DK 让二追三淘汰 T1，如何评价这场比赛？",
@@ -74,11 +77,12 @@
           "ranks": [
             1,
             2,
-            10
+            10,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时37分 ~ 16时57分]"
+          "appearance_count": 6,
+          "time_info": "[10时37分 ~ 18时02分]"
         },
         {
           "title": "锐评DK战胜T1",
@@ -87,11 +91,12 @@
           "ranks": [
             3,
             21,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时02分 ~ 16时57分]"
+          "appearance_count": 5,
+          "time_info": "[13时02分 ~ 18时02分]"
         },
         {
           "title": "锐评DK战胜T1",
@@ -99,11 +104,12 @@
           "source": "抖音",
           "ranks": [
             15,
-            16
+            16,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时11分 ~ 16时57分]"
+          "appearance_count": 4,
+          "time_info": "[15时11分 ~ 18时02分]"
         }
       ]
     }
