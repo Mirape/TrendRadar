@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-23T21:16:03.048779+08:00",
-  "total_titles_processed": 1394,
+  "generated_at": "2026-02-23T22:54:41.910014+08:00",
+  "total_titles_processed": 1499,
   "failed_sources": [],
   "trends": [
     {
@@ -49,11 +49,12 @@
             9,
             11,
             10,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时37分 ~ 21时16分]"
+          "appearance_count": 22,
+          "time_info": "[00时37分 ~ 22时54分]"
         },
         {
           "title": "2026 LCK 第一赛段季后赛 DK 让二追三淘汰 T1，如何评价这场比赛？",
@@ -94,11 +95,12 @@
             15,
             16,
             25,
-            23
+            23,
+            22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时11分 ~ 21时16分]"
+          "appearance_count": 8,
+          "time_info": "[15时11分 ~ 22时54分]"
         },
         {
           "title": "锐评DK战胜T1",
@@ -120,11 +122,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E7%9C%9F%E5%AE%9E%E9%94%90%E8%AF%84DK%E6%88%98%E8%83%9CT1",
           "source": "bilibili 热搜",
           "ranks": [
-            28
+            28,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时15分 ~ 21时16分]"
+          "appearance_count": 3,
+          "time_info": "[21时15分 ~ 22时54分]"
         }
       ]
     }
