@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-23T18:02:00.799643+08:00",
-  "total_titles_processed": 1166,
+  "generated_at": "2026-02-23T19:42:51.370374+08:00",
+  "total_titles_processed": 1281,
   "failed_sources": [],
   "trends": [
     {
@@ -33,11 +33,12 @@
             7,
             14,
             21,
-            20
+            20,
+            27
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时37分 ~ 18时02分]"
+          "appearance_count": 17,
+          "time_info": "[00时37分 ~ 19时42分]"
         },
         {
           "title": "黄牛亏麻!T1遭让二追三淘汰",
@@ -51,8 +52,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时37分 ~ 18时02分]"
+          "appearance_count": 19,
+          "time_info": "[00时37分 ~ 19时42分]"
         },
         {
           "title": "2026 LCK 第一赛段季后赛 DK 让二追三淘汰 T1，如何评价这场比赛？",
@@ -78,11 +79,12 @@
             1,
             2,
             10,
-            23
+            23,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时37分 ~ 18时02分]"
+          "appearance_count": 7,
+          "time_info": "[10时37分 ~ 19时42分]"
         },
         {
           "title": "锐评DK战胜T1",
@@ -92,11 +94,12 @@
             3,
             21,
             17,
-            18
+            18,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时02分 ~ 18时02分]"
+          "appearance_count": 6,
+          "time_info": "[13时02分 ~ 19时42分]"
         },
         {
           "title": "锐评DK战胜T1",
@@ -108,8 +111,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时11分 ~ 18时02分]"
+          "appearance_count": 5,
+          "time_info": "[15时11分 ~ 19时42分]"
         }
       ]
     }
