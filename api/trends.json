@@ -1,34 +1,36 @@
 {
-  "generated_at": "2026-02-23T07:32:06.894957+08:00",
-  "total_titles_processed": 484,
+  "generated_at": "2026-02-23T10:37:15.842070+08:00",
+  "total_titles_processed": 658,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
-        {
-          "title": "黄牛亏麻!T1遭让二追三淘汰",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350863&amp;topic_name=%E9%BB%84%E7%89%9B%E4%BA%8F%E9%BA%BB%21T1%E9%81%AD%E8%AE%A9%E4%BA%8C%E8%BF%BD%E4%B8%89%E6%B7%98%E6%B1%B0",
-          "source": "贴吧",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时37分 ~ 07时32分]"
-        },
         {
           "title": "DK战胜T1",
           "url": "https://search.bilibili.com/all?keyword=DK%E6%88%98%E8%83%9CT1",
           "source": "bilibili 热搜",
           "ranks": [
             4,
-            2
+            2,
+            7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时37分 ~ 07时32分]"
+          "appearance_count": 13,
+          "time_info": "[00时37分 ~ 10时37分]"
+        },
+        {
+          "title": "黄牛亏麻!T1遭让二追三淘汰",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350863&amp;topic_name=%E9%BB%84%E7%89%9B%E4%BA%8F%E9%BA%BB%21T1%E9%81%AD%E8%AE%A9%E4%BA%8C%E8%BF%BD%E4%B8%89%E6%B7%98%E6%B1%B0",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时37分 ~ 10时37分]"
         },
         {
           "title": "DK战胜T1赛后数据",
@@ -37,11 +39,12 @@
           "ranks": [
             2,
             4,
-            7
+            7,
+            14
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时37分 ~ 07时32分]"
+          "appearance_count": 13,
+          "time_info": "[00时37分 ~ 10时37分]"
         },
         {
           "title": "2026 LCK 第一赛段季后赛 DK 让二追三淘汰 T1，如何评价这场比赛？",
@@ -58,6 +61,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时37分 ~ 06时31分]"
+        },
+        {
+          "title": "T1再次无缘先锋赛",
+          "url": "https://search.bilibili.com/all?keyword=T1%E5%86%8D%E6%AC%A1%E6%97%A0%E7%BC%98%E5%85%88%E9%94%8B%E8%B5%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时37分"
         }
       ]
     }
