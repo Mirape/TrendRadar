@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T19:48:36.232102+08:00",
-  "total_titles_processed": 1561,
+  "generated_at": "2026-02-24T21:17:34.282259+08:00",
+  "total_titles_processed": 1661,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "真实锐评DK战胜T1",
@@ -38,8 +38,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[01时04分 ~ 19时48分]"
+          "appearance_count": 22,
+          "time_info": "[01时04分 ~ 21时17分]"
         },
         {
           "title": "锐评DK战胜T1",
@@ -88,6 +88,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时52分 ~ 07时38分]"
+        },
+        {
+          "title": "深度复盘T1遭DK让二追三",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E5%A4%8D%E7%9B%98T1%E9%81%ADDK%E8%AE%A9%E4%BA%8C%E8%BF%BD%E4%B8%89",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时17分"
         },
         {
           "title": "消息人士：科威特石油公司正与黑石集团、布鲁克菲尔德公司和EIG公司就一项可能价值70亿美元的管道项目进行谈判。",
