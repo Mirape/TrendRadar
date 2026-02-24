@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-25T06:46:52.558423+08:00",
-  "total_titles_processed": 603,
+  "generated_at": "2026-02-25T07:37:47.206028+08:00",
+  "total_titles_processed": 650,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://search.bilibili.com/all?keyword=JDG%E6%88%98%E8%83%9CTES%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE",
           "source": "bilibili 热搜",
           "ranks": [
-            1
+            1,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时54分 ~ 06时46分]"
+          "appearance_count": 9,
+          "time_info": "[00时54分 ~ 07时37分]"
         },
         {
           "title": "深度复盘T1遭DK让二追三",
@@ -26,11 +27,12 @@
             18,
             17,
             8,
-            7
+            7,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时59分 ~ 05时41分]"
+          "appearance_count": 7,
+          "time_info": "[01时59分 ~ 07时37分]"
         }
       ]
     }
