@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-24T18:58:09.226077+08:00",
-  "total_titles_processed": 1463,
+  "generated_at": "2026-02-24T19:48:36.232102+08:00",
+  "total_titles_processed": 1561,
   "failed_sources": [],
   "trends": [
     {
@@ -34,11 +34,12 @@
             24,
             26,
             27,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[01时04分 ~ 18时58分]"
+          "appearance_count": 21,
+          "time_info": "[01时04分 ~ 19时48分]"
         },
         {
           "title": "锐评DK战胜T1",
