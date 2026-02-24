@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-24T07:38:19.429589+08:00",
-  "total_titles_processed": 624,
+  "generated_at": "2026-02-24T10:33:34.418126+08:00",
+  "total_titles_processed": 813,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350863&amp;topic_name=%E9%BB%84%E7%89%9B%E4%BA%8F%E9%BA%BB%21T1%E9%81%AD%E8%AE%A9%E4%BA%8C%E8%BF%BD%E4%B8%89%E6%B7%98%E6%B1%B0",
           "source": "贴吧",
           "ranks": [
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时04分 ~ 07时38分]"
+          "appearance_count": 11,
+          "time_info": "[01时04分 ~ 10时33分]"
         },
         {
           "title": "锐评DK战胜T1",
