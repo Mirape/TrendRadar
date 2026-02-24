@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-25T03:56:13.525554+08:00",
-  "total_titles_processed": 461,
+  "generated_at": "2026-02-25T04:41:47.220574+08:00",
+  "total_titles_processed": 496,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 03时56分]"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 04时41分]"
         },
         {
           "title": "深度复盘T1遭DK让二追三",
@@ -24,11 +24,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             18,
-            17
+            17,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时59分 ~ 03时56分]"
+          "appearance_count": 4,
+          "time_info": "[01时59分 ~ 04时41分]"
         }
       ]
     }
