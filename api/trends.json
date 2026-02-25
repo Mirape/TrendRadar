@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-26T00:09:04.773992+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-02-26T02:49:55.655903+08:00",
+  "total_titles_processed": 418,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://www.douyin.com/hot/2411673",
           "source": "抖音",
           "ranks": [
-            1
+            1,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时08分 ~ 00时09分]"
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 02时49分]"
         },
         {
           "title": "WBG零封IG,春之虎苏醒",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350977&amp;topic_name=WBG%E9%9B%B6%E5%B0%81IG%2C%E6%98%A5%E4%B9%8B%E8%99%8E%E8%8B%8F%E9%86%92",
           "source": "贴吧",
           "ranks": [
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时08分 ~ 00时09分]"
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 02时49分]"
         },
         {
           "title": "WBG战胜IG",
