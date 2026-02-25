@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-26T03:51:12.486596+08:00",
-  "total_titles_processed": 478,
+  "generated_at": "2026-02-26T05:39:14.594106+08:00",
+  "total_titles_processed": 539,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时08分 ~ 03时51分]"
+          "appearance_count": 7,
+          "time_info": "[00时08分 ~ 05时39分]"
+        },
+        {
+          "title": "WBG战胜IG赛后数据",
+          "url": "https://search.bilibili.com/all?keyword=WBG%E6%88%98%E8%83%9CIG%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时08分 ~ 05时39分]"
         },
         {
           "title": "WBG战胜IG",
@@ -37,17 +49,6 @@
           "source": "bilibili 热搜",
           "ranks": [
             22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时08分 ~ 00时09分]"
-        },
-        {
-          "title": "WBG战胜IG赛后数据",
-          "url": "https://search.bilibili.com/all?keyword=WBG%E6%88%98%E8%83%9CIG%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30
           ],
           "is_new": false,
           "appearance_count": 2,
