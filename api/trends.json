@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-02-26T05:39:14.594106+08:00",
-  "total_titles_processed": 539,
+  "generated_at": "2026-02-26T06:39:14.910790+08:00",
+  "total_titles_processed": 598,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
       "match_count": 4,
       "titles": [
+        {
+          "title": "WBG零封IG,春之虎苏醒",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350977&amp;topic_name=WBG%E9%9B%B6%E5%B0%81IG%2C%E6%98%A5%E4%B9%8B%E8%99%8E%E8%8B%8F%E9%86%92",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时08分 ~ 06时39分]"
+        },
         {
           "title": "WBG战胜IG",
           "url": "https://www.douyin.com/hot/2411673",
@@ -20,28 +32,17 @@
           "time_info": "[00时08分 ~ 03时51分]"
         },
         {
-          "title": "WBG零封IG,春之虎苏醒",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350977&amp;topic_name=WBG%E9%9B%B6%E5%B0%81IG%2C%E6%98%A5%E4%B9%8B%E8%99%8E%E8%8B%8F%E9%86%92",
-          "source": "贴吧",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时08分 ~ 05时39分]"
-        },
-        {
           "title": "WBG战胜IG赛后数据",
           "url": "https://search.bilibili.com/all?keyword=WBG%E6%88%98%E8%83%9CIG%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE",
           "source": "bilibili 热搜",
           "ranks": [
             30,
-            22
+            22,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时08分 ~ 05时39分]"
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 06时39分]"
         },
         {
           "title": "WBG战胜IG",
