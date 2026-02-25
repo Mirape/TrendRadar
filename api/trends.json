@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T14:11:05.398435+08:00",
-  "total_titles_processed": 1087,
+  "generated_at": "2026-02-25T16:03:35.088184+08:00",
+  "total_titles_processed": 1212,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "JDG战胜TES赛后数据",
@@ -36,6 +36,28 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时59分 ~ 12时57分]"
+        },
+        {
+          "title": "WBG vs IG LPL淘汰赛",
+          "url": "https://search.bilibili.com/all?keyword=WBG%20IG",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时03分"
+        },
+        {
+          "title": "如何看待 T1 不敌 DK 后 LCK 决赛二手门票暴跌？",
+          "url": "https://www.zhihu.com/question/2009252044981154893",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时03分"
         }
       ]
     }
