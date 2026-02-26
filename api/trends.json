@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-27T03:49:39.533375+08:00",
-  "total_titles_processed": 444,
+  "generated_at": "2026-02-27T04:43:28.574931+08:00",
+  "total_titles_processed": 488,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            9
+            9,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时59分 ~ 03时49分]"
+          "appearance_count": 3,
+          "time_info": "[02时59分 ~ 04时43分]"
         },
         {
           "title": "Sigma Lithium Corp.（SGML）下跌14%，此前Blue Orca宣布做空。",
