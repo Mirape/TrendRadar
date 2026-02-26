@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-26T17:56:29.781867+08:00",
-  "total_titles_processed": 1444,
+  "generated_at": "2026-02-26T18:54:03.179333+08:00",
+  "total_titles_processed": 1540,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "WBG零封IG,春之虎苏醒",
@@ -18,11 +18,12 @@
             17,
             19,
             20,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时08分 ~ 17时56分]"
+          "appearance_count": 19,
+          "time_info": "[00时08分 ~ 18时54分]"
         },
         {
           "title": "WBG战胜IG赛后数据",
@@ -60,6 +61,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时08分 ~ 00时09分]"
+        },
+        {
+          "title": "Uzi说Light太任性了",
+          "url": "https://s.weibo.com/weibo?q=Uzi%E8%AF%B4Light%E5%A4%AA%E4%BB%BB%E6%80%A7%E4%BA%86&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时53分 ~ 18时54分]"
         },
         {
           "title": "英雄联盟16.5版本有何改动",
