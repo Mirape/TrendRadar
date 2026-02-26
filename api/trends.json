@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-26T14:01:54.728282+08:00",
-  "total_titles_processed": 1093,
+  "generated_at": "2026-02-26T15:53:26.971109+08:00",
+  "total_titles_processed": 1217,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             8,
             10,
             16,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时08分 ~ 14时01分]"
+          "appearance_count": 14,
+          "time_info": "[00时08分 ~ 15时53分]"
         },
         {
           "title": "WBG战胜IG赛后数据",
@@ -28,11 +29,12 @@
           "ranks": [
             30,
             22,
-            29
+            29,
+            25
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时08分 ~ 14时01分]"
+          "appearance_count": 11,
+          "time_info": "[00时08分 ~ 15时53分]"
         },
         {
           "title": "WBG战胜IG",
