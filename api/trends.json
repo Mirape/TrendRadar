@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-26T19:43:28.915268+08:00",
-  "total_titles_processed": 1624,
+  "generated_at": "2026-02-26T21:17:32.460638+08:00",
+  "total_titles_processed": 1755,
   "failed_sources": [],
   "trends": [
     {
@@ -23,8 +23,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时08分 ~ 19时43分]"
+          "appearance_count": 21,
+          "time_info": "[00时08分 ~ 21时17分]"
         },
         {
           "title": "WBG战胜IG赛后数据",
