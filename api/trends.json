@@ -1,47 +1,22 @@
 {
-  "generated_at": "2026-02-27T23:41:38.582600+08:00",
-  "total_titles_processed": 1996,
+  "generated_at": "2026-02-28T00:47:16.177455+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
-          "title": "墨西哥央行行长Victoria Rodriguez：贸易不确定性影响到固定投资。 墨西哥固定投资在2025年萎缩。",
-          "url": "https://wallstreetcn.com/livenews/3059730",
+          "title": "墨西哥石油公司PEMEX的CEO Victor Rodriguez：公司总体债务已经较一年之前缩减13%。 公司在2025年向服务供应商们支付5821亿墨西哥比索。",
+          "url": "https://wallstreetcn.com/livenews/3060411",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            9,
-            17
+            6
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时59分 ~ 04时43分]"
-        },
-        {
-          "title": "如果把《英雄联盟》的光辉 r 改为吟唱十秒但伤害翻 5 倍是否超模？",
-          "url": "https://www.zhihu.com/question/612355931",
-          "source": "知乎",
-          "ranks": [
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时36分 ~ 21时08分]"
-        },
-        {
-          "title": "Sigma Lithium Corp.（SGML）下跌14%，此前Blue Orca宣布做空。",
-          "url": "https://wallstreetcn.com/livenews/3059699",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时59分"
+          "time_info": "00时47分"
         }
       ]
     }
