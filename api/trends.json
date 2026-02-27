@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-28T03:37:20.686955+08:00",
-  "total_titles_processed": 489,
+  "generated_at": "2026-02-28T04:34:35.026651+08:00",
+  "total_titles_processed": 531,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "墨西哥石油公司PEMEX的CEO Victor Rodriguez：公司总体债务已经较一年之前缩减13%。 公司在2025年向服务供应商们支付5821亿墨西哥比索。",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时47分 ~ 01时41分]"
+        },
+        {
+          "title": "据实时航班追踪网站Flightradar24显示，一架伊朗无人机正在阿拉伯海活动，可能用于收集有关美国航空母舰及其打击群的情报。该无人机似乎由一艘海军舰艇发射，以实现更远的飞行航程。",
+          "url": "https://flash.jin10.com/detail/20260228033220619800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时34分"
         }
       ]
     }
