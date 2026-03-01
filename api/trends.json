@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-01T19:26:16.016385+08:00",
-  "total_titles_processed": 1500,
+  "generated_at": "2026-03-01T20:58:17.377752+08:00",
+  "total_titles_processed": 1618,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             3,
             2,
-            1
+            1,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时35分 ~ 19时26分]"
+          "appearance_count": 4,
+          "time_info": "[17时35分 ~ 20时58分]"
         },
         {
           "title": "美国副总统万斯、能源部长Wright、财政部长贝森特陪同总统特朗普监督美军与以色列袭击伊朗的过程。（NBC）",
