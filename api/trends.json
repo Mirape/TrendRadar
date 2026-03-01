@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-02T03:27:41.508903+08:00",
-  "total_titles_processed": 458,
+  "generated_at": "2026-03-02T04:33:21.910039+08:00",
+  "total_titles_processed": 517,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时34分 ~ 03时27分]"
+          "appearance_count": 5,
+          "time_info": "[00时34分 ~ 04时33分]"
         },
         {
           "title": "IG战胜NIP",
@@ -26,11 +26,12 @@
           "ranks": [
             4,
             7,
-            6
+            6,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时34分 ~ 03时27分]"
+          "appearance_count": 5,
+          "time_info": "[00时34分 ~ 04时33分]"
         }
       ]
     }
