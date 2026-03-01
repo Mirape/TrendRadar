@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-01T22:29:35.483734+08:00",
-  "total_titles_processed": 1764,
+  "generated_at": "2026-03-01T23:29:10.675663+08:00",
+  "total_titles_processed": 1819,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "IG战胜NIP",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时43分 ~ 22时29分]"
+          "appearance_count": 5,
+          "time_info": "[21时43分 ~ 23时29分]"
         },
         {
           "title": "IG vs NIP LPL第一赛段",
@@ -32,6 +32,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[17时35分 ~ 20时58分]"
+        },
+        {
+          "title": "IG淘汰NIP,登峰队占据六强",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351165&amp;topic_name=IG%E6%B7%98%E6%B1%B0NIP%2C%E7%99%BB%E5%B3%B0%E9%98%9F%E5%8D%A0%E6%8D%AE%E5%85%AD%E5%BC%BA",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时28分 ~ 23时29分]"
         },
         {
           "title": "美国副总统万斯、能源部长Wright、财政部长贝森特陪同总统特朗普监督美军与以色列袭击伊朗的过程。（NBC）",
