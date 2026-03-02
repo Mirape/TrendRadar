@@ -1,76 +1,7 @@
 {
-  "generated_at": "2026-03-02T23:47:37.264992+08:00",
-  "total_titles_processed": 2023,
+  "generated_at": "2026-03-03T00:55:33.863520+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "IG战胜NIP",
-          "url": "https://search.bilibili.com/all?keyword=IG%20NIP",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            7,
-            6,
-            20,
-            23,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时34分 ~ 13时56分]"
-        },
-        {
-          "title": "IG淘汰NIP,登峰队占据六强",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351165&amp;topic_name=IG%E6%B7%98%E6%B1%B0NIP%2C%E7%99%BB%E5%B3%B0%E9%98%9F%E5%8D%A0%E6%8D%AE%E5%85%AD%E5%BC%BA",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            5,
-            7,
-            13,
-            16,
-            22,
-            24,
-            28,
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时34分 ~ 23时47分]"
-        },
-        {
-          "title": "圣地亚哥大师赛TL零封T1",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9C%A3%E5%9C%B0%E4%BA%9A%E5%93%A5%E5%A4%A7%E5%B8%88%E8%B5%9BTL%E9%9B%B6%E5%B0%81T1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            9,
-            13,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时52分 ~ 23时47分]"
-        },
-        {
-          "title": "知名《英雄联盟》选手 Doinb 称「LoL 比 Dota 简单才火」，如何评价这一观点？",
-          "url": "https://www.zhihu.com/question/2011423280825915389",
-          "source": "知乎",
-          "ranks": [
-            19,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时50分 ~ 21时09分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://github.com/Mirape/TrendRadar/img/news.jpg"
 }
