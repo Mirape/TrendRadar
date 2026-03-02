@@ -1,31 +1,12 @@
 {
-  "generated_at": "2026-03-02T19:35:17.950909+08:00",
-  "total_titles_processed": 1664,
+  "generated_at": "2026-03-02T21:09:19.851664+08:00",
+  "total_titles_processed": 1795,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
       "match_count": 4,
       "titles": [
-        {
-          "title": "IG淘汰NIP,登峰队占据六强",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351165&amp;topic_name=IG%E6%B7%98%E6%B1%B0NIP%2C%E7%99%BB%E5%B3%B0%E9%98%9F%E5%8D%A0%E6%8D%AE%E5%85%AD%E5%BC%BA",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            5,
-            7,
-            13,
-            16,
-            22,
-            24,
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时34分 ~ 19时35分]"
-        },
         {
           "title": "IG战胜NIP",
           "url": "https://search.bilibili.com/all?keyword=IG%20NIP",
@@ -41,6 +22,26 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时34分 ~ 13时56分]"
+        },
+        {
+          "title": "IG淘汰NIP,登峰队占据六强",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351165&amp;topic_name=IG%E6%B7%98%E6%B1%B0NIP%2C%E7%99%BB%E5%B3%B0%E9%98%9F%E5%8D%A0%E6%8D%AE%E5%85%AD%E5%BC%BA",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            5,
+            7,
+            13,
+            16,
+            22,
+            24,
+            28,
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 21,
+          "time_info": "[00时34分 ~ 21时09分]"
         },
         {
           "title": "圣地亚哥大师赛TL零封T1",
@@ -60,11 +61,12 @@
           "url": "https://www.zhihu.com/question/2011423280825915389",
           "source": "知乎",
           "ranks": [
-            19
+            19,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时50分"
+          "appearance_count": 2,
+          "time_info": "[18时50分 ~ 21时09分]"
         }
       ]
     }
