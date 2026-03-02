@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-02T17:57:00.194280+08:00",
-  "total_titles_processed": 1484,
+  "generated_at": "2026-03-02T18:50:57.092185+08:00",
+  "total_titles_processed": 1563,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "IG淘汰NIP,登峰队占据六强",
@@ -18,11 +18,12 @@
             13,
             16,
             22,
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时34分 ~ 17时57分]"
+          "appearance_count": 19,
+          "time_info": "[00时34分 ~ 18时50分]"
         },
         {
           "title": "IG战胜NIP",
@@ -50,8 +51,19 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时52分 ~ 17时57分]"
+          "appearance_count": 9,
+          "time_info": "[12时52分 ~ 18时50分]"
+        },
+        {
+          "title": "知名《英雄联盟》选手 Doinb 称「LoL 比 Dota 简单才火」，如何评价这一观点？",
+          "url": "https://www.zhihu.com/question/2011423280825915389",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时50分"
         }
       ]
     }
