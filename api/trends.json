@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-02T10:32:18.606601+08:00",
-  "total_titles_processed": 812,
+  "generated_at": "2026-03-02T12:52:49.418023+08:00",
+  "total_titles_processed": 984,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "IG淘汰NIP,登峰队占据六强",
@@ -14,11 +14,12 @@
           "ranks": [
             4,
             5,
-            7
+            7,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时34分 ~ 10时32分]"
+          "appearance_count": 11,
+          "time_info": "[00时34分 ~ 12时52分]"
         },
         {
           "title": "IG战胜NIP",
@@ -34,6 +35,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时34分 ~ 10时32分]"
+        },
+        {
+          "title": "圣地亚哥大师赛TL零封T1",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9C%A3%E5%9C%B0%E4%BA%9A%E5%93%A5%E5%A4%A7%E5%B8%88%E8%B5%9BTL%E9%9B%B6%E5%B0%81T1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时52分"
         }
       ]
     }
