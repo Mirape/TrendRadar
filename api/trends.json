@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-02T22:49:06.652417+08:00",
-  "total_titles_processed": 1931,
+  "generated_at": "2026-03-02T23:47:37.264992+08:00",
+  "total_titles_processed": 2023,
   "failed_sources": [],
   "trends": [
     {
@@ -40,8 +40,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时34分 ~ 22时49分]"
+          "appearance_count": 24,
+          "time_info": "[00时34分 ~ 23时47分]"
         },
         {
           "title": "圣地亚哥大师赛TL零封T1",
@@ -50,11 +50,12 @@
           "ranks": [
             7,
             9,
-            13
+            13,
+            29
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时52分 ~ 18时50分]"
+          "appearance_count": 10,
+          "time_info": "[12时52分 ~ 23时47分]"
         },
         {
           "title": "知名《英雄联盟》选手 Doinb 称「LoL 比 Dota 简单才火」，如何评价这一观点？",
