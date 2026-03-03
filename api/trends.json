@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-03-03T22:51:01.236896+08:00",
-  "total_titles_processed": 2057,
+  "generated_at": "2026-03-03T23:52:12.866424+08:00",
+  "total_titles_processed": 2151,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
       "match_count": 6,
       "titles": [
+        {
+          "title": "AL战胜IG",
+          "url": "https://search.bilibili.com/all?keyword=AL%20IG",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时08分 ~ 23时52分]"
+        },
         {
           "title": "IG vs AL LPL第一赛段",
           "url": "https://search.bilibili.com/all?keyword=AL%20IG",
@@ -17,17 +28,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[17时50分 ~ 19时37分]"
-        },
-        {
-          "title": "AL战胜IG",
-          "url": "https://search.bilibili.com/all?keyword=AL%20IG",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时08分 ~ 22时51分]"
         },
         {
           "title": "EDG对阵T1生死战前瞻",
@@ -51,8 +51,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时50分 ~ 22时51分]"
+          "appearance_count": 4,
+          "time_info": "[22时50分 ~ 23时52分]"
         },
         {
           "title": "AL战胜IG赛后数据",
