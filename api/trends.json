@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-04T01:49:35.332551+08:00",
-  "total_titles_processed": 386,
+  "generated_at": "2026-03-04T04:38:24.718587+08:00",
+  "total_titles_processed": 484,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://search.bilibili.com/all?keyword=AL%20IG",
           "source": "bilibili 热搜",
           "ranks": [
-            1
+            1,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时49分]"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 04时38分]"
         },
         {
           "title": "iG全线溃败,1-3不敌AL",
@@ -26,8 +27,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时49分]"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 04时38分]"
         },
         {
           "title": "EDG五番战T1",
@@ -37,8 +38,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时49分]"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 04时38分]"
         }
       ]
     }
