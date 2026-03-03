@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-03T21:08:29.008207+08:00",
-  "total_titles_processed": 1916,
+  "generated_at": "2026-03-03T22:51:01.236896+08:00",
+  "total_titles_processed": 2057,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "IG vs AL LPL第一赛段",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[17时50分 ~ 19时37分]"
+        },
+        {
+          "title": "AL战胜IG",
+          "url": "https://search.bilibili.com/all?keyword=AL%20IG",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时08分 ~ 22时51分]"
         },
         {
           "title": "EDG对阵T1生死战前瞻",
@@ -33,15 +44,26 @@
           "time_info": "[12时50分 ~ 15时49分]"
         },
         {
-          "title": "AL战胜IG",
-          "url": "https://search.bilibili.com/all?keyword=AL%20IG",
+          "title": "iG全线溃败,1-3不敌AL",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351312&amp;topic_name=iG%E5%85%A8%E7%BA%BF%E6%BA%83%E8%B4%A5%2C1-3%E4%B8%8D%E6%95%8CAL",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时50分 ~ 22时51分]"
+        },
+        {
+          "title": "AL战胜IG赛后数据",
+          "url": "https://search.bilibili.com/all?keyword=AL%E6%88%98%E8%83%9CIG",
           "source": "bilibili 热搜",
           "ranks": [
-            2
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时50分 ~ 22时51分]"
         },
         {
           "title": "圣地亚哥大师赛TL零封T1",
