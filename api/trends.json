@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-03T14:59:26.087356+08:00",
-  "total_titles_processed": 1251,
+  "generated_at": "2026-03-03T15:49:53.524513+08:00",
+  "total_titles_processed": 1358,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             1,
             2,
-            8
+            8,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时50分 ~ 14时59分]"
+          "appearance_count": 5,
+          "time_info": "[12时50分 ~ 15时49分]"
         },
         {
           "title": "圣地亚哥大师赛TL零封T1",
