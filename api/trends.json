@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-03T12:51:00.765265+08:00",
-  "total_titles_processed": 1042,
+  "generated_at": "2026-03-03T13:54:28.634379+08:00",
+  "total_titles_processed": 1136,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://search.bilibili.com/all?keyword=EDG%E5%AF%B9%E9%98%B5T1%E7%94%9F%E6%AD%BB%E6%88%98%E5%89%8D%E7%9E%BB",
           "source": "bilibili 热搜",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时50分 ~ 12时51分]"
+          "appearance_count": 3,
+          "time_info": "[12时50分 ~ 13时54分]"
         },
         {
           "title": "圣地亚哥大师赛TL零封T1",
