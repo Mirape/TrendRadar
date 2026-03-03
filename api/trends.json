@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-03-03T10:34:53.675870+08:00",
-  "total_titles_processed": 884,
+  "generated_at": "2026-03-03T12:51:00.765265+08:00",
+  "total_titles_processed": 1042,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "EDG对阵T1生死战前瞻",
+          "url": "https://search.bilibili.com/all?keyword=EDG%E5%AF%B9%E9%98%B5T1%E7%94%9F%E6%AD%BB%E6%88%98%E5%89%8D%E7%9E%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时50分 ~ 12时51分]"
+        },
         {
           "title": "圣地亚哥大师赛TL零封T1",
           "url": "https://search.bilibili.com/all?keyword=%E5%9C%A3%E5%9C%B0%E4%BA%9A%E5%93%A5%E5%A4%A7%E5%B8%88%E8%B5%9BTL%E9%9B%B6%E5%B0%81T1",
