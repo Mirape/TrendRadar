@@ -1,47 +1,22 @@
 {
-  "generated_at": "2026-03-03T23:52:12.866424+08:00",
-  "total_titles_processed": 2151,
+  "generated_at": "2026-03-04T00:56:21.456605+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 6,
+      "match_count": 3,
       "titles": [
         {
           "title": "AL战胜IG",
           "url": "https://search.bilibili.com/all?keyword=AL%20IG",
           "source": "bilibili 热搜",
           "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[21时08分 ~ 23时52分]"
-        },
-        {
-          "title": "IG vs AL LPL第一赛段",
-          "url": "https://search.bilibili.com/all?keyword=AL%20IG",
-          "source": "bilibili 热搜",
-          "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时50分 ~ 19时37分]"
-        },
-        {
-          "title": "EDG对阵T1生死战前瞻",
-          "url": "https://search.bilibili.com/all?keyword=EDG%E5%AF%B9%E9%98%B5T1%E7%94%9F%E6%AD%BB%E6%88%98%E5%89%8D%E7%9E%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            2,
-            8,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时50分 ~ 15时49分]"
+          "appearance_count": 1,
+          "time_info": "00时56分"
         },
         {
           "title": "iG全线溃败,1-3不敌AL",
@@ -51,30 +26,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[22时50分 ~ 23时52分]"
+          "appearance_count": 1,
+          "time_info": "00时56分"
         },
         {
-          "title": "AL战胜IG赛后数据",
-          "url": "https://search.bilibili.com/all?keyword=AL%E6%88%98%E8%83%9CIG",
-          "source": "bilibili 热搜",
+          "title": "EDG五番战T1",
+          "url": "https://www.douyin.com/hot/2418165",
+          "source": "抖音",
           "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时50分 ~ 22时51分]"
-        },
-        {
-          "title": "圣地亚哥大师赛TL零封T1",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9C%A3%E5%9C%B0%E4%BA%9A%E5%93%A5%E5%A4%A7%E5%B8%88%E8%B5%9BTL%E9%9B%B6%E5%B0%81T1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时51分"
+          "time_info": "00时56分"
         }
       ]
     }
