@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-05T00:54:19.841324+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-05T01:43:09.448601+08:00",
+  "total_titles_processed": 375,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://search.bilibili.com/all?keyword=EDG%E4%B8%BA%E4%BD%95%E6%83%A8%E9%81%ADT1%E6%A8%AA%E6%89%AB",
           "source": "bilibili 热搜",
           "ranks": [
-            29
+            29,
+            25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
+          "appearance_count": 3,
+          "time_info": "[00时54分 ~ 01时43分]"
         }
       ]
     }
