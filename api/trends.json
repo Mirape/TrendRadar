@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-04T17:48:16.902181+08:00",
-  "total_titles_processed": 1534,
+  "generated_at": "2026-03-04T18:43:02.654553+08:00",
+  "total_titles_processed": 1649,
   "failed_sources": [],
   "trends": [
     {
@@ -18,11 +18,27 @@
             20,
             21,
             23,
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时56分 ~ 17时48分]"
+          "appearance_count": 17,
+          "time_info": "[00时56分 ~ 18时43分]"
+        },
+        {
+          "title": "T1大师赛战胜EDG",
+          "url": "https://www.douyin.com/hot/2418165",
+          "source": "抖音",
+          "ranks": [
+            16,
+            25,
+            27,
+            24,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时27分 ~ 18时43分]"
         },
         {
           "title": "AL战胜IG",
@@ -39,30 +55,17 @@
           "time_info": "[00时56分 ~ 07时33分]"
         },
         {
-          "title": "T1大师赛战胜EDG",
-          "url": "https://www.douyin.com/hot/2418165",
-          "source": "抖音",
-          "ranks": [
-            16,
-            25,
-            27,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时27分 ~ 17时48分]"
-        },
-        {
           "title": "EDG为何惨遭T1横扫",
           "url": "https://search.bilibili.com/all?keyword=EDG%E4%B8%BA%E4%BD%95%E6%83%A8%E9%81%ADT1%E6%A8%AA%E6%89%AB",
           "source": "bilibili 热搜",
           "ranks": [
             6,
-            7
+            7,
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时44分 ~ 17时48分]"
+          "appearance_count": 9,
+          "time_info": "[12时44分 ~ 18时43分]"
         },
         {
           "title": "EDG五番战T1",
@@ -82,11 +85,12 @@
           "ranks": [
             19,
             20,
-            21
+            21,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时44分 ~ 14时56分]"
+          "appearance_count": 6,
+          "time_info": "[12时44分 ~ 18时43分]"
         },
         {
           "title": "AL战胜IG赛后数据",
