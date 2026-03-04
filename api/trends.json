@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-03-04T19:35:48.037544+08:00",
-  "total_titles_processed": 1729,
+  "generated_at": "2026-03-04T21:06:47.529844+08:00",
+  "total_titles_processed": 1836,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
       "match_count": 11,
       "titles": [
+        {
+          "title": "EDG为何惨遭T1横扫",
+          "url": "https://search.bilibili.com/all?keyword=EDG%E4%B8%BA%E4%BD%95%E6%83%A8%E9%81%ADT1%E6%A8%AA%E6%89%AB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            7,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时44分 ~ 21时06分]"
+        },
         {
           "title": "iG全线溃败,1-3不敌AL",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351312&amp;topic_name=iG%E5%85%A8%E7%BA%BF%E6%BA%83%E8%B4%A5%2C1-3%E4%B8%8D%E6%95%8CAL",
@@ -54,19 +67,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时56分 ~ 07时33分]"
-        },
-        {
-          "title": "EDG为何惨遭T1横扫",
-          "url": "https://search.bilibili.com/all?keyword=EDG%E4%B8%BA%E4%BD%95%E6%83%A8%E9%81%ADT1%E6%A8%AA%E6%89%AB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            7,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时44分 ~ 18时43分]"
         },
         {
           "title": "EDG五番战T1",
