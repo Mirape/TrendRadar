@@ -1,73 +1,7 @@
 {
-  "generated_at": "2026-03-05T23:55:30.859962+08:00",
-  "total_titles_processed": 2050,
+  "generated_at": "2026-03-06T02:09:37.741156+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "EDG为何惨遭T1横扫",
-          "url": "https://search.bilibili.com/all?keyword=EDG%E4%B8%BA%E4%BD%95%E6%83%A8%E9%81%ADT1%E6%A8%AA%E6%89%AB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29,
-            25,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 10时31分]"
-        },
-        {
-          "title": "G2落后8分翻盘T1",
-          "url": "https://search.bilibili.com/all?keyword=G2%E8%90%BD%E5%90%8E8%E5%88%86%E7%BF%BB%E7%9B%98T1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时54分 ~ 14时59分]"
-        },
-        {
-          "title": "委内瑞拉代总统罗德里格斯（Rodriguez）：周四早间将继续会见美国官员。 两国评估了矿业合作的可能性。（委内瑞拉国家电视台）",
-          "url": "https://wallstreetcn.com/livenews/3063876",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时37分 ~ 07时35分]"
-        },
-        {
-          "title": "BTIG加入高盛与城堡证券行列，发出股市看涨信号",
-          "url": "https://wallstreetcn.com/livenews/3063898",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时35分"
-        },
-        {
-          "title": "百度AIGC舌尖遇顺德",
-          "url": "https://www.baidu.com/s?wd=%E7%99%BE%E5%BA%A6AIGC%E8%88%8C%E5%B0%96%E9%81%87%E9%A1%BA%E5%BE%B7",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时48分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://github.com/Mirape/TrendRadar/img/news.jpg"
 }
