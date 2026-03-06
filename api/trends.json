@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-07T00:50:37.293012+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-03-07T01:39:28.372853+08:00",
+  "total_titles_processed": 382,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E9%80%90%E5%B8%A7%E5%88%86%E6%9E%90TES%E8%B5%9B%E5%9C%BANaiyou%E6%93%8D%E4%BD%9C",
           "source": "bilibili 热搜",
           "ranks": [
-            9
+            9,
+            1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时50分"
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 01时39分]"
         }
       ]
     }
