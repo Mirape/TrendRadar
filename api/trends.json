@@ -1,41 +1,7 @@
 {
-  "generated_at": "2026-03-07T23:29:39.927442+08:00",
-  "total_titles_processed": 1721,
+  "generated_at": "2026-03-08T00:34:32.583382+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "逐帧分析TES赛场Naiyou操作",
-          "url": "https://search.bilibili.com/all?keyword=%E9%80%90%E5%B8%A7%E5%88%86%E6%9E%90TES%E8%B5%9B%E5%9C%BANaiyou%E6%93%8D%E4%BD%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            1,
-            4,
-            25,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时50分 ~ 12时25分]"
-        },
-        {
-          "title": "Robert Lighthizer将退出特朗普媒体科技集团董事会。",
-          "url": "https://wallstreetcn.com/livenews/3065491",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时34分 ~ 07时32分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://github.com/Mirape/TrendRadar/img/news.jpg"
 }
