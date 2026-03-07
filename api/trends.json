@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-07T07:32:20.996057+08:00",
-  "total_titles_processed": 608,
+  "generated_at": "2026-03-07T10:22:44.362297+08:00",
+  "total_titles_processed": 776,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             9,
             1,
-            4
+            4,
+            25
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时50分 ~ 07时32分]"
+          "appearance_count": 11,
+          "time_info": "[00时50分 ~ 10时22分]"
         },
         {
           "title": "Robert Lighthizer将退出特朗普媒体科技集团董事会。",
