@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-03-08T10:33:53.842964+08:00",
-  "total_titles_processed": 731,
+  "generated_at": "2026-03-08T12:47:00.613187+08:00",
+  "total_titles_processed": 883,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "iG S赛 英雄联盟 T1",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Knight提醒大家看决赛",
+          "url": "https://search.bilibili.com/all?keyword=Knight%E6%8F%90%E9%86%92%E5%A4%A7%E5%AE%B6%E7%9C%8B%E5%86%B3%E8%B5%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时46分 ~ 12时47分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://github.com/Mirape/TrendRadar/img/news.jpg"
 }
