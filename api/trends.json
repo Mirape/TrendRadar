@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-09T02:41:23.975999+08:00",
-  "total_titles_processed": 403,
+  "generated_at": "2026-03-09T03:28:04.898380+08:00",
+  "total_titles_processed": 419,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 02时41分]"
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 03时28分]"
         },
         {
           "title": "美国能源部长Wright：全球当前并不缺少石油或天然气。 （谈及伊朗战争对石油的影响）这不会是一场长期性的战争。 霍尔木兹海峡将相对迅速地恢复。",
@@ -26,8 +26,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 02时41分]"
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 03时28分]"
         },
         {
           "title": "美国能源部长Wright：印度对美国、委内瑞拉、以及其他地方的石油进口增加。",
@@ -37,8 +37,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 02时41分]"
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 03时28分]"
         },
         {
           "title": "美国能源部长Wright：就更低的能源价格而言，发动伊朗战争“代价是偏小的”。 对于战争推高油价（的持续时间），我讨论的是数周、而非几个月。",
@@ -48,8 +48,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 02时41分]"
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 03时28分]"
         },
         {
           "title": "美国能源部长Wright：（美西方）对俄罗斯石油的（制裁）政策没有变化。（福克斯新闻）",
@@ -59,8 +59,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 02时41分]"
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 03时28分]"
         }
       ]
     }
