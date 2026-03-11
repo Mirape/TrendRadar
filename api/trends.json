@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-12T03:02:33.074052+08:00",
-  "total_titles_processed": 455,
+  "generated_at": "2026-03-12T04:39:31.470835+08:00",
+  "total_titles_processed": 530,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             16,
             18,
-            29
+            29,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时58分 ~ 03时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 04时39分]"
         },
         {
           "title": "中国成功研发世界最强 T1200 级超高强度碳纤维并实现百吨级量产，这对我国有何意义？",
@@ -26,11 +27,12 @@
           "source": "知乎",
           "ranks": [
             13,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时54分 ~ 03时02分]"
+          "appearance_count": 3,
+          "time_info": "[01时54分 ~ 04时39分]"
         },
         {
           "title": "马斯克：Digital Optimus（也称Macrohard）是xAI一特斯拉的一个联合项目。 这也是双方投资协议的一部分。",
