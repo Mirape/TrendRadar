@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-12T05:39:05.614753+08:00",
-  "total_titles_processed": 587,
+  "generated_at": "2026-03-12T06:32:15.142762+08:00",
+  "total_titles_processed": 616,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             13,
             8,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时54分 ~ 05时39分]"
+          "appearance_count": 6,
+          "time_info": "[01时54分 ~ 06时32分]"
         },
         {
           "title": "英雄联盟16.6版本有何改动",
@@ -29,11 +30,12 @@
             16,
             18,
             29,
-            24
+            24,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时58分 ~ 04时39分]"
+          "appearance_count": 5,
+          "time_info": "[00时58分 ~ 06时32分]"
         },
         {
           "title": "马斯克：Digital Optimus（也称Macrohard）是xAI一特斯拉的一个联合项目。 这也是双方投资协议的一部分。",
