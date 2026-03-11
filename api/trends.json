@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-03-12T04:39:31.470835+08:00",
-  "total_titles_processed": 530,
+  "generated_at": "2026-03-12T05:39:05.614753+08:00",
+  "total_titles_processed": 587,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
       "match_count": 3,
       "titles": [
+        {
+          "title": "中国成功研发世界最强 T1200 级超高强度碳纤维并实现百吨级量产，这对我国有何意义？",
+          "url": "https://www.zhihu.com/question/2014993230404531730",
+          "source": "知乎",
+          "ranks": [
+            13,
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时54分 ~ 05时39分]"
+        },
         {
           "title": "英雄联盟16.6版本有何改动",
           "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F16.6%E7%89%88%E6%9C%AC%E6%9C%89%E4%BD%95%E6%94%B9%E5%8A%A8",
@@ -20,19 +34,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时58分 ~ 04时39分]"
-        },
-        {
-          "title": "中国成功研发世界最强 T1200 级超高强度碳纤维并实现百吨级量产，这对我国有何意义？",
-          "url": "https://www.zhihu.com/question/2014993230404531730",
-          "source": "知乎",
-          "ranks": [
-            13,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时54分 ~ 04时39分]"
         },
         {
           "title": "马斯克：Digital Optimus（也称Macrohard）是xAI一特斯拉的一个联合项目。 这也是双方投资协议的一部分。",
