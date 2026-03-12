@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-12T07:32:16.878610+08:00",
-  "total_titles_processed": 681,
+  "generated_at": "2026-03-12T10:32:36.947661+08:00",
+  "total_titles_processed": 865,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             8,
             7,
             5,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时54分 ~ 07时32分]"
+          "appearance_count": 8,
+          "time_info": "[01时54分 ~ 10时32分]"
         },
         {
           "title": "英雄联盟16.6版本有何改动",
@@ -31,11 +32,12 @@
             18,
             29,
             24,
-            21
+            21,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 07时32分]"
+          "appearance_count": 7,
+          "time_info": "[00时58分 ~ 10时32分]"
         },
         {
           "title": "美国能源部长Wright：希望未来数周看到货轮通航霍尔木兹海峡。",
@@ -44,7 +46,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
         },
