@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-12T13:55:42.949571+08:00",
-  "total_titles_processed": 1102,
+  "generated_at": "2026-03-12T15:02:59.660279+08:00",
+  "total_titles_processed": 1210,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "中国成功研发世界最强 T1200 级超高强度碳纤维并实现百吨级量产，这对我国有何意义？",
@@ -21,8 +21,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时54分 ~ 13时55分]"
+          "appearance_count": 11,
+          "time_info": "[01时54分 ~ 15时02分]"
         },
         {
           "title": "英雄联盟16.6版本有何改动",
@@ -51,6 +51,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
+        },
+        {
+          "title": "如何评价《海贼王真人版》第 2 季评分 IGN9 分，烂番茄好评指数均为 100%？",
+          "url": "https://www.zhihu.com/question/2014807613653671991",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
         },
         {
           "title": "马斯克：Digital Optimus（也称Macrohard）是xAI一特斯拉的一个联合项目。 这也是双方投资协议的一部分。",
