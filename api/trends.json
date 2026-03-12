@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-12T15:02:59.660279+08:00",
-  "total_titles_processed": 1210,
+  "generated_at": "2026-03-12T16:52:20.015589+08:00",
+  "total_titles_processed": 1344,
   "failed_sources": [],
   "trends": [
     {
@@ -35,11 +35,12 @@
             24,
             21,
             19,
-            20
+            20,
+            25
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时58分 ~ 13时55分]"
+          "appearance_count": 10,
+          "time_info": "[00时58分 ~ 16时52分]"
         },
         {
           "title": "美国能源部长Wright：希望未来数周看到货轮通航霍尔木兹海峡。",
@@ -59,9 +60,9 @@
           "ranks": [
             17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时02分 ~ 16时52分]"
         },
         {
           "title": "马斯克：Digital Optimus（也称Macrohard）是xAI一特斯拉的一个联合项目。 这也是双方投资协议的一部分。",
