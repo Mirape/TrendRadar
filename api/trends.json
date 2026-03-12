@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-12T17:51:27.181459+08:00",
-  "total_titles_processed": 1446,
+  "generated_at": "2026-03-12T18:44:59.123161+08:00",
+  "total_titles_processed": 1539,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "中国成功研发世界最强 T1200 级超高强度碳纤维并实现百吨级量产，这对我国有何意义？",
@@ -62,8 +62,19 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时02分 ~ 17时51分]"
+          "appearance_count": 4,
+          "time_info": "[15时02分 ~ 18时44分]"
+        },
+        {
+          "title": "据外媒报道，由于无人机袭击破坏了科威特的主要机场，周四航班进一步中断，迪拜和沙特首都利雅得的航班也不得不暂时停飞。据Flightradar24数据显示，当晚商业航班在利雅得上空盘旋，无法降落。",
+          "url": "https://flash.jin10.com/detail/20260312182219041800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时44分"
         },
         {
           "title": "马斯克：Digital Optimus（也称Macrohard）是xAI一特斯拉的一个联合项目。 这也是双方投资协议的一部分。",
