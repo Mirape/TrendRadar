@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-12T19:35:34.489492+08:00",
-  "total_titles_processed": 1614,
+  "generated_at": "2026-03-12T21:11:32.905413+08:00",
+  "total_titles_processed": 1735,
   "failed_sources": [],
   "trends": [
     {
@@ -44,6 +44,17 @@
           "time_info": "[00时58分 ~ 17时51分]"
         },
         {
+          "title": "如何评价《海贼王真人版》第 2 季评分 IGN9 分，烂番茄好评指数均为 100%？",
+          "url": "https://www.zhihu.com/question/2014807613653671991",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时02分 ~ 21时11分]"
+        },
+        {
           "title": "美国能源部长Wright：希望未来数周看到货轮通航霍尔木兹海峡。",
           "url": "https://wallstreetcn.com/livenews/3068382",
           "source": "华尔街见闻-快讯",
@@ -53,17 +64,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
-        },
-        {
-          "title": "如何评价《海贼王真人版》第 2 季评分 IGN9 分，烂番茄好评指数均为 100%？",
-          "url": "https://www.zhihu.com/question/2014807613653671991",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时02分 ~ 19时35分]"
         },
         {
           "title": "据外媒报道，由于无人机袭击破坏了科威特的主要机场，周四航班进一步中断，迪拜和沙特首都利雅得的航班也不得不暂时停飞。据Flightradar24数据显示，当晚商业航班在利雅得上空盘旋，无法降落。",
