@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-12T18:44:59.123161+08:00",
-  "total_titles_processed": 1539,
+  "generated_at": "2026-03-12T19:35:34.489492+08:00",
+  "total_titles_processed": 1614,
   "failed_sources": [],
   "trends": [
     {
@@ -62,8 +62,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时02分 ~ 18时44分]"
+          "appearance_count": 5,
+          "time_info": "[15时02分 ~ 19时35分]"
         },
         {
           "title": "据外媒报道，由于无人机袭击破坏了科威特的主要机场，周四航班进一步中断，迪拜和沙特首都利雅得的航班也不得不暂时停飞。据Flightradar24数据显示，当晚商业航班在利雅得上空盘旋，无法降落。",
@@ -72,7 +72,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时44分"
         },
