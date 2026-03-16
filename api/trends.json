@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-17T06:39:51.504442+08:00",
-  "total_titles_processed": 589,
+  "generated_at": "2026-03-17T07:36:30.921799+08:00",
+  "total_titles_processed": 657,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             17,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时43分 ~ 05时45分]"
+          "appearance_count": 3,
+          "time_info": "[04时43分 ~ 07时36分]"
         },
         {
           "title": "美国总统特朗普：伊朗现在是纸老虎（Paper Tiger）。",
