@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-03-16T19:53:50.693184+08:00",
-  "total_titles_processed": 1380,
+  "generated_at": "2026-03-16T21:23:31.522343+08:00",
+  "total_titles_processed": 1503,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "iG S赛 英雄联盟 T1",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "TEC vs WSIG VCT进化者杯",
+          "url": "https://search.bilibili.com/all?keyword=TEC%20WSIG",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://github.com/Mirape/TrendRadar/img/news.jpg"
 }
