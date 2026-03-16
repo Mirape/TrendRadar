@@ -1,33 +1,22 @@
 {
-  "generated_at": "2026-03-16T23:05:50.460658+08:00",
-  "total_titles_processed": 1640,
+  "generated_at": "2026-03-17T01:07:37.460861+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
-          "title": "T1200碳纤维有哪些应用前景",
-          "url": "https://search.bilibili.com/all?keyword=T1200%E7%A2%B3%E7%BA%A4%E7%BB%B4%E6%9C%89%E5%93%AA%E4%BA%9B%E5%BA%94%E7%94%A8%E5%89%8D%E6%99%AF",
-          "source": "bilibili 热搜",
+          "title": "美国总统特朗普：伊朗现在是纸老虎（Paper Tiger）。",
+          "url": "https://flash.jin10.com/detail/20260317002634610800",
+          "source": "金十数据",
           "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时05分"
-        },
-        {
-          "title": "TEC vs WSIG VCT进化者杯",
-          "url": "https://search.bilibili.com/all?keyword=TEC%20WSIG",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时23分"
+          "time_info": "01时07分"
         }
       ]
     }
