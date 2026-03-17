@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-18T01:07:37.836248+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-03-18T03:08:36.997750+08:00",
+  "total_titles_processed": 398,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "定制冠军实锤?官宣T1代替JDG",
@@ -15,8 +15,19 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时07分 ~ 03时08分]"
+        },
+        {
+          "title": "2026 英雄联盟先锋赛 小组赛 JDG 0：3 不敌 GEN， 如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/2017351437491904513",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时07分"
+          "time_info": "03时08分"
         }
       ]
     }
