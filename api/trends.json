@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-17T17:00:22.913955+08:00",
-  "total_titles_processed": 1331,
+  "generated_at": "2026-03-17T18:03:45.746450+08:00",
+  "total_titles_processed": 1444,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "2026 英雄联盟全球先锋赛 小组赛 BLG 3：2 战胜 BFX，如何评价这场比赛？",
@@ -19,6 +19,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时43分 ~ 07时36分]"
+        },
+        {
+          "title": "T1200碳纤维有哪些应用前景",
+          "url": "https://search.bilibili.com/all?keyword=T1200%E7%A2%B3%E7%BA%A4%E7%BB%B4%E6%9C%89%E5%93%AA%E4%BA%9B%E5%BA%94%E7%94%A8%E5%89%8D%E6%99%AF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
         },
         {
           "title": "美国总统特朗普：伊朗现在是纸老虎（Paper Tiger）。",
