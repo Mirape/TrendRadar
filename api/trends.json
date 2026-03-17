@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-03-17T18:03:45.746450+08:00",
-  "total_titles_processed": 1444,
+  "generated_at": "2026-03-17T19:47:01.023762+08:00",
+  "total_titles_processed": 1577,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850486&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/03/U7t3ECByVtBPn2V5yKJMT.jpg/lite\" height=\"120\" /></a>",
+          "url": "https://flash.jin10.com/detail/20260317193805932800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
+        },
         {
           "title": "2026 英雄联盟全球先锋赛 小组赛 BLG 3：2 战胜 BFX，如何评价这场比赛？",
           "url": "https://www.zhihu.com/question/2016925262856627223",
@@ -21,13 +32,24 @@
           "time_info": "[04时43分 ~ 07时36分]"
         },
         {
+          "title": "宋雨琦BigGuy好辣",
+          "url": "https://www.douyin.com/hot/2434133",
+          "source": "抖音",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时46分 ~ 19时47分]"
+        },
+        {
           "title": "T1200碳纤维有哪些应用前景",
           "url": "https://search.bilibili.com/all?keyword=T1200%E7%A2%B3%E7%BA%A4%E7%BB%B4%E6%9C%89%E5%93%AA%E4%BA%9B%E5%BA%94%E7%94%A8%E5%89%8D%E6%99%AF",
           "source": "bilibili 热搜",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时03分"
         },
