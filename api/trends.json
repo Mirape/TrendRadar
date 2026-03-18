@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-18T18:02:42.332764+08:00",
-  "total_titles_processed": 1429,
+  "generated_at": "2026-03-18T19:50:11.630425+08:00",
+  "total_titles_processed": 1557,
   "failed_sources": [],
   "trends": [
     {
@@ -18,11 +18,12 @@
             15,
             20,
             21,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时07分 ~ 18时02分]"
+          "appearance_count": 17,
+          "time_info": "[01时07分 ~ 19时50分]"
         },
         {
           "title": "宋雨琦BigGuy好辣",
