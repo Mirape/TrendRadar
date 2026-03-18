@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-18T15:56:34.031255+08:00",
-  "total_titles_processed": 1217,
+  "generated_at": "2026-03-18T16:56:59.667820+08:00",
+  "total_titles_processed": 1322,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             13,
             14,
             15,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时07分 ~ 15时56分]"
+          "appearance_count": 14,
+          "time_info": "[01时07分 ~ 16时56分]"
         },
         {
           "title": "宋雨琦BigGuy好辣",
@@ -73,6 +74,19 @@
           "time_info": "[03时08分 ~ 05时43分]"
         },
         {
+          "title": "英雄联盟愚人节皮肤",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E6%84%9A%E4%BA%BA%E8%8A%82%E7%9A%AE%E8%82%A4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25,
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时10分 ~ 16时56分]"
+        },
+        {
           "title": "T1200碳纤维有哪些应用前景",
           "url": "https://search.bilibili.com/all?keyword=T1200%E7%A2%B3%E7%BA%A4%E7%BB%B4%E6%9C%89%E5%93%AA%E4%BA%9B%E5%BA%94%E7%94%A8%E5%89%8D%E6%99%AF",
           "source": "bilibili 热搜",
@@ -83,18 +97,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时42分 ~ 07时54分]"
-        },
-        {
-          "title": "英雄联盟愚人节皮肤",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E6%84%9A%E4%BA%BA%E8%8A%82%E7%9A%AE%E8%82%A4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时10分 ~ 15时56分]"
         },
         {
           "title": "2026 英雄联盟先锋赛小组赛 JDG 0：3 不敌 GEN， 如何评价这场比赛？",
