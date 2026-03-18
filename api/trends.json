@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-18T14:10:32.074332+08:00",
-  "total_titles_processed": 1077,
+  "generated_at": "2026-03-18T15:56:34.031255+08:00",
+  "total_titles_processed": 1217,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             9,
             13,
             14,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时07分 ~ 14时10分]"
+          "appearance_count": 13,
+          "time_info": "[01时07分 ~ 15时56分]"
         },
         {
           "title": "宋雨琦BigGuy好辣",
@@ -84,6 +85,18 @@
           "time_info": "[05时42分 ~ 07时54分]"
         },
         {
+          "title": "英雄联盟愚人节皮肤",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E6%84%9A%E4%BA%BA%E8%8A%82%E7%9A%AE%E8%82%A4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时10分 ~ 15时56分]"
+        },
+        {
           "title": "2026 英雄联盟先锋赛小组赛 JDG 0：3 不敌 GEN， 如何评价这场比赛？",
           "url": "https://www.zhihu.com/question/2017351437491904513",
           "source": "知乎",
@@ -115,17 +128,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
-        },
-        {
-          "title": "英雄联盟愚人节皮肤",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E6%84%9A%E4%BA%BA%E8%8A%82%E7%9A%AE%E8%82%A4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时10分"
         }
       ]
     }
