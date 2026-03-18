@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-18T10:38:22.258693+08:00",
-  "total_titles_processed": 822,
+  "generated_at": "2026-03-18T13:02:02.936565+08:00",
+  "total_titles_processed": 978,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "定制冠军实锤?官宣T1代替JDG",
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             9,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时07分 ~ 10时38分]"
+          "appearance_count": 11,
+          "time_info": "[01时07分 ~ 13时02分]"
         },
         {
           "title": "宋雨琦BigGuy好辣",
@@ -88,7 +89,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
         },
@@ -102,6 +103,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
+        },
+        {
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850486&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/03/41iv_6DrFt70-d2h7wt6W.jpg/lite\" height=\"120\" /></a>",
+          "url": "https://flash.jin10.com/detail/20260318120145325800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         }
       ]
     }
