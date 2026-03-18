@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-19T04:43:13.194018+08:00",
-  "total_titles_processed": 478,
+  "generated_at": "2026-03-19T05:41:24.652506+08:00",
+  "total_titles_processed": 523,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             16,
-            22
+            22,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时07分 ~ 04时43分]"
+          "appearance_count": 4,
+          "time_info": "[03时07分 ~ 05时41分]"
         },
         {
           "title": "谷歌公司与Stitch推出Vibe Design。",
