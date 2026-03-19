@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-19T14:04:31.829358+08:00",
-  "total_titles_processed": 1049,
+  "generated_at": "2026-03-19T15:50:51.494942+08:00",
+  "total_titles_processed": 1206,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "Knight阿卡丽14-1",
@@ -41,6 +41,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
+        },
+        {
+          "title": "小新ProGT13被称2K档性价比王",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E6%96%B0ProGT13%E8%A2%AB%E7%A7%B02K%E6%A1%A3%E6%80%A7%E4%BB%B7%E6%AF%94%E7%8E%8B",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时50分"
         }
       ]
     }
