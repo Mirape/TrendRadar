@@ -1,57 +1,33 @@
 {
-  "generated_at": "2026-03-19T22:54:09.167269+08:00",
-  "total_titles_processed": 1890,
+  "generated_at": "2026-03-20T00:02:07.414039+08:00",
+  "total_titles_processed": 307,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 4,
+      "match_count": 2,
       "titles": [
         {
-          "title": "Knight阿卡丽14-1",
-          "url": "https://search.bilibili.com/all?keyword=Knight%E9%98%BF%E5%8D%A1%E4%B8%BD14-1",
-          "source": "bilibili 热搜",
+          "title": "巴西总统卢拉：达里奥·杜里甘（Dario Durigan ）将接替Haddad出任财长。",
+          "url": "https://flash.jin10.com/detail/20260319234323465800",
+          "source": "金十数据",
           "ranks": [
-            4
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时07分"
+          "time_info": "00时02分"
         },
         {
-          "title": "英雄联盟愚人节皮肤",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E6%84%9A%E4%BA%BA%E8%8A%82%E7%9A%AE%E8%82%A4",
-          "source": "bilibili 热搜",
+          "title": "来华巡演!青岛公司重金签T1",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352105&amp;topic_name=%E6%9D%A5%E5%8D%8E%E5%B7%A1%E6%BC%94%21%E9%9D%92%E5%B2%9B%E5%85%AC%E5%8F%B8%E9%87%8D%E9%87%91%E7%AD%BET1",
+          "source": "贴吧",
           "ranks": [
-            16,
-            22,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时07分 ~ 05时41分]"
-        },
-        {
-          "title": "谷歌公司与Stitch推出Vibe Design。",
-          "url": "https://wallstreetcn.com/livenews/3072623",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时07分"
-        },
-        {
-          "title": "小新ProGT13被称2K档性价比王",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E6%96%B0ProGT13%E8%A2%AB%E7%A7%B02K%E6%A1%A3%E6%80%A7%E4%BB%B7%E6%AF%94%E7%8E%8B",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时50分"
+          "time_info": "00时02分"
         }
       ]
     }
