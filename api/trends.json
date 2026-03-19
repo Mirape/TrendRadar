@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-03-20T04:44:08.189221+08:00",
-  "total_titles_processed": 525,
+  "generated_at": "2026-03-20T05:41:13.820597+08:00",
+  "total_titles_processed": 574,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
       "match_count": 3,
       "titles": [
+        {
+          "title": "来华巡演!青岛公司重金签T1",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352105&amp;topic_name=%E6%9D%A5%E5%8D%8E%E5%B7%A1%E6%BC%94%21%E9%9D%92%E5%B2%9B%E5%85%AC%E5%8F%B8%E9%87%8D%E9%87%91%E7%AD%BET1",
+          "source": "贴吧",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 05时41分]"
+        },
         {
           "title": "巴西总统卢拉：达里奥·杜里甘（Dario Durigan ）将接替Haddad出任财长。",
           "url": "https://flash.jin10.com/detail/20260319234323465800",
@@ -17,17 +28,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
-        },
-        {
-          "title": "来华巡演!青岛公司重金签T1",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352105&amp;topic_name=%E6%9D%A5%E5%8D%8E%E5%B7%A1%E6%BC%94%21%E9%9D%92%E5%B2%9B%E5%85%AC%E5%8F%B8%E9%87%8D%E9%87%91%E7%AD%BET1",
-          "source": "贴吧",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 04时44分]"
         },
         {
           "title": "美国能源部长Wright：美国没有对石油出口实施限制的计划。",
