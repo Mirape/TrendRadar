@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-20T18:43:39.411331+08:00",
-  "total_titles_processed": 1524,
+  "generated_at": "2026-03-20T19:36:33.874504+08:00",
+  "total_titles_processed": 1623,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             12,
             15,
             16,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时02分 ~ 18时43分]"
+          "appearance_count": 20,
+          "time_info": "[00时02分 ~ 19时36分]"
         },
         {
           "title": "<a href=\"https://www.jin10.com/activities/2026/3/gold_price_alert/index.html\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/03/hzkeQPRuNx4V4kG_vzCHA.jpg/lite\" height=\"120\" /></a>",
