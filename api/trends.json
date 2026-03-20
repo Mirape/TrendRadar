@@ -1,84 +1,22 @@
 {
-  "generated_at": "2026-03-20T23:50:08.227186+08:00",
-  "total_titles_processed": 1956,
+  "generated_at": "2026-03-21T00:52:00.915540+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 6,
+      "match_count": 1,
       "titles": [
         {
           "title": "来华巡演!青岛公司重金签T1",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352105&amp;topic_name=%E6%9D%A5%E5%8D%8E%E5%B7%A1%E6%BC%94%21%E9%9D%92%E5%B2%9B%E5%85%AC%E5%8F%B8%E9%87%8D%E9%87%91%E7%AD%BET1",
           "source": "贴吧",
           "ranks": [
-            10,
-            12,
-            15,
-            16,
-            17,
-            18,
-            19,
             21
-          ],
-          "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时02分 ~ 23时50分]"
-        },
-        {
-          "title": "<a href=\"https://www.jin10.com/activities/2026/3/gold_price_alert/index.html\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/03/hzkeQPRuNx4V4kG_vzCHA.jpg/lite\" height=\"120\" /></a>",
-          "url": "https://flash.jin10.com/detail/20260320150123630800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时03分"
-        },
-        {
-          "title": "<a href=\"https://www.jin10.com/activities/2026/3/gold_price_alert/index.html\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/03/YmNMNlxCtc5SnkewUGgWf.jpg/lite\" height=\"120\" /></a>",
-          "url": "https://flash.jin10.com/detail/20260320210441753800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时10分"
-        },
-        {
-          "title": "巴西总统卢拉：达里奥·杜里甘（Dario Durigan ）将接替Haddad出任财长。",
-          "url": "https://flash.jin10.com/detail/20260319234323465800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
-          "title": "英雄联盟全球先锋赛",
-          "url": "https://s.weibo.com/weibo?q=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E5%85%A8%E7%90%83%E5%85%88%E9%94%8B%E8%B5%9B&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[23时49分 ~ 23时50分]"
-        },
-        {
-          "title": "美国能源部长Wright：美国没有对石油出口实施限制的计划。",
-          "url": "https://wallstreetcn.com/livenews/3073512",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时05分"
+          "time_info": "[00时51分 ~ 00时52分]"
         }
       ]
     }
