@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-20T10:31:46.516776+08:00",
-  "total_titles_processed": 865,
+  "generated_at": "2026-03-20T12:51:29.614793+08:00",
+  "total_titles_processed": 1017,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             10,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时02分 ~ 10时31分]"
+          "appearance_count": 12,
+          "time_info": "[00时02分 ~ 12时51分]"
         },
         {
           "title": "巴西总统卢拉：达里奥·杜里甘（Dario Durigan ）将接替Haddad出任财长。",
