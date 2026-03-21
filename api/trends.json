@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-21T16:40:06.229647+08:00",
-  "total_titles_processed": 1142,
+  "generated_at": "2026-03-21T17:37:42.300327+08:00",
+  "total_titles_processed": 1209,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             21,
             23,
             28,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时51分 ~ 16时40分]"
+          "appearance_count": 17,
+          "time_info": "[00时51分 ~ 17时37分]"
         },
         {
           "title": "美国能源部长Wright：并没有讨论汽油价格管控问题。",
