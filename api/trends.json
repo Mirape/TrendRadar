@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-21T10:25:46.118125+08:00",
-  "total_titles_processed": 768,
+  "generated_at": "2026-03-21T12:41:33.885851+08:00",
+  "total_titles_processed": 888,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             21,
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时51分 ~ 10时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时51分 ~ 12时41分]"
         },
         {
           "title": "美国能源部长Wright：并没有讨论汽油价格管控问题。",
@@ -37,11 +38,12 @@
           "ranks": [
             1,
             10,
-            20
+            20,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时34分 ~ 10时25分]"
+          "appearance_count": 4,
+          "time_info": "[06时34分 ~ 12时41分]"
         },
         {
           "title": "<a href=\"https://www.jin10.com/activities/2026/3/gold_price_alert/index.html\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/03/xY4rwSoLid_-3y1vMGyTG.jpg/lite\" height=\"120\" /></a>",
@@ -50,7 +52,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时25分"
         }
