@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-22T21:02:25.354695+08:00",
-  "total_titles_processed": 1300,
+  "generated_at": "2026-03-22T22:33:22.943289+08:00",
+  "total_titles_processed": 1405,
   "failed_sources": [],
   "trends": [
     {
@@ -21,6 +21,18 @@
           "time_info": "[10时39分 ~ 16时40分]"
         },
         {
+          "title": "IGN 给红色沙漠打了个未完成的 6 分，这种评测方式到底是负责任还是耍流氓？",
+          "url": "https://www.zhihu.com/question/2017926454848037508",
+          "source": "知乎",
+          "ranks": [
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时28分 ~ 22时33分]"
+        },
+        {
           "title": "<a href=\"https://www.jin10.com/activities/2026/3/gold_price_alert/index.html\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/03/xY4rwSoLid_-3y1vMGyTG.jpg/lite\" height=\"120\" /></a>",
           "url": "https://flash.jin10.com/detail/20260322090709297800",
           "source": "金十数据",
@@ -31,17 +43,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时40分 ~ 21时02分]"
-        },
-        {
-          "title": "IGN 给红色沙漠打了个未完成的 6 分，这种评测方式到底是负责任还是耍流氓？",
-          "url": "https://www.zhihu.com/question/2017926454848037508",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时28分 ~ 21时02分]"
         }
       ]
     }
