@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-03-22T07:31:28.041909+08:00",
-  "total_titles_processed": 460,
+  "generated_at": "2026-03-22T10:40:06.335410+08:00",
+  "total_titles_processed": 632,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "iG S赛 英雄联盟 T1",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "华为成立传媒军团，将聚焦 AIGC 全场景赋能等三大核心方向，如何看待这一布局？将会带来哪些改变？",
+          "url": "https://www.zhihu.com/question/2018341688767160603",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时39分 ~ 10时40分]"
+        },
+        {
+          "title": "<a href=\"https://www.jin10.com/activities/2026/3/gold_price_alert/index.html\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/03/xY4rwSoLid_-3y1vMGyTG.jpg/lite\" height=\"120\" /></a>",
+          "url": "https://flash.jin10.com/detail/20260322090709297800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时40分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://github.com/Mirape/TrendRadar/img/news.jpg"
 }
