@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-22T18:33:30.918214+08:00",
-  "total_titles_processed": 1124,
+  "generated_at": "2026-03-22T19:28:43.360261+08:00",
+  "total_titles_processed": 1179,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "华为成立传媒军团，将聚焦 AIGC 全场景赋能等三大核心方向，如何看待这一布局？将会带来哪些改变？",
@@ -30,6 +30,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
+        },
+        {
+          "title": "IGN 给红色沙漠打了个未完成的 6 分，这种评测方式到底是负责任还是耍流氓？",
+          "url": "https://www.zhihu.com/question/2017926454848037508",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
         }
       ]
     }
