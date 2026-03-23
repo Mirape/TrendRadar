@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-03-23T07:33:51.189941+08:00",
-  "total_titles_processed": 521,
+  "generated_at": "2026-03-23T10:40:33.924363+08:00",
+  "total_titles_processed": 702,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "iG S赛 英雄联盟 T1",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "BLG斩获英雄联盟2026全球先锋赛冠军",
+          "url": "https://www.baidu.com/s?wd=BLG%E6%96%A9%E8%8E%B7%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F2026%E5%85%A8%E7%90%83%E5%85%88%E9%94%8B%E8%B5%9B%E5%86%A0%E5%86%9B",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时40分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://github.com/Mirape/TrendRadar/img/news.jpg"
 }
