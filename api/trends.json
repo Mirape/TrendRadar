@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-03-23T19:49:40.768413+08:00",
-  "total_titles_processed": 1425,
+  "generated_at": "2026-03-23T21:18:23.455200+08:00",
+  "total_titles_processed": 1558,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "如何评价 2026 英雄联盟全球先锋赛 G2 中单选手 Caps 的表现？",
+          "url": "https://www.zhihu.com/question/2019224048329040481",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时18分"
+        },
         {
           "title": "KkOma休假,T1天亮了",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352216&amp;topic_name=KkOma%E4%BC%91%E5%81%87%2CT1%E5%A4%A9%E4%BA%AE%E4%BA%86",
@@ -15,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时56分 ~ 19时49分]"
+          "appearance_count": 4,
+          "time_info": "[18时56分 ~ 21时18分]"
         },
         {
           "title": "BLG斩获英雄联盟2026全球先锋赛冠军",
@@ -29,6 +40,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时40分 ~ 13时07分]"
+        },
+        {
+          "title": "<a href=\"https://www.jin10.com/activities/2026/3/gold_price_alert/index.html\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/03/xY4rwSoLid_-3y1vMGyTG.jpg/lite\" height=\"120\" /></a>",
+          "url": "https://flash.jin10.com/detail/20260323210016362800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时18分"
         }
       ]
     }
