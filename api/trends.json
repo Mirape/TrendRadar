@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-24T19:49:29.531334+08:00",
-  "total_titles_processed": 1628,
+  "generated_at": "2026-03-24T21:22:13.984566+08:00",
+  "total_titles_processed": 1753,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "KkOma休假,T1天亮了",
@@ -18,11 +18,12 @@
             18,
             19,
             21,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时07分 ~ 19时49分]"
+          "appearance_count": 20,
+          "time_info": "[00时07分 ~ 21时22分]"
         },
         {
           "title": "雅诗兰黛股价暴跌，报道称或将收购西班牙美妆企业Puig",
@@ -47,6 +48,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时42分 ~ 05时42分]"
+        },
+        {
+          "title": "<a href=\"https://www.jin10.com/activities/2026/3/gold_price_alert/index.html\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/03/WitD6OTk1DYVqUlOSP_vW.jpg/lite\" height=\"120\" /></a>",
+          "url": "https://flash.jin10.com/detail/20260324211535724800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
         },
         {
           "title": "西班牙美妆企业Puig欧股飙升17%，此前报道称雅诗兰黛或将收购该公司。",
