@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-24T07:38:17.158731+08:00",
-  "total_titles_processed": 690,
+  "generated_at": "2026-03-24T10:32:21.154507+08:00",
+  "total_titles_processed": 866,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "KkOma休假,T1天亮了",
@@ -16,8 +16,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时07分 ~ 07时38分]"
+          "appearance_count": 11,
+          "time_info": "[00时07分 ~ 10时32分]"
         },
         {
           "title": "雅诗兰黛股价暴跌，报道称或将收购西班牙美妆企业Puig",
@@ -42,6 +42,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时42分 ~ 05时42分]"
+        },
+        {
+          "title": "雅诗兰黛回应与美妆集团PUIG合并传闻",
+          "url": "https://flash.jin10.com/detail/20260324100436688800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
         },
         {
           "title": "美国能源部长Wright：（美国）“可能会再次释放战略石油储备（SPR）”，但不可能发生这种情况。 如果我们（特朗普政府）想要这样做，将要求（石油/天然气）行业提高产量。",
