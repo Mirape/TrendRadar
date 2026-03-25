@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-25T10:37:13.904216+08:00",
-  "total_titles_processed": 854,
+  "generated_at": "2026-03-25T12:58:41.245853+08:00",
+  "total_titles_processed": 1022,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "KkOma休假,T1天亮了",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[01时04分 ~ 10时37分]"
+        },
+        {
+          "title": "IG呼吸没指望,降薪都不要",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352322&amp;topic_name=IG%E5%91%BC%E5%90%B8%E6%B2%A1%E6%8C%87%E6%9C%9B%2C%E9%99%8D%E8%96%AA%E9%83%BD%E4%B8%8D%E8%A6%81",
+          "source": "贴吧",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时58分"
         },
         {
           "title": "2026 亚运会电竞项目《英雄联盟》中韩两国会派出什么选手阵容？",
