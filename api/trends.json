@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-25T16:58:13.982989+08:00",
-  "total_titles_processed": 1368,
+  "generated_at": "2026-03-25T18:02:35.404256+08:00",
+  "total_titles_processed": 1495,
   "failed_sources": [],
   "trends": [
     {
@@ -26,7 +26,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时58分"
         },
@@ -38,11 +38,12 @@
             11,
             10,
             12,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时58分 ~ 16时58分]"
+          "appearance_count": 6,
+          "time_info": "[12时58分 ~ 18时02分]"
         },
         {
           "title": "2026 亚运会电竞项目《英雄联盟》中韩两国会派出什么选手阵容？",
