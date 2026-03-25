@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-25T07:37:34.864456+08:00",
-  "total_titles_processed": 663,
+  "generated_at": "2026-03-25T10:37:13.904216+08:00",
+  "total_titles_processed": 854,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352216&amp;topic_name=KkOma%E4%BC%91%E5%81%87%2CT1%E5%A4%A9%E4%BA%AE%E4%BA%86",
           "source": "贴吧",
           "ranks": [
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时04分 ~ 07时37分]"
+          "appearance_count": 11,
+          "time_info": "[01时04分 ~ 10时37分]"
         },
         {
           "title": "2026 亚运会电竞项目《英雄联盟》中韩两国会派出什么选手阵容？",
