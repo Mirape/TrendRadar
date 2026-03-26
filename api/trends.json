@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-26T15:16:35.604491+08:00",
-  "total_titles_processed": 1107,
+  "generated_at": "2026-03-26T17:03:28.080900+08:00",
+  "total_titles_processed": 1248,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             12,
             14,
             16,
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时08分 ~ 15时16分]"
+          "appearance_count": 12,
+          "time_info": "[01时08分 ~ 17时03分]"
         },
         {
           "title": "IG呼吸没指望,降薪都不要",
