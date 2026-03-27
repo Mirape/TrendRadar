@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T03:02:05.121592+08:00",
-  "total_titles_processed": 408,
+  "generated_at": "2026-03-28T04:44:26.808694+08:00",
+  "total_titles_processed": 487,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://search.bilibili.com/all?keyword=AL%E5%AE%98%E5%AE%A3BigWei%E5%87%BA%E4%BB%BB%E4%B8%BB%E6%95%99%E7%BB%83",
           "source": "bilibili 热搜",
           "ranks": [
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时01分 ~ 03时02分]"
+          "appearance_count": 3,
+          "time_info": "[03时01分 ~ 04时44分]"
         }
       ]
     }
