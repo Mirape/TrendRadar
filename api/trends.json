@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-03-28T01:04:02.251484+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-03-28T03:02:05.121592+08:00",
+  "total_titles_processed": 408,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "iG S赛 英雄联盟 T1",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "AL官宣BigWei出任主教练",
+          "url": "https://search.bilibili.com/all?keyword=AL%E5%AE%98%E5%AE%A3BigWei%E5%87%BA%E4%BB%BB%E4%B8%BB%E6%95%99%E7%BB%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时01分 ~ 03时02分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://github.com/Mirape/TrendRadar/img/news.jpg"
 }
