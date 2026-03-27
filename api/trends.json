@@ -1,58 +1,7 @@
 {
-  "generated_at": "2026-03-27T23:58:34.120078+08:00",
-  "total_titles_processed": 1898,
+  "generated_at": "2026-03-28T01:04:02.251484+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "1348圣誓获IGN4分",
-          "url": "https://search.bilibili.com/all?keyword=1348%E5%9C%A3%E8%AA%93%E8%8E%B7IGN4%E5%88%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时58分"
-        },
-        {
-          "title": "<a href=\"https://www.jin10.com/activities/2026/3/gold_price_alert/index.html\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/03/_e_zDbg50UAnyX8JxEYjk.jpg/lite\" height=\"120\" /></a>",
-          "url": "https://flash.jin10.com/detail/20260327210545944800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时17分"
-        },
-        {
-          "title": "丹妮坐阵blg,S赛门槛有了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352352&amp;topic_name=%E4%B8%B9%E5%A6%AE%E5%9D%90%E9%98%B5blg%2CS%E8%B5%9B%E9%97%A8%E6%A7%9B%E6%9C%89%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 06时36分]"
-        },
-        {
-          "title": "<a href=\"https://www.jin10.com/activities/2026/3/gold_price_alert/index.html\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/03/KuB-yDOod6YNoOd6i3ndq.jpg/lite\" height=\"120\" /></a>",
-          "url": "https://flash.jin10.com/detail/20260327150051586800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时15分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://github.com/Mirape/TrendRadar/img/news.jpg"
 }
