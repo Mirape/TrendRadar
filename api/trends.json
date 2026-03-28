@@ -1,51 +1,7 @@
 {
-  "generated_at": "2026-03-28T23:36:42.678740+08:00",
-  "total_titles_processed": 1566,
+  "generated_at": "2026-03-29T00:41:10.659640+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "AL官宣BigWei出任主教练",
-          "url": "https://search.bilibili.com/all?keyword=AL%E5%AE%98%E5%AE%A3BigWei%E5%87%BA%E4%BB%BB%E4%B8%BB%E6%95%99%E7%BB%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时01分 ~ 04时44分]"
-        },
-        {
-          "title": "<a href=\"https://www.jin10.com/activities/2026/3/gold_price_alert/index.html\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/03/mjJNSmwOpYyW9TLC4T0yW.jpg/lite\" height=\"120\" /></a>",
-          "url": "https://flash.jin10.com/detail/20260328090746320800",
-          "source": "金十数据",
-          "ranks": [
-            19,
-            18,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时35分 ~ 23时36分]"
-        },
-        {
-          "title": "如何评价 AL 官宣 BigWei 出任主教练？",
-          "url": "https://www.zhihu.com/question/2020929720699634949",
-          "source": "知乎",
-          "ranks": [
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时37分 ~ 23时36分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://github.com/Mirape/TrendRadar/img/news.jpg"
 }
