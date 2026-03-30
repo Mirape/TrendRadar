@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-30T19:07:24.102755+08:00",
-  "total_titles_processed": 1318,
+  "generated_at": "2026-03-30T21:44:04.148186+08:00",
+  "total_titles_processed": 1486,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "T1直播确认!S15冠军皮肤定了",
@@ -15,11 +15,12 @@
             13,
             9,
             11,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时29分 ~ 19时07分]"
+          "appearance_count": 9,
+          "time_info": "[13时29分 ~ 21时44分]"
         },
         {
           "title": "IG全教练组离队,jiaqi正在连接",
@@ -27,11 +28,12 @@
           "source": "贴吧",
           "ranks": [
             12,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时18分 ~ 19时07分]"
+          "appearance_count": 5,
+          "time_info": "[17时18分 ~ 21时44分]"
         },
         {
           "title": "WBG对阵iG",
@@ -40,9 +42,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时07分"
+        },
+        {
+          "title": "<a href=\"https://www.jin10.com/activities/2026/3/gold_price_alert/index.html\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/03/eumkNXl0Ob9fGP_sRgm9W.jpg/lite\" height=\"120\" /></a>",
+          "url": "https://flash.jin10.com/detail/20260330210058381800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
         }
       ]
     }
