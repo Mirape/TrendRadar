@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-03-30T10:53:13.810725+08:00",
-  "total_titles_processed": 745,
+  "generated_at": "2026-03-30T13:31:06.802713+08:00",
+  "total_titles_processed": 907,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "iG S赛 英雄联盟 T1",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "T1直播确认!S15冠军皮肤定了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352505&amp;topic_name=T1%E7%9B%B4%E6%92%AD%E7%A1%AE%E8%AE%A4%21S15%E5%86%A0%E5%86%9B%E7%9A%AE%E8%82%A4%E5%AE%9A%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时29分 ~ 13时31分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://github.com/Mirape/TrendRadar/img/news.jpg"
 }
