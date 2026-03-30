@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-30T17:19:14.990430+08:00",
-  "total_titles_processed": 1191,
+  "generated_at": "2026-03-30T19:07:24.102755+08:00",
+  "total_titles_processed": 1318,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "T1直播确认!S15冠军皮肤定了",
@@ -14,22 +14,35 @@
           "ranks": [
             13,
             9,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时29分 ~ 17时19分]"
+          "appearance_count": 7,
+          "time_info": "[13时29分 ~ 19时07分]"
         },
         {
           "title": "IG全教练组离队,jiaqi正在连接",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352529&amp;topic_name=IG%E5%85%A8%E6%95%99%E7%BB%83%E7%BB%84%E7%A6%BB%E9%98%9F%2Cjiaqi%E6%AD%A3%E5%9C%A8%E8%BF%9E%E6%8E%A5",
           "source": "贴吧",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时18分 ~ 17时19分]"
+          "appearance_count": 3,
+          "time_info": "[17时18分 ~ 19时07分]"
+        },
+        {
+          "title": "WBG对阵iG",
+          "url": "https://s.weibo.com/weibo?q=%23WBG%E5%AF%B9%E9%98%B5iG%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
         }
       ]
     }
