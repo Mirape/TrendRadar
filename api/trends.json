@@ -1,61 +1,33 @@
 {
-  "generated_at": "2026-03-30T23:26:22.135885+08:00",
-  "total_titles_processed": 1614,
+  "generated_at": "2026-03-31T01:02:15.064780+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 4,
+      "match_count": 2,
       "titles": [
         {
           "title": "T1直播确认!S15冠军皮肤定了",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352505&amp;topic_name=T1%E7%9B%B4%E6%92%AD%E7%A1%AE%E8%AE%A4%21S15%E5%86%A0%E5%86%9B%E7%9A%AE%E8%82%A4%E5%AE%9A%E4%BA%86",
           "source": "贴吧",
           "ranks": [
-            13,
-            9,
-            11,
-            12,
             14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时29分 ~ 23时26分]"
+          "appearance_count": 2,
+          "time_info": "[01时01分 ~ 01时02分]"
         },
         {
           "title": "IG全教练组离队,jiaqi正在连接",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352529&amp;topic_name=IG%E5%85%A8%E6%95%99%E7%BB%83%E7%BB%84%E7%A6%BB%E9%98%9F%2Cjiaqi%E6%AD%A3%E5%9C%A8%E8%BF%9E%E6%8E%A5",
           "source": "贴吧",
           "ranks": [
-            12,
-            13,
             15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时18分 ~ 23时26分]"
-        },
-        {
-          "title": "WBG对阵iG",
-          "url": "https://s.weibo.com/weibo?q=%23WBG%E5%AF%B9%E9%98%B5iG%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时07分"
-        },
-        {
-          "title": "<a href=\"https://www.jin10.com/activities/2026/3/gold_price_alert/index.html\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/03/eumkNXl0Ob9fGP_sRgm9W.jpg/lite\" height=\"120\" /></a>",
-          "url": "https://flash.jin10.com/detail/20260330210058381800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时44分"
+          "appearance_count": 2,
+          "time_info": "[01时01分 ~ 01时02分]"
         }
       ]
     }
