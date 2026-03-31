@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-31T20:07:08.299359+08:00",
-  "total_titles_processed": 1548,
+  "generated_at": "2026-03-31T21:44:05.477940+08:00",
+  "total_titles_processed": 1678,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "T1直播确认!S15冠军皮肤定了",
@@ -40,15 +40,27 @@
           "time_info": "[01时01分 ~ 17时06分]"
         },
         {
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/?id=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/03/W7t4X4otEkyX1gQ_kQdJ7.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260331213915680800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
+        },
+        {
           "title": "<a href=\"https://www.jin10.com/activities/2026/3/gold_price_alert/index.html\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/03/CLv9ynPQktD4aSYCTAfyQ.jpg/lite\" height=\"120\"/></a>",
           "url": "https://flash.jin10.com/detail/20260331150025886800",
           "source": "金十数据",
           "ranks": [
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时22分"
+          "appearance_count": 2,
+          "time_info": "[15时22分 ~ 21时44分]"
         }
       ]
     }
