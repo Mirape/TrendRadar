@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-31T10:50:02.193867+08:00",
-  "total_titles_processed": 868,
+  "generated_at": "2026-03-31T13:13:55.848322+08:00",
+  "total_titles_processed": 1028,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             14,
             15,
-            16
+            16,
+            23
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时01分 ~ 10时50分]"
+          "appearance_count": 12,
+          "time_info": "[01时01分 ~ 13时13分]"
         },
         {
           "title": "IG全教练组离队,jiaqi正在连接",
@@ -27,11 +28,12 @@
           "ranks": [
             15,
             16,
-            17
+            17,
+            24
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时01分 ~ 10时50分]"
+          "appearance_count": 12,
+          "time_info": "[01时01分 ~ 13时13分]"
         }
       ]
     }
