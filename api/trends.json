@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-31T15:22:51.832469+08:00",
-  "total_titles_processed": 1154,
+  "generated_at": "2026-03-31T17:06:57.422194+08:00",
+  "total_titles_processed": 1303,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             15,
             16,
             23,
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时01分 ~ 15时22分]"
+          "appearance_count": 14,
+          "time_info": "[01时01分 ~ 17时06分]"
         },
         {
           "title": "IG全教练组离队,jiaqi正在连接",
@@ -31,11 +32,12 @@
             16,
             17,
             24,
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时01分 ~ 15时22分]"
+          "appearance_count": 14,
+          "time_info": "[01时01分 ~ 17时06分]"
         },
         {
           "title": "<a href=\"https://www.jin10.com/activities/2026/3/gold_price_alert/index.html\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/03/CLv9ynPQktD4aSYCTAfyQ.jpg/lite\" height=\"120\"/></a>",
@@ -44,7 +46,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         }
