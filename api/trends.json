@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-04-01T07:39:04.981673+08:00",
-  "total_titles_processed": 667,
+  "generated_at": "2026-04-01T10:58:01.214792+08:00",
+  "total_titles_processed": 867,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "T1公司组织结构图公布",
+          "url": "https://search.bilibili.com/all?keyword=T1%E5%85%AC%E5%8F%B8%E7%BB%84%E7%BB%87%E7%BB%93%E6%9E%84%E5%9B%BE%E5%85%AC%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时57分 ~ 10时58分]"
+        },
+        {
+          "title": "如何看待英雄联盟选手 Milkyway 发布声明称警方查实其未参与假赛？他还有机会重返 LPL 吗？",
+          "url": "https://www.zhihu.com/question/2021953526327157102",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时57分 ~ 10时58分]"
+        },
         {
           "title": "澳大利亚3月AIG/PWC制造业表现指数 -27.9，前值-15.6。",
           "url": "https://flash.jin10.com/detail/20260401060121394800",
