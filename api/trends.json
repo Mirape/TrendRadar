@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-01T17:15:01.534162+08:00",
-  "total_titles_processed": 1318,
+  "generated_at": "2026-04-01T19:02:49.897125+08:00",
+  "total_titles_processed": 1464,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352645&amp;topic_name=%E8%B7%AF%E4%BA%BA%E6%B4%BB%E7%9C%9F%E8%8A%B1%2Cdoinb%E5%8A%A0%E5%85%A5DOTAt1",
           "source": "贴吧",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时14分 ~ 17时15分]"
+          "appearance_count": 3,
+          "time_info": "[17时14分 ~ 19时02分]"
         },
         {
           "title": "T1公司组织结构图公布",
