@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-01T21:45:03.702800+08:00",
-  "total_titles_processed": 1645,
+  "generated_at": "2026-04-01T23:09:50.874427+08:00",
+  "total_titles_processed": 1760,
   "failed_sources": [],
   "trends": [
     {
@@ -8,28 +8,30 @@
       "match_count": 6,
       "titles": [
         {
-          "title": "T1全员发昏惨遭KT剃光头",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352656&amp;topic_name=T1%E5%85%A8%E5%91%98%E5%8F%91%E6%98%8F%E6%83%A8%E9%81%ADKT%E5%89%83%E5%85%89%E5%A4%B4",
-          "source": "贴吧",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时44分 ~ 21时45分]"
-        },
-        {
           "title": "路人活真花,doinb加入DOTAt1",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352645&amp;topic_name=%E8%B7%AF%E4%BA%BA%E6%B4%BB%E7%9C%9F%E8%8A%B1%2Cdoinb%E5%8A%A0%E5%85%A5DOTAt1",
           "source": "贴吧",
           "ranks": [
             11,
             10,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时14分 ~ 21时45分]"
+          "appearance_count": 6,
+          "time_info": "[17时14分 ~ 23时09分]"
+        },
+        {
+          "title": "T1全员发昏惨遭KT剃光头",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352656&amp;topic_name=T1%E5%85%A8%E5%91%98%E5%8F%91%E6%98%8F%E6%83%A8%E9%81%ADKT%E5%89%83%E5%85%89%E5%A4%B4",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时44分 ~ 23时09分]"
         },
         {
           "title": "T1公司组织结构图公布",
