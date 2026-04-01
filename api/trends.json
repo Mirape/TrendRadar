@@ -1,81 +1,33 @@
 {
-  "generated_at": "2026-04-01T23:09:50.874427+08:00",
-  "total_titles_processed": 1760,
+  "generated_at": "2026-04-02T01:02:06.775878+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 6,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "路人活真花,doinb加入DOTAt1",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352645&amp;topic_name=%E8%B7%AF%E4%BA%BA%E6%B4%BB%E7%9C%9F%E8%8A%B1%2Cdoinb%E5%8A%A0%E5%85%A5DOTAt1",
-          "source": "贴吧",
-          "ranks": [
-            11,
-            10,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时14分 ~ 23时09分]"
-        },
         {
           "title": "T1全员发昏惨遭KT剃光头",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352656&amp;topic_name=T1%E5%85%A8%E5%91%98%E5%8F%91%E6%98%8F%E6%83%A8%E9%81%ADKT%E5%89%83%E5%85%89%E5%A4%B4",
           "source": "贴吧",
           "ranks": [
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时44分 ~ 23时09分]"
-        },
-        {
-          "title": "T1公司组织结构图公布",
-          "url": "https://search.bilibili.com/all?keyword=T1%E5%85%AC%E5%8F%B8%E7%BB%84%E7%BB%87%E7%BB%93%E6%9E%84%E5%9B%BE%E5%85%AC%E5%B8%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时57分 ~ 10时58分]"
+          "time_info": "[01时01分 ~ 01时02分]"
         },
         {
-          "title": "如何看待英雄联盟选手 Milkyway 发布声明称警方查实其未参与假赛？他还有机会重返 LPL 吗？",
-          "url": "https://www.zhihu.com/question/2021953526327157102",
-          "source": "知乎",
+          "title": "路人活真花,doinb加入DOTAt1",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352645&amp;topic_name=%E8%B7%AF%E4%BA%BA%E6%B4%BB%E7%9C%9F%E8%8A%B1%2Cdoinb%E5%8A%A0%E5%85%A5DOTAt1",
+          "source": "贴吧",
           "ranks": [
-            20
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时57分 ~ 10时58分]"
-        },
-        {
-          "title": "澳大利亚3月AIG/PWC制造业表现指数 -27.9，前值-15.6。",
-          "url": "https://flash.jin10.com/detail/20260401060121394800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时39分"
-        },
-        {
-          "title": "澳大利亚3月AIG建筑业表现指数 -31.4，前值-8.2。",
-          "url": "https://flash.jin10.com/detail/20260401060044293800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时39分"
+          "time_info": "[01时01分 ~ 01时02分]"
         }
       ]
     }
