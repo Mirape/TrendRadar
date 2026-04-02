@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-02T23:02:03.407633+08:00",
-  "total_titles_processed": 1810,
+  "generated_at": "2026-04-03T00:10:06.690637+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 8,
+      "match_count": 2,
       "titles": [
         {
           "title": "二赛开打,滔搏IG齐换队长",
@@ -15,100 +15,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时56分 ~ 23时02分]"
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 00时10分]"
         },
         {
           "title": "T1全员发昏惨遭KT剃光头",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352656&amp;topic_name=T1%E5%85%A8%E5%91%98%E5%8F%91%E6%98%8F%E6%83%A8%E9%81%ADKT%E5%89%83%E5%85%89%E5%A4%B4",
           "source": "贴吧",
           "ranks": [
-            6,
-            8,
-            12,
-            14,
-            18,
-            21,
-            22,
-            24,
             25
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[01时01分 ~ 23时02分]"
-        },
-        {
-          "title": "路人活真花,doinb加入DOTAt1",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352645&amp;topic_name=%E8%B7%AF%E4%BA%BA%E6%B4%BB%E7%9C%9F%E8%8A%B1%2Cdoinb%E5%8A%A0%E5%85%A5DOTAt1",
-          "source": "贴吧",
-          "ranks": [
-            18,
-            20,
-            25,
-            26,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时01分 ~ 17时04分]"
-        },
-        {
-          "title": "锐评KT零封T1",
-          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84KT%E9%9B%B6%E5%B0%81T1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            16,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时42分 ~ 15时20分]"
-        },
-        {
-          "title": "KT零封T1赛后数据雷达图",
-          "url": "https://search.bilibili.com/all?keyword=KT%E9%9B%B6%E5%B0%81T1%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE%E9%9B%B7%E8%BE%BE%E5%9B%BE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时42分 ~ 13时07分]"
-        },
-        {
-          "title": "复盘KT为何能零封T1",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E7%9B%98KT%E4%B8%BA%E4%BD%95%E8%83%BD%E9%9B%B6%E5%B0%81T1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时20分"
-        },
-        {
-          "title": "市场消息：Related Digital正在为甲骨文公司的一座巨型数据中心敲定160亿美元的融资。",
-          "url": "https://flash.jin10.com/detail/20260402013007536800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时59分"
-        },
-        {
-          "title": "T1 仅 Faker 尽力，KT 横扫 T1 迎来开门红，如何评价双方表现？",
-          "url": "https://www.zhihu.com/question/2022776914020966603",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时24分"
+          "time_info": "[00时09分 ~ 00时10分]"
         }
       ]
     }
