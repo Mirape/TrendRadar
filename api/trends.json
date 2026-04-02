@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T00:10:06.690637+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-04-03T01:54:02.827357+08:00",
+  "total_titles_processed": 396,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时09分 ~ 00时10分]"
+          "appearance_count": 4,
+          "time_info": "[00时09分 ~ 01时54分]"
         },
         {
           "title": "T1全员发昏惨遭KT剃光头",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352656&amp;topic_name=T1%E5%85%A8%E5%91%98%E5%8F%91%E6%98%8F%E6%83%A8%E9%81%ADKT%E5%89%83%E5%85%89%E5%A4%B4",
           "source": "贴吧",
           "ranks": [
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时09分 ~ 00时10分]"
+          "appearance_count": 4,
+          "time_info": "[00时09分 ~ 01时54分]"
         }
       ]
     }
