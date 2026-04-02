@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-02T18:56:26.069940+08:00",
-  "total_titles_processed": 1468,
+  "generated_at": "2026-04-02T19:51:32.912999+08:00",
+  "total_titles_processed": 1554,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             12,
             14,
             18,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时01分 ~ 18时56分]"
+          "appearance_count": 17,
+          "time_info": "[01时01分 ~ 19时51分]"
         },
         {
           "title": "路人活真花,doinb加入DOTAt1",
@@ -45,9 +46,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时56分 ~ 19时51分]"
         },
         {
           "title": "锐评KT零封T1",
