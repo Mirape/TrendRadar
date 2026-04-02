@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-04-02T21:24:25.324025+08:00",
-  "total_titles_processed": 1697,
+  "generated_at": "2026-04-02T23:02:03.407633+08:00",
+  "total_titles_processed": 1810,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
       "match_count": 8,
       "titles": [
+        {
+          "title": "二赛开打,滔搏IG齐换队长",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352708&amp;topic_name=%E4%BA%8C%E8%B5%9B%E5%BC%80%E6%89%93%2C%E6%BB%94%E6%90%8FIG%E9%BD%90%E6%8D%A2%E9%98%9F%E9%95%BF",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时56分 ~ 23时02分]"
+        },
         {
           "title": "T1全员发昏惨遭KT剃光头",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352656&amp;topic_name=T1%E5%85%A8%E5%91%98%E5%8F%91%E6%98%8F%E6%83%A8%E9%81%ADKT%E5%89%83%E5%85%89%E5%A4%B4",
@@ -19,11 +30,12 @@
             18,
             21,
             22,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时01分 ~ 21时24分]"
+          "appearance_count": 20,
+          "time_info": "[01时01分 ~ 23时02分]"
         },
         {
           "title": "路人活真花,doinb加入DOTAt1",
@@ -39,17 +51,6 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[01时01分 ~ 17时04分]"
-        },
-        {
-          "title": "二赛开打,滔搏IG齐换队长",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352708&amp;topic_name=%E4%BA%8C%E8%B5%9B%E5%BC%80%E6%89%93%2C%E6%BB%94%E6%90%8FIG%E9%BD%90%E6%8D%A2%E9%98%9F%E9%95%BF",
-          "source": "贴吧",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时56分 ~ 21时24分]"
         },
         {
           "title": "锐评KT零封T1",
@@ -105,7 +106,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时24分"
         }
