@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T10:44:33.050277+08:00",
-  "total_titles_processed": 838,
+  "generated_at": "2026-04-03T13:09:57.452095+08:00",
+  "total_titles_processed": 1007,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             1,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时09分 ~ 10时44分]"
+          "appearance_count": 12,
+          "time_info": "[00时09分 ~ 13时09分]"
         },
         {
           "title": "T1全员发昏惨遭KT剃光头",
@@ -38,7 +39,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
         }
