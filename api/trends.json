@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-05T01:36:35.876541+08:00",
-  "total_titles_processed": 347,
+  "generated_at": "2026-04-05T02:51:31.840387+08:00",
+  "total_titles_processed": 377,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://search.bilibili.com/all?keyword=T1%E6%88%98%E8%83%9CHLE%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE",
           "source": "bilibili 热搜",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 01时36分]"
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 02时51分]"
         },
         {
           "title": "TES遭IG完爆,哥哥0-22成笑柄",
@@ -26,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 01时36分]"
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 02时51分]"
         },
         {
           "title": "T1全程无情暴打,HLE被虐懵",
@@ -37,8 +38,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 01时36分]"
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 02时51分]"
         },
         {
           "title": "IG战胜TES LPL第二赛段",
@@ -48,8 +49,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 01时36分]"
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 02时51分]"
         },
         {
           "title": "IGN自打耳光,重评红沙改分",
@@ -59,8 +60,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 01时36分]"
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 02时51分]"
         }
       ]
     }
