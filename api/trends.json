@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-04T21:05:33.162894+08:00",
-  "total_titles_processed": 1420,
+  "generated_at": "2026-04-04T22:38:10.557972+08:00",
+  "total_titles_processed": 1529,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "IGN自打耳光,重评红沙改分",
@@ -21,8 +21,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时48分 ~ 21时05分]"
+          "appearance_count": 24,
+          "time_info": "[00时48分 ~ 22时38分]"
         },
         {
           "title": "二赛开打,滔搏IG齐换队长",
@@ -45,22 +45,48 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352793&amp;topic_name=T1%E5%85%A8%E7%A8%8B%E6%97%A0%E6%83%85%E6%9A%B4%E6%89%93%2CHLE%E8%A2%AB%E8%99%90%E6%87%B5",
           "source": "贴吧",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时39分 ~ 21时05分]"
+          "appearance_count": 5,
+          "time_info": "[18时39分 ~ 22时38分]"
         },
         {
           "title": "TES遭IG完爆,哥哥0-22成笑柄",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352795&amp;topic_name=TES%E9%81%ADIG%E5%AE%8C%E7%88%86%2C%E5%93%A5%E5%93%A50-22%E6%88%90%E7%AC%91%E6%9F%84",
           "source": "贴吧",
           "ranks": [
-            3
+            3,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时05分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时05分 ~ 22时38分]"
+        },
+        {
+          "title": "T1战胜HLE赛后数据",
+          "url": "https://search.bilibili.com/all?keyword=T1%E6%88%98%E8%83%9CHLE%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时37分 ~ 22时38分]"
+        },
+        {
+          "title": "IG战胜TES LPL第二赛段",
+          "url": "https://search.bilibili.com/all?keyword=TES%20IG",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12,
+            11,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时43分 ~ 22时38分]"
         },
         {
           "title": "TES vs IG LPL第二赛段",
@@ -98,18 +124,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时43分 ~ 18时39分]"
-        },
-        {
-          "title": "IG战胜TES LPL第二赛段",
-          "url": "https://search.bilibili.com/all?keyword=TES%20IG",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时43分 ~ 21时05分]"
         },
         {
           "title": "TES对战iG",
