@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-04-05T04:38:31.778012+08:00",
-  "total_titles_processed": 412,
+  "generated_at": "2026-04-05T05:37:01.653432+08:00",
+  "total_titles_processed": 426,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
       "match_count": 5,
       "titles": [
-        {
-          "title": "T1战胜HLE赛后数据",
-          "url": "https://search.bilibili.com/all?keyword=T1%E6%88%98%E8%83%9CHLE%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时41分 ~ 04时38分]"
-        },
         {
           "title": "TES遭IG完爆,哥哥0-22成笑柄",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352795&amp;topic_name=TES%E9%81%ADIG%E5%AE%8C%E7%88%86%2C%E5%93%A5%E5%93%A50-22%E6%88%90%E7%AC%91%E6%9F%84",
@@ -27,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时41分 ~ 04时38分]"
+          "appearance_count": 8,
+          "time_info": "[00时41分 ~ 05时37分]"
         },
         {
           "title": "T1全程无情暴打,HLE被虐懵",
@@ -38,19 +26,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时41分 ~ 04时38分]"
+          "appearance_count": 8,
+          "time_info": "[00时41分 ~ 05时37分]"
         },
         {
-          "title": "IG战胜TES LPL第二赛段",
-          "url": "https://search.bilibili.com/all?keyword=TES%20IG",
+          "title": "T1战胜HLE赛后数据",
+          "url": "https://search.bilibili.com/all?keyword=T1%E6%88%98%E8%83%9CHLE%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE",
           "source": "bilibili 热搜",
           "ranks": [
-            20
+            1,
+            2,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时41分 ~ 04时38分]"
+          "appearance_count": 8,
+          "time_info": "[00时41分 ~ 05时37分]"
         },
         {
           "title": "IGN自打耳光,重评红沙改分",
@@ -58,6 +48,17 @@
           "source": "贴吧",
           "ranks": [
             27
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时41分 ~ 05时37分]"
+        },
+        {
+          "title": "IG战胜TES LPL第二赛段",
+          "url": "https://search.bilibili.com/all?keyword=TES%20IG",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20
           ],
           "is_new": false,
           "appearance_count": 6,
