@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-04T12:55:04.605820+08:00",
-  "total_titles_processed": 840,
+  "generated_at": "2026-04-04T14:01:56.393475+08:00",
+  "total_titles_processed": 895,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             16,
             20,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时48分 ~ 12时55分]"
+          "appearance_count": 15,
+          "time_info": "[00时48分 ~ 14时01分]"
         },
         {
           "title": "二赛开打,滔搏IG齐换队长",
@@ -27,11 +28,12 @@
           "ranks": [
             19,
             23,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时48分 ~ 12时55分]"
+          "appearance_count": 15,
+          "time_info": "[00时48分 ~ 14时01分]"
         },
         {
           "title": "小鬼SaturdayNight一键跟跳",
