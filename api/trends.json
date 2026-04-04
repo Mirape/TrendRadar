@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-04T15:14:17.512013+08:00",
-  "total_titles_processed": 970,
+  "generated_at": "2026-04-04T16:50:08.260721+08:00",
+  "total_titles_processed": 1087,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "IGN自打耳光,重评红沙改分",
@@ -15,11 +15,12 @@
             16,
             20,
             21,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时48分 ~ 15时14分]"
+          "appearance_count": 18,
+          "time_info": "[00时48分 ~ 16时50分]"
         },
         {
           "title": "二赛开打,滔搏IG齐换队长",
@@ -29,22 +30,35 @@
             19,
             23,
             24,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时48分 ~ 15时14分]"
+          "appearance_count": 18,
+          "time_info": "[00时48分 ~ 16时50分]"
         },
         {
           "title": "TES vs IG LPL第二赛段",
           "url": "https://search.bilibili.com/all?keyword=TES%20IG",
           "source": "bilibili 热搜",
           "ranks": [
-            1
+            1,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时14分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时14分 ~ 16时50分]"
+        },
+        {
+          "title": "TES对战iG",
+          "url": "https://s.weibo.com/weibo?q=%23TES%E5%AF%B9%E6%88%98iG%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时49分 ~ 16时50分]"
         },
         {
           "title": "小鬼SaturdayNight一键跟跳",
