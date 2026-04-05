@@ -1,29 +1,12 @@
 {
-  "generated_at": "2026-04-05T21:07:56.061656+08:00",
-  "total_titles_processed": 1334,
+  "generated_at": "2026-04-05T22:39:47.854915+08:00",
+  "total_titles_processed": 1448,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
       "match_count": 6,
       "titles": [
-        {
-          "title": "TES遭IG完爆,哥哥0-22成笑柄",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352795&amp;topic_name=TES%E9%81%ADIG%E5%AE%8C%E7%88%86%2C%E5%93%A5%E5%93%A50-22%E6%88%90%E7%AC%91%E6%9F%84",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            3,
-            5,
-            6,
-            7,
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时41分 ~ 21时07分]"
-        },
         {
           "title": "T1战胜HLE赛后数据",
           "url": "https://search.bilibili.com/all?keyword=T1%E6%88%98%E8%83%9CHLE%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE",
@@ -40,6 +23,24 @@
           "time_info": "[00时41分 ~ 13时18分]"
         },
         {
+          "title": "TES遭IG完爆,哥哥0-22成笑柄",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352795&amp;topic_name=TES%E9%81%ADIG%E5%AE%8C%E7%88%86%2C%E5%93%A5%E5%93%A50-22%E6%88%90%E7%AC%91%E6%9F%84",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            3,
+            5,
+            6,
+            7,
+            9,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 21,
+          "time_info": "[00时41分 ~ 22时39分]"
+        },
+        {
           "title": "T1全程无情暴打,HLE被虐懵",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352793&amp;topic_name=T1%E5%85%A8%E7%A8%8B%E6%97%A0%E6%83%85%E6%9A%B4%E6%89%93%2CHLE%E8%A2%AB%E8%99%90%E6%87%B5",
           "source": "贴吧",
@@ -50,11 +51,12 @@
             8,
             9,
             11,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时41分 ~ 21时07分]"
+          "appearance_count": 21,
+          "time_info": "[00时41分 ~ 22时39分]"
         },
         {
           "title": "IGN自打耳光,重评红沙改分",
