@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-05T17:44:19.792446+08:00",
-  "total_titles_processed": 1097,
+  "generated_at": "2026-04-05T18:40:18.889552+08:00",
+  "total_titles_processed": 1157,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             2,
             3,
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时41分 ~ 17时44分]"
+          "appearance_count": 18,
+          "time_info": "[00时41分 ~ 18时40分]"
         },
         {
           "title": "T1战胜HLE赛后数据",
@@ -44,11 +45,12 @@
             4,
             6,
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时41分 ~ 17时44分]"
+          "appearance_count": 18,
+          "time_info": "[00时41分 ~ 18时40分]"
         },
         {
           "title": "IGN自打耳光,重评红沙改分",
