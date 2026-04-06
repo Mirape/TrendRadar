@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-06T21:20:53.556604+08:00",
-  "total_titles_processed": 1306,
+  "generated_at": "2026-04-06T22:54:34.019038+08:00",
+  "total_titles_processed": 1430,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             14,
             17,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时41分 ~ 21时20分]"
+          "appearance_count": 19,
+          "time_info": "[00时41分 ~ 22时54分]"
         },
         {
           "title": "T1全程无情暴打,HLE被虐懵",
@@ -27,11 +28,12 @@
           "ranks": [
             16,
             19,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时41分 ~ 21时20分]"
+          "appearance_count": 19,
+          "time_info": "[00时41分 ~ 22时54分]"
         }
       ]
     }
