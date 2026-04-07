@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-07T17:09:47.796668+08:00",
-  "total_titles_processed": 1334,
+  "generated_at": "2026-04-07T19:02:20.413843+08:00",
+  "total_titles_processed": 1471,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "TES遭IG完爆,哥哥0-22成笑柄",
@@ -68,6 +68,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时13分 ~ 13时14分]"
+        },
+        {
+          "title": "陀螺登顶!TES神曲超越IG夺冠",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352889&amp;topic_name=%E9%99%80%E8%9E%BA%E7%99%BB%E9%A1%B6%21TES%E7%A5%9E%E6%9B%B2%E8%B6%85%E8%B6%8AIG%E5%A4%BA%E5%86%A0",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         }
       ]
     }
