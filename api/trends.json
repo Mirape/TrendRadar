@@ -1,63 +1,12 @@
 {
-  "generated_at": "2026-04-07T23:14:33.366096+08:00",
-  "total_titles_processed": 1744,
+  "generated_at": "2026-04-08T01:05:47.060489+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 7,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "TES遭IG完爆,哥哥0-22成笑柄",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352795&amp;topic_name=TES%E9%81%ADIG%E5%AE%8C%E7%88%86%2C%E5%93%A5%E5%93%A50-22%E6%88%90%E7%AC%91%E6%9F%84",
-          "source": "贴吧",
-          "ranks": [
-            21,
-            22,
-            24,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时55分 ~ 13时14分]"
-        },
-        {
-          "title": "T1全程无情暴打,HLE被虐懵",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352793&amp;topic_name=T1%E5%85%A8%E7%A8%8B%E6%97%A0%E6%83%85%E6%9A%B4%E6%89%93%2CHLE%E8%A2%AB%E8%99%90%E6%87%B5",
-          "source": "贴吧",
-          "ranks": [
-            23,
-            24,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时55分 ~ 10时47分]"
-        },
-        {
-          "title": "中国男生在宿舍做的风铃在iG上爆火",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%94%9F%E5%9C%A8%E5%AE%BF%E8%88%8D%E5%81%9A%E7%9A%84%E9%A3%8E%E9%93%83%E5%9C%A8iG%E4%B8%8A%E7%88%86%E7%81%AB&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时08分 ~ 06时42分]"
-        },
-        {
-          "title": "Karrigan赛后采访",
-          "url": "https://search.bilibili.com/all?keyword=Karrigan%E8%B5%9B%E5%90%8E%E9%87%87%E8%AE%BF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时47分"
-        },
         {
           "title": "陀螺登顶!TES神曲超越IG夺冠",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352889&amp;topic_name=%E9%99%80%E8%9E%BA%E7%99%BB%E9%A1%B6%21TES%E7%A5%9E%E6%9B%B2%E8%B6%85%E8%B6%8AIG%E5%A4%BA%E5%86%A0",
@@ -66,30 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时02分 ~ 23时14分]"
-        },
-        {
-          "title": "karrigan谈FaZe困境",
-          "url": "https://search.bilibili.com/all?keyword=karrigan%E8%B0%88FaZe%E5%9B%B0%E5%A2%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时13分 ~ 13时14分]"
-        },
-        {
-          "title": "战争初期遭袭的集装箱船Safeen Prestige在霍尔木兹海峡沉没",
-          "url": "https://wallstreetcn.com/livenews/3083561",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时14分"
+          "time_info": "01时05分"
         }
       ]
     }
