@@ -1,53 +1,12 @@
 {
-  "generated_at": "2026-04-08T23:15:29.582480+08:00",
-  "total_titles_processed": 1773,
+  "generated_at": "2026-04-09T01:09:42.889950+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 5,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "陀螺登顶!TES神曲超越IG夺冠",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352889&amp;topic_name=%E9%99%80%E8%9E%BA%E7%99%BB%E9%A1%B6%21TES%E7%A5%9E%E6%9B%B2%E8%B6%85%E8%B6%8AIG%E5%A4%BA%E5%86%A0",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            7,
-            16,
-            19,
-            21,
-            24,
-            25,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时05分 ~ 23时15分]"
-        },
-        {
-          "title": "IG vs NIP LPL第二赛段",
-          "url": "https://search.bilibili.com/all?keyword=IG%20NIP",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时02分 ~ 19时03分]"
-        },
-        {
-          "title": "IG战胜NIP",
-          "url": "https://search.bilibili.com/all?keyword=IG%20NIP",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时28分 ~ 23时15分]"
-        },
         {
           "title": "冰鸟折磨!T1龙坑惨被爆杀",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352962&amp;topic_name=%E5%86%B0%E9%B8%9F%E6%8A%98%E7%A3%A8%21T1%E9%BE%99%E5%9D%91%E6%83%A8%E8%A2%AB%E7%88%86%E6%9D%80",
@@ -56,19 +15,30 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时28分 ~ 23时15分]"
+          "appearance_count": 1,
+          "time_info": "01时09分"
         },
         {
-          "title": "英雄联盟16.8有何改动",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F16.8%E6%9C%89%E4%BD%95%E6%94%B9%E5%8A%A8",
+          "title": "IG战胜NIP",
+          "url": "https://search.bilibili.com/all?keyword=IG%20NIP",
           "source": "bilibili 热搜",
           "ranks": [
-            19
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时08分"
+          "time_info": "01时09分"
+        },
+        {
+          "title": "陀螺登顶!TES神曲超越IG夺冠",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352889&amp;topic_name=%E9%99%80%E8%9E%BA%E7%99%BB%E9%A1%B6%21TES%E7%A5%9E%E6%9B%B2%E8%B6%85%E8%B6%8AIG%E5%A4%BA%E5%86%A0",
+          "source": "贴吧",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时09分"
         }
       ]
     }
