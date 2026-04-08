@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-08T17:08:41.265526+08:00",
-  "total_titles_processed": 1344,
+  "generated_at": "2026-04-08T19:03:00.562958+08:00",
+  "total_titles_processed": 1489,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "陀螺登顶!TES神曲超越IG夺冠",
@@ -16,11 +16,23 @@
             7,
             16,
             19,
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时05分 ~ 17时08分]"
+          "appearance_count": 13,
+          "time_info": "[01时05分 ~ 19时03分]"
+        },
+        {
+          "title": "IG vs NIP LPL第二赛段",
+          "url": "https://search.bilibili.com/all?keyword=IG%20NIP",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时02分 ~ 19时03分]"
         },
         {
           "title": "英雄联盟16.8有何改动",
@@ -29,7 +41,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时08分"
         }
