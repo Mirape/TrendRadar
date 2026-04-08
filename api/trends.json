@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-09T05:47:06.148883+08:00",
-  "total_titles_processed": 531,
+  "generated_at": "2026-04-09T06:46:02.838873+08:00",
+  "total_titles_processed": 592,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             12,
             2,
-            1
+            1,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时09分 ~ 05时47分]"
+          "appearance_count": 8,
+          "time_info": "[01时09分 ~ 06时46分]"
         },
         {
           "title": "冰鸟折磨!T1龙坑惨被爆杀",
@@ -28,8 +29,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时09分 ~ 05时47分]"
+          "appearance_count": 8,
+          "time_info": "[01时09分 ~ 06时46分]"
         },
         {
           "title": "陀螺登顶!TES神曲超越IG夺冠",
@@ -39,8 +40,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时09分 ~ 05时47分]"
+          "appearance_count": 8,
+          "time_info": "[01时09分 ~ 06时46分]"
         },
         {
           "title": "美国能源部长Wright：预计汽油价格将在数周内下降。",
@@ -60,7 +61,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时47分"
         }
