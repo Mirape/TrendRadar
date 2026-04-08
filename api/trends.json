@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-04-09T06:46:02.838873+08:00",
-  "total_titles_processed": 592,
+  "generated_at": "2026-04-09T07:43:06.268718+08:00",
+  "total_titles_processed": 672,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "冰鸟折磨!T1龙坑惨被爆杀",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352962&amp;topic_name=%E5%86%B0%E9%B8%9F%E6%8A%98%E7%A3%A8%21T1%E9%BE%99%E5%9D%91%E6%83%A8%E8%A2%AB%E7%88%86%E6%9D%80",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时09分 ~ 07时43分]"
+        },
         {
           "title": "IG战胜NIP",
           "url": "https://search.bilibili.com/all?keyword=IG%20NIP",
@@ -22,17 +33,6 @@
           "time_info": "[01时09分 ~ 06时46分]"
         },
         {
-          "title": "冰鸟折磨!T1龙坑惨被爆杀",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352962&amp;topic_name=%E5%86%B0%E9%B8%9F%E6%8A%98%E7%A3%A8%21T1%E9%BE%99%E5%9D%91%E6%83%A8%E8%A2%AB%E7%88%86%E6%9D%80",
-          "source": "贴吧",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时09分 ~ 06时46分]"
-        },
-        {
           "title": "陀螺登顶!TES神曲超越IG夺冠",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352889&amp;topic_name=%E9%99%80%E8%9E%BA%E7%99%BB%E9%A1%B6%21TES%E7%A5%9E%E6%9B%B2%E8%B6%85%E8%B6%8AIG%E5%A4%BA%E5%86%A0",
           "source": "贴吧",
@@ -40,8 +40,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时09分 ~ 06时46分]"
+          "appearance_count": 10,
+          "time_info": "[01时09分 ~ 07时43分]"
         },
         {
           "title": "美国能源部长Wright：预计汽油价格将在数周内下降。",
@@ -53,6 +53,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
+        },
+        {
+          "title": "GEN战胜T1",
+          "url": "https://search.bilibili.com/all?keyword=GEN%E6%88%98%E8%83%9CT1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时42分 ~ 07时43分]"
         },
         {
           "title": "CFTC主席Selig：我致力于将创新资产类别引入美国，以确保美国在全球金融市场中保持领导地位。",
