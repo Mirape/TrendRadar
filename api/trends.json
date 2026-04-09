@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-04-09T10:44:20.102243+08:00",
-  "total_titles_processed": 864,
+  "generated_at": "2026-04-09T13:14:18.681043+08:00",
+  "total_titles_processed": 1031,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
       "match_count": 7,
       "titles": [
-        {
-          "title": "冰鸟折磨!T1龙坑惨被爆杀",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352962&amp;topic_name=%E5%86%B0%E9%B8%9F%E6%8A%98%E7%A3%A8%21T1%E9%BE%99%E5%9D%91%E6%83%A8%E8%A2%AB%E7%88%86%E6%9D%80",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时09分 ~ 10时44分]"
-        },
         {
           "title": "IG战胜NIP",
           "url": "https://search.bilibili.com/all?keyword=IG%20NIP",
@@ -27,11 +15,25 @@
             12,
             2,
             1,
-            7
+            7,
+            14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时09分 ~ 06时46分]"
+          "appearance_count": 9,
+          "time_info": "[01时09分 ~ 13时14分]"
+        },
+        {
+          "title": "冰鸟折磨!T1龙坑惨被爆杀",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352962&amp;topic_name=%E5%86%B0%E9%B8%9F%E6%8A%98%E7%A3%A8%21T1%E9%BE%99%E5%9D%91%E6%83%A8%E8%A2%AB%E7%88%86%E6%9D%80",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[01时09分 ~ 13时14分]"
         },
         {
           "title": "陀螺登顶!TES神曲超越IG夺冠",
@@ -42,19 +44,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时09分 ~ 10时44分]"
-        },
-        {
-          "title": "锐评GEN战胜T1",
-          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84GEN%E6%88%98%E8%83%9CT1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时44分"
+          "appearance_count": 12,
+          "time_info": "[01时09分 ~ 13时14分]"
         },
         {
           "title": "美国能源部长Wright：预计汽油价格将在数周内下降。",
@@ -66,6 +57,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
+        },
+        {
+          "title": "锐评GEN战胜T1",
+          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84GEN%E6%88%98%E8%83%9CT1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时44分 ~ 13时14分]"
         },
         {
           "title": "GEN战胜T1",
