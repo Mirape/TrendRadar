@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-10T19:57:12.545418+08:00",
-  "total_titles_processed": 1555,
+  "generated_at": "2026-04-10T22:12:24.854701+08:00",
+  "total_titles_processed": 1712,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             3,
             10,
             11,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时13分 ~ 19时57分]"
+          "appearance_count": 17,
+          "time_info": "[01时13分 ~ 22时12分]"
         },
         {
           "title": "冰鸟折磨!T1龙坑惨被爆杀",
