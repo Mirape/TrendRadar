@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-10T07:41:22.509914+08:00",
-  "total_titles_processed": 660,
+  "generated_at": "2026-04-10T10:55:01.046013+08:00",
+  "total_titles_processed": 858,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353014&amp;topic_name=IG%E6%94%BE%E8%B5%B0Jwei%2CEDG%E6%8D%A1%E6%BC%8F%E6%88%90%E5%8A%9F",
           "source": "贴吧",
           "ranks": [
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时13分 ~ 07时41分]"
+          "appearance_count": 8,
+          "time_info": "[01时13分 ~ 10时55分]"
         },
         {
           "title": "冰鸟折磨!T1龙坑惨被爆杀",
@@ -36,7 +37,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时41分"
         }
