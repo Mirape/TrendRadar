@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-10T23:10:11.140719+08:00",
-  "total_titles_processed": 1819,
+  "generated_at": "2026-04-10T23:59:16.558466+08:00",
+  "total_titles_processed": 1867,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "IG放走Jwei,EDG捡漏成功",
@@ -21,8 +21,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[01时13分 ~ 23时10分]"
+          "appearance_count": 20,
+          "time_info": "[01时13分 ~ 23时59分]"
         },
         {
           "title": "冰鸟折磨!T1龙坑惨被爆杀",
@@ -45,6 +45,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时16分"
+        },
+        {
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850504&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/L0FUuQ9wjv5TrILFaKkYG.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260410233017921800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
         },
         {
           "title": "<a href=\"https://dl.jin10.com/8pwYl\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/SpMrACS-LFHv-s19pE06l.jpg/lite\" height=\"120\"/></a>",
