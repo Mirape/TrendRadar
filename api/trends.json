@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-10T13:30:52.372288+08:00",
-  "total_titles_processed": 1034,
+  "generated_at": "2026-04-10T16:02:18.489025+08:00",
+  "total_titles_processed": 1193,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "IG放走Jwei,EDG捡漏成功",
@@ -17,8 +17,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时13分 ~ 13时30分]"
+          "appearance_count": 12,
+          "time_info": "[01时13分 ~ 16时02分]"
         },
         {
           "title": "冰鸟折磨!T1龙坑惨被爆杀",
@@ -30,6 +30,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时13分 ~ 07时41分]"
+        },
+        {
+          "title": "<a href=\"https://dl.jin10.com/8pwYl\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/SpMrACS-LFHv-s19pE06l.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260410153322825800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
         },
         {
           "title": "陀螺登顶!TES神曲超越IG夺冠",
