@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T19:35:43.971438+08:00",
-  "total_titles_processed": 1280,
+  "generated_at": "2026-04-11T21:08:38.887758+08:00",
+  "total_titles_processed": 1389,
   "failed_sources": [],
   "trends": [
     {
@@ -36,17 +36,6 @@
           "time_info": "[17时46分 ~ 18时40分]"
         },
         {
-          "title": "IG战胜WE LPL第二赛段",
-          "url": "https://search.bilibili.com/all?keyword=IG%20WE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时35分"
-        },
-        {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850504&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/3E_Vzh_i3rotK1w6yvq7f.jpg/lite\" height=\"120\"/></a>",
           "url": "https://flash.jin10.com/detail/20260411124514356800",
           "source": "金十数据",
@@ -57,6 +46,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时00分 ~ 14时08分]"
+        },
+        {
+          "title": "IG战胜WE LPL第二赛段",
+          "url": "https://search.bilibili.com/all?keyword=IG%20WE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时35分 ~ 21时08分]"
         },
         {
           "title": "锐评T1战胜DNS",
@@ -87,7 +88,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时35分"
         },
