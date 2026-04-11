@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T21:08:38.887758+08:00",
-  "total_titles_processed": 1389,
+  "generated_at": "2026-04-11T22:40:24.898873+08:00",
+  "total_titles_processed": 1514,
   "failed_sources": [],
   "trends": [
     {
@@ -53,11 +53,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             5,
-            15
+            15,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时35分 ~ 21时08分]"
+          "appearance_count": 3,
+          "time_info": "[19时35分 ~ 22时40分]"
         },
         {
           "title": "锐评T1战胜DNS",
