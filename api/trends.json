@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-12T10:58:17.672260+08:00",
-  "total_titles_processed": 709,
+  "generated_at": "2026-04-12T13:31:35.972963+08:00",
+  "total_titles_processed": 842,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "IG战胜WE LPL第二赛段",
@@ -15,11 +15,23 @@
             29,
             21,
             16,
-            12
+            12,
+            27
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时42分 ~ 07时40分]"
+          "appearance_count": 12,
+          "time_info": "[00时42分 ~ 13时31分]"
+        },
+        {
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850504&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/D4supSq6s7-gSzJkAz87N.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260412130705252800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
         }
       ]
     }
