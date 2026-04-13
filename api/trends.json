@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-14T05:58:20.732477+08:00",
-  "total_titles_processed": 536,
+  "generated_at": "2026-04-14T06:55:29.291567+08:00",
+  "total_titles_processed": 602,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             3,
-            4
+            4,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 05时58分]"
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 06时55分]"
         },
         {
           "title": "Karrigan转会猎鹰是补强还是削弱",
@@ -29,8 +30,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时20分 ~ 05时58分]"
+          "appearance_count": 4,
+          "time_info": "[03时20分 ~ 06时55分]"
         },
         {
           "title": "美国能源部长Wright：美国能源价格可能会上涨，直至霍尔木兹海峡的船只通行量“实质性地”恢复。 预计“未来几周”将发生这样的事。 委内瑞拉石油产量超过120万桶/日，三个月增长了25%。 1月3日以来，销售了1.5亿桶委内瑞拉石油。",
