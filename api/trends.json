@@ -1,22 +1,34 @@
 {
-  "generated_at": "2026-04-13T07:40:51.782496+08:00",
-  "total_titles_processed": 542,
+  "generated_at": "2026-04-13T11:23:39.400094+08:00",
+  "total_titles_processed": 750,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "曝karrigan将加入Falcons",
           "url": "https://search.bilibili.com/all?keyword=%E6%9B%9Dkarrigan%E5%B0%86%E5%8A%A0%E5%85%A5Falcons",
           "source": "bilibili 热搜",
           "ranks": [
-            2
+            2,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时57分 ~ 07时40分]"
+          "appearance_count": 8,
+          "time_info": "[02时57分 ~ 11时23分]"
+        },
+        {
+          "title": "如何看待karrigan或将转会猎鹰",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85karrigan%E6%88%96%E5%B0%86%E8%BD%AC%E4%BC%9A%E7%8C%8E%E9%B9%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时23分"
         }
       ]
     }
