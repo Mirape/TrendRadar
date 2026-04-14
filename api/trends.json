@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-15T06:01:34.311621+08:00",
-  "total_titles_processed": 533,
+  "generated_at": "2026-04-15T06:59:05.097316+08:00",
+  "total_titles_processed": 581,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时16分 ~ 06时01分]"
+          "appearance_count": 7,
+          "time_info": "[01时16分 ~ 06时59分]"
         },
         {
           "title": "Uzi 称「很多退役的选手就不想玩英雄联盟了」，这反映了电竞职业的哪些特点？",
@@ -24,11 +24,12 @@
           "source": "知乎",
           "ranks": [
             16,
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时00分 ~ 06时01分]"
+          "appearance_count": 5,
+          "time_info": "[05时00分 ~ 06时59分]"
         },
         {
           "title": "委内瑞拉代总统Delcy Rodriguez：与美国需要长期的能源合作关系。 美国的许可（许可证）并不能提供长期的法律保障，应当取消对委内瑞拉的制裁。 目前正在听取石油公司的建议，以及对能源行业的意见。",
@@ -37,7 +38,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
         },
