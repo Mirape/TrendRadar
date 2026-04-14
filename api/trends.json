@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-14T16:10:29.418543+08:00",
-  "total_titles_processed": 1178,
+  "generated_at": "2026-04-14T17:24:46.434117+08:00",
+  "total_titles_processed": 1312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "二十年老粉看BIGBANG科切拉舞台",
@@ -35,17 +35,6 @@
           "time_info": "[03时20分 ~ 07时51分]"
         },
         {
-          "title": "Twistzz谈karrigan离队传闻",
-          "url": "https://search.bilibili.com/all?keyword=Twistzz%E8%B0%88karrigan%E7%A6%BB%E9%98%9F%E4%BC%A0%E9%97%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时10分"
-        },
-        {
           "title": "美国能源部长Wright：美国能源价格可能会上涨，直至霍尔木兹海峡的船只通行量“实质性地”恢复。 预计“未来几周”将发生这样的事。 委内瑞拉石油产量超过120万桶/日，三个月增长了25%。 1月3日以来，销售了1.5亿桶委内瑞拉石油。",
           "url": "https://wallstreetcn.com/livenews/3087158",
           "source": "华尔街见闻-快讯",
@@ -56,6 +45,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时01分 ~ 05时58分]"
+        },
+        {
+          "title": "Twistzz谈karrigan离队传闻",
+          "url": "https://search.bilibili.com/all?keyword=Twistzz%E8%B0%88karrigan%E7%A6%BB%E9%98%9F%E4%BC%A0%E9%97%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时10分 ~ 17时24分]"
+        },
+        {
+          "title": "NiKo谈Karrigan加盟猎鹰",
+          "url": "https://search.bilibili.com/all?keyword=NiKo%E8%B0%88Karrigan%E5%8A%A0%E7%9B%9F%E7%8C%8E%E9%B9%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
         }
       ]
     }
