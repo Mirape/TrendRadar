@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-15T03:23:39.031284+08:00",
-  "total_titles_processed": 408,
+  "generated_at": "2026-04-15T05:01:14.367379+08:00",
+  "total_titles_processed": 484,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "IG血洗TES,JKL被打爆",
@@ -15,8 +15,19 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时16分 ~ 05时01分]"
+        },
+        {
+          "title": "Uzi 称「很多退役的选手就不想玩英雄联盟了」，这反映了电竞职业的哪些特点？",
+          "url": "https://www.zhihu.com/question/2020132108971057763",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时16分 ~ 03时23分]"
+          "time_info": "[05时00分 ~ 05时01分]"
         },
         {
           "title": "美国能源部长Wright：汽油价格可能会在未来数周更高。",
