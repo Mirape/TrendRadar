@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-04-16T03:24:38.762972+08:00",
-  "total_titles_processed": 406,
+  "generated_at": "2026-04-16T04:57:16.998683+08:00",
+  "total_titles_processed": 481,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
       "match_count": 9,
       "titles": [
-        {
-          "title": "WBG战胜IG",
-          "url": "https://search.bilibili.com/all?keyword=IG%20WBG",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时10分 ~ 03时24分]"
-        },
         {
           "title": "IG遭WBG翻盘,LPL大王倒了",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353285&amp;topic_name=IG%E9%81%ADWBG%E7%BF%BB%E7%9B%98%2CLPL%E5%A4%A7%E7%8E%8B%E5%80%92%E4%BA%86",
@@ -26,8 +15,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时10分 ~ 03时24分]"
+          "appearance_count": 4,
+          "time_info": "[01时10分 ~ 04时57分]"
+        },
+        {
+          "title": "WBG战胜IG",
+          "url": "https://search.bilibili.com/all?keyword=IG%20WBG",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时10分 ~ 04时57分]"
         },
         {
           "title": "WBG让一追二战胜IG",
@@ -47,7 +48,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
         },
@@ -58,7 +59,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
         },
@@ -69,7 +70,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
         },
@@ -80,7 +81,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
         },
@@ -91,7 +92,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
         },
@@ -102,7 +103,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
         }
