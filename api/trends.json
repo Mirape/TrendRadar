@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-16T04:57:16.998683+08:00",
-  "total_titles_processed": 481,
+  "generated_at": "2026-04-16T05:58:18.067737+08:00",
+  "total_titles_processed": 514,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时10分 ~ 04时57分]"
+          "appearance_count": 5,
+          "time_info": "[01时10分 ~ 05时58分]"
         },
         {
           "title": "WBG战胜IG",
@@ -24,11 +24,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             1,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时10分 ~ 04时57分]"
+          "appearance_count": 5,
+          "time_info": "[01时10分 ~ 05时58分]"
         },
         {
           "title": "WBG让一追二战胜IG",
