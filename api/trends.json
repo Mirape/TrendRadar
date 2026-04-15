@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-15T17:26:04.959073+08:00",
-  "total_titles_processed": 1312,
+  "generated_at": "2026-04-15T19:05:11.183558+08:00",
+  "total_titles_processed": 1444,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             7,
             10,
             13,
-            17
+            17,
+            21
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时16分 ~ 17时26分]"
+          "appearance_count": 16,
+          "time_info": "[01时16分 ~ 19时05分]"
         },
         {
           "title": "Uzi 称「很多退役的选手就不想玩英雄联盟了」，这反映了电竞职业的哪些特点？",
