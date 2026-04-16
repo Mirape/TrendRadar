@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-16T18:19:10.827330+08:00",
-  "total_titles_processed": 1301,
+  "generated_at": "2026-04-16T20:02:06.369979+08:00",
+  "total_titles_processed": 1438,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "IG遭WBG翻盘,LPL大王倒了",
@@ -16,11 +16,13 @@
             6,
             9,
             14,
-            16
+            16,
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时10分 ~ 18时19分]"
+          "appearance_count": 16,
+          "time_info": "[01时10分 ~ 20时02分]"
         },
         {
           "title": "WBG战胜IG",
@@ -69,6 +71,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时10分 ~ 03时24分]"
+        },
+        {
+          "title": "特宝生物与Aligos签署独占知识产权合作协议",
+          "url": "https://flash.jin10.com/detail/20260416194848479800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
         },
         {
           "title": "美国能源部长Wright：能源部项目评估结束。 倾向于推进那些重大项目。",
