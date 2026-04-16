@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-04-16T07:56:51.253301+08:00",
-  "total_titles_processed": 635,
+  "generated_at": "2026-04-16T11:20:18.795047+08:00",
+  "total_titles_processed": 836,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "IG遭WBG翻盘,LPL大王倒了",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353285&amp;topic_name=IG%E9%81%ADWBG%E7%BF%BB%E7%9B%98%2CLPL%E5%A4%A7%E7%8E%8B%E5%80%92%E4%BA%86",
           "source": "贴吧",
           "ranks": [
-            3
+            3,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时10分 ~ 07时56分]"
+          "appearance_count": 10,
+          "time_info": "[01时10分 ~ 11时20分]"
         },
         {
           "title": "WBG战胜IG",
@@ -33,6 +34,17 @@
           "time_info": "[01时10分 ~ 06时52分]"
         },
         {
+          "title": "深度复盘WBG让一追二IG",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E5%A4%8D%E7%9B%98WBG%E8%AE%A9%E4%B8%80%E8%BF%BD%E4%BA%8CIG",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时19分 ~ 11时20分]"
+        },
+        {
           "title": "WBG让一追二战胜IG",
           "url": "https://www.douyin.com/hot/2467572",
           "source": "抖音",
@@ -42,6 +54,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时10分 ~ 03时24分]"
+        },
+        {
+          "title": "假如《英雄联盟》给你随意英雄 6 神装，但是血量上限只有 1 滴，你要如何运营操作并 100% 获胜？",
+          "url": "https://www.zhihu.com/question/520577551",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时19分 ~ 11时20分]"
         },
         {
           "title": "美国能源部长Wright：能源部项目评估结束。 倾向于推进那些重大项目。",
