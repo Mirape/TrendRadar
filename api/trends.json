@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-16T11:20:18.795047+08:00",
-  "total_titles_processed": 836,
+  "generated_at": "2026-04-16T14:05:43.360019+08:00",
+  "total_titles_processed": 986,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             3,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时10分 ~ 11时20分]"
+          "appearance_count": 11,
+          "time_info": "[01时10分 ~ 14时05分]"
         },
         {
           "title": "WBG战胜IG",
@@ -45,6 +46,18 @@
           "time_info": "[11时19分 ~ 11时20分]"
         },
         {
+          "title": "假如《英雄联盟》给你随意英雄 6 神装，但是血量上限只有 1 滴，你要如何运营操作并 100% 获胜？",
+          "url": "https://www.zhihu.com/question/520577551",
+          "source": "知乎",
+          "ranks": [
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时19分 ~ 14时05分]"
+        },
+        {
           "title": "WBG让一追二战胜IG",
           "url": "https://www.douyin.com/hot/2467572",
           "source": "抖音",
@@ -54,17 +67,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时10分 ~ 03时24分]"
-        },
-        {
-          "title": "假如《英雄联盟》给你随意英雄 6 神装，但是血量上限只有 1 滴，你要如何运营操作并 100% 获胜？",
-          "url": "https://www.zhihu.com/question/520577551",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时19分 ~ 11时20分]"
         },
         {
           "title": "美国能源部长Wright：能源部项目评估结束。 倾向于推进那些重大项目。",
