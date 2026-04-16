@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-16T16:28:58.538884+08:00",
-  "total_titles_processed": 1163,
+  "generated_at": "2026-04-16T18:19:10.827330+08:00",
+  "total_titles_processed": 1301,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             3,
             6,
             9,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时10分 ~ 16时28分]"
+          "appearance_count": 14,
+          "time_info": "[01时10分 ~ 18时19分]"
         },
         {
           "title": "WBG战胜IG",
