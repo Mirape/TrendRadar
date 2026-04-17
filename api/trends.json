@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-18T01:53:49.061358+08:00",
-  "total_titles_processed": 421,
+  "generated_at": "2026-04-18T03:08:13.067230+08:00",
+  "total_titles_processed": 487,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 01时53分]"
+          "appearance_count": 5,
+          "time_info": "[00时09分 ~ 03时08分]"
         },
         {
           "title": "DK战胜T1赛后数据雷达",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 01时53分]"
+          "appearance_count": 5,
+          "time_info": "[00时09分 ~ 03时08分]"
         },
         {
           "title": "如何评价 IGN 中国发布的视频《九年后的海拉鲁依然孤独》？",
@@ -35,22 +35,24 @@
           "source": "知乎",
           "ranks": [
             17,
-            19
+            19,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 01时53分]"
+          "appearance_count": 5,
+          "time_info": "[00时09分 ~ 03时08分]"
         },
         {
           "title": "《英雄联盟》1V9，但是初始额外 2W 金币，能打赢吗？",
           "url": "https://www.zhihu.com/question/4520963709",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时53分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时53分 ~ 03时08分]"
         },
         {
           "title": "Anthropic发布Claude Design。",
