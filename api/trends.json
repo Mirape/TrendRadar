@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-17T07:46:29.717681+08:00",
-  "total_titles_processed": 672,
+  "generated_at": "2026-04-17T10:56:32.571572+08:00",
+  "total_titles_processed": 864,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             9,
             8,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 07时46分]"
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 10时56分]"
         },
         {
           "title": "IG遭WBG翻盘,LPL大王倒了",
@@ -26,11 +27,12 @@
           "source": "贴吧",
           "ranks": [
             20,
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 07时46分]"
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 10时56分]"
         },
         {
           "title": "美国能源部长Wright：美国首批5-10个新核反应堆几乎肯定会从能源部贷款办公室获得贷款。",
