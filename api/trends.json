@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-19T00:49:42.939552+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-19T01:40:40.142074+08:00",
+  "total_titles_processed": 349,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
+          "appearance_count": 2,
+          "time_info": "[00时49分 ~ 01时40分]"
         },
         {
           "title": "BLG战胜IG",
           "url": "https://search.bilibili.com/all?keyword=BLG%20IG",
           "source": "bilibili 热搜",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
+          "appearance_count": 2,
+          "time_info": "[00时49分 ~ 01时40分]"
         },
         {
           "title": "DK爆冷取胜,T1全队状态低迷",
@@ -37,8 +38,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
+          "appearance_count": 2,
+          "time_info": "[00时49分 ~ 01时40分]"
         }
       ]
     }
