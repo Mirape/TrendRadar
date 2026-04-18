@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-18T10:47:35.099940+08:00",
-  "total_titles_processed": 810,
+  "generated_at": "2026-04-18T13:11:37.620651+08:00",
+  "total_titles_processed": 921,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             2,
-            5
+            5,
+            10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时09分 ~ 10时47分]"
+          "appearance_count": 13,
+          "time_info": "[00时09分 ~ 13时11分]"
         },
         {
           "title": "DK战胜T1赛后数据雷达",
@@ -26,11 +27,12 @@
           "ranks": [
             4,
             1,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时09分 ~ 10时47分]"
+          "appearance_count": 13,
+          "time_info": "[00时09分 ~ 13时11分]"
         },
         {
           "title": "如何评价 IGN 中国发布的视频《九年后的海拉鲁依然孤独》？",
@@ -81,7 +83,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时47分"
         },
