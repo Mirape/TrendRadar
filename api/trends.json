@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-18T22:44:40.200318+08:00",
-  "total_titles_processed": 1551,
+  "generated_at": "2026-04-18T23:41:50.427963+08:00",
+  "total_titles_processed": 1626,
   "failed_sources": [],
   "trends": [
     {
@@ -37,8 +37,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时09分 ~ 22时44分]"
+          "appearance_count": 23,
+          "time_info": "[00时09分 ~ 23时41分]"
         },
         {
           "title": "如何评价 IGN 中国发布的视频《九年后的海拉鲁依然孤独》？",
@@ -78,8 +78,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时11分 ~ 22时44分]"
+          "appearance_count": 4,
+          "time_info": "[21时11分 ~ 23时41分]"
         },
         {
           "title": "BLG战胜IG赛后数据",
@@ -105,6 +105,18 @@
           "time_info": "[17时54分 ~ 19时38分]"
         },
         {
+          "title": "BLG战胜IG",
+          "url": "https://search.bilibili.com/all?keyword=BLG%20IG",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时11分 ~ 23时41分]"
+        },
+        {
           "title": "锐评DK战胜T1",
           "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84DK%E6%88%98%E8%83%9CT1",
           "source": "bilibili 热搜",
@@ -116,18 +128,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时47分 ~ 19时38分]"
-        },
-        {
-          "title": "BLG战胜IG",
-          "url": "https://search.bilibili.com/all?keyword=BLG%20IG",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时11分 ~ 22时44分]"
         },
         {
           "title": "Figma收跌6.89%，Adobe跌1.49%，Wix.com跌0.67%，投资者关注Anthropic PBC发布Claude Design。",
@@ -148,7 +148,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时44分"
         },
