@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-18T18:47:32.412483+08:00",
-  "total_titles_processed": 1273,
+  "generated_at": "2026-04-18T19:38:46.598162+08:00",
+  "total_titles_processed": 1355,
   "failed_sources": [],
   "trends": [
     {
@@ -31,11 +31,12 @@
             10,
             11,
             13,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时09分 ~ 18时47分]"
+          "appearance_count": 19,
+          "time_info": "[00时09分 ~ 19时38分]"
         },
         {
           "title": "如何评价 IGN 中国发布的视频《九年后的海拉鲁依然孤独》？",
@@ -76,8 +77,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时54分 ~ 18时47分]"
+          "appearance_count": 3,
+          "time_info": "[17时54分 ~ 19时38分]"
         },
         {
           "title": "锐评DK战胜T1",
@@ -85,11 +86,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             11,
-            24
+            24,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时47分 ~ 18时47分]"
+          "appearance_count": 3,
+          "time_info": "[10时47分 ~ 19时38分]"
         },
         {
           "title": "Figma收跌6.89%，Adobe跌1.49%，Wix.com跌0.67%，投资者关注Anthropic PBC发布Claude Design。",
