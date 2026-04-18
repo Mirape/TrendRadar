@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-19T01:40:40.142074+08:00",
-  "total_titles_processed": 349,
+  "generated_at": "2026-04-19T02:59:00.686616+08:00",
+  "total_titles_processed": 378,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 01时40分]"
+          "appearance_count": 4,
+          "time_info": "[00时49分 ~ 02时59分]"
         },
         {
           "title": "BLG战胜IG",
@@ -27,8 +27,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 01时40分]"
+          "appearance_count": 4,
+          "time_info": "[00时49分 ~ 02时59分]"
         },
         {
           "title": "DK爆冷取胜,T1全队状态低迷",
@@ -38,8 +38,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 01时40分]"
+          "appearance_count": 4,
+          "time_info": "[00时49分 ~ 02时59分]"
         }
       ]
     }
