@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-04-18T07:43:31.546755+08:00",
-  "total_titles_processed": 632,
+  "generated_at": "2026-04-18T10:47:35.099940+08:00",
+  "total_titles_processed": 810,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "DK爆冷取胜,T1全队状态低迷",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353403&amp;topic_name=DK%E7%88%86%E5%86%B7%E5%8F%96%E8%83%9C%2CT1%E5%85%A8%E9%98%9F%E7%8A%B6%E6%80%81%E4%BD%8E%E8%BF%B7",
           "source": "贴吧",
           "ranks": [
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时09分 ~ 07时43分]"
+          "appearance_count": 12,
+          "time_info": "[00时09分 ~ 10时47分]"
         },
         {
           "title": "DK战胜T1赛后数据雷达",
@@ -24,11 +25,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             4,
-            1
+            1,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时09分 ~ 07时43分]"
+          "appearance_count": 12,
+          "time_info": "[00时09分 ~ 10时47分]"
         },
         {
           "title": "如何评价 IGN 中国发布的视频《九年后的海拉鲁依然孤独》？",
@@ -71,6 +73,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时50分 ~ 06时47分]"
+        },
+        {
+          "title": "锐评DK战胜T1",
+          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84DK%E6%88%98%E8%83%9CT1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时47分"
         },
         {
           "title": "Anthropic发布Claude Design。",
