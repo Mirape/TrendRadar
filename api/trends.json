@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-20T01:40:38.058867+08:00",
-  "total_titles_processed": 351,
+  "generated_at": "2026-04-20T02:58:27.488584+08:00",
+  "total_titles_processed": 390,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时48分 ~ 01时40分]"
+          "appearance_count": 3,
+          "time_info": "[00时48分 ~ 02时58分]"
         },
         {
           "title": "TES战胜IG赛后数据",
@@ -27,8 +27,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时48分 ~ 01时40分]"
+          "appearance_count": 3,
+          "time_info": "[00时48分 ~ 02时58分]"
+        },
+        {
+          "title": "如何评价 claude design 功能发布后 Figma 股价下跌 7%？",
+          "url": "https://www.zhihu.com/question/2028695048301102521",
+          "source": "知乎",
+          "ranks": [
+            13,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时48分 ~ 02时58分]"
         },
         {
           "title": "TES战胜IG LPL第二赛段",
@@ -36,22 +48,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             15,
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时48分 ~ 01时40分]"
-        },
-        {
-          "title": "如何评价 claude design 功能发布后 Figma 股价下跌 7%？",
-          "url": "https://www.zhihu.com/question/2028695048301102521",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时48分 ~ 01时40分]"
+          "appearance_count": 3,
+          "time_info": "[00时48分 ~ 02时58分]"
         },
         {
           "title": "美国能源部长Wright：对俄罗斯石油制裁的豁免措施是短期性的决定。",
@@ -61,8 +63,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时48分 ~ 01时40分]"
+          "appearance_count": 3,
+          "time_info": "[00时48分 ~ 02时58分]"
         },
         {
           "title": "美国能源部长Wright：到2027年，汽油价格可能会跌穿3美元/加仑，也可能不会跌穿。 就CPI调整后条款来说，汽油价格是低于3美元的。 汽油价格可能已经见顶。（CNN）",
@@ -72,8 +74,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时48分 ~ 01时40分]"
+          "appearance_count": 3,
+          "time_info": "[00时48分 ~ 02时58分]"
         },
         {
           "title": "美国能源部长Wright：（船只）通过霍尔木兹海峡并不安全。 （与伊朗的）谈判进展不错。 （谈及率团前往巴基斯坦）一直都是副总统万斯。 如果伊朗干扰霍尔木兹海峡的航运，美方将重新封锁。（CNN）",
@@ -83,8 +85,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时48分 ~ 01时40分]"
+          "appearance_count": 3,
+          "time_info": "[00时48分 ~ 02时58分]"
         },
         {
           "title": "BLG火力全开,碾碎IG翻盘梦",
@@ -94,8 +96,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时48分 ~ 01时40分]"
+          "appearance_count": 3,
+          "time_info": "[00时48分 ~ 02时58分]"
         }
       ]
     }
