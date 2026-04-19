@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-19T14:02:02.106443+08:00",
-  "total_titles_processed": 787,
+  "generated_at": "2026-04-19T16:08:13.742781+08:00",
+  "total_titles_processed": 896,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             3,
             4,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时49分 ~ 14时02分]"
+          "appearance_count": 18,
+          "time_info": "[00时49分 ~ 16时08分]"
         },
         {
           "title": "BLG战胜IG",
@@ -39,11 +40,12 @@
           "ranks": [
             19,
             20,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时49分 ~ 14时02分]"
+          "appearance_count": 18,
+          "time_info": "[00时49分 ~ 16时08分]"
         }
       ]
     }
