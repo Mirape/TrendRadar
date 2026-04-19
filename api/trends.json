@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-19T07:40:59.643743+08:00",
-  "total_titles_processed": 470,
+  "generated_at": "2026-04-19T11:21:50.029825+08:00",
+  "total_titles_processed": 656,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353423&amp;topic_name=BLG%E7%81%AB%E5%8A%9B%E5%85%A8%E5%BC%80%2C%E7%A2%BE%E7%A2%8EIG%E7%BF%BB%E7%9B%98%E6%A2%A6",
           "source": "贴吧",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时49分 ~ 07时40分]"
+          "appearance_count": 14,
+          "time_info": "[00时49分 ~ 11时21分]"
         },
         {
           "title": "BLG战胜IG",
@@ -35,11 +36,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353403&amp;topic_name=DK%E7%88%86%E5%86%B7%E5%8F%96%E8%83%9C%2CT1%E5%85%A8%E9%98%9F%E7%8A%B6%E6%80%81%E4%BD%8E%E8%BF%B7",
           "source": "贴吧",
           "ranks": [
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时49分 ~ 07时40分]"
+          "appearance_count": 14,
+          "time_info": "[00时49分 ~ 11时21分]"
         }
       ]
     }
