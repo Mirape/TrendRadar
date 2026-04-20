@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-20T11:23:59.992454+08:00",
-  "total_titles_processed": 795,
+  "generated_at": "2026-04-20T14:20:24.664694+08:00",
+  "total_titles_processed": 943,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "TES战胜IG赛后数据",
@@ -26,11 +26,12 @@
           "source": "贴吧",
           "ranks": [
             1,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时48分 ~ 11时23分]"
+          "appearance_count": 12,
+          "time_info": "[00时48分 ~ 14时20分]"
         },
         {
           "title": "如何评价 claude design 功能发布后 Figma 股价下跌 7%？",
@@ -55,11 +56,12 @@
             19,
             17,
             18,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时48分 ~ 11时23分]"
+          "appearance_count": 11,
+          "time_info": "[00时48分 ~ 14时20分]"
         },
         {
           "title": "BLG火力全开,碾碎IG翻盘梦",
@@ -152,13 +154,24 @@
           "time_info": "07时42分"
         },
         {
+          "title": "意大利能源公司ENI宣布在印度尼西亚海域的GELIGA-1勘探井发现新天然气。",
+          "url": "https://flash.jin10.com/detail/20260420140448189800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
+        },
+        {
           "title": "LPL2026 赛季第二赛段组内赛 iG 0:2 TES，如何评价这场比赛？",
           "url": "https://www.zhihu.com/question/2029231040711903108",
           "source": "知乎",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
         },
@@ -169,7 +182,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
         }
