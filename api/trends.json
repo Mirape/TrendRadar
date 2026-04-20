@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-20T19:21:53.877533+08:00",
-  "total_titles_processed": 1287,
+  "generated_at": "2026-04-20T21:52:37.725731+08:00",
+  "total_titles_processed": 1455,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "TES战胜IG赛后数据",
@@ -30,11 +30,12 @@
             7,
             8,
             14,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时48分 ~ 19时21分]"
+          "appearance_count": 15,
+          "time_info": "[00时48分 ~ 21时52分]"
         },
         {
           "title": "如何评价 claude design 功能发布后 Figma 股价下跌 7%？",
@@ -84,7 +85,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
         },
@@ -193,6 +194,17 @@
           "time_info": "07时42分"
         },
         {
+          "title": "BLG对战iG",
+          "url": "https://s.weibo.com/weibo?q=BLG%E5%AF%B9%E6%88%98iG&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
           "title": "意大利能源公司ENI宣布在印度尼西亚海域的GELIGA-1勘探井发现新天然气。",
           "url": "https://flash.jin10.com/detail/20260420140448189800",
           "source": "金十数据",
@@ -213,6 +225,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
+        },
+        {
+          "title": "EWC2026英雄联盟预选赛",
+          "url": "https://s.weibo.com/weibo?q=%23EWC2026%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E9%A2%84%E9%80%89%E8%B5%9B%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
         }
       ]
     }
