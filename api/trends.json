@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-04-20T07:42:37.728001+08:00",
-  "total_titles_processed": 589,
+  "generated_at": "2026-04-20T11:23:59.992454+08:00",
+  "total_titles_processed": 795,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
-        {
-          "title": "梦幻五连胜!TES横扫IG",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353437&amp;topic_name=%E6%A2%A6%E5%B9%BB%E4%BA%94%E8%BF%9E%E8%83%9C%21TES%E6%A8%AA%E6%89%ABIG",
-          "source": "贴吧",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时48分 ~ 07时42分]"
-        },
         {
           "title": "TES战胜IG赛后数据",
           "url": "https://search.bilibili.com/all?keyword=TES%E6%88%98%E8%83%9CIG%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE",
@@ -30,6 +19,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时48分 ~ 07时42分]"
+        },
+        {
+          "title": "梦幻五连胜!TES横扫IG",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353437&amp;topic_name=%E6%A2%A6%E5%B9%BB%E4%BA%94%E8%BF%9E%E8%83%9C%21TES%E6%A8%AA%E6%89%ABIG",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时48分 ~ 11时23分]"
         },
         {
           "title": "如何评价 claude design 功能发布后 Figma 股价下跌 7%？",
@@ -45,6 +46,22 @@
           "time_info": "[00时48分 ~ 07时42分]"
         },
         {
+          "title": "TES战胜IG LPL第二赛段",
+          "url": "https://search.bilibili.com/all?keyword=IG%20TES",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            13,
+            19,
+            17,
+            18,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时48分 ~ 11时23分]"
+        },
+        {
           "title": "BLG火力全开,碾碎IG翻盘梦",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353423&amp;topic_name=BLG%E7%81%AB%E5%8A%9B%E5%85%A8%E5%BC%80%2C%E7%A2%BE%E7%A2%8EIG%E7%BF%BB%E7%9B%98%E6%A2%A6",
           "source": "贴吧",
@@ -54,21 +71,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时48分 ~ 07时42分]"
-        },
-        {
-          "title": "TES战胜IG LPL第二赛段",
-          "url": "https://search.bilibili.com/all?keyword=IG%20TES",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15,
-            13,
-            19,
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时48分 ~ 06时42分]"
         },
         {
           "title": "美国能源部长Wright：对俄罗斯石油制裁的豁免措施是短期性的决定。",
@@ -112,7 +114,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
         },
@@ -123,7 +125,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
         },
@@ -134,7 +136,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
         },
@@ -145,9 +147,31 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
+        },
+        {
+          "title": "LPL2026 赛季第二赛段组内赛 iG 0:2 TES，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/2029231040711903108",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时23分"
+        },
+        {
+          "title": "BLG战胜IG赛事语音",
+          "url": "https://search.bilibili.com/all?keyword=BLG%E6%88%98%E8%83%9CIG%E8%B5%9B%E4%BA%8B%E8%AF%AD%E9%9F%B3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时23分"
         }
       ]
     }
