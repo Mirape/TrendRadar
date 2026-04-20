@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-21T04:54:25.971520+08:00",
-  "total_titles_processed": 469,
+  "generated_at": "2026-04-21T05:53:00.584597+08:00",
+  "total_titles_processed": 513,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E7%8C%8E%E9%B9%B0%E5%AE%98%E5%AE%A3karrigan%E5%8A%A0%E5%85%A5",
           "source": "bilibili 热搜",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时09分 ~ 04时54分]"
+          "appearance_count": 5,
+          "time_info": "[01时09分 ~ 05时53分]"
         },
         {
           "title": "这阵容也行?BLG断送IG中东路",
@@ -26,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时09分 ~ 04时54分]"
+          "appearance_count": 5,
+          "time_info": "[01时09分 ~ 05时53分]"
         },
         {
           "title": "巴西Novonor签署协议，将Braskem控股权出售给IG4",
