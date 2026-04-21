@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-21T19:13:43.721892+08:00",
-  "total_titles_processed": 1384,
+  "generated_at": "2026-04-21T21:53:01.252343+08:00",
+  "total_titles_processed": 1548,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,12 @@
             7,
             9,
             12,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时09分 ~ 19时13分]"
+          "appearance_count": 17,
+          "time_info": "[01时09分 ~ 21时53分]"
         },
         {
           "title": "据西班牙媒体Expansión，雅诗兰黛为收购Puig寻求筹集50亿欧元资金。",
