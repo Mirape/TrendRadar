@@ -1,95 +1,22 @@
 {
-  "generated_at": "2026-04-21T23:18:35.533710+08:00",
-  "total_titles_processed": 1652,
+  "generated_at": "2026-04-22T01:10:10.706540+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 7,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "猎鹰官宣karrigan加入",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8C%8E%E9%B9%B0%E5%AE%98%E5%AE%A3karrigan%E5%8A%A0%E5%85%A5",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时09分 ~ 07时50分]"
-        },
         {
           "title": "这阵容也行?BLG断送IG中东路",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353496&amp;topic_name=%E8%BF%99%E9%98%B5%E5%AE%B9%E4%B9%9F%E8%A1%8C%3FBLG%E6%96%AD%E9%80%81IG%E4%B8%AD%E4%B8%9C%E8%B7%AF",
           "source": "贴吧",
           "ranks": [
-            3,
-            6,
-            7,
-            9,
-            12,
-            16,
             19
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时09分 ~ 23时18分]"
-        },
-        {
-          "title": "据西班牙媒体Expansión，雅诗兰黛为收购Puig寻求筹集50亿欧元资金。",
-          "url": "https://wallstreetcn.com/livenews/3091539",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时33分"
-        },
-        {
-          "title": "BLG战胜IG",
-          "url": "https://search.bilibili.com/all?keyword=BLG%E6%88%98%E8%83%9CIG",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时50分"
-        },
-        {
-          "title": "巴西Novonor签署协议，将Braskem控股权出售给IG4",
-          "url": "https://wallstreetcn.com/livenews/3091278",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时13分"
-        },
-        {
-          "title": "karrigan与NiKo往事回顾",
-          "url": "https://search.bilibili.com/all?keyword=karrigan%E4%B8%8ENiKo%E5%BE%80%E4%BA%8B%E5%9B%9E%E9%A1%BE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时48分"
-        },
-        {
-          "title": "阿联酋Fertiglobe：处于高位的氮肥价格可能进一步上涨",
-          "url": "https://wallstreetcn.com/livenews/3091235",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时09分"
+          "appearance_count": 2,
+          "time_info": "[01时09分 ~ 01时10分]"
         }
       ]
     }
