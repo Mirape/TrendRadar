@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-04-23T01:08:20.997633+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-04-23T03:21:13.382693+08:00",
+  "total_titles_processed": 404,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "Karrigan加入猎鹰第一天",
+          "url": "https://search.bilibili.com/all?keyword=Karrigan%E5%8A%A0%E5%85%A5%E7%8C%8E%E9%B9%B0%E7%AC%AC%E4%B8%80%E5%A4%A9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时20分 ~ 03时21分]"
+        },
         {
           "title": "《英雄联盟》里后期最无力的英雄，你认为是谁？",
           "url": "https://www.zhihu.com/question/463004471",
