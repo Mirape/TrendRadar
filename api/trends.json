@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-23T18:24:44.137603+08:00",
-  "total_titles_processed": 1310,
+  "generated_at": "2026-04-23T20:02:18.479758+08:00",
+  "total_titles_processed": 1426,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             5,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时54分 ~ 18时24分]"
+          "appearance_count": 5,
+          "time_info": "[16时54分 ~ 20时02分]"
         },
         {
           "title": "如果《英雄联盟》狗头每层 Q 改为叠加 3 点攻击距离，是增强还是削弱？",
@@ -25,11 +26,12 @@
           "source": "知乎",
           "ranks": [
             14,
-            16
+            16,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时54分 ~ 18时24分]"
+          "appearance_count": 5,
+          "time_info": "[16时54分 ~ 20时02分]"
         },
         {
           "title": "T1官宣Easyhoon加入教练组",
