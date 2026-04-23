@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-24T00:47:09.823594+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-04-24T02:09:43.557882+08:00",
+  "total_titles_processed": 400,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美国石油公司Continental、Formentera、Aspect的CEO们会见委内瑞拉代总统Rodriguez。 CEO们称，会谈富有成效。",
@@ -14,7 +14,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
         },
@@ -26,8 +26,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 00时47分]"
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 02时09分]"
         },
         {
           "title": "如果《英雄联盟》狗头每层 Q 改为叠加 3 点攻击距离，是增强还是削弱？",
@@ -39,6 +39,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时46分 ~ 00时47分]"
+        },
+        {
+          "title": "如何评价英雄联盟 16.9 版本将中路任务奖励由强化回城替换为 6% 的额外攻击力和法术强度加成？",
+          "url": "https://www.zhihu.com/question/2030373762764371549",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时09分"
         }
       ]
     }
