@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-04-24T05:53:11.885639+08:00",
-  "total_titles_processed": 549,
+  "generated_at": "2026-04-24T06:52:55.862764+08:00",
+  "total_titles_processed": 606,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
       "match_count": 4,
       "titles": [
+        {
+          "title": "S5老臣归队,T1官宣侯爷执教",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353644&amp;topic_name=S5%E8%80%81%E8%87%A3%E5%BD%92%E9%98%9F%2CT1%E5%AE%98%E5%AE%A3%E4%BE%AF%E7%88%B7%E6%89%A7%E6%95%99",
+          "source": "贴吧",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 06时52分]"
+        },
         {
           "title": "美国石油公司Continental、Formentera、Aspect的CEO们会见委内瑞拉代总统Rodriguez。 CEO们称，会谈富有成效。",
           "url": "https://wallstreetcn.com/livenews/3093433",
@@ -17,17 +28,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
-        },
-        {
-          "title": "S5老臣归队,T1官宣侯爷执教",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353644&amp;topic_name=S5%E8%80%81%E8%87%A3%E5%BD%92%E9%98%9F%2CT1%E5%AE%98%E5%AE%A3%E4%BE%AF%E7%88%B7%E6%89%A7%E6%95%99",
-          "source": "贴吧",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 05时53分]"
         },
         {
           "title": "如何评价英雄联盟 16.9 版本将中路任务奖励由强化回城替换为 6% 的额外攻击力和法术强度加成？",
