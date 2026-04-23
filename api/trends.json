@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-23T16:55:02.556269+08:00",
-  "total_titles_processed": 1177,
+  "generated_at": "2026-04-23T18:24:44.137603+08:00",
+  "total_titles_processed": 1310,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,24 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353644&amp;topic_name=S5%E8%80%81%E8%87%A3%E5%BD%92%E9%98%9F%2CT1%E5%AE%98%E5%AE%A3%E4%BE%AF%E7%88%B7%E6%89%A7%E6%95%99",
           "source": "贴吧",
           "ranks": [
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时54分 ~ 16时55分]"
+          "appearance_count": 3,
+          "time_info": "[16时54分 ~ 18时24分]"
+        },
+        {
+          "title": "如果《英雄联盟》狗头每层 Q 改为叠加 3 点攻击距离，是增强还是削弱？",
+          "url": "https://www.zhihu.com/question/544136277",
+          "source": "知乎",
+          "ranks": [
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时54分 ~ 18时24分]"
         },
         {
           "title": "T1官宣Easyhoon加入教练组",
@@ -39,17 +52,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时20分 ~ 03时21分]"
-        },
-        {
-          "title": "如果《英雄联盟》狗头每层 Q 改为叠加 3 点攻击距离，是增强还是削弱？",
-          "url": "https://www.zhihu.com/question/544136277",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时54分 ~ 16时55分]"
         },
         {
           "title": "马斯克：正打算采用英特尔14A芯片制程。 预计特斯拉位于美国得州的Giga园区芯片研究的初始成本大约为30亿美元。 SpaceX将负责Terafab的初期工作。",
