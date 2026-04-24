@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-24T19:09:54.041963+08:00",
-  "total_titles_processed": 1368,
+  "generated_at": "2026-04-24T21:46:07.783138+08:00",
+  "total_titles_processed": 1530,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "S5老臣归队,T1官宣侯爷执教",
@@ -20,6 +20,17 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时46分 ~ 17时02分]"
+        },
+        {
+          "title": "JDG战胜IG",
+          "url": "https://search.bilibili.com/all?keyword=IG%20JDG",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时45分 ~ 21时46分]"
         },
         {
           "title": "美国石油公司Continental、Formentera、Aspect的CEO们会见委内瑞拉代总统Rodriguez。 CEO们称，会谈富有成效。",
@@ -46,6 +57,17 @@
           "time_info": "[02时09分 ~ 05时53分]"
         },
         {
+          "title": "打破心魔,JDG零封血虐IG",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353715&amp;topic_name=%E6%89%93%E7%A0%B4%E5%BF%83%E9%AD%94%2CJDG%E9%9B%B6%E5%B0%81%E8%A1%80%E8%99%90IG",
+          "source": "贴吧",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时45分 ~ 21时46分]"
+        },
+        {
           "title": "如果《英雄联盟》狗头每层 Q 改为叠加 3 点攻击距离，是增强还是削弱？",
           "url": "https://www.zhihu.com/question/544136277",
           "source": "知乎",
@@ -55,6 +77,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时46分 ~ 00时47分]"
+        },
+        {
+          "title": "<a href=\"https://www.jin10.com/activities/2026/4/boom/index.html\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/VMA9X9PXDroY6KFBgFYkr.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260424211045582800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时46分"
         }
       ]
     }
