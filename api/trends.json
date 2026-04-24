@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-24T21:46:07.783138+08:00",
-  "total_titles_processed": 1530,
+  "generated_at": "2026-04-24T23:12:33.174518+08:00",
+  "total_titles_processed": 1662,
   "failed_sources": [],
   "trends": [
     {
@@ -22,17 +22,6 @@
           "time_info": "[00时46分 ~ 17时02分]"
         },
         {
-          "title": "JDG战胜IG",
-          "url": "https://search.bilibili.com/all?keyword=IG%20JDG",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时45分 ~ 21时46分]"
-        },
-        {
           "title": "美国石油公司Continental、Formentera、Aspect的CEO们会见委内瑞拉代总统Rodriguez。 CEO们称，会谈富有成效。",
           "url": "https://wallstreetcn.com/livenews/3093433",
           "source": "华尔街见闻-快讯",
@@ -42,6 +31,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
+        },
+        {
+          "title": "JDG战胜IG",
+          "url": "https://search.bilibili.com/all?keyword=IG%20JDG",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时45分 ~ 23时12分]"
         },
         {
           "title": "如何评价英雄联盟 16.9 版本将中路任务奖励由强化回城替换为 6% 的额外攻击力和法术强度加成？",
@@ -64,8 +65,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时45分 ~ 21时46分]"
+          "appearance_count": 3,
+          "time_info": "[21时45分 ~ 23时12分]"
         },
         {
           "title": "如果《英雄联盟》狗头每层 Q 改为叠加 3 点攻击距离，是增强还是削弱？",
@@ -85,7 +86,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时46分"
         }
