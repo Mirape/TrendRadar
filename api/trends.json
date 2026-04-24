@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-24T14:11:44.813145+08:00",
-  "total_titles_processed": 1036,
+  "generated_at": "2026-04-24T17:02:54.638007+08:00",
+  "total_titles_processed": 1215,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             13,
             15,
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时46分 ~ 14时11分]"
+          "appearance_count": 12,
+          "time_info": "[00时46分 ~ 17时02分]"
         },
         {
           "title": "美国石油公司Continental、Formentera、Aspect的CEO们会见委内瑞拉代总统Rodriguez。 CEO们称，会谈富有成效。",
