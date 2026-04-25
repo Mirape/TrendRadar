@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T18:56:53.898684+08:00",
-  "total_titles_processed": 1136,
+  "generated_at": "2026-04-25T19:42:26.010224+08:00",
+  "total_titles_processed": 1206,
   "failed_sources": [],
   "trends": [
     {
@@ -38,17 +38,6 @@
           "time_info": "[01时02分 ~ 18时56分]"
         },
         {
-          "title": "T1战胜BRO",
-          "url": "https://search.bilibili.com/all?keyword=T1%E6%88%98%E8%83%9CBRO",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时56分"
-        },
-        {
           "title": "<a href=\"https://www.jin10.com/activities/2026/4/boom/index.html\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/xW5UXPIUfCguzHbGmZi2G.jpg/lite\" height=\"120\"/></a>",
           "url": "https://flash.jin10.com/detail/20260425150026231800",
           "source": "金十数据",
@@ -61,6 +50,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时25分 ~ 18时56分]"
+        },
+        {
+          "title": "T1战胜BRO",
+          "url": "https://search.bilibili.com/all?keyword=T1%E6%88%98%E8%83%9CBRO",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时56分 ~ 19时42分]"
         },
         {
           "title": "巴西财政部长Durigan：巴西封禁那些没有控制措施的预测市场运营。 政府提议对预测市场实施更加严厉的监管，可能会实施更多监管措施。 总统卢拉非常担心赌博对于民众的影响。 Polymarket、Kalshi等预测市场平台。",
