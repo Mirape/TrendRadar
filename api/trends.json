@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T21:14:46.918199+08:00",
-  "total_titles_processed": 1294,
+  "generated_at": "2026-04-25T22:48:47.345755+08:00",
+  "total_titles_processed": 1388,
   "failed_sources": [],
   "trends": [
     {
@@ -38,17 +38,6 @@
           "time_info": "[01时02分 ~ 18时56分]"
         },
         {
-          "title": "<a href=\"https://www.jin10.com/activities/2026/4/boom/index.html\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/YE4JiYkaUQgdb16bLfiJm.jpg/lite\" height=\"120\"/></a>",
-          "url": "https://flash.jin10.com/detail/20260425210007504800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时14分"
-        },
-        {
           "title": "<a href=\"https://www.jin10.com/activities/2026/4/boom/index.html\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/xW5UXPIUfCguzHbGmZi2G.jpg/lite\" height=\"120\"/></a>",
           "url": "https://flash.jin10.com/detail/20260425150026231800",
           "source": "金十数据",
@@ -61,6 +50,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时25分 ~ 18时56分]"
+        },
+        {
+          "title": "<a href=\"https://www.jin10.com/activities/2026/4/boom/index.html\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/YE4JiYkaUQgdb16bLfiJm.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260425210007504800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时14分 ~ 22时48分]"
         },
         {
           "title": "T1战胜BRO",
