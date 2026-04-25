@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-25T10:49:28.309489+08:00",
-  "total_titles_processed": 720,
+  "generated_at": "2026-04-25T13:17:21.265641+08:00",
+  "total_titles_processed": 842,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "JDG战胜IG",
@@ -29,11 +29,12 @@
           "source": "贴吧",
           "ranks": [
             7,
-            10
+            10,
+            15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时02分 ~ 10时49分]"
+          "appearance_count": 12,
+          "time_info": "[01时02分 ~ 13时17分]"
         },
         {
           "title": "巴西财政部长Durigan：巴西封禁那些没有控制措施的预测市场运营。 政府提议对预测市场实施更加严厉的监管，可能会实施更多监管措施。 总统卢拉非常担心赌博对于民众的影响。 Polymarket、Kalshi等预测市场平台。",
@@ -60,13 +61,24 @@
           "time_info": "[03时57分 ~ 04时57分]"
         },
         {
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850514&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/cod4lQ6tFAtkEjHT4Vacm.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260425120157689800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
+        },
+        {
           "title": "<a href=\"https://www.jin10.com/activities/2026/4/boom/index.html\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/l7tF7cmPF6hNj2NBZvRMU.jpg/lite\" height=\"120\"/></a>",
           "url": "https://flash.jin10.com/detail/20260425090023770800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
         }
