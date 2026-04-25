@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T22:48:47.345755+08:00",
-  "total_titles_processed": 1388,
+  "generated_at": "2026-04-25T23:43:46.310416+08:00",
+  "total_titles_processed": 1445,
   "failed_sources": [],
   "trends": [
     {
@@ -57,11 +57,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            12
+            12,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时14分 ~ 22时48分]"
+          "appearance_count": 3,
+          "time_info": "[21时14分 ~ 23时43分]"
         },
         {
           "title": "T1战胜BRO",
