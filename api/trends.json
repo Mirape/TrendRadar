@@ -1,81 +1,33 @@
 {
-  "generated_at": "2026-04-26T23:48:28.864533+08:00",
-  "total_titles_processed": 1430,
+  "generated_at": "2026-04-27T00:52:12.048928+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 6,
+      "match_count": 2,
       "titles": [
         {
           "title": "T1官宣Keria续约",
           "url": "https://search.bilibili.com/all?keyword=T1%E5%AE%98%E5%AE%A3Keria%E7%BB%AD%E7%BA%A6",
           "source": "bilibili 热搜",
           "ranks": [
-            3,
             4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时51分 ~ 23时48分]"
+          "time_info": "[00时51分 ~ 00时52分]"
         },
         {
-          "title": "锐评T1战胜BRO",
-          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84T1%E6%88%98%E8%83%9CBRO",
+          "title": "T1战胜BFX赛后数据",
+          "url": "https://search.bilibili.com/all?keyword=T1%E6%88%98%E8%83%9CBFX%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE",
           "source": "bilibili 热搜",
           "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时26分"
-        },
-        {
-          "title": "<a href=\"https://www.jin10.com/activities/2026/4/boom/index.html\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/1NOOvnTaPq09WdYKCkqS2.jpg/lite\" height=\"120\"/></a>",
-          "url": "https://flash.jin10.com/detail/20260426210012994800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时16分 ~ 22时51分]"
-        },
-        {
-          "title": "<a href=\"https://www.jin10.com/activities/2026/4/boom/index.html\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/QRXTsyDHqZBueTNe-ZC5X.jpg/lite\" height=\"120\"/></a>",
-          "url": "https://flash.jin10.com/detail/20260426150316089800",
-          "source": "金十数据",
-          "ranks": [
-            10,
             27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时17分 ~ 17时58分]"
-        },
-        {
-          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850514&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/q4Q2a2QjEHCw5Z7dhreuL.jpg/lite\" height=\"120\"/></a>",
-          "url": "https://flash.jin10.com/detail/20260426120715740800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时10分 ~ 16时17分]"
-        },
-        {
-          "title": "Keria续约T1",
-          "url": "https://s.weibo.com/weibo?q=%23Keria%E7%BB%AD%E7%BA%A6T1%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时15分 ~ 21时16分]"
+          "time_info": "[00时51分 ~ 00时52分]"
         }
       ]
     }
