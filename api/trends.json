@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-27T06:44:04.069493+08:00",
-  "total_titles_processed": 452,
+  "generated_at": "2026-04-27T07:44:15.248684+08:00",
+  "total_titles_processed": 520,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             4,
             6,
             24,
-            20
+            20,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时51分 ~ 06时44分]"
+          "appearance_count": 10,
+          "time_info": "[00时51分 ~ 07时44分]"
         },
         {
           "title": "T1战胜BFX赛后数据",
