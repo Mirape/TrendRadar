@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-04-26T07:43:45.611634+08:00",
-  "total_titles_processed": 517,
+  "generated_at": "2026-04-26T11:26:59.336071+08:00",
+  "total_titles_processed": 715,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "iG S赛 英雄联盟 T1",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "锐评T1战胜BRO",
+          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84T1%E6%88%98%E8%83%9CBRO",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时26分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://github.com/Mirape/TrendRadar/img/news.jpg"
 }
