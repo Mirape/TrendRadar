@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-27T00:52:12.048928+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-27T01:43:43.554122+08:00",
+  "total_titles_processed": 343,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://search.bilibili.com/all?keyword=T1%E5%AE%98%E5%AE%A3Keria%E7%BB%AD%E7%BA%A6",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 00时52分]"
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 01时43分]"
         },
         {
           "title": "T1战胜BFX赛后数据",
