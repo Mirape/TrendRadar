@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-27T14:32:23.460559+08:00",
-  "total_titles_processed": 890,
+  "generated_at": "2026-04-27T17:23:42.815202+08:00",
+  "total_titles_processed": 1061,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
         {
           "title": "T1官宣Keria续约",
@@ -33,6 +33,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时51分 ~ 00时52分]"
+        },
+        {
+          "title": "锐评T1战胜BFX",
+          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84T1%E6%88%98%E8%83%9CBFX",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时23分"
+        },
+        {
+          "title": "如何评价 Keria 与 T1 续约至 2029 年？",
+          "url": "https://www.zhihu.com/question/2031994357864253235",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时23分"
+        },
+        {
+          "title": "孙颖莎穿fighting出征",
+          "url": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E7%A9%BFfighting%E5%87%BA%E5%BE%81&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时23分"
         }
       ]
     }
