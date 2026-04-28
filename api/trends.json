@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-29T06:03:28.885936+08:00",
-  "total_titles_processed": 542,
+  "generated_at": "2026-04-29T07:59:00.390481+08:00",
+  "total_titles_processed": 647,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,27 @@
           "url": "https://search.bilibili.com/all?keyword=WBG%E6%88%98%E8%83%9CTES%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时57分 ~ 06时03分]"
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 07时59分]"
+        },
+        {
+          "title": "AL战胜IG赛后数据",
+          "url": "https://search.bilibili.com/all?keyword=AL%E6%88%98%E8%83%9CIG%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            14,
+            17,
+            15,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 07时59分]"
         },
         {
           "title": "AL战胜IG LPL第二赛段",
@@ -31,27 +47,13 @@
           "time_info": "[00时57分 ~ 06时03分]"
         },
         {
-          "title": "AL战胜IG赛后数据",
-          "url": "https://search.bilibili.com/all?keyword=AL%E6%88%98%E8%83%9CIG%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            14,
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时57分 ~ 06时03分]"
-        },
-        {
           "title": "美国能源部长Wright签署协议，从而扩大美国液化天然气（LNG）出口。",
           "url": "https://wallstreetcn.com/livenews/3096032",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
         }
