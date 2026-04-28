@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-29T02:21:53.518543+08:00",
-  "total_titles_processed": 388,
+  "generated_at": "2026-04-29T04:21:13.906815+08:00",
+  "total_titles_processed": 469,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 02时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 04时21分]"
         },
         {
           "title": "AL战胜IG LPL第二赛段",
@@ -27,8 +27,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 02时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 04时21分]"
         },
         {
           "title": "AL战胜IG赛后数据",
@@ -36,11 +36,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             13,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 02时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 04时21分]"
         }
       ]
     }
