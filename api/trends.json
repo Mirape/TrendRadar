@@ -1,75 +1,33 @@
 {
-  "generated_at": "2026-04-29T22:09:00.584520+08:00",
-  "total_titles_processed": 1472,
+  "generated_at": "2026-04-30T00:45:27.781821+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 5,
+      "match_count": 2,
       "titles": [
         {
-          "title": "WBG战胜TES赛后数据",
-          "url": "https://search.bilibili.com/all?keyword=WBG%E6%88%98%E8%83%9CTES%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE",
-          "source": "bilibili 热搜",
+          "title": "尼日利亚计划将6月Bonny Light石油出口装货量提高至29.8万桶/日，那将是2011年5月份以来最高。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3096827",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
-            2,
-            22
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时57分 ~ 17时13分]"
-        },
-        {
-          "title": "AL战胜IG赛后数据",
-          "url": "https://search.bilibili.com/all?keyword=AL%E6%88%98%E8%83%9CIG%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            14,
-            17,
-            15,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 07时59分]"
-        },
-        {
-          "title": "AL战胜IG LPL第二赛段",
-          "url": "https://search.bilibili.com/all?keyword=IG%20AL",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12,
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 11时56分]"
+          "appearance_count": 1,
+          "time_info": "00时45分"
         },
         {
           "title": "英雄联盟2026乱斗之夜",
           "url": "https://www.douyin.com/hot/2483324",
           "source": "抖音",
           "ranks": [
-            22,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时13分 ~ 19时42分]"
-        },
-        {
-          "title": "美国能源部长Wright签署协议，从而扩大美国液化天然气（LNG）出口。",
-          "url": "https://wallstreetcn.com/livenews/3096032",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时03分"
+          "time_info": "00时45分"
         }
       ]
     }
