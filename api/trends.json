@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-29T07:59:00.390481+08:00",
-  "total_titles_processed": 647,
+  "generated_at": "2026-04-29T11:56:27.357077+08:00",
+  "total_titles_processed": 852,
   "failed_sources": [],
   "trends": [
     {
@@ -40,11 +40,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             12,
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时57分 ~ 06时03分]"
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 11时56分]"
         },
         {
           "title": "美国能源部长Wright签署协议，从而扩大美国液化天然气（LNG）出口。",
