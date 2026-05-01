@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-02T02:02:34.723174+08:00",
-  "total_titles_processed": 421,
+  "generated_at": "2026-05-02T04:07:55.650379+08:00",
+  "total_titles_processed": 505,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "HLE战胜T1",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 02时02分]"
+          "appearance_count": 3,
+          "time_info": "[00时05分 ~ 04时07分]"
         },
         {
           "title": "IG战胜WBG LPL第二赛段",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 02时02分]"
+          "appearance_count": 3,
+          "time_info": "[00时05分 ~ 04时07分]"
         },
         {
           "title": "T1不敌HLE,zeka狐狸亲蒙众人",
@@ -38,8 +38,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 02时02分]"
+          "appearance_count": 3,
+          "time_info": "[00时05分 ~ 04时07分]"
         },
         {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850519&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/DgELj9cilBkbHPOSL1Ls7.jpg/lite\" height=\"120\"/></a>",
@@ -59,9 +59,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "AL战胜TES赛后数据",
+          "url": "https://search.bilibili.com/all?keyword=AL%E6%88%98%E8%83%9CTES%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时07分"
         }
       ]
     }
