@@ -1,33 +1,44 @@
 {
-  "generated_at": "2026-05-01T23:02:14.402717+08:00",
-  "total_titles_processed": 1548,
+  "generated_at": "2026-05-02T00:05:30.141316+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 5,
+      "match_count": 4,
       "titles": [
         {
           "title": "HLE战胜T1",
           "url": "https://search.bilibili.com/all?keyword=HLE%E6%88%98%E8%83%9CT1",
           "source": "bilibili 热搜",
           "ranks": [
-            2
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时01分 ~ 23时02分]"
+          "appearance_count": 1,
+          "time_info": "00时05分"
         },
         {
           "title": "IG战胜WBG LPL第二赛段",
           "url": "https://search.bilibili.com/all?keyword=WBG%20IG",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时01分 ~ 23时02分]"
+          "appearance_count": 1,
+          "time_info": "00时05分"
+        },
+        {
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850519&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/DgELj9cilBkbHPOSL1Ls7.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260501233403280800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时05分"
         },
         {
           "title": "T1不敌HLE,zeka狐狸亲蒙众人",
@@ -37,30 +48,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时01分 ~ 23时02分]"
-        },
-        {
-          "title": "WBG vs IG LPL第二赛段",
-          "url": "https://search.bilibili.com/all?keyword=WBG%20IG",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时27分 ~ 21时28分]"
-        },
-        {
-          "title": "HLE对战T1",
-          "url": "https://s.weibo.com/weibo?q=HLE%E5%AF%B9%E6%88%98T1&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时27分 ~ 21时28分]"
+          "appearance_count": 1,
+          "time_info": "00时05分"
         }
       ]
     }
