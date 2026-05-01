@@ -1,12 +1,45 @@
 {
-  "generated_at": "2026-05-01T21:28:06.798197+08:00",
-  "total_titles_processed": 1409,
+  "generated_at": "2026-05-01T23:02:14.402717+08:00",
+  "total_titles_processed": 1548,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "HLE战胜T1",
+          "url": "https://search.bilibili.com/all?keyword=HLE%E6%88%98%E8%83%9CT1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时01分 ~ 23时02分]"
+        },
+        {
+          "title": "IG战胜WBG LPL第二赛段",
+          "url": "https://search.bilibili.com/all?keyword=WBG%20IG",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时01分 ~ 23时02分]"
+        },
+        {
+          "title": "T1不敌HLE,zeka狐狸亲蒙众人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353940&amp;topic_name=T1%E4%B8%8D%E6%95%8CHLE%2Czeka%E7%8B%90%E7%8B%B8%E4%BA%B2%E8%92%99%E4%BC%97%E4%BA%BA",
+          "source": "贴吧",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时01分 ~ 23时02分]"
+        },
         {
           "title": "WBG vs IG LPL第二赛段",
           "url": "https://search.bilibili.com/all?keyword=WBG%20IG",
