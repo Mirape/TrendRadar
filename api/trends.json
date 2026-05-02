@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-03T00:56:11.246251+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-05-03T01:50:42.652518+08:00",
+  "total_titles_processed": 356,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://search.bilibili.com/all?keyword=AL%20IG",
           "source": "bilibili 热搜",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 00时56分]"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 01时50分]"
         },
         {
           "title": "AL豪取五连胜,IG惨遭吊打",
@@ -26,8 +27,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 00时56分]"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 01时50分]"
         },
         {
           "title": "T1不敌HLE,zeka狐狸亲蒙众人",
@@ -37,8 +38,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 00时56分]"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 01时50分]"
         }
       ]
     }
