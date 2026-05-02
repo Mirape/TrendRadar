@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-02T06:55:44.357154+08:00",
-  "total_titles_processed": 576,
+  "generated_at": "2026-05-02T08:37:52.762367+08:00",
+  "total_titles_processed": 655,
   "failed_sources": [],
   "trends": [
     {
@@ -26,22 +26,24 @@
           "ranks": [
             7,
             2,
-            1
+            1,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时05分 ~ 06时55分]"
+          "appearance_count": 6,
+          "time_info": "[00时05分 ~ 08时37分]"
         },
         {
           "title": "T1不敌HLE,zeka狐狸亲蒙众人",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353940&amp;topic_name=T1%E4%B8%8D%E6%95%8CHLE%2Czeka%E7%8B%90%E7%8B%B8%E4%BA%B2%E8%92%99%E4%BC%97%E4%BA%BA",
           "source": "贴吧",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时05分 ~ 06时55分]"
+          "appearance_count": 6,
+          "time_info": "[00时05分 ~ 08时37分]"
         },
         {
           "title": "AL战胜TES赛后数据",
