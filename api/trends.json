@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-03T06:51:01.470973+08:00",
-  "total_titles_processed": 466,
+  "generated_at": "2026-05-03T07:51:56.606381+08:00",
+  "total_titles_processed": 505,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时55分 ~ 06时51分]"
+          "appearance_count": 9,
+          "time_info": "[00时55分 ~ 07时51分]"
         },
         {
           "title": "AL豪取五连胜,IG惨遭吊打",
@@ -28,8 +28,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时55分 ~ 06时51分]"
+          "appearance_count": 9,
+          "time_info": "[00时55分 ~ 07时51分]"
         },
         {
           "title": "T1不敌HLE,zeka狐狸亲蒙众人",
@@ -39,8 +39,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时55分 ~ 06时51分]"
+          "appearance_count": 9,
+          "time_info": "[00时55分 ~ 07时51分]"
         }
       ]
     }
