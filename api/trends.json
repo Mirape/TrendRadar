@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-03T18:09:48.134308+08:00",
-  "total_titles_processed": 978,
+  "generated_at": "2026-05-03T19:48:25.709822+08:00",
+  "total_titles_processed": 1087,
   "failed_sources": [],
   "trends": [
     {
@@ -28,11 +28,12 @@
             8,
             17,
             18,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时55分 ~ 18时09分]"
+          "appearance_count": 15,
+          "time_info": "[00时55分 ~ 19时48分]"
         },
         {
           "title": "T1不敌HLE,zeka狐狸亲蒙众人",
