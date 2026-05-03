@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-03T07:51:56.606381+08:00",
-  "total_titles_processed": 505,
+  "generated_at": "2026-05-03T11:39:25.806268+08:00",
+  "total_titles_processed": 697,
   "failed_sources": [],
   "trends": [
     {
@@ -25,22 +25,24 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353958&amp;topic_name=AL%E8%B1%AA%E5%8F%96%E4%BA%94%E8%BF%9E%E8%83%9C%2CIG%E6%83%A8%E9%81%AD%E5%90%8A%E6%89%93",
           "source": "贴吧",
           "ranks": [
-            8
+            8,
+            17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时55分 ~ 07时51分]"
+          "appearance_count": 10,
+          "time_info": "[00时55分 ~ 11时39分]"
         },
         {
           "title": "T1不敌HLE,zeka狐狸亲蒙众人",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353940&amp;topic_name=T1%E4%B8%8D%E6%95%8CHLE%2Czeka%E7%8B%90%E7%8B%B8%E4%BA%B2%E8%92%99%E4%BC%97%E4%BA%BA",
           "source": "贴吧",
           "ranks": [
-            21
+            21,
+            30
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时55分 ~ 07时51分]"
+          "appearance_count": 10,
+          "time_info": "[00时55分 ~ 11时39分]"
         }
       ]
     }
