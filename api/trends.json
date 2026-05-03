@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-03T16:50:37.713668+08:00",
-  "total_titles_processed": 925,
+  "generated_at": "2026-05-03T18:09:48.134308+08:00",
+  "total_titles_processed": 978,
   "failed_sources": [],
   "trends": [
     {
@@ -31,8 +31,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时55分 ~ 16时50分]"
+          "appearance_count": 14,
+          "time_info": "[00时55分 ~ 18时09分]"
         },
         {
           "title": "T1不敌HLE,zeka狐狸亲蒙众人",
@@ -52,11 +52,12 @@
           "source": "金十数据",
           "ranks": [
             6,
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时30分 ~ 16时50分]"
+          "appearance_count": 3,
+          "time_info": "[14时30分 ~ 18时09分]"
         }
       ]
     }
