@@ -1,68 +1,7 @@
 {
-  "generated_at": "2026-05-03T23:53:40.250875+08:00",
-  "total_titles_processed": 1343,
+  "generated_at": "2026-05-04T00:57:32.461057+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "AL战胜IG LPL第二赛段",
-          "url": "https://search.bilibili.com/all?keyword=AL%20IG",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            3,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时55分 ~ 07时51分]"
-        },
-        {
-          "title": "AL豪取五连胜,IG惨遭吊打",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353958&amp;topic_name=AL%E8%B1%AA%E5%8F%96%E4%BA%94%E8%BF%9E%E8%83%9C%2CIG%E6%83%A8%E9%81%AD%E5%90%8A%E6%89%93",
-          "source": "贴吧",
-          "ranks": [
-            8,
-            17,
-            18,
-            27,
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时55分 ~ 21时20分]"
-        },
-        {
-          "title": "T1不敌HLE,zeka狐狸亲蒙众人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353940&amp;topic_name=T1%E4%B8%8D%E6%95%8CHLE%2Czeka%E7%8B%90%E7%8B%B8%E4%BA%B2%E8%92%99%E4%BC%97%E4%BA%BA",
-          "source": "贴吧",
-          "ranks": [
-            21,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时55分 ~ 14时30分]"
-        },
-        {
-          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850519&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/VtW9z1ztEzuPtatCWeS0x.jpg/lite\" height=\"120\"/></a>",
-          "url": "https://flash.jin10.com/detail/20260503120602300800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            25,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时30分 ~ 18时09分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://github.com/Mirape/TrendRadar/img/news.jpg"
 }
