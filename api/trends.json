@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-07T06:01:42.212879+08:00",
-  "total_titles_processed": 529,
+  "generated_at": "2026-05-07T07:03:03.667578+08:00",
+  "total_titles_processed": 577,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://search.bilibili.com/all?keyword=WE%20IG",
           "source": "bilibili 热搜",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时46分 ~ 06时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 07时03分]"
         },
         {
           "title": "WE战胜IG赛后数据",
