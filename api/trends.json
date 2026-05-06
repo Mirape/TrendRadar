@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-05-06T19:51:59.514793+08:00",
-  "total_titles_processed": 1328,
+  "generated_at": "2026-05-06T22:24:56.847119+08:00",
+  "total_titles_processed": 1483,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "WE战胜IG LPL第二赛段",
+          "url": "https://search.bilibili.com/all?keyword=WE%20IG",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
         {
           "title": "WE vs IG LPL第二赛段",
           "url": "https://search.bilibili.com/all?keyword=WE%20IG",
@@ -40,6 +51,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
+        },
+        {
+          "title": "WE战胜IG赛后数据",
+          "url": "https://search.bilibili.com/all?keyword=WE%E6%88%98%E8%83%9CIG%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         }
       ]
     }
