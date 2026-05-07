@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-07T07:03:03.667578+08:00",
-  "total_titles_processed": 577,
+  "generated_at": "2026-05-07T11:38:16.038947+08:00",
+  "total_titles_processed": 795,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "WE战胜IG LPL第二赛段",
@@ -41,6 +41,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时46分"
+        },
+        {
+          "title": "《暗黑破坏神 4：憎恨之王》IGN8 分，你如何评价此资料片？",
+          "url": "https://www.zhihu.com/question/2031033984403117726",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时38分"
         },
         {
           "title": "OpenAI推出B2B Signals，称是OpenAI Signals的商业扩展版。",
