@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-09T21:26:12.866327+08:00",
-  "total_titles_processed": 1329,
+  "generated_at": "2026-05-09T22:56:43.777038+08:00",
+  "total_titles_processed": 1398,
   "failed_sources": [],
   "trends": [
     {
@@ -23,11 +23,12 @@
           "url": "https://search.bilibili.com/all?keyword=NIP%20IG",
           "source": "bilibili 热搜",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时25分 ~ 21时26分]"
+          "appearance_count": 3,
+          "time_info": "[21时25分 ~ 22时56分]"
         },
         {
           "title": "karrigan首次回应转会细节",
