@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-11T04:54:37.961426+08:00",
-  "total_titles_processed": 496,
+  "generated_at": "2026-05-11T05:53:24.622253+08:00",
+  "total_titles_processed": 518,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             2,
             3,
             16,
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 04时54分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 05时53分]"
         },
         {
           "title": "IGN评测给阿嬷的情书",
@@ -30,8 +31,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时01分 ~ 03时11分]"
+          "appearance_count": 4,
+          "time_info": "[00时01分 ~ 05时53分]"
         }
       ]
     }
