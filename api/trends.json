@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-11T01:07:20.625082+08:00",
-  "total_titles_processed": 378,
+  "generated_at": "2026-05-11T03:11:39.213294+08:00",
+  "total_titles_processed": 447,
   "failed_sources": [],
   "trends": [
     {
@@ -13,22 +13,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            3
+            3,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时07分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 03时11分]"
         },
         {
           "title": "IGN评测给阿嬷的情书",
           "url": "https://search.bilibili.com/all?keyword=IGN%E8%AF%84%E6%B5%8B%E7%BB%99%E9%98%BF%E5%AC%B7%E7%9A%84%E6%83%85%E4%B9%A6",
           "source": "bilibili 热搜",
           "ranks": [
-            29
+            29,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时01分 ~ 00时02分]"
+          "appearance_count": 3,
+          "time_info": "[00时01分 ~ 03时11分]"
         }
       ]
     }
