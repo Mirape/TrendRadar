@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-05-12T04:01:43.452362+08:00",
-  "total_titles_processed": 387,
+  "generated_at": "2026-05-12T05:27:06.409839+08:00",
+  "total_titles_processed": 461,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
       "match_count": 2,
       "titles": [
-        {
-          "title": "英国工党Tribune Group将要求摆脱财政制度，Louise Haigh呼吁首相斯塔默辞职。（泰晤士报）",
-          "url": "https://wallstreetcn.com/livenews/3101831",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时01分"
-        },
         {
           "title": "英雄联盟永恒星灵皮肤宣传片",
           "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E6%B0%B8%E6%81%92%E6%98%9F%E7%81%B5%E7%9A%AE%E8%82%A4%E5%AE%A3%E4%BC%A0%E7%89%87",
@@ -26,8 +15,19 @@
             29
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时01分 ~ 05时27分]"
+        },
+        {
+          "title": "英国工党Tribune Group将要求摆脱财政制度，Louise Haigh呼吁首相斯塔默辞职。（泰晤士报）",
+          "url": "https://wallstreetcn.com/livenews/3101831",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时01分"
+          "time_info": "04时01分"
         }
       ]
     }
