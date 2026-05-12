@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-13T00:24:46.461162+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-05-13T03:00:05.958493+08:00",
+  "total_titles_processed": 411,
   "failed_sources": [],
   "trends": [
     {
@@ -15,30 +15,32 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 03时00分]"
         },
         {
           "title": "wei哥当兵补,blg横扫ig",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354219&amp;topic_name=wei%E5%93%A5%E5%BD%93%E5%85%B5%E8%A1%A5%2Cblg%E6%A8%AA%E6%89%ABig",
           "source": "贴吧",
           "ranks": [
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 03时00分]"
         },
         {
           "title": "T1新人撞脸Faker,LPL破防",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354209&amp;topic_name=T1%E6%96%B0%E4%BA%BA%E6%92%9E%E8%84%B8Faker%2CLPL%E7%A0%B4%E9%98%B2",
           "source": "贴吧",
           "ranks": [
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 03时00分]"
         },
         {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850527&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/05/TpZPvYZMP1EK1cVx4hCcI.jpg/lite\" height=\"120\"/></a>",
