@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-12T12:39:14.560935+08:00",
-  "total_titles_processed": 808,
+  "generated_at": "2026-05-12T15:46:49.360572+08:00",
+  "total_titles_processed": 972,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "英雄联盟永恒星灵皮肤宣传片",
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
+        },
+        {
+          "title": "T1新人撞脸Faker,LPL破防",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354209&amp;topic_name=T1%E6%96%B0%E4%BA%BA%E6%92%9E%E8%84%B8Faker%2CLPL%E7%A0%B4%E9%98%B2",
+          "source": "贴吧",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时46分"
         },
         {
           "title": "IGN评测给阿嬷的情书",
