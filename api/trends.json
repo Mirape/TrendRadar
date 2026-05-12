@@ -1,68 +1,55 @@
 {
-  "generated_at": "2026-05-12T21:07:04.873777+08:00",
-  "total_titles_processed": 1295,
+  "generated_at": "2026-05-13T00:24:46.461162+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 5,
+      "match_count": 4,
       "titles": [
         {
-          "title": "IG vs BLG LPL第二赛段",
+          "title": "BLG战胜IG",
           "url": "https://search.bilibili.com/all?keyword=IG%20BLG",
           "source": "bilibili 热搜",
           "ranks": [
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时06分 ~ 21时07分]"
+          "appearance_count": 1,
+          "time_info": "00时24分"
+        },
+        {
+          "title": "wei哥当兵补,blg横扫ig",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354219&amp;topic_name=wei%E5%93%A5%E5%BD%93%E5%85%B5%E8%A1%A5%2Cblg%E6%A8%AA%E6%89%ABig",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时24分"
         },
         {
           "title": "T1新人撞脸Faker,LPL破防",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354209&amp;topic_name=T1%E6%96%B0%E4%BA%BA%E6%92%9E%E8%84%B8Faker%2CLPL%E7%A0%B4%E9%98%B2",
           "source": "贴吧",
           "ranks": [
-            7,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时46分 ~ 21时07分]"
-        },
-        {
-          "title": "英雄联盟永恒星灵皮肤宣传片",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E6%B0%B8%E6%81%92%E6%98%9F%E7%81%B5%E7%9A%AE%E8%82%A4%E5%AE%A3%E4%BC%A0%E7%89%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时01分 ~ 05时27分]"
-        },
-        {
-          "title": "英国工党Tribune Group将要求摆脱财政制度，Louise Haigh呼吁首相斯塔默辞职。（泰晤士报）",
-          "url": "https://wallstreetcn.com/livenews/3101831",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时01分"
+          "time_info": "00时24分"
         },
         {
-          "title": "IGN评测给阿嬷的情书",
-          "url": "https://search.bilibili.com/all?keyword=IGN%E8%AF%84%E6%B5%8B%E7%BB%99%E9%98%BF%E5%AC%B7%E7%9A%84%E6%83%85%E4%B9%A6",
-          "source": "bilibili 热搜",
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850527&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/05/TpZPvYZMP1EK1cVx4hCcI.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260512233217953800",
+          "source": "金十数据",
           "ranks": [
-            30
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时06分"
+          "time_info": "00时24分"
         }
       ]
     }
