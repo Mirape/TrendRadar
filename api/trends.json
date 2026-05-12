@@ -1,23 +1,35 @@
 {
-  "generated_at": "2026-05-12T18:36:46.408866+08:00",
-  "total_titles_processed": 1137,
+  "generated_at": "2026-05-12T21:07:04.873777+08:00",
+  "total_titles_processed": 1295,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "IG vs BLG LPL第二赛段",
+          "url": "https://search.bilibili.com/all?keyword=IG%20BLG",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时06分 ~ 21时07分]"
+        },
         {
           "title": "T1新人撞脸Faker,LPL破防",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354209&amp;topic_name=T1%E6%96%B0%E4%BA%BA%E6%92%9E%E8%84%B8Faker%2CLPL%E7%A0%B4%E9%98%B2",
           "source": "贴吧",
           "ranks": [
             7,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时46分 ~ 18时36分]"
+          "appearance_count": 4,
+          "time_info": "[15时46分 ~ 21时07分]"
         },
         {
           "title": "英雄联盟永恒星灵皮肤宣传片",
