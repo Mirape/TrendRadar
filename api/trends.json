@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-13T18:48:45.192556+08:00",
-  "total_titles_processed": 1257,
+  "generated_at": "2026-05-13T21:16:29.591240+08:00",
+  "total_titles_processed": 1412,
   "failed_sources": [],
   "trends": [
     {
@@ -28,11 +28,12 @@
             8,
             14,
             20,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时24分 ~ 18时48分]"
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 21时16分]"
         },
         {
           "title": "T1新人撞脸Faker,LPL破防",
@@ -56,11 +57,12 @@
           "ranks": [
             5,
             11,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时58分 ~ 18时48分]"
+          "appearance_count": 4,
+          "time_info": "[12时58分 ~ 21时16分]"
         },
         {
           "title": "贝索斯旗下的“蓝色起源”（Blue Origin）正考虑进行首次外部融资。（英国金融时报）",
