@@ -1,112 +1,33 @@
 {
-  "generated_at": "2026-05-13T21:16:29.591240+08:00",
-  "total_titles_processed": 1412,
+  "generated_at": "2026-05-14T00:45:42.310374+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 8,
+      "match_count": 2,
       "titles": [
         {
-          "title": "BLG战胜IG",
-          "url": "https://search.bilibili.com/all?keyword=IG%20BLG",
-          "source": "bilibili 热搜",
+          "title": "小钰现身ig主场揭幕战",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354229&amp;topic_name=%E5%B0%8F%E9%92%B0%E7%8E%B0%E8%BA%ABig%E4%B8%BB%E5%9C%BA%E6%8F%AD%E5%B9%95%E6%88%98",
+          "source": "贴吧",
           "ranks": [
-            4,
-            2
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 08时04分]"
+          "appearance_count": 1,
+          "time_info": "00时45分"
         },
         {
           "title": "wei哥当兵补,blg横扫ig",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354219&amp;topic_name=wei%E5%93%A5%E5%BD%93%E5%85%B5%E8%A1%A5%2Cblg%E6%A8%AA%E6%89%ABig",
           "source": "贴吧",
           "ranks": [
-            6,
-            8,
-            14,
-            20,
-            27,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时24分 ~ 21时16分]"
-        },
-        {
-          "title": "T1新人撞脸Faker,LPL破防",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354209&amp;topic_name=T1%E6%96%B0%E4%BA%BA%E6%92%9E%E8%84%B8Faker%2CLPL%E7%A0%B4%E9%98%B2",
-          "source": "贴吧",
-          "ranks": [
-            8,
-            10,
-            16,
-            22,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时24分 ~ 18时48分]"
-        },
-        {
-          "title": "小钰现身ig主场揭幕战",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354229&amp;topic_name=%E5%B0%8F%E9%92%B0%E7%8E%B0%E8%BA%ABig%E4%B8%BB%E5%9C%BA%E6%8F%AD%E5%B9%95%E6%88%98",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            11,
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时58分 ~ 21时16分]"
-        },
-        {
-          "title": "贝索斯旗下的“蓝色起源”（Blue Origin）正考虑进行首次外部融资。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3102706",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时58分"
-        },
-        {
-          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850527&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/05/TpZPvYZMP1EK1cVx4hCcI.jpg/lite\" height=\"120\"/></a>",
-          "url": "https://flash.jin10.com/detail/20260512233217953800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时24分"
-        },
-        {
-          "title": "BLG战胜IG赛后数据",
-          "url": "https://search.bilibili.com/all?keyword=BLG%E6%88%98%E8%83%9CIG%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时58分"
-        },
-        {
-          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850527&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/05/j3NUkKt32vCzV1bQLzUpu.jpg/lite\" height=\"120\"/></a>",
-          "url": "https://flash.jin10.com/detail/20260513120011016800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时58分"
+          "time_info": "00时45分"
         }
       ]
     }
