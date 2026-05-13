@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-14T00:45:42.310374+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2026-05-14T03:01:52.197041+08:00",
+  "total_titles_processed": 396,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时45分"
+          "appearance_count": 2,
+          "time_info": "[00时45分 ~ 03时01分]"
         },
         {
           "title": "wei哥当兵补,blg横扫ig",
@@ -26,8 +26,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时45分"
+          "appearance_count": 2,
+          "time_info": "[00时45分 ~ 03时01分]"
         }
       ]
     }
