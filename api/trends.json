@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-13T06:15:39.790090+08:00",
-  "total_titles_processed": 560,
+  "generated_at": "2026-05-13T08:04:24.768930+08:00",
+  "total_titles_processed": 676,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://search.bilibili.com/all?keyword=IG%20BLG",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 06时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 08时04分]"
         },
         {
           "title": "wei哥当兵补,blg横扫ig",
@@ -27,8 +28,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 06时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 08时04分]"
         },
         {
           "title": "T1新人撞脸Faker,LPL破防",
@@ -39,8 +40,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 06时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 08时04分]"
         },
         {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850527&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/05/TpZPvYZMP1EK1cVx4hCcI.jpg/lite\" height=\"120\"/></a>",
