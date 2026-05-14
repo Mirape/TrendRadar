@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-14T18:24:39.646553+08:00",
-  "total_titles_processed": 1162,
+  "generated_at": "2026-05-14T20:28:37.211824+08:00",
+  "total_titles_processed": 1289,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "小钰现身ig主场揭幕战",
@@ -51,6 +51,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时49分"
+        },
+        {
+          "title": "<a href=\"https://tv.jin10.com/#/fangtan\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/05/TZvscNTXc5D1ficeeXFkx.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260514200746097800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
         }
       ]
     }
