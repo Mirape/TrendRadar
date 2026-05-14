@@ -1,70 +1,7 @@
 {
-  "generated_at": "2026-05-14T23:23:27.776668+08:00",
-  "total_titles_processed": 1448,
+  "generated_at": "2026-05-15T02:15:37.273027+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "小钰现身ig主场揭幕战",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354229&amp;topic_name=%E5%B0%8F%E9%92%B0%E7%8E%B0%E8%BA%ABig%E4%B8%BB%E5%9C%BA%E6%8F%AD%E5%B9%95%E6%88%98",
-          "source": "贴吧",
-          "ranks": [
-            20,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时45分 ~ 12时49分]"
-        },
-        {
-          "title": "锐评T1战胜NS",
-          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84T1%E6%88%98%E8%83%9CNS",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时49分"
-        },
-        {
-          "title": "wei哥当兵补,blg横扫ig",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354219&amp;topic_name=wei%E5%93%A5%E5%BD%93%E5%85%B5%E8%A1%A5%2Cblg%E6%A8%AA%E6%89%ABig",
-          "source": "贴吧",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时45分 ~ 08时05分]"
-        },
-        {
-          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850528&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/05/84IikBYm3SkkkLkw8DOdI.jpg/lite\" height=\"120\"/></a>",
-          "url": "https://flash.jin10.com/detail/20260514120935032800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时49分"
-        },
-        {
-          "title": "<a href=\"https://tv.jin10.com/#/fangtan\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/05/TZvscNTXc5D1ficeeXFkx.jpg/lite\" height=\"120\"/></a>",
-          "url": "https://flash.jin10.com/detail/20260514200746097800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时28分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://github.com/Mirape/TrendRadar/img/news.jpg"
 }
