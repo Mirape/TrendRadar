@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17T12:08:53.936995+08:00",
-  "total_titles_processed": 638,
+  "generated_at": "2026-05-17T15:35:12.502573+08:00",
+  "total_titles_processed": 797,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时02分 ~ 12时08分]"
+          "appearance_count": 12,
+          "time_info": "[01时02分 ~ 15时35分]"
         },
         {
           "title": "《英雄联盟》改小兵仇恨引发巨大争议，拳头总监回怼，这样看待这一风波？你觉得这一机制调整怎么样？",
@@ -41,11 +41,12 @@
             12,
             11,
             9,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[03时11分 ~ 12时08分]"
+          "appearance_count": 11,
+          "time_info": "[03时11分 ~ 15时35分]"
         },
         {
           "title": "锐评T1战胜GEN",
@@ -54,7 +55,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
         },
