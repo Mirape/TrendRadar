@@ -1,93 +1,22 @@
 {
-  "generated_at": "2026-05-18T20:37:17.315958+08:00",
-  "total_titles_processed": 1186,
+  "generated_at": "2026-05-19T00:28:31.020932+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 7,
+      "match_count": 1,
       "titles": [
         {
-          "title": "大逆转!T1让一追二赢GEN",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354345&amp;topic_name=%E5%A4%A7%E9%80%86%E8%BD%AC%21T1%E8%AE%A9%E4%B8%80%E8%BF%BD%E4%BA%8C%E8%B5%A2GEN",
-          "source": "贴吧",
-          "ranks": [
-            14,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时06分 ~ 12时26分]"
-        },
-        {
-          "title": "JDG战胜IG",
-          "url": "https://search.bilibili.com/all?keyword=JDG%20IG",
+          "title": "T1能冲击MSI吗",
+          "url": "https://search.bilibili.com/all?keyword=T1%E8%83%BD%E5%86%B2%E5%87%BBMSI%E5%90%97",
           "source": "bilibili 热搜",
           "ranks": [
-            13,
-            10,
-            2,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时06分 ~ 12时26分]"
-        },
-        {
-          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850530&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/05/16o3I08Z4GCS1M1KFcDPI.jpg/lite\" height=\"120\"/></a>",
-          "url": "https://flash.jin10.com/detail/20260518120451685800",
-          "source": "金十数据",
-          "ranks": [
-            4
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时26分"
-        },
-        {
-          "title": "英国5月Rightmove平均房屋要价指数环比 1.2%，前值 0.8%。",
-          "url": "https://wallstreetcn.com/livenews/3104928",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时01分"
-        },
-        {
-          "title": "英国5月Rightmove平均房屋要价指数年率 -0.3%，前值-0.90%。",
-          "url": "https://flash.jin10.com/detail/20260518070301260800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时01分"
-        },
-        {
-          "title": "英国5月Rightmove平均房屋要价指数同比 -0.3%，前值 -0.9%。",
-          "url": "https://wallstreetcn.com/livenews/3104927",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时01分"
-        },
-        {
-          "title": "英国5月Rightmove平均房屋要价指数月率 1.2%，前值0.80%。",
-          "url": "https://flash.jin10.com/detail/20260518070239486800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时01分"
+          "time_info": "00时28分"
         }
       ]
     }
