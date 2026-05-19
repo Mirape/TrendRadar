@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-19T20:43:46.382697+08:00",
-  "total_titles_processed": 1252,
+  "generated_at": "2026-05-20T00:25:25.148012+08:00",
+  "total_titles_processed": 307,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 5,
+      "match_count": 1,
       "titles": [
         {
           "title": "Oner三冠被无视,T1粉不服",
@@ -15,56 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时54分 ~ 20时43分]"
-        },
-        {
-          "title": "T1能冲击MSI吗",
-          "url": "https://search.bilibili.com/all?keyword=T1%E8%83%BD%E5%86%B2%E5%87%BBMSI%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30,
-            23,
-            10,
-            9,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 13时05分]"
-        },
-        {
-          "title": "中信建投：Figure机器人直播分拣 关注垂类应用放量拐点",
-          "url": "https://flash.jin10.com/detail/20260519075522335800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时13分"
-        },
-        {
-          "title": "周一（5月18日），美股信息科技指数收跌2.77%，报374.24点。 成分股Credo科技集团控股收跌9.24%，Nebius集团跌9.13%，Lumentum控股跌8.83%，Ondas Inc.跌8.66%，应用数字公司跌8.04%，Astera Labs跌7.35%，康宁公司跌6.91%，Rigetti计算跌6.89%，希捷科技跌6.87%，D-Wave Quantum跌6.34%，美光科技跌5.95%跌幅第十一大。 Adobe则收涨3.25%表现第九，Salesforce涨3.44%，CrowdStrike涨4.17%，Snowflake涨4.30%，摩托罗拉解决方案（MSI）涨4.32%，埃森哲涨5.17%，MongoDB涨5.72%，FICO涨7.58%，ServiceNOW涨8.87%领跑。",
-          "url": "https://wallstreetcn.com/livenews/3105603",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时06分"
-        },
-        {
-          "title": "伦敦金属交易所（LME）确认：将把铅和锌直接合约（Outright Contract ）在所有交易平台上的单日价格涨跌幅限制，从15%下调至12%，新规将于6月8日起生效。",
-          "url": "https://wallstreetcn.com/livenews/3105536",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时55分"
+          "time_info": "00时25分"
         }
       ]
     }
