@@ -1,58 +1,22 @@
 {
-  "generated_at": "2026-05-20T21:54:08.219453+08:00",
-  "total_titles_processed": 1319,
+  "generated_at": "2026-05-21T00:58:45.101244+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
         {
           "title": "Oner三冠被无视,T1粉不服",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354411&amp;topic_name=Oner%E4%B8%89%E5%86%A0%E8%A2%AB%E6%97%A0%E8%A7%86%2CT1%E7%B2%89%E4%B8%8D%E6%9C%8D",
           "source": "贴吧",
           "ranks": [
-            1,
-            11,
-            14,
             22
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 21时54分]"
-        },
-        {
-          "title": "谷歌高管Shahram Izadi讨论智能眼镜称，“我们来聊聊今年有哪些新品上市”。 他逐一盘点了将于今年秋季出货的Warby Parker和Gentle Monster联名款智能音频眼镜。 “而且没错，它们可以完美适配 Android 和 iOS 两大系统的设备。” 对于如何称呼这类智能眼镜，谷歌和三星似乎已经达成了共识，给出了它们最中意的官方定义：“智能眼镜”（Intelligent Eyewear）。",
-          "url": "https://wallstreetcn.com/livenews/3106212",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时05分"
-        },
-        {
-          "title": "谷歌发布通用购物车Universal Intelligent Shopping Cart，今年夏季将在美国推出。 将出现在搜索与Gemini APP。",
-          "url": "https://wallstreetcn.com/livenews/3106204",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时05分"
-        },
-        {
-          "title": "美国能源部长Wright：我们不会耗尽汽油。",
-          "url": "https://wallstreetcn.com/livenews/3106233",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时24分"
+          "time_info": "00时58分"
         }
       ]
     }
