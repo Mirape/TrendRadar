@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-22T00:18:23.314041+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-05-22T03:01:40.647307+08:00",
+  "total_titles_processed": 413,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://search.bilibili.com/all?keyword=JDG%20AL",
           "source": "bilibili 热搜",
           "ranks": [
-            10
+            10,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 03时01分]"
         },
         {
           "title": "万事达卡在阿联酋启动其初创企业对接与孵化项目“万事达卡Lighthouse 2026”",
