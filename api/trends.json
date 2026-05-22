@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-05-22T20:24:56.273987+08:00",
-  "total_titles_processed": 1228,
+  "generated_at": "2026-05-22T23:51:15.572275+08:00",
+  "total_titles_processed": 1411,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "JDG战胜WBG EWC英雄联盟预选赛",
+          "url": "https://search.bilibili.com/all?keyword=JDG%20WBG",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时50分 ~ 23时51分]"
+        },
         {
           "title": "AL战胜JDG EWC英雄联盟预选赛",
           "url": "https://search.bilibili.com/all?keyword=JDG%20AL",
