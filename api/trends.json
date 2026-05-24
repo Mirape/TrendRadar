@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-24T15:29:08.198349+08:00",
-  "total_titles_processed": 812,
+  "generated_at": "2026-05-24T17:59:44.001863+08:00",
+  "total_titles_processed": 961,
   "failed_sources": [],
   "trends": [
     {
@@ -32,6 +32,18 @@
           "time_info": "[12时01分 ~ 12时02分]"
         },
         {
+          "title": "TT战胜IG赛后数据",
+          "url": "https://search.bilibili.com/all?keyword=TT%E6%88%98%E8%83%9CIG%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时01分 ~ 17时59分]"
+        },
+        {
           "title": "<a href=\"https://www.jin10.com/vip/payment/index.html#/?openIndex=2\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/05/H2j3pFZGtCcR_4D02slCU.jpg/lite\" height=\"120\"/></a>",
           "url": "https://flash.jin10.com/detail/20260524090410998800",
           "source": "金十数据",
@@ -42,17 +54,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时02分 ~ 15时29分]"
-        },
-        {
-          "title": "TT战胜IG赛后数据",
-          "url": "https://search.bilibili.com/all?keyword=TT%E6%88%98%E8%83%9CIG%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时01分 ~ 12时02分]"
         }
       ]
     }
