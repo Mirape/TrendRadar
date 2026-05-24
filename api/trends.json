@@ -1,64 +1,7 @@
 {
-  "generated_at": "2026-05-24T23:08:47.416983+08:00",
-  "total_titles_processed": 1256,
+  "generated_at": "2026-05-25T01:08:25.956428+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "TT战胜IG LPL第二赛段",
-          "url": "https://search.bilibili.com/all?keyword=IG%20TT",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            4,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时04分 ~ 07时04分]"
-        },
-        {
-          "title": "IG道歉",
-          "url": "https://search.bilibili.com/all?keyword=IG%E9%81%93%E6%AD%89",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时01分 ~ 12时02分]"
-        },
-        {
-          "title": "<a href=\"https://www.jin10.com/vip/payment/index.html#/?openIndex=2\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/05/H2j3pFZGtCcR_4D02slCU.jpg/lite\" height=\"120\"/></a>",
-          "url": "https://flash.jin10.com/detail/20260524090410998800",
-          "source": "金十数据",
-          "ranks": [
-            22,
-            14,
-            2,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时02分 ~ 23时08分]"
-        },
-        {
-          "title": "TT战胜IG赛后数据",
-          "url": "https://search.bilibili.com/all?keyword=TT%E6%88%98%E8%83%9CIG%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时01分 ~ 17时59分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://github.com/Mirape/TrendRadar/img/news.jpg"
 }
