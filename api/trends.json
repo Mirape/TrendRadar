@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-05-25T08:11:05.112132+08:00",
-  "total_titles_processed": 563,
+  "generated_at": "2026-05-25T13:24:10.950292+08:00",
+  "total_titles_processed": 781,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "iG S赛 英雄联盟 T1",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "为什么同样是支援型大招，《英雄联盟》慎给队友套大会激起对手更强烈的击杀欲望，而加里奥大招却会劝退对手？",
+          "url": "https://www.zhihu.com/question/15703454623",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时23分 ~ 13时24分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://github.com/Mirape/TrendRadar/img/news.jpg"
 }
