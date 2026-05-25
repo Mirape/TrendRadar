@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-05-25T18:17:42.171663+08:00",
-  "total_titles_processed": 997,
+  "generated_at": "2026-05-25T22:12:21.000853+08:00",
+  "total_titles_processed": 1185,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "<a href=\"https://www.jin10.com/vip/payment/index.html#/?openIndex=2\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/05/dwSohMZ4V20P7ZTtSYfAF.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260525213711881800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
+        },
         {
           "title": "为什么同样是支援型大招，《英雄联盟》慎给队友套大会激起对手更强烈的击杀欲望，而加里奥大招却会劝退对手？",
           "url": "https://www.zhihu.com/question/15703454623",
@@ -18,6 +29,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时23分 ~ 18时17分]"
+        },
+        {
+          "title": "IGN评测黑袍纠察队5",
+          "url": "https://search.bilibili.com/all?keyword=IGN%E8%AF%84%E6%B5%8B%E9%BB%91%E8%A2%8D%E7%BA%A0%E5%AF%9F%E9%98%9F5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
         }
       ]
     }
