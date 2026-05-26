@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-05-26T07:09:30.614488+08:00",
-  "total_titles_processed": 508,
+  "generated_at": "2026-05-26T11:57:58.952439+08:00",
+  "total_titles_processed": 743,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "iG S赛 英雄联盟 T1",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "T1战胜DK赛后数据",
+          "url": "https://search.bilibili.com/all?keyword=T1%E6%88%98%E8%83%9CDK%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://github.com/Mirape/TrendRadar/img/news.jpg"
 }
