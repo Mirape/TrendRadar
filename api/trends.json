@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-05-28T18:11:21.647787+08:00",
-  "total_titles_processed": 1006,
+  "generated_at": "2026-05-28T22:40:22.533362+08:00",
+  "total_titles_processed": 1198,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "T1战胜KT",
+          "url": "https://search.bilibili.com/all?keyword=T1%E6%88%98%E8%83%9CKT",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时40分"
+        },
+        {
+          "title": "T1零封KT,PerfecT超神难救主",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354667&amp;topic_name=T1%E9%9B%B6%E5%B0%81KT%2CPerfecT%E8%B6%85%E7%A5%9E%E9%9A%BE%E6%95%91%E4%B8%BB",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时40分"
+        },
         {
           "title": "英雄联盟开发者报告",
           "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E5%BC%80%E5%8F%91%E8%80%85%E6%8A%A5%E5%91%8A",
@@ -52,6 +74,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
+        },
+        {
+          "title": "UP主实测AIGC检测工具",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8BAIGC%E6%A3%80%E6%B5%8B%E5%B7%A5%E5%85%B7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时40分"
         }
       ]
     }
