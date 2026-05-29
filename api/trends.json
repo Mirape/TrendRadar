@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-05-29T16:44:00.615407+08:00",
-  "total_titles_processed": 914,
+  "generated_at": "2026-05-29T20:18:54.457944+08:00",
+  "total_titles_processed": 1104,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
       "match_count": 6,
       "titles": [
+        {
+          "title": "T1零封KT,PerfecT超神难救主",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354667&amp;topic_name=T1%E9%9B%B6%E5%B0%81KT%2CPerfecT%E8%B6%85%E7%A5%9E%E9%9A%BE%E6%95%91%E4%B8%BB",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            14,
+            20,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时15分 ~ 20时18分]"
+        },
         {
           "title": "T1战胜KT",
           "url": "https://search.bilibili.com/all?keyword=T1%E6%88%98%E8%83%9CKT",
@@ -19,19 +33,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时15分 ~ 07时21分]"
-        },
-        {
-          "title": "T1零封KT,PerfecT超神难救主",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354667&amp;topic_name=T1%E9%9B%B6%E5%B0%81KT%2CPerfecT%E8%B6%85%E7%A5%9E%E9%9A%BE%E6%95%91%E4%B8%BB",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            14,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时15分 ~ 16时44分]"
         },
         {
           "title": "T1经济落后5000翻盘",
