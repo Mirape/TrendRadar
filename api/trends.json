@@ -1,33 +1,35 @@
 {
-  "generated_at": "2026-05-30T00:44:32.954031+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-05-30T03:33:54.116944+08:00",
+  "total_titles_processed": 413,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "英雄联盟CN缺席亚运会",
           "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9FCN%E7%BC%BA%E5%B8%AD%E4%BA%9A%E8%BF%90%E4%BC%9A",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时44分"
+          "appearance_count": 2,
+          "time_info": "[00时44分 ~ 03时33分]"
         },
         {
           "title": "如何看待博主爆料 2026 名古屋亚运会中国电竞代表队将仅参加 2 个项目，其中疑不包含《英雄联盟》？",
           "url": "https://www.zhihu.com/question/2043644166786082651",
           "source": "知乎",
           "ranks": [
-            13
+            13,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时44分"
+          "appearance_count": 2,
+          "time_info": "[00时44分 ~ 03时33分]"
         },
         {
           "title": "T1零封KT,PerfecT超神难救主",
@@ -37,8 +39,19 @@
             28
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时44分 ~ 03时33分]"
+        },
+        {
+          "title": "英雄联盟CN缺席亚运会",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9FCN%E7%BC%BA%E5%B8%AD%E4%BA%9A%E8%BF%90%E4%BC%9A%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时44分"
+          "time_info": "03时33分"
         }
       ]
     }
