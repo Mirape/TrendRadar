@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-30T19:24:39.918997+08:00",
-  "total_titles_processed": 1144,
+  "generated_at": "2026-05-30T21:48:22.325947+08:00",
+  "total_titles_processed": 1292,
   "failed_sources": [],
   "trends": [
     {
@@ -56,6 +56,18 @@
           "time_info": "[00时44分 ~ 07时18分]"
         },
         {
+          "title": "<a href=\"https://www.jin10.com//activities/2026/6/appointment/index.html\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/05/m0Q6CaB6JrGva7YZ5ajGX.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260530171739883800",
+          "source": "金十数据",
+          "ranks": [
+            19,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时24分 ~ 21时48分]"
+        },
+        {
           "title": "英雄联盟CN缺席亚运会",
           "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9FCN%E7%BC%BA%E5%B8%AD%E4%BA%9A%E8%BF%90%E4%BC%9A%23&t=31&band_rank=23&Refer=top",
           "source": "微博",
@@ -66,17 +78,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时33分 ~ 05时54分]"
-        },
-        {
-          "title": "<a href=\"https://www.jin10.com//activities/2026/6/appointment/index.html\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/05/m0Q6CaB6JrGva7YZ5ajGX.jpg/lite\" height=\"120\"/></a>",
-          "url": "https://flash.jin10.com/detail/20260530171739883800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时24分"
         }
       ]
     }
