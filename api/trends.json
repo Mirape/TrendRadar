@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-31T01:13:23.054786+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-05-31T03:23:53.875643+08:00",
+  "total_titles_processed": 373,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://search.bilibili.com/all?keyword=T1%E9%94%81%E5%AE%9A%E5%AD%A3%E5%90%8E%E8%B5%9B%E5%89%8D%E4%BA%8C",
           "source": "bilibili 热搜",
           "ranks": [
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
+          "appearance_count": 2,
+          "time_info": "[01时13分 ~ 03时23分]"
         },
         {
           "title": "<a href=\"https://www.jin10.com//activities/2026/6/appointment/index.html\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/05/m0Q6CaB6JrGva7YZ5ajGX.jpg/lite\" height=\"120\"/></a>",
