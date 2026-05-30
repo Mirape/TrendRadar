@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-31T05:04:02.784842+08:00",
-  "total_titles_processed": 407,
+  "generated_at": "2026-05-31T07:02:42.756634+08:00",
+  "total_titles_processed": 448,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             9,
             6,
-            13
+            13,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时13分 ~ 05时04分]"
+          "appearance_count": 5,
+          "time_info": "[01时13分 ~ 07时02分]"
         },
         {
           "title": "<a href=\"https://www.jin10.com//activities/2026/6/appointment/index.html\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/05/m0Q6CaB6JrGva7YZ5ajGX.jpg/lite\" height=\"120\"/></a>",
