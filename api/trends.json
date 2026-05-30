@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-30T11:49:31.804734+08:00",
-  "total_titles_processed": 725,
+  "generated_at": "2026-05-30T14:50:32.199505+08:00",
+  "total_titles_processed": 859,
   "failed_sources": [],
   "trends": [
     {
@@ -37,11 +37,12 @@
           "url": "https://www.zhihu.com/question/2043644166786082651",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时49分 ~ 14时50分]"
         },
         {
           "title": "T1零封KT,PerfecT超神难救主",
