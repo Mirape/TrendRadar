@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-30T21:48:22.325947+08:00",
-  "total_titles_processed": 1292,
+  "generated_at": "2026-05-30T23:12:54.261800+08:00",
+  "total_titles_processed": 1363,
   "failed_sources": [],
   "trends": [
     {
@@ -33,6 +33,19 @@
           "time_info": "[00时44分 ~ 07时18分]"
         },
         {
+          "title": "<a href=\"https://www.jin10.com//activities/2026/6/appointment/index.html\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/05/m0Q6CaB6JrGva7YZ5ajGX.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260530171739883800",
+          "source": "金十数据",
+          "ranks": [
+            19,
+            11,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时24分 ~ 23时12分]"
+        },
+        {
           "title": "如何看待中国队缺席 2026 亚运会《英雄联盟》项目名单，王者荣耀、和平精英获直通资格？",
           "url": "https://www.zhihu.com/question/2043644166786082651",
           "source": "知乎",
@@ -54,18 +67,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时44分 ~ 07时18分]"
-        },
-        {
-          "title": "<a href=\"https://www.jin10.com//activities/2026/6/appointment/index.html\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/05/m0Q6CaB6JrGva7YZ5ajGX.jpg/lite\" height=\"120\"/></a>",
-          "url": "https://flash.jin10.com/detail/20260530171739883800",
-          "source": "金十数据",
-          "ranks": [
-            19,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时24分 ~ 21时48分]"
         },
         {
           "title": "英雄联盟CN缺席亚运会",
