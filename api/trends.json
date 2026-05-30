@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-30T17:22:42.864726+08:00",
-  "total_titles_processed": 1006,
+  "generated_at": "2026-05-30T19:24:39.918997+08:00",
+  "total_titles_processed": 1144,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "英雄联盟CN缺席亚运会",
@@ -66,6 +66,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时33分 ~ 05时54分]"
+        },
+        {
+          "title": "<a href=\"https://www.jin10.com//activities/2026/6/appointment/index.html\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/05/m0Q6CaB6JrGva7YZ5ajGX.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260530171739883800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         }
       ]
     }
