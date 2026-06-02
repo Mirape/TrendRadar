@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-06-03T05:52:13.142583+08:00",
-  "total_titles_processed": 395,
+  "generated_at": "2026-06-03T07:50:05.855232+08:00",
+  "total_titles_processed": 491,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "iG S赛 英雄联盟 T1",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "澳大利亚5月AIG建筑业表现指数 -9.9，前值-19.3。",
+          "url": "https://flash.jin10.com/detail/20260603070002418800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时50分"
+        },
+        {
+          "title": "澳大利亚5月AIG/PWC制造业表现指数 -22.4，前值-27.9。",
+          "url": "https://flash.jin10.com/detail/20260603070002375800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时50分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://github.com/Mirape/TrendRadar/img/news.jpg"
 }
