@@ -1,47 +1,7 @@
 {
-  "generated_at": "2026-06-03T22:46:09.159924+08:00",
-  "total_titles_processed": 1114,
+  "generated_at": "2026-06-04T02:49:03.580694+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "澳大利亚5月AIG建筑业表现指数 -9.9，前值-19.3。",
-          "url": "https://flash.jin10.com/detail/20260603070002418800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时50分"
-        },
-        {
-          "title": "澳大利亚5月AIG/PWC制造业表现指数 -22.4，前值-27.9。",
-          "url": "https://flash.jin10.com/detail/20260603070002375800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时50分"
-        },
-        {
-          "title": "英雄联盟16.12版本有何改动",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F16.12%E7%89%88%E6%9C%AC%E6%9C%89%E4%BD%95%E6%94%B9%E5%8A%A8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时55分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://github.com/Mirape/TrendRadar/img/news.jpg"
 }
