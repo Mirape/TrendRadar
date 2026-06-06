@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-06T15:49:35.058937+08:00",
-  "total_titles_processed": 898,
+  "generated_at": "2026-06-06T18:09:29.753028+08:00",
+  "total_titles_processed": 1029,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时56分 ~ 15时49分]"
+          "appearance_count": 4,
+          "time_info": "[12时56分 ~ 18时09分]"
         },
         {
           "title": "美国能源部长Wright：美国考虑在加州储备石油。（Politico）",
