@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-06T20:08:35.554314+08:00",
-  "total_titles_processed": 1154,
+  "generated_at": "2026-06-06T22:45:34.082803+08:00",
+  "total_titles_processed": 1283,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "BIG连追16分翻盘NRG",
@@ -42,6 +42,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时18分 ~ 08时12分]"
+        },
+        {
+          "title": "<a href=\"https://www.jin10.com/activities/2026/6/18_first/index.html\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/06/liAETCuryiYo2k-99qVAd.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260606204230073800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
         },
         {
           "title": "周五（6月5日），美股信息科技指数收跌9.01%，报410.70点，本周累计下跌6.06%，6月1-4日持稳于455点附近，5日发布非农就业报告之后低开低走。 成分股哀鸿遍野，迈威尔科技/美满电子收跌16.74%，Rigetti计算跌14.40%，D-Wave Quantum、IonQ、美光科技至少跌13.25%，Ondas、Nebius集团、Iren、泰瑞达至少跌12.03%，BigBear.ai、Astera Labs、闪迪、英特尔、超微电脑、西部数据、安森美半导体至少跌11.05%，高通、AMD、高意公司Coherent、芯源系统MPWR、应用数字公司、康宁公司也至少跌10.18%，苹果跌1.25%表现顺数第五，儒博技术公司ROP涨0.11%，是唯一收涨的成分股。",
