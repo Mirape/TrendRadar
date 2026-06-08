@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-06-08T19:05:19.709743+08:00",
-  "total_titles_processed": 1085,
+  "generated_at": "2026-06-09T00:02:31.685924+08:00",
+  "total_titles_processed": 306,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850545&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/06/Lk5lb_SlH5TkzfY-AB4dV.jpg/lite\" height=\"120\"/></a>",
-          "url": "https://flash.jin10.com/detail/20260607214619409800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://github.com/Mirape/TrendRadar/img/news.jpg"
 }
