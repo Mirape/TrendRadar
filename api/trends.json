@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-09T15:55:05.363976+08:00",
-  "total_titles_processed": 1011,
+  "generated_at": "2026-06-09T19:21:19.706602+08:00",
+  "total_titles_processed": 1205,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3774148",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时55分 ~ 15时55分]"
+          "appearance_count": 4,
+          "time_info": "[11时55分 ~ 19时21分]"
         },
         {
           "title": "Apple Intelligence 的缺席为什么没有影响到 iPhone 在中国大陆的销量？",
