@@ -1,33 +1,57 @@
 {
-  "generated_at": "2026-06-11T00:38:09.423554+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-11T03:37:10.210530+08:00",
+  "total_titles_processed": 414,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "英雄联盟老玩家在做什么工作",
           "url": "https://www.douyin.com/hot/2529992",
           "source": "抖音",
           "ranks": [
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时37分 ~ 00时38分]"
+          "appearance_count": 4,
+          "time_info": "[00时37分 ~ 03时37分]"
         },
         {
           "title": "如何评价《英雄联盟》新英雄「洛克」的技能设定？",
           "url": "https://www.zhihu.com/question/2047913589030248891",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时37分 ~ 00时38分]"
+          "appearance_count": 4,
+          "time_info": "[00时37分 ~ 03时37分]"
+        },
+        {
+          "title": "谷歌(GOOG.O)：Apache Spark托管服务的Lightning Engine现已同时支持无服务器和托管集群两种部署模式。",
+          "url": "https://flash.jin10.com/detail/20260611022100658800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时37分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：面向Apache Spark托管服务的Lightning Engine已正式全面开放。",
+          "url": "https://flash.jin10.com/detail/20260611022037644800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时37分"
         }
       ]
     }
