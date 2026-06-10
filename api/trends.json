@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-10T07:20:05.917962+08:00",
-  "total_titles_processed": 477,
+  "generated_at": "2026-06-10T12:06:03.470858+08:00",
+  "total_titles_processed": 711,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "苹果WWDC 2026：Siri AI姗姗来迟，Apple Intelligence全面升级，OS集体迈入27版，股价盘中转跌",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时10分 ~ 02时11分]"
+        },
+        {
+          "title": "<a href=\"https://dl.jin10.com/VV9QE\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/W2mKxH-_OTSoQgbeguMBN.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260610110703850800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时06分"
         }
       ]
     }
