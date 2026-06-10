@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-10T20:24:52.287917+08:00",
-  "total_titles_processed": 1106,
+  "generated_at": "2026-06-11T00:38:09.423554+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
@@ -8,26 +8,26 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "苹果WWDC 2026：Siri AI姗姗来迟，Apple Intelligence全面升级，OS集体迈入27版，股价盘中转跌",
-          "url": "https://wallstreetcn.com/articles/3774148",
-          "source": "华尔街见闻",
+          "title": "英雄联盟老玩家在做什么工作",
+          "url": "https://www.douyin.com/hot/2529992",
+          "source": "抖音",
           "ranks": [
-            5
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时10分 ~ 02时11分]"
+          "time_info": "[00时37分 ~ 00时38分]"
         },
         {
-          "title": "<a href=\"https://dl.jin10.com/VV9QE\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/W2mKxH-_OTSoQgbeguMBN.jpg/lite\" height=\"120\"/></a>",
-          "url": "https://flash.jin10.com/detail/20260610110703850800",
-          "source": "金十数据",
+          "title": "如何评价《英雄联盟》新英雄「洛克」的技能设定？",
+          "url": "https://www.zhihu.com/question/2047913589030248891",
+          "source": "知乎",
           "ranks": [
-            26
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时06分"
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 00时38分]"
         }
       ]
     }
