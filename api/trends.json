@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-11T03:37:10.210530+08:00",
-  "total_titles_processed": 414,
+  "generated_at": "2026-06-11T06:07:20.350540+08:00",
+  "total_titles_processed": 498,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "抖音",
           "ranks": [
             7,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时37分 ~ 03时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时37分 ~ 06时07分]"
         },
         {
           "title": "如何评价《英雄联盟》新英雄「洛克」的技能设定？",
@@ -38,7 +39,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时37分"
         },
@@ -49,7 +50,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时37分"
         }
