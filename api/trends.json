@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-11T18:43:47.276429+08:00",
-  "total_titles_processed": 1073,
+  "generated_at": "2026-06-11T22:41:40.706113+08:00",
+  "total_titles_processed": 1258,
   "failed_sources": [],
   "trends": [
     {
@@ -35,6 +35,18 @@
           "time_info": "[00时37分 ~ 03时37分]"
         },
         {
+          "title": "BIGBANG20周年世巡正式官宣",
+          "url": "https://www.douyin.com/hot/2530622",
+          "source": "抖音",
+          "ranks": [
+            30,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时53分 ~ 22时41分]"
+        },
+        {
           "title": "谷歌(GOOG.O)：Apache Spark托管服务的Lightning Engine现已同时支持无服务器和托管集群两种部署模式。",
           "url": "https://flash.jin10.com/detail/20260611022100658800",
           "source": "金十数据",
@@ -55,17 +67,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时37分"
-        },
-        {
-          "title": "BIGBANG20周年世巡正式官宣",
-          "url": "https://www.douyin.com/hot/2530622",
-          "source": "抖音",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时53分"
         }
       ]
     }
