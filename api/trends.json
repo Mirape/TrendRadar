@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-06-13T00:23:36.444470+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-06-13T03:09:41.658668+08:00",
+  "total_titles_processed": 422,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
       "match_count": 6,
       "titles": [
-        {
-          "title": "HLE战胜T1晋级MSI",
-          "url": "https://search.bilibili.com/all?keyword=HLE%E6%88%98%E8%83%9CT1%E6%99%8B%E7%BA%A7MSI",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
         {
           "title": "HLE打进MSI,T1要卖票?",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355119&amp;topic_name=HLE%E6%89%93%E8%BF%9BMSI%2CT1%E8%A6%81%E5%8D%96%E7%A5%A8%3F",
@@ -26,8 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 03时09分]"
+        },
+        {
+          "title": "HLE战胜T1晋级MSI",
+          "url": "https://search.bilibili.com/all?keyword=HLE%E6%88%98%E8%83%9CT1%E6%99%8B%E7%BA%A7MSI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 03时09分]"
         },
         {
           "title": "还嘴臭吗?炫神滑跪向IG道歉",
@@ -37,19 +38,32 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 03时09分]"
         },
         {
           "title": "HLE战胜T1晋级MSI",
           "url": "https://www.douyin.com/hot/2532324",
           "source": "抖音",
           "ranks": [
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 03时09分]"
+        },
+        {
+          "title": "英雄联盟老玩家在做什么工作",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E8%80%81%E7%8E%A9%E5%AE%B6%E5%9C%A8%E5%81%9A%E4%BB%80%E4%B9%88%E5%B7%A5%E4%BD%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 03时09分]"
         },
         {
           "title": "雪佛龙CEO Mike Wirth：公司对（波斯湾）石油外流规模的看法并没有美国总统特朗普的能源部长Wright那样乐观。 到7月左右，石油库存水平可能达到令人不安的程度。",
@@ -57,17 +71,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "英雄联盟老玩家在做什么工作",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E8%80%81%E7%8E%A9%E5%AE%B6%E5%9C%A8%E5%81%9A%E4%BB%80%E4%B9%88%E5%B7%A5%E4%BD%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26
           ],
           "is_new": false,
           "appearance_count": 1,
