@@ -1,137 +1,33 @@
 {
-  "generated_at": "2026-06-13T22:08:51.282209+08:00",
-  "total_titles_processed": 1234,
+  "generated_at": "2026-06-14T00:18:08.103007+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 10,
+      "match_count": 2,
       "titles": [
         {
           "title": "HLE打进MSI,T1要卖票?",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355119&amp;topic_name=HLE%E6%89%93%E8%BF%9BMSI%2CT1%E8%A6%81%E5%8D%96%E7%A5%A8%3F",
           "source": "贴吧",
           "ranks": [
-            1,
-            2,
-            8,
-            11
+            12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 22时08分]"
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 00时18分]"
         },
         {
           "title": "还嘴臭吗?炫神滑跪向IG道歉",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355120&amp;topic_name=%E8%BF%98%E5%98%B4%E8%87%AD%E5%90%97%3F%E7%82%AB%E7%A5%9E%E6%BB%91%E8%B7%AA%E5%90%91IG%E9%81%93%E6%AD%89",
           "source": "贴吧",
           "ranks": [
-            3,
-            4,
-            6,
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 22时08分]"
-        },
-        {
-          "title": "HLE战胜T1晋级MSI",
-          "url": "https://search.bilibili.com/all?keyword=HLE%E6%88%98%E8%83%9CT1%E6%99%8B%E7%BA%A7MSI",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            2,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 07时22分]"
-        },
-        {
-          "title": "英雄联盟老玩家在做什么工作",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E8%80%81%E7%8E%A9%E5%AE%B6%E5%9C%A8%E5%81%9A%E4%BB%80%E4%B9%88%E5%B7%A5%E4%BD%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26,
-            23,
-            27,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 07时22分]"
-        },
-        {
-          "title": "HLE战胜T1晋级MSI",
-          "url": "https://www.douyin.com/hot/2532324",
-          "source": "抖音",
-          "ranks": [
-            15,
-            14,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 07时22分]"
-        },
-        {
-          "title": "<a href=\"https://www.jin10.com/activities/2026/6/18_second/index.html\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/06/RBLCiI8Eanqb272061Ns2.jpg/lite\" height=\"120\"/></a>",
-          "url": "https://flash.jin10.com/detail/20260613150024016800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            9
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时24分 ~ 22时08分]"
-        },
-        {
-          "title": "锐评HLE战胜T1",
-          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84HLE%E6%88%98%E8%83%9CT1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时10分 ~ 16时24分]"
-        },
-        {
-          "title": "雪佛龙CEO Mike Wirth：公司对（波斯湾）石油外流规模的看法并没有美国总统特朗普的能源部长Wright那样乐观。 到7月左右，石油库存水平可能达到令人不安的程度。",
-          "url": "https://wallstreetcn.com/livenews/3118976",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "HLE 3-1 T1赛后数据",
-          "url": "https://search.bilibili.com/all?keyword=HLE%203-1%20T1%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时22分"
-        },
-        {
-          "title": "HLE战胜T1赛后复盘",
-          "url": "https://search.bilibili.com/all?keyword=HLE%E6%88%98%E8%83%9CT1%E8%B5%9B%E5%90%8E%E5%A4%8D%E7%9B%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时24分"
+          "time_info": "[00时17分 ~ 00时18分]"
         }
       ]
     }
