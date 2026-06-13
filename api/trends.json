@@ -1,33 +1,46 @@
 {
-  "generated_at": "2026-06-14T00:18:08.103007+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-14T02:12:08.009067+08:00",
+  "total_titles_processed": 370,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "HLE打进MSI,T1要卖票?",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355119&amp;topic_name=HLE%E6%89%93%E8%BF%9BMSI%2CT1%E8%A6%81%E5%8D%96%E7%A5%A8%3F",
           "source": "贴吧",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 00时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 02时12分]"
         },
         {
           "title": "还嘴臭吗?炫神滑跪向IG道歉",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355120&amp;topic_name=%E8%BF%98%E5%98%B4%E8%87%AD%E5%90%97%3F%E7%82%AB%E7%A5%9E%E6%BB%91%E8%B7%AA%E5%90%91IG%E9%81%93%E6%AD%89",
           "source": "贴吧",
           "ranks": [
-            13
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 02时12分]"
+        },
+        {
+          "title": "HLE战胜T1赛后复盘",
+          "url": "https://search.bilibili.com/all?keyword=HLE%E6%88%98%E8%83%9CT1%E8%B5%9B%E5%90%8E%E5%A4%8D%E7%9B%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时17分 ~ 00时18分]"
+          "time_info": "[02时11分 ~ 02时12分]"
         }
       ]
     }
