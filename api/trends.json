@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-14T04:19:48.123553+08:00",
-  "total_titles_processed": 412,
+  "generated_at": "2026-06-14T06:08:30.369134+08:00",
+  "total_titles_processed": 450,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             12,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 04时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 06时08分]"
         },
         {
           "title": "还嘴臭吗?炫神滑跪向IG道歉",
@@ -25,11 +26,12 @@
           "source": "贴吧",
           "ranks": [
             13,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 04时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 06时08分]"
         },
         {
           "title": "HLE战胜T1赛后复盘",
