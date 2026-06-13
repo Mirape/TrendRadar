@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-13T12:10:44.186310+08:00",
-  "total_titles_processed": 753,
+  "generated_at": "2026-06-13T16:24:59.285941+08:00",
+  "total_titles_processed": 925,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "HLE打进MSI,T1要卖票?",
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             1,
-            2
+            2,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 12时10分]"
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 16时24分]"
         },
         {
           "title": "还嘴臭吗?炫神滑跪向IG道歉",
@@ -26,11 +27,12 @@
           "ranks": [
             3,
             4,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 12时10分]"
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 16时24分]"
         },
         {
           "title": "HLE战胜T1晋级MSI",
@@ -77,11 +79,23 @@
           "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84HLE%E6%88%98%E8%83%9CT1",
           "source": "bilibili 热搜",
           "ranks": [
-            12
+            12,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时10分 ~ 16时24分]"
+        },
+        {
+          "title": "<a href=\"https://www.jin10.com/activities/2026/6/18_second/index.html\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/06/RBLCiI8Eanqb272061Ns2.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260613150024016800",
+          "source": "金十数据",
+          "ranks": [
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时10分"
+          "time_info": "16时24分"
         },
         {
           "title": "雪佛龙CEO Mike Wirth：公司对（波斯湾）石油外流规模的看法并没有美国总统特朗普的能源部长Wright那样乐观。 到7月左右，石油库存水平可能达到令人不安的程度。",
@@ -104,6 +118,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "HLE战胜T1赛后复盘",
+          "url": "https://search.bilibili.com/all?keyword=HLE%E6%88%98%E8%83%9CT1%E8%B5%9B%E5%90%8E%E5%A4%8D%E7%9B%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
         }
       ]
     }
