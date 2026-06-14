@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-06-15T00:26:40.269429+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-15T02:17:12.702770+08:00",
+  "total_titles_processed": 396,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "T1碾碎GEN,超威又同意了",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355153&amp;topic_name=T1%E7%A2%BE%E7%A2%8EGEN%2C%E8%B6%85%E5%A8%81%E5%8F%88%E5%90%8C%E6%84%8F%E4%BA%86",
           "source": "贴吧",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 02时17分]"
         },
         {
           "title": "T1战胜GEN晋级MSI",
@@ -26,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 02时17分]"
         },
         {
           "title": "T1连续五年晋级MSI",
@@ -37,19 +38,31 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 02时17分]"
         },
         {
           "title": "还嘴臭吗?炫神滑跪向IG道歉",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355120&amp;topic_name=%E8%BF%98%E5%98%B4%E8%87%AD%E5%90%97%3F%E7%82%AB%E7%A5%9E%E6%BB%91%E8%B7%AA%E5%90%91IG%E9%81%93%E6%AD%89",
           "source": "贴吧",
           "ranks": [
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 02时17分]"
+        },
+        {
+          "title": "BLG战胜TES赛后数据",
+          "url": "https://search.bilibili.com/all?keyword=BLG%E6%88%98%E8%83%9CTES%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 02时17分]"
         }
       ]
     }
