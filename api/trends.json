@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-14T08:12:43.445177+08:00",
-  "total_titles_processed": 511,
+  "generated_at": "2026-06-14T13:54:04.677746+08:00",
+  "total_titles_processed": 717,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "HLE打进MSI,T1要卖票?",
@@ -14,11 +14,12 @@
           "ranks": [
             12,
             13,
-            14
+            14,
+            21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 08时12分]"
+          "appearance_count": 9,
+          "time_info": "[00时17分 ~ 13时54分]"
         },
         {
           "title": "还嘴臭吗?炫神滑跪向IG道歉",
@@ -27,11 +28,12 @@
           "ranks": [
             13,
             14,
-            15
+            15,
+            22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 08时12分]"
+          "appearance_count": 9,
+          "time_info": "[00时17分 ~ 13时54分]"
         },
         {
           "title": "HLE战胜T1赛后复盘",
@@ -43,6 +45,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时11分 ~ 02时12分]"
+        },
+        {
+          "title": "<a href=\"https://www.jin10.com/activities/2026/6/18_second/index.html\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/06/RBLCiI8Eanqb272061Ns2.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260614090833614800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时54分"
         }
       ]
     }
