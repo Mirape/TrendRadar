@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-14T20:02:33.970990+08:00",
-  "total_titles_processed": 997,
+  "generated_at": "2026-06-14T22:24:12.332378+08:00",
+  "total_titles_processed": 1142,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 8,
+      "match_count": 12,
       "titles": [
         {
           "title": "HLE打进MSI,T1要卖票?",
@@ -34,8 +34,30 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时17分 ~ 20时02分]"
+          "appearance_count": 13,
+          "time_info": "[00时17分 ~ 22时24分]"
+        },
+        {
+          "title": "T1战胜GEN晋级MSI",
+          "url": "https://www.douyin.com/hot/2534476",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时23分 ~ 22时24分]"
+        },
+        {
+          "title": "T1碾碎GEN,超威又同意了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355153&amp;topic_name=T1%E7%A2%BE%E7%A2%8EGEN%2C%E8%B6%85%E5%A8%81%E5%8F%88%E5%90%8C%E6%84%8F%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时23分 ~ 22时24分]"
         },
         {
           "title": "Knight获得第二赛段决赛FMVP",
@@ -44,7 +66,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时02分"
         },
@@ -55,7 +77,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时02分"
         },
@@ -64,11 +86,35 @@
           "url": "https://search.bilibili.com/all?keyword=T1%E8%BF%9E%E7%BB%AD%E4%BA%94%E5%B9%B4%E6%99%8B%E7%BA%A7MSI",
           "source": "bilibili 热搜",
           "ranks": [
-            5
+            5,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时02分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时02分 ~ 22时24分]"
+        },
+        {
+          "title": "T1战胜GEN赛后数据",
+          "url": "https://search.bilibili.com/all?keyword=T1%E6%88%98%E8%83%9CGEN%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时23分 ~ 22时24分]"
+        },
+        {
+          "title": "<a href=\"https://www.jin10.com/activities/2026/6/18_second/index.html\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/06/RBLCiI8Eanqb272061Ns2.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260614090833614800",
+          "source": "金十数据",
+          "ranks": [
+            22,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时54分 ~ 22时24分]"
         },
         {
           "title": "HLE战胜T1赛后复盘",
@@ -82,15 +128,15 @@
           "time_info": "[02时11分 ~ 02时12分]"
         },
         {
-          "title": "<a href=\"https://www.jin10.com/activities/2026/6/18_second/index.html\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/06/RBLCiI8Eanqb272061Ns2.jpg/lite\" height=\"120\"/></a>",
-          "url": "https://flash.jin10.com/detail/20260614090833614800",
-          "source": "金十数据",
+          "title": "BLG战胜TES赛后数据",
+          "url": "https://search.bilibili.com/all?keyword=BLG%E6%88%98%E8%83%9CTES%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE",
+          "source": "bilibili 热搜",
           "ranks": [
-            22
+            30
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时54分"
+          "appearance_count": 2,
+          "time_info": "[22时23分 ~ 22时24分]"
         },
         {
           "title": "T1对战GEN",
@@ -99,7 +145,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时02分"
         }
