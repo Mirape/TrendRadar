@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-15T04:22:06.075880+08:00",
-  "total_titles_processed": 460,
+  "generated_at": "2026-06-15T06:17:03.485612+08:00",
+  "total_titles_processed": 523,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "T1碾碎GEN,超威又同意了",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 04时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时26分 ~ 06时17分]"
         },
         {
           "title": "T1战胜GEN晋级MSI",
@@ -25,11 +25,12 @@
           "source": "抖音",
           "ranks": [
             4,
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 04时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时26分 ~ 06时17分]"
         },
         {
           "title": "T1连续五年晋级MSI",
@@ -39,8 +40,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 04时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时26分 ~ 06时17分]"
         },
         {
           "title": "还嘴臭吗?炫神滑跪向IG道歉",
@@ -52,8 +53,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 04时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时26分 ~ 06时17分]"
         },
         {
           "title": "BLG战胜TES赛后数据",
@@ -66,6 +67,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时16分 ~ 04时22分]"
+        },
+        {
+          "title": "LCK 季后赛 T1 3:2 GENG，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/2049576969596097579",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时16分 ~ 06时17分]"
         },
         {
           "title": "T1战胜GEN赛后数据",
