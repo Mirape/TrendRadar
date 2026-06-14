@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-14T17:42:31.979508+08:00",
-  "total_titles_processed": 873,
+  "generated_at": "2026-06-14T20:02:33.970990+08:00",
+  "total_titles_processed": 997,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 4,
+      "match_count": 8,
       "titles": [
         {
           "title": "HLE打进MSI,T1要卖票?",
@@ -19,8 +19,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 17时42分]"
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 20时02分]"
         },
         {
           "title": "还嘴臭吗?炫神滑跪向IG道歉",
@@ -34,8 +34,41 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 17时42分]"
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 20时02分]"
+        },
+        {
+          "title": "Knight获得第二赛段决赛FMVP",
+          "url": "https://search.bilibili.com/all?keyword=Knight%E8%8E%B7%E5%BE%97%E7%AC%AC%E4%BA%8C%E8%B5%9B%E6%AE%B5%E5%86%B3%E8%B5%9BFMVP",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
+        },
+        {
+          "title": "T1晋级MSI",
+          "url": "https://s.weibo.com/weibo?q=T1%E6%99%8B%E7%BA%A7MSI&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
+        },
+        {
+          "title": "T1连续五年晋级MSI",
+          "url": "https://search.bilibili.com/all?keyword=T1%E8%BF%9E%E7%BB%AD%E4%BA%94%E5%B9%B4%E6%99%8B%E7%BA%A7MSI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
         },
         {
           "title": "HLE战胜T1赛后复盘",
@@ -58,6 +91,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
+        },
+        {
+          "title": "T1对战GEN",
+          "url": "https://s.weibo.com/weibo?q=T1%E5%AF%B9%E6%88%98GEN&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
         }
       ]
     }
