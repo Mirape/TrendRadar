@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-16T18:13:07.628496+08:00",
-  "total_titles_processed": 973,
+  "generated_at": "2026-06-16T23:59:26.888866+08:00",
+  "total_titles_processed": 1179,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "已成自由人!IG呼吸哥离队",
@@ -15,11 +15,12 @@
             9,
             10,
             16,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时42分 ~ 18时13分]"
+          "appearance_count": 8,
+          "time_info": "[02时42分 ~ 23时59分]"
         },
         {
           "title": "IG官宣TheShy归队",
@@ -29,11 +30,12 @@
             12,
             13,
             11,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时42分 ~ 18时13分]"
+          "appearance_count": 8,
+          "time_info": "[02时42分 ~ 23时59分]"
         },
         {
           "title": "mvp王!Knight拿下5座奖杯",
@@ -43,11 +45,12 @@
             14,
             15,
             20,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时42分 ~ 18时13分]"
+          "appearance_count": 8,
+          "time_info": "[02时42分 ~ 23时59分]"
         },
         {
           "title": "T1碾碎GEN,超威又同意了",
@@ -57,11 +60,12 @@
             15,
             16,
             21,
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时42分 ~ 18时13分]"
+          "appearance_count": 8,
+          "time_info": "[02时42分 ~ 23时59分]"
         },
         {
           "title": "如何评价TheShy回归IG",
@@ -104,11 +108,12 @@
           "source": "贴吧",
           "ranks": [
             7,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时48分 ~ 18时13分]"
+          "appearance_count": 4,
+          "time_info": "[12时48分 ~ 23时59分]"
         },
         {
           "title": "iG官宣TheShy归队",
@@ -132,6 +137,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时12分 ~ 18时13分]"
+        },
+        {
+          "title": "如何评价《英雄联盟》海克斯大乱斗「轻拍背部」的恶性 BUG？",
+          "url": "https://www.zhihu.com/question/2049861883515986539",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
         },
         {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850551&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/06/63h__toOQoqtcEWSkH2y9.jpg/lite\" height=\"120\"/></a>",
