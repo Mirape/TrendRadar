@@ -1,12 +1,64 @@
 {
-  "generated_at": "2026-06-16T07:49:39.642723+08:00",
-  "total_titles_processed": 520,
+  "generated_at": "2026-06-16T12:48:34.017665+08:00",
+  "total_titles_processed": 753,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "已成自由人!IG呼吸哥离队",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355175&amp;topic_name=%E5%B7%B2%E6%88%90%E8%87%AA%E7%94%B1%E4%BA%BA%21IG%E5%91%BC%E5%90%B8%E5%93%A5%E7%A6%BB%E9%98%9F",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            10,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时42分 ~ 12时48分]"
+        },
+        {
+          "title": "IG官宣TheShy归队",
+          "url": "https://search.bilibili.com/all?keyword=IG%E5%AE%98%E5%AE%A3TheShy%E5%BD%92%E9%98%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时42分 ~ 12时48分]"
+        },
+        {
+          "title": "mvp王!Knight拿下5座奖杯",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355163&amp;topic_name=mvp%E7%8E%8B%21Knight%E6%8B%BF%E4%B8%8B5%E5%BA%A7%E5%A5%96%E6%9D%AF",
+          "source": "贴吧",
+          "ranks": [
+            14,
+            15,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时42分 ~ 12时48分]"
+        },
+        {
+          "title": "T1碾碎GEN,超威又同意了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355153&amp;topic_name=T1%E7%A2%BE%E7%A2%8EGEN%2C%E8%B6%85%E5%A8%81%E5%8F%88%E5%90%8C%E6%84%8F%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            15,
+            16,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时42分 ~ 12时48分]"
+        },
         {
           "title": "委内瑞拉代总统Rodriguez会见美国公司GE Vernova的官员们。",
           "url": "https://wallstreetcn.com/livenews/3119887",
@@ -20,55 +72,6 @@
           "time_info": "[05时47分 ~ 07时49分]"
         },
         {
-          "title": "已成自由人!IG呼吸哥离队",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355175&amp;topic_name=%E5%B7%B2%E6%88%90%E8%87%AA%E7%94%B1%E4%BA%BA%21IG%E5%91%BC%E5%90%B8%E5%93%A5%E7%A6%BB%E9%98%9F",
-          "source": "贴吧",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时42分 ~ 07时49分]"
-        },
-        {
-          "title": "IG官宣TheShy归队",
-          "url": "https://search.bilibili.com/all?keyword=IG%E5%AE%98%E5%AE%A3TheShy%E5%BD%92%E9%98%9F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12,
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时42分 ~ 07时49分]"
-        },
-        {
-          "title": "mvp王!Knight拿下5座奖杯",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355163&amp;topic_name=mvp%E7%8E%8B%21Knight%E6%8B%BF%E4%B8%8B5%E5%BA%A7%E5%A5%96%E6%9D%AF",
-          "source": "贴吧",
-          "ranks": [
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时42分 ~ 07时49分]"
-        },
-        {
-          "title": "T1碾碎GEN,超威又同意了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355153&amp;topic_name=T1%E7%A2%BE%E7%A2%8EGEN%2C%E8%B6%85%E5%A8%81%E5%8F%88%E5%90%8C%E6%84%8F%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时42分 ~ 07时49分]"
-        },
-        {
           "title": "iG官宣TheShy归队",
           "url": "https://www.douyin.com/hot/2535539",
           "source": "抖音",
@@ -79,6 +82,39 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时42分 ~ 05时47分]"
+        },
+        {
+          "title": "老粉狂喜!TheShy重返IG",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355183&amp;topic_name=%E8%80%81%E7%B2%89%E7%8B%82%E5%96%9C%21TheShy%E9%87%8D%E8%BF%94IG",
+          "source": "贴吧",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时48分"
+        },
+        {
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850551&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/06/63h__toOQoqtcEWSkH2y9.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260616120514819800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时48分"
+        },
+        {
+          "title": "继 Uzi 后 Doinb 确认《英雄联盟》怀旧服下月推出，会给游戏带来哪些改变？",
+          "url": "https://www.zhihu.com/question/2045139251206084211",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时48分"
         }
       ]
     }
