@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-17T03:45:44.405279+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-17T06:17:07.022338+08:00",
+  "total_titles_processed": 412,
   "failed_sources": [],
   "trends": [
     {
@@ -12,66 +12,72 @@
           "url": "https://search.bilibili.com/all?keyword=IG%E5%AE%98%E5%AE%A3TheShy%E5%BD%92%E9%98%9F",
           "source": "bilibili 热搜",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时45分"
+          "appearance_count": 3,
+          "time_info": "[03时45分 ~ 06时17分]"
         },
         {
           "title": "如何评价《英雄联盟》海克斯大乱斗「轻拍背部」的恶性 BUG？",
           "url": "https://www.zhihu.com/question/2049861883515986539",
           "source": "知乎",
           "ranks": [
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时45分"
+          "appearance_count": 3,
+          "time_info": "[03时45分 ~ 06时17分]"
         },
         {
           "title": "老粉狂喜!TheShy重返IG",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355183&amp;topic_name=%E8%80%81%E7%B2%89%E7%8B%82%E5%96%9C%21TheShy%E9%87%8D%E8%BF%94IG",
           "source": "贴吧",
           "ranks": [
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时45分"
+          "appearance_count": 3,
+          "time_info": "[03时45分 ~ 06时17分]"
         },
         {
           "title": "如何评价TheShy回归IG",
           "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7TheShy%E5%9B%9E%E5%BD%92IG",
           "source": "bilibili 热搜",
           "ranks": [
-            21
+            21,
+            29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时45分"
+          "appearance_count": 3,
+          "time_info": "[03时45分 ~ 06时17分]"
         },
         {
           "title": "已成自由人!IG呼吸哥离队",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355175&amp;topic_name=%E5%B7%B2%E6%88%90%E8%87%AA%E7%94%B1%E4%BA%BA%21IG%E5%91%BC%E5%90%B8%E5%93%A5%E7%A6%BB%E9%98%9F",
           "source": "贴吧",
           "ranks": [
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时45分"
+          "appearance_count": 3,
+          "time_info": "[03时45分 ~ 06时17分]"
         },
         {
           "title": "mvp王!Knight拿下5座奖杯",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355163&amp;topic_name=mvp%E7%8E%8B%21Knight%E6%8B%BF%E4%B8%8B5%E5%BA%A7%E5%A5%96%E6%9D%AF",
           "source": "贴吧",
           "ranks": [
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时45分"
+          "appearance_count": 3,
+          "time_info": "[03时45分 ~ 06时17分]"
         },
         {
           "title": "T1碾碎GEN,超威又同意了",
