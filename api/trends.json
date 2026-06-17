@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-17T06:17:07.022338+08:00",
-  "total_titles_processed": 412,
+  "generated_at": "2026-06-17T08:21:37.184050+08:00",
+  "total_titles_processed": 543,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "IG官宣TheShy归队",
@@ -16,20 +16,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时45分 ~ 06时17分]"
-        },
-        {
-          "title": "如何评价《英雄联盟》海克斯大乱斗「轻拍背部」的恶性 BUG？",
-          "url": "https://www.zhihu.com/question/2049861883515986539",
-          "source": "知乎",
-          "ranks": [
-            13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时45分 ~ 06时17分]"
+          "appearance_count": 4,
+          "time_info": "[03时45分 ~ 08时21分]"
         },
         {
           "title": "老粉狂喜!TheShy重返IG",
@@ -37,6 +25,42 @@
           "source": "贴吧",
           "ranks": [
             16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时45分 ~ 08时21分]"
+        },
+        {
+          "title": "已成自由人!IG呼吸哥离队",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355175&amp;topic_name=%E5%B7%B2%E6%88%90%E8%87%AA%E7%94%B1%E4%BA%BA%21IG%E5%91%BC%E5%90%B8%E5%93%A5%E7%A6%BB%E9%98%9F",
+          "source": "贴吧",
+          "ranks": [
+            24,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时45分 ~ 08时21分]"
+        },
+        {
+          "title": "mvp王!Knight拿下5座奖杯",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355163&amp;topic_name=mvp%E7%8E%8B%21Knight%E6%8B%BF%E4%B8%8B5%E5%BA%A7%E5%A5%96%E6%9D%AF",
+          "source": "贴吧",
+          "ranks": [
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时45分 ~ 08时21分]"
+        },
+        {
+          "title": "如何评价《英雄联盟》海克斯大乱斗「轻拍背部」的恶性 BUG？",
+          "url": "https://www.zhihu.com/question/2049861883515986539",
+          "source": "知乎",
+          "ranks": [
+            13,
             17
           ],
           "is_new": false,
@@ -56,28 +80,15 @@
           "time_info": "[03时45分 ~ 06时17分]"
         },
         {
-          "title": "已成自由人!IG呼吸哥离队",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355175&amp;topic_name=%E5%B7%B2%E6%88%90%E8%87%AA%E7%94%B1%E4%BA%BA%21IG%E5%91%BC%E5%90%B8%E5%93%A5%E7%A6%BB%E9%98%9F",
-          "source": "贴吧",
+          "title": "曝TheShy回归IG原因",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9B%9DTheShy%E5%9B%9E%E5%BD%92IG%E5%8E%9F%E5%9B%A0",
+          "source": "bilibili 热搜",
           "ranks": [
-            24,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时45分 ~ 06时17分]"
-        },
-        {
-          "title": "mvp王!Knight拿下5座奖杯",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355163&amp;topic_name=mvp%E7%8E%8B%21Knight%E6%8B%BF%E4%B8%8B5%E5%BA%A7%E5%A5%96%E6%9D%AF",
-          "source": "贴吧",
-          "ranks": [
-            28,
             29
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时45分 ~ 06时17分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时21分"
         },
         {
           "title": "T1碾碎GEN,超威又同意了",
