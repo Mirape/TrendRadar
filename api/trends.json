@@ -1,57 +1,22 @@
 {
-  "generated_at": "2026-06-19T20:11:31.308773+08:00",
-  "total_titles_processed": 1097,
+  "generated_at": "2026-06-20T00:09:27.383599+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
         {
           "title": "IG锅盔爆料:Xun被规则劝退",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355275&amp;topic_name=IG%E9%94%85%E7%9B%94%E7%88%86%E6%96%99%3AXun%E8%A2%AB%E8%A7%84%E5%88%99%E5%8A%9D%E9%80%80",
           "source": "贴吧",
           "ranks": [
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时12分 ~ 20时11分]"
-        },
-        {
-          "title": "ENC英雄联盟名单",
-          "url": "https://search.bilibili.com/all?keyword=ENC%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E5%90%8D%E5%8D%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时43分 ~ 09时46分]"
-        },
-        {
-          "title": "<a href=\"https://www.jin10.com/activities/2026/6/18_after/index.html\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/06/9JHL3wYn_KX4cRmwiEZnU.jpg/lite\" height=\"120\"/></a>",
-          "url": "https://flash.jin10.com/detail/20260619090241332800",
-          "source": "金十数据",
-          "ranks": [
-            12
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时46分"
-        },
-        {
-          "title": "美国国务院：对委内瑞拉代总统Rodriguez会见Figuera表示欢迎。",
-          "url": "https://wallstreetcn.com/livenews/3121926",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时46分"
+          "time_info": "00时09分"
         }
       ]
     }
