@@ -1,36 +1,7 @@
 {
-  "generated_at": "2026-06-22T23:56:38.348516+08:00",
-  "total_titles_processed": 1180,
+  "generated_at": "2026-06-23T03:35:03.150699+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "为什么《英雄联盟》中的装备没有裤子？",
-          "url": "https://www.zhihu.com/question/52428489",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时56分"
-        },
-        {
-          "title": "karrigan 最艰难的一届Major",
-          "url": "https://search.bilibili.com/all?keyword=karrigan%20%E6%9C%80%E8%89%B0%E9%9A%BE%E7%9A%84%E4%B8%80%E5%B1%8AMajor",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时51分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://github.com/Mirape/TrendRadar/img/news.jpg"
 }
