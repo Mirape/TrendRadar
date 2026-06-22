@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-06-22T07:19:10.189602+08:00",
-  "total_titles_processed": 498,
+  "generated_at": "2026-06-22T12:51:38.521958+08:00",
+  "total_titles_processed": 759,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "iG S赛 英雄联盟 T1",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "karrigan 最艰难的一届Major",
+          "url": "https://search.bilibili.com/all?keyword=karrigan%20%E6%9C%80%E8%89%B0%E9%9A%BE%E7%9A%84%E4%B8%80%E5%B1%8AMajor",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时51分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://github.com/Mirape/TrendRadar/img/news.jpg"
 }
