@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-24T02:02:19.352112+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-06-24T05:01:59.360332+08:00",
+  "total_titles_processed": 420,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "2025T1冠军皮肤",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时01分 ~ 02时02分]"
+        },
+        {
+          "title": "英雄联盟2025T1冠军皮肤",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F2025T1%E5%86%A0%E5%86%9B%E7%9A%AE%E8%82%A4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
         }
       ]
     }
