@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-25T04:50:37.793014+08:00",
-  "total_titles_processed": 396,
+  "generated_at": "2026-06-25T06:21:40.283369+08:00",
+  "total_titles_processed": 484,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "IGN评测Steam主机",
@@ -16,19 +16,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时54分 ~ 04时50分]"
+          "appearance_count": 3,
+          "time_info": "[02时54分 ~ 06时21分]"
         },
         {
           "title": "农味太冲,T1冠军皮翻车",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355604&amp;topic_name=%E5%86%9C%E5%91%B3%E5%A4%AA%E5%86%B2%2CT1%E5%86%A0%E5%86%9B%E7%9A%AE%E7%BF%BB%E8%BD%A6",
           "source": "贴吧",
           "ranks": [
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时54分 ~ 04时50分]"
+          "appearance_count": 3,
+          "time_info": "[02时54分 ~ 06时21分]"
         },
         {
           "title": "欧洲央行管委Zigman：更加廉价的石油将对通胀产生正面影响。 （欧洲央行的）主要目标是价格稳定性。（克罗地亚电视台）",
@@ -40,6 +41,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时54分"
+        },
+        {
+          "title": "高通(QCOM.O)：汽车业务订单总估值（Design-win Pipeline）已扩展至650亿美元规模。",
+          "url": "https://flash.jin10.com/detail/20260625045233891800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
         }
       ]
     }
