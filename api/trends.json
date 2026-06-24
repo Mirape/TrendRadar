@@ -1,83 +1,44 @@
 {
-  "generated_at": "2026-06-24T21:25:14.270786+08:00",
-  "total_titles_processed": 1255,
+  "generated_at": "2026-06-25T02:54:24.795612+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 6,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "IGN评测Steam主机",
+          "url": "https://search.bilibili.com/all?keyword=IGN%E8%AF%84%E6%B5%8BSteam%E4%B8%BB%E6%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时54分"
+        },
         {
           "title": "农味太冲,T1冠军皮翻车",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355604&amp;topic_name=%E5%86%9C%E5%91%B3%E5%A4%AA%E5%86%B2%2CT1%E5%86%A0%E5%86%9B%E7%9A%AE%E7%BF%BB%E8%BD%A6",
           "source": "贴吧",
           "ranks": [
-            7,
-            10,
-            12,
-            14
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时17分 ~ 21时25分]"
+          "appearance_count": 1,
+          "time_info": "02时54分"
         },
         {
-          "title": "如何评价《英雄联盟》2025 全球总决赛 T1 冠军皮肤？",
-          "url": "https://www.zhihu.com/question/2052878027915269436",
-          "source": "知乎",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时49分 ~ 18时55分]"
-        },
-        {
-          "title": "英雄联盟2025T1冠军皮肤",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F2025T1%E5%86%A0%E5%86%9B%E7%9A%AE%E8%82%A4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时01分 ~ 15时49分]"
-        },
-        {
-          "title": "2025T1冠军皮肤",
-          "url": "https://s.weibo.com/weibo?q=2025T1%E5%86%A0%E5%86%9B%E7%9A%AE%E8%82%A4&t=31&band_rank=20&Refer=top",
-          "source": "微博",
+          "title": "欧洲央行管委Zigman：更加廉价的石油将对通胀产生正面影响。 （欧洲央行的）主要目标是价格稳定性。（克罗地亚电视台）",
+          "url": "https://wallstreetcn.com/livenews/3124173",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时01分 ~ 02时02分]"
-        },
-        {
-          "title": "T1 S15冠军皮肤幕后故事",
-          "url": "https://search.bilibili.com/all?keyword=T1%20S15%E5%86%A0%E5%86%9B%E7%9A%AE%E8%82%A4%E5%B9%95%E5%90%8E%E6%95%85%E4%BA%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时17分 ~ 15时49分]"
-        },
-        {
-          "title": "英雄联盟2025T1冠军皮肤",
-          "url": "https://www.douyin.com/hot/2545603",
-          "source": "抖音",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时49分"
+          "time_info": "02时54分"
         }
       ]
     }
