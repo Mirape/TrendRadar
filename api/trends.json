@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-24T18:55:06.571923+08:00",
-  "total_titles_processed": 1100,
+  "generated_at": "2026-06-24T21:25:14.270786+08:00",
+  "total_titles_processed": 1255,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             7,
             10,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时17分 ~ 18时55分]"
+          "appearance_count": 6,
+          "time_info": "[13时17分 ~ 21时25分]"
         },
         {
           "title": "如何评价《英雄联盟》2025 全球总决赛 T1 冠军皮肤？",
