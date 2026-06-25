@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-26T02:14:06.260430+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-06-26T05:01:39.056108+08:00",
+  "total_titles_processed": 400,
   "failed_sources": [],
   "trends": [
     {
@@ -13,22 +13,24 @@
           "source": "知乎",
           "ranks": [
             15,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时13分 ~ 02时14分]"
+          "appearance_count": 3,
+          "time_info": "[02时13分 ~ 05时01分]"
         },
         {
           "title": "英雄联盟新英雄洛克攻略",
           "url": "https://www.douyin.com/hot/2547083",
           "source": "抖音",
           "ranks": [
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时13分 ~ 02时14分]"
+          "appearance_count": 3,
+          "time_info": "[02时13分 ~ 05时01分]"
         }
       ]
     }
