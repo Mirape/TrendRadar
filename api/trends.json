@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-25T06:21:40.283369+08:00",
-  "total_titles_processed": 484,
+  "generated_at": "2026-06-25T08:17:24.495734+08:00",
+  "total_titles_processed": 623,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             9,
-            1
+            1,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时54分 ~ 06时21分]"
+          "appearance_count": 4,
+          "time_info": "[02时54分 ~ 08时17分]"
         },
         {
           "title": "农味太冲,T1冠军皮翻车",
@@ -28,8 +29,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时54分 ~ 06时21分]"
+          "appearance_count": 4,
+          "time_info": "[02时54分 ~ 08时17分]"
         },
         {
           "title": "欧洲央行管委Zigman：更加廉价的石油将对通胀产生正面影响。 （欧洲央行的）主要目标是价格稳定性。（克罗地亚电视台）",
@@ -49,7 +50,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         }
