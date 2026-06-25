@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-25T17:29:23.607461+08:00",
-  "total_titles_processed": 1061,
+  "generated_at": "2026-06-25T20:25:25.877706+08:00",
+  "total_titles_processed": 1234,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             15,
             17,
             22,
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时54分 ~ 17时29分]"
+          "appearance_count": 7,
+          "time_info": "[02时54分 ~ 20时25分]"
         },
         {
           "title": "IGN评测Steam主机",
