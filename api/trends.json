@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-25T20:25:25.877706+08:00",
-  "total_titles_processed": 1234,
+  "generated_at": "2026-06-25T23:42:05.702564+08:00",
+  "total_titles_processed": 1398,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "农味太冲,T1冠军皮翻车",
@@ -19,8 +19,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时54分 ~ 20时25分]"
+          "appearance_count": 9,
+          "time_info": "[02时54分 ~ 23时42分]"
         },
         {
           "title": "IGN评测Steam主机",
@@ -34,6 +34,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时54分 ~ 08时17分]"
+        },
+        {
+          "title": "《英雄联盟》电竞历史上最经典和最灾难的解说名场面都是哪一场？",
+          "url": "https://www.zhihu.com/question/2052346552312488607",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时41分 ~ 23时42分]"
+        },
+        {
+          "title": "英雄联盟新英雄洛克攻略",
+          "url": "https://www.douyin.com/hot/2547083",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时41分 ~ 23时42分]"
         },
         {
           "title": "欧洲央行管委Zigman：更加廉价的石油将对通胀产生正面影响。 （欧洲央行的）主要目标是价格稳定性。（克罗地亚电视台）",
