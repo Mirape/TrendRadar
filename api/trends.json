@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-27T03:55:20.558982+08:00",
-  "total_titles_processed": 393,
+  "generated_at": "2026-06-27T05:23:28.732556+08:00",
+  "total_titles_processed": 468,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/2053574442261944010",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时53分 ~ 03时55分]"
+          "appearance_count": 3,
+          "time_info": "[01时53分 ~ 05时23分]"
         },
         {
           "title": "ENC的CS赛事有何看点",
