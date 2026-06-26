@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-26T17:34:42.671259+08:00",
-  "total_titles_processed": 1039,
+  "generated_at": "2026-06-26T20:14:46.142520+08:00",
+  "total_titles_processed": 1220,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "《英雄联盟》电竞历史上最经典和最灾难的解说名场面都是哪一场？",
@@ -31,6 +31,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时13分 ~ 05时01分]"
+        },
+        {
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850560&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/06/zowhLxJ1oGWg2qc8N-V44.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260626193725009800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时14分"
         }
       ]
     }
