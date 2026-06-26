@@ -1,69 +1,33 @@
 {
-  "generated_at": "2026-06-26T23:26:12.481434+08:00",
-  "total_titles_processed": 1397,
+  "generated_at": "2026-06-27T01:53:23.103470+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 5,
+      "match_count": 2,
       "titles": [
         {
-          "title": "《英雄联盟》电竞历史上最经典和最灾难的解说名场面都是哪一场？",
-          "url": "https://www.zhihu.com/question/2052346552312488607",
+          "title": "138.8 万元起，国产华为尊界 S800 Grand Design 典藏大观正式发布，你怎么看？",
+          "url": "https://www.zhihu.com/question/2053574442261944010",
           "source": "知乎",
           "ranks": [
-            15,
-            14,
-            12
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时13分 ~ 05时01分]"
-        },
-        {
-          "title": "英雄联盟新英雄洛克攻略",
-          "url": "https://www.douyin.com/hot/2547083",
-          "source": "抖音",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时13分 ~ 05时01分]"
+          "appearance_count": 1,
+          "time_info": "01时53分"
         },
         {
           "title": "ENC的CS赛事有何看点",
           "url": "https://search.bilibili.com/all?keyword=ENC%E7%9A%84CS%E8%B5%9B%E4%BA%8B%E6%9C%89%E4%BD%95%E7%9C%8B%E7%82%B9",
           "source": "bilibili 热搜",
           "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时25分 ~ 23时26分]"
-        },
-        {
-          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850560&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/06/RcIrF_WjCVTjlOaB2A2no.jpg/lite\" height=\"120\"/></a>",
-          "url": "https://flash.jin10.com/detail/20260626230214121800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时26分"
-        },
-        {
-          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850560&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/06/zowhLxJ1oGWg2qc8N-V44.jpg/lite\" height=\"120\"/></a>",
-          "url": "https://flash.jin10.com/detail/20260626193725009800",
-          "source": "金十数据",
-          "ranks": [
-            9
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时14分"
+          "time_info": "01时53分"
         }
       ]
     }
