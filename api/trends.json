@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-28T05:09:44.475569+08:00",
-  "total_titles_processed": 406,
+  "generated_at": "2026-06-28T07:07:24.500923+08:00",
+  "total_titles_processed": 438,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "英雄联盟官宣即将推出怀旧模式",
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时27分 ~ 05时09分]"
+          "appearance_count": 3,
+          "time_info": "[03时27分 ~ 07时07分]"
         },
         {
           "title": "ENC的CS赛事有何看点",
@@ -26,9 +26,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
+        },
+        {
+          "title": "英雄联盟怀旧模式曝光",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E6%80%80%E6%97%A7%E6%A8%A1%E5%BC%8F%E6%9B%9D%E5%85%89",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
         }
       ]
     }
