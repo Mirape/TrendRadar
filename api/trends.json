@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-27T07:11:34.442784+08:00",
-  "total_titles_processed": 527,
+  "generated_at": "2026-06-27T11:50:49.683284+08:00",
+  "total_titles_processed": 735,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "138.8 万元起，国产华为尊界 S800 Grand Design 典藏大观正式发布，你怎么看？",
@@ -14,11 +14,12 @@
           "ranks": [
             9,
             6,
-            5
+            5,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时53分 ~ 07时11分]"
+          "appearance_count": 5,
+          "time_info": "[01时53分 ~ 11时50分]"
         },
         {
           "title": "委内瑞拉代总统Rodriguez：与美国总统特朗普、国务卿卢比奥通电话，对方向地震后的委内瑞拉表示支持（意图）。",
@@ -27,9 +28,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
+        },
+        {
+          "title": "<a href=\"https://www.jin10.com/activities/2026/6/18_last/index.html?ab_page=A\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/06/2-A5RXesKNg5qyDe9nXcI.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260627090325982800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时50分"
         },
         {
           "title": "ENC的CS赛事有何看点",
