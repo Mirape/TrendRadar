@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-28T21:56:36.096953+08:00",
-  "total_titles_processed": 1119,
+  "generated_at": "2026-06-28T23:21:49.831486+08:00",
+  "total_titles_processed": 1191,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "韩援报国,T1喜提MSI首胜",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时24分 ~ 21时56分]"
+          "appearance_count": 5,
+          "time_info": "[16时24分 ~ 23时21分]"
         },
         {
           "title": "T1零封TLAW MSI",
@@ -42,6 +42,17 @@
           "time_info": "12时12分"
         },
         {
+          "title": "星链：星链移动服务正在向拉瓜伊拉地区的委内瑞拉Movistar客户提供免费网络连接服务。正努力尽快为Digitel和Movilnet用户提供免费服务。",
+          "url": "https://flash.jin10.com/detail/20260628225459899800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        },
+        {
           "title": "英雄联盟官宣即将推出怀旧模式",
           "url": "https://www.douyin.com/hot/2549565",
           "source": "抖音",
@@ -54,16 +65,28 @@
           "time_info": "[03时27分 ~ 07时07分]"
         },
         {
+          "title": "锐评T1战胜TL",
+          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84T1%E6%88%98%E8%83%9CTL",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        },
+        {
           "title": "<a href=\"https://www.jin10.com/activities/2026/6/18_last/index.html?ab_page=A\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/06/2-A5RXesKNg5qyDe9nXcI.jpg/lite\" height=\"120\"/></a>",
           "url": "https://flash.jin10.com/detail/20260628091424397800",
           "source": "金十数据",
           "ranks": [
             18,
-            3
+            3,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时12分 ~ 21时56分]"
+          "appearance_count": 3,
+          "time_info": "[12时12分 ~ 23时21分]"
         },
         {
           "title": "郭明錤：iOS 27将进一步深化与Apple Intelligence的系统级整合",
@@ -94,11 +117,12 @@
           "url": "https://flash.jin10.com/detail/20260628210453136800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时56分 ~ 23时21分]"
         },
         {
           "title": "ENC的CS赛事有何看点",
