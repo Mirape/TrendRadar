@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-30T04:04:24.814131+08:00",
-  "total_titles_processed": 404,
+  "generated_at": "2026-06-30T06:12:36.872494+08:00",
+  "total_titles_processed": 472,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 1,
+      "match_count": 4,
       "titles": [
         {
           "title": "韩援报国,T1喜提MSI首胜",
@@ -16,8 +16,41 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时41分 ~ 04时04分]"
+          "appearance_count": 4,
+          "time_info": "[01时41分 ~ 06时12分]"
+        },
+        {
+          "title": "Digital Realty 拟以35亿美元收购黑石在三座数据中心持有的股权",
+          "url": "https://wallstreetcn.com/livenews/3126311",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
+        },
+        {
+          "title": "T1零封KC MSI",
+          "url": "https://search.bilibili.com/all?keyword=T1%20KC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
+        },
+        {
+          "title": "T1 3-0 KC赛后数据",
+          "url": "https://search.bilibili.com/all?keyword=T1%203-0%20KC%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
         }
       ]
     }
