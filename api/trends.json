@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-29T17:51:30.975233+08:00",
-  "total_titles_processed": 936,
+  "generated_at": "2026-06-29T22:08:44.183479+08:00",
+  "total_titles_processed": 1140,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "韩援报国,T1喜提MSI首胜",
@@ -15,11 +15,12 @@
             4,
             5,
             6,
-            11
+            11,
+            16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时17分 ~ 17时51分]"
+          "appearance_count": 8,
+          "time_info": "[01时17分 ~ 22时08分]"
         },
         {
           "title": "T1 vs KC MSI",
@@ -52,9 +53,21 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时51分"
+        },
+        {
+          "title": "T1 3-0 KC赛后数据",
+          "url": "https://search.bilibili.com/all?keyword=T1%203-0%20KC%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时51分 ~ 22时08分]"
         },
         {
           "title": "如何看待《英雄联盟》主播因为上路 AD 推线问题和弹幕争论被告上法庭？",
@@ -63,7 +76,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时51分"
         },
@@ -79,15 +92,15 @@
           "time_info": "01时18分"
         },
         {
-          "title": "T1 3-0 KC赛后数据",
-          "url": "https://search.bilibili.com/all?keyword=T1%203-0%20KC%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE",
+          "title": "锐评T1零封KC",
+          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84T1%E9%9B%B6%E5%B0%81KC",
           "source": "bilibili 热搜",
           "ranks": [
-            25
+            27
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时51分"
+          "time_info": "22时08分"
         }
       ]
     }
