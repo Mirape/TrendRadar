@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-29T12:19:43.453488+08:00",
-  "total_titles_processed": 715,
+  "generated_at": "2026-06-29T17:51:30.975233+08:00",
+  "total_titles_processed": 936,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "韩援报国,T1喜提MSI首胜",
@@ -14,11 +14,12 @@
           "ranks": [
             4,
             5,
-            6
+            6,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时17分 ~ 12时19分]"
+          "appearance_count": 7,
+          "time_info": "[01时17分 ~ 17时51分]"
         },
         {
           "title": "T1 vs KC MSI",
@@ -27,7 +28,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时19分"
         },
@@ -45,6 +46,28 @@
           "time_info": "[01时17分 ~ 05时07分]"
         },
         {
+          "title": "T1零封KC MSI",
+          "url": "https://search.bilibili.com/all?keyword=T1%20KC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时51分"
+        },
+        {
+          "title": "如何看待《英雄联盟》主播因为上路 AD 推线问题和弹幕争论被告上法庭？",
+          "url": "https://www.zhihu.com/question/2054226526502228465",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时51分"
+        },
+        {
           "title": "星链：星链移动服务正在向拉瓜伊拉地区的委内瑞拉Movistar客户提供免费网络连接服务。正努力尽快为Digitel和Movilnet用户提供免费服务。",
           "url": "https://flash.jin10.com/detail/20260628225459899800",
           "source": "金十数据",
@@ -54,6 +77,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
+        },
+        {
+          "title": "T1 3-0 KC赛后数据",
+          "url": "https://search.bilibili.com/all?keyword=T1%203-0%20KC%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时51分"
         }
       ]
     }
