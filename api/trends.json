@@ -1,106 +1,22 @@
 {
-  "generated_at": "2026-06-29T22:08:44.183479+08:00",
-  "total_titles_processed": 1140,
+  "generated_at": "2026-06-30T01:42:05.513953+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 8,
+      "match_count": 1,
       "titles": [
         {
           "title": "韩援报国,T1喜提MSI首胜",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355707&amp;topic_name=%E9%9F%A9%E6%8F%B4%E6%8A%A5%E5%9B%BD%2CT1%E5%96%9C%E6%8F%90MSI%E9%A6%96%E8%83%9C",
           "source": "贴吧",
           "ranks": [
-            4,
-            5,
-            6,
-            11,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时17分 ~ 22时08分]"
-        },
-        {
-          "title": "T1 vs KC MSI",
-          "url": "https://search.bilibili.com/all?keyword=T1%20KC",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时19分"
-        },
-        {
-          "title": "T1 3-0 TLAW数据雷达图",
-          "url": "https://search.bilibili.com/all?keyword=T1%203-0%20TLAW%E6%95%B0%E6%8D%AE%E9%9B%B7%E8%BE%BE%E5%9B%BE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时17分 ~ 05时07分]"
-        },
-        {
-          "title": "T1零封KC MSI",
-          "url": "https://search.bilibili.com/all?keyword=T1%20KC",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时51分"
-        },
-        {
-          "title": "T1 3-0 KC赛后数据",
-          "url": "https://search.bilibili.com/all?keyword=T1%203-0%20KC%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25,
-            14
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时51分 ~ 22时08分]"
-        },
-        {
-          "title": "如何看待《英雄联盟》主播因为上路 AD 推线问题和弹幕争论被告上法庭？",
-          "url": "https://www.zhihu.com/question/2054226526502228465",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时51分"
-        },
-        {
-          "title": "星链：星链移动服务正在向拉瓜伊拉地区的委内瑞拉Movistar客户提供免费网络连接服务。正努力尽快为Digitel和Movilnet用户提供免费服务。",
-          "url": "https://flash.jin10.com/detail/20260628225459899800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时18分"
-        },
-        {
-          "title": "锐评T1零封KC",
-          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84T1%E9%9B%B6%E5%B0%81KC",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时08分"
+          "time_info": "[01时41分 ~ 01时42分]"
         }
       ]
     }
