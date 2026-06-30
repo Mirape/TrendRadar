@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-30T20:13:26.537049+08:00",
-  "total_titles_processed": 1187,
+  "generated_at": "2026-06-30T23:32:50.452958+08:00",
+  "total_titles_processed": 1356,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "韩援报国,T1喜提MSI首胜",
@@ -20,6 +20,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时41分 ~ 13时08分]"
+        },
+        {
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850560&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/06/ZhGcN8MYqS-V4BGX2fa-l.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260630230119281800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "T1 3-0 KC赛后数据",
@@ -45,6 +56,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时12分 ~ 08时09分]"
+        },
+        {
+          "title": "<a href=\"https://qihuo.jin10.com/vip/watch/index.html?group_id=qh_ap_monitor#/intro\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/06/Rt4ZZVYfK4KroBuVQYYVT.png/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260630225733266800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "Digital Realty 拟以35亿美元收购黑石在三座数据中心持有的股权",
