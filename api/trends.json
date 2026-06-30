@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-30T08:09:23.546268+08:00",
-  "total_titles_processed": 589,
+  "generated_at": "2026-06-30T13:08:38.746146+08:00",
+  "total_titles_processed": 819,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "韩援报国,T1喜提MSI首胜",
@@ -14,11 +14,25 @@
           "ranks": [
             20,
             21,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时41分 ~ 08时09分]"
+          "appearance_count": 6,
+          "time_info": "[01时41分 ~ 13时08分]"
+        },
+        {
+          "title": "T1 3-0 KC赛后数据",
+          "url": "https://search.bilibili.com/all?keyword=T1%203-0%20KC%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21,
+            22,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时12分 ~ 13时08分]"
         },
         {
           "title": "T1零封KC MSI",
@@ -27,18 +41,6 @@
           "ranks": [
             12,
             17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时12分 ~ 08时09分]"
-        },
-        {
-          "title": "T1 3-0 KC赛后数据",
-          "url": "https://search.bilibili.com/all?keyword=T1%203-0%20KC%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21,
-            22
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -54,6 +56,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
+        },
+        {
+          "title": "锐评T1战胜KC",
+          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84T1%E6%88%98%E8%83%9CKC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时08分"
         }
       ]
     }
