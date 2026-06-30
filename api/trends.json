@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-30T06:12:36.872494+08:00",
-  "total_titles_processed": 472,
+  "generated_at": "2026-06-30T08:09:23.546268+08:00",
+  "total_titles_processed": 589,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,36 @@
           "source": "贴吧",
           "ranks": [
             20,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时41分 ~ 06时12分]"
+          "appearance_count": 5,
+          "time_info": "[01时41分 ~ 08时09分]"
+        },
+        {
+          "title": "T1零封KC MSI",
+          "url": "https://search.bilibili.com/all?keyword=T1%20KC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时12分 ~ 08时09分]"
+        },
+        {
+          "title": "T1 3-0 KC赛后数据",
+          "url": "https://search.bilibili.com/all?keyword=T1%203-0%20KC%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时12分 ~ 08时09分]"
         },
         {
           "title": "Digital Realty 拟以35亿美元收购黑石在三座数据中心持有的股权",
@@ -26,29 +51,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时12分"
-        },
-        {
-          "title": "T1零封KC MSI",
-          "url": "https://search.bilibili.com/all?keyword=T1%20KC",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时12分"
-        },
-        {
-          "title": "T1 3-0 KC赛后数据",
-          "url": "https://search.bilibili.com/all?keyword=T1%203-0%20KC%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
         }
