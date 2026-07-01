@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-02T04:49:24.904606+08:00",
-  "total_titles_processed": 408,
+  "generated_at": "2026-07-02T06:21:19.699074+08:00",
+  "total_titles_processed": 464,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.douyin.com/hot/2554653",
           "source": "抖音",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时02分 ~ 04时49分]"
+          "appearance_count": 3,
+          "time_info": "[02时02分 ~ 06时21分]"
         },
         {
           "title": "梅开二度,Bin狂言T1很一般",
@@ -27,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时02分 ~ 04时49分]"
+          "appearance_count": 3,
+          "time_info": "[02时02分 ~ 06时21分]"
         },
         {
           "title": "T1 3-0 TLAW数据雷达图",
@@ -36,11 +37,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             9,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时02分 ~ 04时49分]"
+          "appearance_count": 3,
+          "time_info": "[02时02分 ~ 06时21分]"
         }
       ]
     }
