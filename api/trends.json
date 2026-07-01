@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-02T02:02:39.877596+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-07-02T04:49:24.904606+08:00",
+  "total_titles_processed": 408,
   "failed_sources": [],
   "trends": [
     {
@@ -15,30 +15,32 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
+          "appearance_count": 2,
+          "time_info": "[02时02分 ~ 04时49分]"
         },
         {
           "title": "梅开二度,Bin狂言T1很一般",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355808&amp;topic_name=%E6%A2%85%E5%BC%80%E4%BA%8C%E5%BA%A6%2CBin%E7%8B%82%E8%A8%80T1%E5%BE%88%E4%B8%80%E8%88%AC",
           "source": "贴吧",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
+          "appearance_count": 2,
+          "time_info": "[02时02分 ~ 04时49分]"
         },
         {
           "title": "T1 3-0 TLAW数据雷达图",
           "url": "https://search.bilibili.com/all?keyword=T1%203-0%20TLAW%E6%95%B0%E6%8D%AE%E9%9B%B7%E8%BE%BE%E5%9B%BE",
           "source": "bilibili 热搜",
           "ranks": [
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
+          "appearance_count": 2,
+          "time_info": "[02时02分 ~ 04时49分]"
         }
       ]
     }
