@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-03T04:22:47.580815+08:00",
-  "total_titles_processed": 468,
+  "generated_at": "2026-07-03T06:11:50.838483+08:00",
+  "total_titles_processed": 553,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             22,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时53分 ~ 04时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时53分 ~ 06时11分]"
         },
         {
           "title": "谷歌(GOOG.O)：GTIG估计NetNut僵尸网络规模为全球200万设备。",
