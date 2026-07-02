@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-02T08:13:11.083349+08:00",
-  "total_titles_processed": 597,
+  "generated_at": "2026-07-02T13:02:38.544589+08:00",
+  "total_titles_processed": 819,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "梅开二度,Bin狂言T1很一般",
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             3,
-            4
+            4,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时02分 ~ 08时13分]"
+          "appearance_count": 6,
+          "time_info": "[02时02分 ~ 13时02分]"
         },
         {
           "title": "T1战胜TLAW",
@@ -39,11 +40,12 @@
             9,
             12,
             13,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时02分 ~ 08时13分]"
+          "appearance_count": 6,
+          "time_info": "[02时02分 ~ 13时02分]"
         },
         {
           "title": "锐评T1战胜TL",
@@ -55,6 +57,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时12分 ~ 08时13分]"
+        },
+        {
+          "title": "T1零封TLAW MSI",
+          "url": "https://search.bilibili.com/all?keyword=T1%20TLAW",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         }
       ]
     }
