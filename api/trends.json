@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-02T13:02:38.544589+08:00",
-  "total_titles_processed": 819,
+  "generated_at": "2026-07-02T16:21:14.696330+08:00",
+  "total_titles_processed": 1000,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "梅开二度,Bin狂言T1很一般",
@@ -14,11 +14,12 @@
           "ranks": [
             3,
             4,
-            8
+            8,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时02分 ~ 13时02分]"
+          "appearance_count": 8,
+          "time_info": "[02时02分 ~ 16时21分]"
         },
         {
           "title": "T1战胜TLAW",
@@ -48,6 +49,17 @@
           "time_info": "[02时02分 ~ 13时02分]"
         },
         {
+          "title": "BLG对战T1前瞻解读",
+          "url": "https://search.bilibili.com/all?keyword=BLG%E5%AF%B9%E6%88%98T1%E5%89%8D%E7%9E%BB%E8%A7%A3%E8%AF%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时20分 ~ 16时21分]"
+        },
+        {
           "title": "锐评T1战胜TL",
           "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84T1%E6%88%98%E8%83%9CTL",
           "source": "bilibili 热搜",
@@ -65,7 +77,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         }
