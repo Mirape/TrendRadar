@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-02T19:38:01.036953+08:00",
-  "total_titles_processed": 1196,
+  "generated_at": "2026-07-02T22:14:08.039734+08:00",
+  "total_titles_processed": 1347,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             4,
             8,
             16,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时02分 ~ 19时38分]"
+          "appearance_count": 12,
+          "time_info": "[02时02分 ~ 22时14分]"
         },
         {
           "title": "T1战胜TLAW",
