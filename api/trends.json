@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-04T20:10:18.262056+08:00",
-  "total_titles_processed": 1158,
+  "generated_at": "2026-07-04T22:41:31.256573+08:00",
+  "total_titles_processed": 1275,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 13,
+      "match_count": 18,
       "titles": [
         {
           "title": "BLG vs T1 季中冠军赛",
@@ -25,9 +25,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时10分 ~ 22时41分]"
         },
         {
           "title": "外战帝王蟹!BLG手刃T1",
@@ -36,9 +36,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时10分 ~ 22时41分]"
         },
         {
           "title": "BLG对战T1",
@@ -52,15 +52,26 @@
           "time_info": "18时15分"
         },
         {
-          "title": "BLG战胜T1赛后数据",
-          "url": "https://search.bilibili.com/all?keyword=BLG%E6%88%98%E8%83%9CT1%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE",
+          "title": "米勒复盘BLG战胜T1",
+          "url": "https://search.bilibili.com/all?keyword=%E7%B1%B3%E5%8B%92%E5%A4%8D%E7%9B%98BLG%E6%88%98%E8%83%9CT1",
           "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
+        },
+        {
+          "title": "LPL终结BO5对战T1七连败",
+          "url": "https://www.douyin.com/hot/2558685",
+          "source": "抖音",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时10分"
+          "time_info": "22时41分"
         },
         {
           "title": "BLG vs T1极限剧情大预判",
@@ -76,6 +87,42 @@
           "time_info": "[02时16分 ~ 08时09分]"
         },
         {
+          "title": "BLG战胜T1赛后数据",
+          "url": "https://search.bilibili.com/all?keyword=BLG%E6%88%98%E8%83%9CT1%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时10分 ~ 22时41分]"
+        },
+        {
+          "title": "战胜T1的Bin",
+          "url": "https://search.bilibili.com/all?keyword=%E6%88%98%E8%83%9CT1%E7%9A%84Bin",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时10分 ~ 22时41分]"
+        },
+        {
+          "title": "BLG战胜T1",
+          "url": "https://s.weibo.com/weibo?q=BLG%E6%88%98%E8%83%9CT1&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时10分 ~ 22时41分]"
+        },
+        {
           "title": "Knight乌鸦8-0超神",
           "url": "https://search.bilibili.com/all?keyword=Knight%E4%B9%8C%E9%B8%A68-0%E8%B6%85%E7%A5%9E",
           "source": "bilibili 热搜",
@@ -86,6 +133,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时15分 ~ 20时10分]"
+        },
+        {
+          "title": "2026 MSI 淘汰赛 BLG 3:2 击败 T1，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/2056742255814357177",
+          "source": "知乎",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时10分 ~ 22时41分]"
+        },
+        {
+          "title": "BLG3:2战胜T1",
+          "url": "https://www.douyin.com/hot/2558278",
+          "source": "抖音",
+          "ranks": [
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时10分 ~ 22时41分]"
         },
         {
           "title": "BLG对战T1",
@@ -100,48 +171,15 @@
           "time_info": "[18时15分 ~ 20时10分]"
         },
         {
-          "title": "战胜T1的Bin",
-          "url": "https://search.bilibili.com/all?keyword=%E6%88%98%E8%83%9CT1%E7%9A%84Bin",
+          "title": "Knight 说了会赢的",
+          "url": "https://search.bilibili.com/all?keyword=Knight%20%E8%AF%B4%E4%BA%86%E4%BC%9A%E8%B5%A2%E7%9A%84",
           "source": "bilibili 热搜",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时10分"
-        },
-        {
-          "title": "BLG战胜T1",
-          "url": "https://s.weibo.com/weibo?q=BLG%E6%88%98%E8%83%9CT1&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时10分"
-        },
-        {
-          "title": "2026 MSI 淘汰赛 BLG 3:2 击败 T1，如何评价这场比赛？",
-          "url": "https://www.zhihu.com/question/2056742255814357177",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时10分"
-        },
-        {
-          "title": "BLG3:2战胜T1",
-          "url": "https://www.douyin.com/hot/2558278",
-          "source": "抖音",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时10分"
+          "time_info": "22时41分"
         },
         {
           "title": "Knight不死乌鸦一打四",
@@ -150,9 +188,31 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时10分"
+        },
+        {
+          "title": "Knight 一直想再战胜T1",
+          "url": "https://search.bilibili.com/all?keyword=Knight%20%E4%B8%80%E7%9B%B4%E6%83%B3%E5%86%8D%E6%88%98%E8%83%9CT1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
+        },
+        {
+          "title": "真实锐评BLG战胜T1",
+          "url": "https://search.bilibili.com/all?keyword=%E7%9C%9F%E5%AE%9E%E9%94%90%E8%AF%84BLG%E6%88%98%E8%83%9CT1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
         }
       ]
     }
