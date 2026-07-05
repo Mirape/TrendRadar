@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-05T13:02:13.739761+08:00",
-  "total_titles_processed": 743,
+  "generated_at": "2026-07-05T16:10:35.689026+08:00",
+  "total_titles_processed": 895,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             1,
             2,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时07分 ~ 13时02分]"
+          "appearance_count": 10,
+          "time_info": "[00时07分 ~ 16时10分]"
         },
         {
           "title": "米勒复盘BLG战胜T1",
@@ -60,17 +61,6 @@
           "time_info": "[00时07分 ~ 08时06分]"
         },
         {
-          "title": "深度解析BLG战胜T1",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90BLG%E6%88%98%E8%83%9CT1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时01分 ~ 13时02分]"
-        },
-        {
           "title": "LPL终结BO5对战T1七连败",
           "url": "https://www.douyin.com/hot/2558685",
           "source": "抖音",
@@ -89,11 +79,24 @@
           "source": "bilibili 热搜",
           "ranks": [
             2,
-            21
+            21,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时05分 ~ 13时02分]"
+          "appearance_count": 5,
+          "time_info": "[08时05分 ~ 16时10分]"
+        },
+        {
+          "title": "深度解析BLG战胜T1",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90BLG%E6%88%98%E8%83%9CT1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时01分 ~ 16时10分]"
         },
         {
           "title": "BLG3:2战胜T1",
@@ -120,6 +123,31 @@
           "time_info": "[00时07分 ~ 02时05分]"
         },
         {
+          "title": "战胜T1的Bin",
+          "url": "https://search.bilibili.com/all?keyword=%E6%88%98%E8%83%9CT1%E7%9A%84Bin",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14,
+            25,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时07分 ~ 16时10分]"
+        },
+        {
+          "title": "BLG 鏖战五局击败 T1，LPL 终结对 T1 七连败有何意义？",
+          "url": "https://www.zhihu.com/question/2056830111102546642",
+          "source": "知乎",
+          "ranks": [
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时01分 ~ 16时10分]"
+        },
+        {
           "title": "真实锐评BLG战胜T1",
           "url": "https://search.bilibili.com/all?keyword=%E7%9C%9F%E5%AE%9E%E9%94%90%E8%AF%84BLG%E6%88%98%E8%83%9CT1",
           "source": "bilibili 热搜",
@@ -130,29 +158,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时05分 ~ 06时03分]"
-        },
-        {
-          "title": "战胜T1的Bin",
-          "url": "https://search.bilibili.com/all?keyword=%E6%88%98%E8%83%9CT1%E7%9A%84Bin",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时07分 ~ 08时06分]"
-        },
-        {
-          "title": "BLG 鏖战五局击败 T1，LPL 终结对 T1 七连败有何意义？",
-          "url": "https://www.zhihu.com/question/2056830111102546642",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时01分 ~ 13时02分]"
         },
         {
           "title": "BLG战胜T1赛后复盘",
