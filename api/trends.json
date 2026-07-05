@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-05T16:10:35.689026+08:00",
-  "total_titles_processed": 895,
+  "generated_at": "2026-07-05T19:07:35.536737+08:00",
+  "total_titles_processed": 1028,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "外战帝王蟹!BLG手刃T1",
@@ -15,11 +15,12 @@
             1,
             2,
             10,
-            12
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时07分 ~ 16时10分]"
+          "appearance_count": 11,
+          "time_info": "[00时07分 ~ 19时07分]"
         },
         {
           "title": "米勒复盘BLG战胜T1",
@@ -92,11 +93,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             2,
-            10
+            10,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时01分 ~ 16时10分]"
+          "appearance_count": 4,
+          "time_info": "[13时01分 ~ 19时07分]"
         },
         {
           "title": "BLG3:2战胜T1",
@@ -170,6 +172,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时07分 ~ 04时12分]"
+        },
+        {
+          "title": "TSW战胜TES赛后数据",
+          "url": "https://search.bilibili.com/all?keyword=TSW%E6%88%98%E8%83%9CTES%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
         },
         {
           "title": "Knight 一直想再战胜T1",
