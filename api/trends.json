@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-05T08:06:03.398555+08:00",
-  "total_titles_processed": 558,
+  "generated_at": "2026-07-05T13:02:13.739761+08:00",
+  "total_titles_processed": 743,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "外战帝王蟹!BLG手刃T1",
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             1,
-            2
+            2,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时07分 ~ 08时06分]"
+          "appearance_count": 9,
+          "time_info": "[00时07分 ~ 13时02分]"
         },
         {
           "title": "米勒复盘BLG战胜T1",
@@ -59,15 +60,15 @@
           "time_info": "[00时07分 ~ 08时06分]"
         },
         {
-          "title": "UP主锐评BLG战胜T1",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%94%90%E8%AF%84BLG%E6%88%98%E8%83%9CT1",
+          "title": "深度解析BLG战胜T1",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90BLG%E6%88%98%E8%83%9CT1",
           "source": "bilibili 热搜",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时05分 ~ 08时06分]"
+          "time_info": "[13时01分 ~ 13时02分]"
         },
         {
           "title": "LPL终结BO5对战T1七连败",
@@ -81,6 +82,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时07分 ~ 06时03分]"
+        },
+        {
+          "title": "UP主锐评BLG战胜T1",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%94%90%E8%AF%84BLG%E6%88%98%E8%83%9CT1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时05分 ~ 13时02分]"
         },
         {
           "title": "BLG3:2战胜T1",
@@ -129,6 +142,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时07分 ~ 08时06分]"
+        },
+        {
+          "title": "BLG 鏖战五局击败 T1，LPL 终结对 T1 七连败有何意义？",
+          "url": "https://www.zhihu.com/question/2056830111102546642",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时02分]"
         },
         {
           "title": "BLG战胜T1赛后复盘",
