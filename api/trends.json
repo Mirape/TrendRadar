@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-06T01:17:39.249070+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-07-06T03:24:18.486216+08:00",
+  "total_titles_processed": 364,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://search.bilibili.com/all?keyword=BLG%E6%88%98%E8%83%9CT1%E8%B5%9B%E4%BA%8B%E8%AF%AD%E9%9F%B3",
           "source": "bilibili 热搜",
           "ranks": [
-            14
+            14,
+            27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时17分"
+          "appearance_count": 2,
+          "time_info": "[01时17分 ~ 03时24分]"
         },
         {
           "title": "外战帝王蟹!BLG手刃T1",
@@ -26,30 +27,32 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时17分"
+          "appearance_count": 2,
+          "time_info": "[01时17分 ~ 03时24分]"
         },
         {
           "title": "深度解析BLG战胜T1",
           "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90BLG%E6%88%98%E8%83%9CT1",
           "source": "bilibili 热搜",
           "ranks": [
-            25
+            25,
+            23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时17分"
+          "appearance_count": 2,
+          "time_info": "[01时17分 ~ 03时24分]"
         },
         {
           "title": "战胜T1的Bin",
           "url": "https://search.bilibili.com/all?keyword=%E6%88%98%E8%83%9CT1%E7%9A%84Bin",
           "source": "bilibili 热搜",
           "ranks": [
-            29
+            29,
+            24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时17分"
+          "appearance_count": 2,
+          "time_info": "[01时17分 ~ 03时24分]"
         }
       ]
     }
