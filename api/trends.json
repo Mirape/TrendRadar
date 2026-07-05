@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-06T03:24:18.486216+08:00",
-  "total_titles_processed": 364,
+  "generated_at": "2026-07-06T05:07:11.605133+08:00",
+  "total_titles_processed": 409,
   "failed_sources": [],
   "trends": [
     {
@@ -8,23 +8,23 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "外战帝王蟹!BLG手刃T1",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355895&amp;topic_name=%E5%A4%96%E6%88%98%E5%B8%9D%E7%8E%8B%E8%9F%B9%21BLG%E6%89%8B%E5%88%83T1",
+          "source": "贴吧",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时17分 ~ 05时07分]"
+        },
+        {
           "title": "BLG战胜T1赛事语音",
           "url": "https://search.bilibili.com/all?keyword=BLG%E6%88%98%E8%83%9CT1%E8%B5%9B%E4%BA%8B%E8%AF%AD%E9%9F%B3",
           "source": "bilibili 热搜",
           "ranks": [
             14,
             27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时17分 ~ 03时24分]"
-        },
-        {
-          "title": "外战帝王蟹!BLG手刃T1",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355895&amp;topic_name=%E5%A4%96%E6%88%98%E5%B8%9D%E7%8E%8B%E8%9F%B9%21BLG%E6%89%8B%E5%88%83T1",
-          "source": "贴吧",
-          "ranks": [
-            22
           ],
           "is_new": false,
           "appearance_count": 2,
