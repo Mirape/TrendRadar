@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-05T19:07:35.536737+08:00",
-  "total_titles_processed": 1028,
+  "generated_at": "2026-07-05T21:49:17.816325+08:00",
+  "total_titles_processed": 1158,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "外战帝王蟹!BLG手刃T1",
@@ -16,11 +16,12 @@
             2,
             10,
             12,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时07分 ~ 19时07分]"
+          "appearance_count": 12,
+          "time_info": "[00时07分 ~ 21时49分]"
         },
         {
           "title": "米勒复盘BLG战胜T1",
@@ -99,6 +100,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时01分 ~ 19时07分]"
+        },
+        {
+          "title": "BLG战胜T1赛事语音",
+          "url": "https://search.bilibili.com/all?keyword=BLG%E6%88%98%E8%83%9CT1%E8%B5%9B%E4%BA%8B%E8%AF%AD%E9%9F%B3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
         },
         {
           "title": "BLG3:2战胜T1",
@@ -180,9 +192,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时07分"
+        },
+        {
+          "title": "深度复盘BLG战胜T1",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E5%A4%8D%E7%9B%98BLG%E6%88%98%E8%83%9CT1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
         },
         {
           "title": "Knight 一直想再战胜T1",
