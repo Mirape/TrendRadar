@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-09T02:22:31.279470+08:00",
-  "total_titles_processed": 389,
+  "generated_at": "2026-07-09T04:25:03.654167+08:00",
+  "total_titles_processed": 465,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 02时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 04时25分]"
         },
         {
           "title": "当串子?IG众人暗示TES被警告",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 02时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 04时25分]"
         },
         {
           "title": "深度复盘G2战胜T1",
@@ -38,8 +38,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 02时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 04时25分]"
         },
         {
           "title": "真实锐评G2战胜T1",
@@ -50,19 +50,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 02时22分]"
-        },
-        {
-          "title": "G2战胜T1 季中冠军赛",
-          "url": "https://search.bilibili.com/all?keyword=G2%20T1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 02时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 04时25分]"
         },
         {
           "title": "2026 MSI 淘汰赛 T1 1:3 不敌 G2 遭淘汰创队史最差战绩，如何评价这场比赛？",
@@ -72,8 +61,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 02时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 04时25分]"
         },
         {
           "title": "锐评G2战胜T1",
@@ -84,8 +73,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 02时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 04时25分]"
         },
         {
           "title": "G2 3-1 T1 赛后数据雷达图",
@@ -93,11 +82,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             17,
-            21
+            21,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 02时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 04时25分]"
         },
         {
           "title": "G2 3:1战胜T1",
@@ -106,6 +96,17 @@
           "ranks": [
             18,
             21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 04时25分]"
+        },
+        {
+          "title": "G2战胜T1 季中冠军赛",
+          "url": "https://search.bilibili.com/all?keyword=G2%20T1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
           ],
           "is_new": false,
           "appearance_count": 3,
