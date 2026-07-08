@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-08T08:02:16.499368+08:00",
-  "total_titles_processed": 635,
+  "generated_at": "2026-07-08T11:38:12.550595+08:00",
+  "total_titles_processed": 836,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "T1主场日特邀马戏团整活",
@@ -14,11 +14,23 @@
           "ranks": [
             12,
             13,
-            14
+            14,
+            22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时20分 ~ 08时02分]"
+          "appearance_count": 8,
+          "time_info": "[01时20分 ~ 11时38分]"
+        },
+        {
+          "title": "T1战队大田MSI Vlog",
+          "url": "https://search.bilibili.com/all?keyword=T1%E6%88%98%E9%98%9F%E5%A4%A7%E7%94%B0MSI%20Vlog",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时37分 ~ 11时38分]"
         }
       ]
     }
