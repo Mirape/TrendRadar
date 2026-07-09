@@ -1,33 +1,71 @@
 {
-  "generated_at": "2026-07-10T00:02:47.522554+08:00",
-  "total_titles_processed": 305,
+  "generated_at": "2026-07-10T02:52:37.188985+08:00",
+  "total_titles_processed": 409,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "T1惨败,韩网让Faker趁早退役",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356023&amp;topic_name=T1%E6%83%A8%E8%B4%A5%2C%E9%9F%A9%E7%BD%91%E8%AE%A9Faker%E8%B6%81%E6%97%A9%E9%80%80%E5%BD%B9",
           "source": "贴吧",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 02时52分]"
         },
         {
           "title": "Doran哽咽落泪愧对T1粉丝",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356036&amp;topic_name=Doran%E5%93%BD%E5%92%BD%E8%90%BD%E6%B3%AA%E6%84%A7%E5%AF%B9T1%E7%B2%89%E4%B8%9D",
           "source": "贴吧",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 02时52分]"
+        },
+        {
+          "title": "再见T1小弟,G2克烈杀疯全场",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356009&amp;topic_name=%E5%86%8D%E8%A7%81T1%E5%B0%8F%E5%BC%9F%2CG2%E5%85%8B%E7%83%88%E6%9D%80%E7%96%AF%E5%85%A8%E5%9C%BA",
+          "source": "贴吧",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 02时52分]"
+        },
+        {
+          "title": "当串子?IG众人暗示TES被警告",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356012&amp;topic_name=%E5%BD%93%E4%B8%B2%E5%AD%90%3FIG%E4%BC%97%E4%BA%BA%E6%9A%97%E7%A4%BATES%E8%A2%AB%E8%AD%A6%E5%91%8A",
+          "source": "贴吧",
+          "ranks": [
+            21,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 02时52分]"
+        },
+        {
+          "title": "Zhuo赛后采访Knight",
+          "url": "https://search.bilibili.com/all?keyword=Zhuo%E8%B5%9B%E5%90%8E%E9%87%87%E8%AE%BFKnight",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 02时52分]"
         },
         {
           "title": "国际货币基金组织（IMF）：总裁Georgieva本周与委内瑞拉Delcy Rodriguez对话。",
@@ -52,37 +90,15 @@
           "time_info": "00时02分"
         },
         {
-          "title": "再见T1小弟,G2克烈杀疯全场",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356009&amp;topic_name=%E5%86%8D%E8%A7%81T1%E5%B0%8F%E5%BC%9F%2CG2%E5%85%8B%E7%83%88%E6%9D%80%E7%96%AF%E5%85%A8%E5%9C%BA",
-          "source": "贴吧",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
-          "title": "当串子?IG众人暗示TES被警告",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356012&amp;topic_name=%E5%BD%93%E4%B8%B2%E5%AD%90%3FIG%E4%BC%97%E4%BA%BA%E6%9A%97%E7%A4%BATES%E8%A2%AB%E8%AD%A6%E5%91%8A",
-          "source": "贴吧",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
-          "title": "Zhuo赛后采访Knight",
-          "url": "https://search.bilibili.com/all?keyword=Zhuo%E8%B5%9B%E5%90%8E%E9%87%87%E8%AE%BFKnight",
+          "title": "G2 3-1 T1 赛后数据雷达图",
+          "url": "https://search.bilibili.com/all?keyword=G2%203-1%20T1%20%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE%E9%9B%B7%E8%BE%BE%E5%9B%BE",
           "source": "bilibili 热搜",
           "ranks": [
-            23
+            25
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时02分"
+          "time_info": "02时52分"
         }
       ]
     }
