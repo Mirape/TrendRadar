@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-09T06:11:43.188534+08:00",
-  "total_titles_processed": 539,
+  "generated_at": "2026-07-09T08:15:37.987756+08:00",
+  "total_titles_processed": 660,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时44分 ~ 06时11分]"
+          "appearance_count": 7,
+          "time_info": "[00时44分 ~ 08时15分]"
         },
         {
           "title": "当串子?IG众人暗示TES被警告",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时44分 ~ 06时11分]"
+          "appearance_count": 7,
+          "time_info": "[00时44分 ~ 08时15分]"
         },
         {
           "title": "深度复盘G2战胜T1",
@@ -39,8 +39,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时44分 ~ 06时11分]"
+          "appearance_count": 7,
+          "time_info": "[00时44分 ~ 08时15分]"
         },
         {
           "title": "真实锐评G2战胜T1",
@@ -48,22 +48,24 @@
           "source": "bilibili 热搜",
           "ranks": [
             4,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时44分 ~ 06时11分]"
+          "appearance_count": 7,
+          "time_info": "[00时44分 ~ 08时15分]"
         },
         {
           "title": "2026 MSI 淘汰赛 T1 1:3 不敌 G2 遭淘汰创队史最差战绩，如何评价这场比赛？",
           "url": "https://www.zhihu.com/question/2058190419284996351",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时44分 ~ 06时11分]"
+          "appearance_count": 7,
+          "time_info": "[00时44分 ~ 08时15分]"
         },
         {
           "title": "锐评G2战胜T1",
@@ -72,11 +74,12 @@
           "ranks": [
             16,
             18,
-            17
+            17,
+            22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时44分 ~ 06时11分]"
+          "appearance_count": 7,
+          "time_info": "[00时44分 ~ 08时15分]"
         },
         {
           "title": "G2 3-1 T1 赛后数据雷达图",
