@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T02:52:37.188985+08:00",
-  "total_titles_processed": 409,
+  "generated_at": "2026-07-10T04:51:09.626256+08:00",
+  "total_titles_processed": 491,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 02时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 04时51分]"
         },
         {
           "title": "Doran哽咽落泪愧对T1粉丝",
@@ -28,8 +28,21 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 02时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 04时51分]"
+        },
+        {
+          "title": "Zhuo赛后采访Knight",
+          "url": "https://search.bilibili.com/all?keyword=Zhuo%E8%B5%9B%E5%90%8E%E9%87%87%E8%AE%BFKnight",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23,
+            30,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 04时51分]"
         },
         {
           "title": "再见T1小弟,G2克烈杀疯全场",
@@ -40,8 +53,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 02时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 04时51分]"
         },
         {
           "title": "当串子?IG众人暗示TES被警告",
@@ -52,20 +65,20 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 02时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 04时51分]"
         },
         {
-          "title": "Zhuo赛后采访Knight",
-          "url": "https://search.bilibili.com/all?keyword=Zhuo%E8%B5%9B%E5%90%8E%E9%87%87%E8%AE%BFKnight",
+          "title": "G2 3-1 T1 赛后数据雷达图",
+          "url": "https://search.bilibili.com/all?keyword=G2%203-1%20T1%20%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE%E9%9B%B7%E8%BE%BE%E5%9B%BE",
           "source": "bilibili 热搜",
           "ranks": [
-            23,
-            30
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 02时52分]"
+          "appearance_count": 3,
+          "time_info": "[02时52分 ~ 04时51分]"
         },
         {
           "title": "国际货币基金组织（IMF）：总裁Georgieva本周与委内瑞拉Delcy Rodriguez对话。",
@@ -88,17 +101,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
-        },
-        {
-          "title": "G2 3-1 T1 赛后数据雷达图",
-          "url": "https://search.bilibili.com/all?keyword=G2%203-1%20T1%20%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE%E9%9B%B7%E8%BE%BE%E5%9B%BE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时52分"
         }
       ]
     }
