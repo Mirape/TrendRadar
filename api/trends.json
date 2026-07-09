@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T04:51:09.626256+08:00",
-  "total_titles_processed": 491,
+  "generated_at": "2026-07-10T06:26:24.978782+08:00",
+  "total_titles_processed": 561,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 04时51分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 06时26分]"
         },
         {
           "title": "Doran哽咽落泪愧对T1粉丝",
@@ -28,8 +28,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 04时51分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 06时26分]"
         },
         {
           "title": "Zhuo赛后采访Knight",
@@ -38,11 +38,12 @@
           "ranks": [
             23,
             30,
-            12
+            12,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 04时51分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 06时26分]"
         },
         {
           "title": "再见T1小弟,G2克烈杀疯全场",
@@ -53,8 +54,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 04时51分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 06时26分]"
         },
         {
           "title": "当串子?IG众人暗示TES被警告",
@@ -65,8 +66,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 04时51分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 06时26分]"
         },
         {
           "title": "G2 3-1 T1 赛后数据雷达图",
