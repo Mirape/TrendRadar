@@ -1,238 +1,88 @@
 {
-  "generated_at": "2026-07-09T20:09:19.506447+08:00",
-  "total_titles_processed": 1256,
+  "generated_at": "2026-07-10T00:02:47.522554+08:00",
+  "total_titles_processed": 305,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 18,
+      "match_count": 7,
       "titles": [
-        {
-          "title": "深度复盘G2战胜T1",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E5%A4%8D%E7%9B%98G2%E6%88%98%E8%83%9CT1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            1,
-            4,
-            21,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时44分 ~ 20时09分]"
-        },
-        {
-          "title": "再见T1小弟,G2克烈杀疯全场",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356009&amp;topic_name=%E5%86%8D%E8%A7%81T1%E5%B0%8F%E5%BC%9F%2CG2%E5%85%8B%E7%83%88%E6%9D%80%E7%96%AF%E5%85%A8%E5%9C%BA",
-          "source": "贴吧",
-          "ranks": [
-            1,
-            9,
-            13,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时44分 ~ 20时09分]"
-        },
-        {
-          "title": "当串子?IG众人暗示TES被警告",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356012&amp;topic_name=%E5%BD%93%E4%B8%B2%E5%AD%90%3FIG%E4%BC%97%E4%BA%BA%E6%9A%97%E7%A4%BATES%E8%A2%AB%E8%AD%A6%E5%91%8A",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            12,
-            16,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时44分 ~ 20时09分]"
-        },
-        {
-          "title": "真实锐评G2战胜T1",
-          "url": "https://search.bilibili.com/all?keyword=%E7%9C%9F%E5%AE%9E%E9%94%90%E8%AF%84G2%E6%88%98%E8%83%9CT1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            9,
-            8,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 12时58分]"
-        },
-        {
-          "title": "锐评G2战胜T1",
-          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84G2%E6%88%98%E8%83%9CT1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16,
-            18,
-            17,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 12时58分]"
-        },
         {
           "title": "T1惨败,韩网让Faker趁早退役",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356023&amp;topic_name=T1%E6%83%A8%E8%B4%A5%2C%E9%9F%A9%E7%BD%91%E8%AE%A9Faker%E8%B6%81%E6%97%A9%E9%80%80%E5%BD%B9",
           "source": "贴吧",
           "ranks": [
-            1,
-            3,
-            6
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时57分 ~ 20时09分]"
-        },
-        {
-          "title": "2026 MSI 淘汰赛 T1 1:3 不敌 G2 遭淘汰创队史最差战绩，如何评价这场比赛？",
-          "url": "https://www.zhihu.com/question/2058190419284996351",
-          "source": "知乎",
-          "ranks": [
-            11,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时44分 ~ 08时15分]"
-        },
-        {
-          "title": "G2 3-1 T1 赛后数据雷达图",
-          "url": "https://search.bilibili.com/all?keyword=G2%203-1%20T1%20%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE%E9%9B%B7%E8%BE%BE%E5%9B%BE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17,
-            21,
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时44分 ~ 06时11分]"
-        },
-        {
-          "title": "G2 3:1战胜T1",
-          "url": "https://www.douyin.com/hot/2563280",
-          "source": "抖音",
-          "ranks": [
-            18,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时44分 ~ 06时11分]"
-        },
-        {
-          "title": "G2 3-1 T1赛后数据",
-          "url": "https://search.bilibili.com/all?keyword=G2%203-1%20T1%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时57分 ~ 16时34分]"
-        },
-        {
-          "title": "G2战胜T1 季中冠军赛",
-          "url": "https://search.bilibili.com/all?keyword=G2%20T1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 12时58分]"
-        },
-        {
-          "title": "T1战队大田MSI Vlog",
-          "url": "https://search.bilibili.com/all?keyword=T1%E6%88%98%E9%98%9F%E5%A4%A7%E7%94%B0MSI%20Vlog",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21,
-            23,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 02时22分]"
-        },
-        {
-          "title": "1酱赛评T1被G2淘汰",
-          "url": "https://search.bilibili.com/all?keyword=1%E9%85%B1%E8%B5%9B%E8%AF%84T1%E8%A2%ABG2%E6%B7%98%E6%B1%B0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时57分 ~ 16时34分]"
+          "appearance_count": 1,
+          "time_info": "00时02分"
         },
         {
           "title": "Doran哽咽落泪愧对T1粉丝",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356036&amp;topic_name=Doran%E5%93%BD%E5%92%BD%E8%90%BD%E6%B3%AA%E6%84%A7%E5%AF%B9T1%E7%B2%89%E4%B8%9D",
           "source": "贴吧",
           "ranks": [
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时34分 ~ 20时09分]"
-        },
-        {
-          "title": "解析G2淘汰T1背后原因",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E6%9E%90G2%E6%B7%98%E6%B1%B0T1%E8%83%8C%E5%90%8E%E5%8E%9F%E5%9B%A0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时34分 ~ 20时09分]"
-        },
-        {
-          "title": "G2战胜T1看点解读",
-          "url": "https://search.bilibili.com/all?keyword=G2%E6%88%98%E8%83%9CT1%E7%9C%8B%E7%82%B9%E8%A7%A3%E8%AF%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时57分 ~ 12时58分]"
-        },
-        {
-          "title": "AI芯片公司SambaNova Systems Inc.的CEO Rodrigo Liang：对高速推理的需求非常可观。 预计公司客户规模到2026年年底将达到100家，甚至更多。 随着投资者参与，公司计划扩大规模。（彭博电视）",
-          "url": "https://wallstreetcn.com/livenews/3130812",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时45分"
+          "time_info": "00时02分"
         },
         {
-          "title": "2026 年英雄联盟季中冠军赛（MSI）7 月 9 号 BLG VS HLE，如何看待这场比赛？",
-          "url": "https://www.zhihu.com/question/2057846118629766631",
-          "source": "知乎",
+          "title": "国际货币基金组织（IMF）：总裁Georgieva本周与委内瑞拉Delcy Rodriguez对话。",
+          "url": "https://wallstreetcn.com/livenews/3131450",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时09分"
+          "time_info": "00时02分"
+        },
+        {
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850569&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/07/1WvgFcs5UbPkx1u3d7Mma.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260709233026374800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时02分"
+        },
+        {
+          "title": "再见T1小弟,G2克烈杀疯全场",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356009&amp;topic_name=%E5%86%8D%E8%A7%81T1%E5%B0%8F%E5%BC%9F%2CG2%E5%85%8B%E7%83%88%E6%9D%80%E7%96%AF%E5%85%A8%E5%9C%BA",
+          "source": "贴吧",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时02分"
+        },
+        {
+          "title": "当串子?IG众人暗示TES被警告",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356012&amp;topic_name=%E5%BD%93%E4%B8%B2%E5%AD%90%3FIG%E4%BC%97%E4%BA%BA%E6%9A%97%E7%A4%BATES%E8%A2%AB%E8%AD%A6%E5%91%8A",
+          "source": "贴吧",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时02分"
+        },
+        {
+          "title": "Zhuo赛后采访Knight",
+          "url": "https://search.bilibili.com/all?keyword=Zhuo%E8%B5%9B%E5%90%8E%E9%87%87%E8%AE%BFKnight",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时02分"
         }
       ]
     }
