@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-09T12:58:02.350877+08:00",
-  "total_titles_processed": 879,
+  "generated_at": "2026-07-09T16:34:50.301897+08:00",
+  "total_titles_processed": 1069,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "再见T1小弟,G2克烈杀疯全场",
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             1,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 12时58分]"
+          "appearance_count": 10,
+          "time_info": "[00时44分 ~ 16时34分]"
         },
         {
           "title": "深度复盘G2战胜T1",
@@ -39,11 +40,12 @@
           "source": "贴吧",
           "ranks": [
             5,
-            12
+            12,
+            16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 12时58分]"
+          "appearance_count": 10,
+          "time_info": "[00时44分 ~ 16时34分]"
         },
         {
           "title": "真实锐评G2战胜T1",
@@ -74,26 +76,16 @@
           "time_info": "[00时44分 ~ 12时58分]"
         },
         {
-          "title": "G2 3-1 T1赛后数据",
-          "url": "https://search.bilibili.com/all?keyword=G2%203-1%20T1%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时57分 ~ 12时58分]"
-        },
-        {
           "title": "T1惨败,韩网让Faker趁早退役",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356023&amp;topic_name=T1%E6%83%A8%E8%B4%A5%2C%E9%9F%A9%E7%BD%91%E8%AE%A9Faker%E8%B6%81%E6%97%A9%E9%80%80%E5%BD%B9",
           "source": "贴吧",
           "ranks": [
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时57分 ~ 12时58分]"
+          "appearance_count": 3,
+          "time_info": "[12时57分 ~ 16时34分]"
         },
         {
           "title": "2026 MSI 淘汰赛 T1 1:3 不敌 G2 遭淘汰创队史最差战绩，如何评价这场比赛？",
@@ -134,6 +126,18 @@
           "time_info": "[00时44分 ~ 06时11分]"
         },
         {
+          "title": "G2 3-1 T1赛后数据",
+          "url": "https://search.bilibili.com/all?keyword=G2%203-1%20T1%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时57分 ~ 16时34分]"
+        },
+        {
           "title": "G2战胜T1 季中冠军赛",
           "url": "https://search.bilibili.com/all?keyword=G2%20T1",
           "source": "bilibili 热搜",
@@ -158,6 +162,18 @@
           "time_info": "[00时44分 ~ 02时22分]"
         },
         {
+          "title": "1酱赛评T1被G2淘汰",
+          "url": "https://search.bilibili.com/all?keyword=1%E9%85%B1%E8%B5%9B%E8%AF%84T1%E8%A2%ABG2%E6%B7%98%E6%B1%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时57分 ~ 16时34分]"
+        },
+        {
           "title": "G2战胜T1看点解读",
           "url": "https://search.bilibili.com/all?keyword=G2%E6%88%98%E8%83%9CT1%E7%9C%8B%E7%82%B9%E8%A7%A3%E8%AF%BB",
           "source": "bilibili 热搜",
@@ -169,15 +185,15 @@
           "time_info": "[12时57分 ~ 12时58分]"
         },
         {
-          "title": "1酱赛评T1被G2淘汰",
-          "url": "https://search.bilibili.com/all?keyword=1%E9%85%B1%E8%B5%9B%E8%AF%84T1%E8%A2%ABG2%E6%B7%98%E6%B1%B0",
-          "source": "bilibili 热搜",
+          "title": "Doran哽咽落泪愧对T1粉丝",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356036&amp;topic_name=Doran%E5%93%BD%E5%92%BD%E8%90%BD%E6%B3%AA%E6%84%A7%E5%AF%B9T1%E7%B2%89%E4%B8%9D",
+          "source": "贴吧",
           "ranks": [
-            30
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时57分 ~ 12时58分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
         },
         {
           "title": "AI芯片公司SambaNova Systems Inc.的CEO Rodrigo Liang：对高速推理的需求非常可观。 预计公司客户规模到2026年年底将达到100家，甚至更多。 随着投资者参与，公司计划扩大规模。（彭博电视）",
@@ -189,6 +205,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
+        },
+        {
+          "title": "解析G2淘汰T1背后原因",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E6%9E%90G2%E6%B7%98%E6%B1%B0T1%E8%83%8C%E5%90%8E%E5%8E%9F%E5%9B%A0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
         }
       ]
     }
