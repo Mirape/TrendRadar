@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T19:56:51.369983+08:00",
-  "total_titles_processed": 1272,
+  "generated_at": "2026-07-10T22:36:12.498503+08:00",
+  "total_titles_processed": 1433,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             7,
             15,
             22,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时02分 ~ 19时56分]"
+          "appearance_count": 13,
+          "time_info": "[00时02分 ~ 22时36分]"
         },
         {
           "title": "Doran哽咽落泪愧对T1粉丝",
@@ -63,6 +64,18 @@
           "time_info": "[00时02分 ~ 12时56分]"
         },
         {
+          "title": "虽迟但到!T1总部遭卡车袭击",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356063&amp;topic_name=%E8%99%BD%E8%BF%9F%E4%BD%86%E5%88%B0%21T1%E6%80%BB%E9%83%A8%E9%81%AD%E5%8D%A1%E8%BD%A6%E8%A2%AD%E5%87%BB",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时26分 ~ 22时36分]"
+        },
+        {
           "title": "Zhuo赛后采访Knight",
           "url": "https://search.bilibili.com/all?keyword=Zhuo%E8%B5%9B%E5%90%8E%E9%87%87%E8%AE%BFKnight",
           "source": "bilibili 热搜",
@@ -75,18 +88,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时02分 ~ 08时10分]"
-        },
-        {
-          "title": "虽迟但到!T1总部遭卡车袭击",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356063&amp;topic_name=%E8%99%BD%E8%BF%9F%E4%BD%86%E5%88%B0%21T1%E6%80%BB%E9%83%A8%E9%81%AD%E5%8D%A1%E8%BD%A6%E8%A2%AD%E5%87%BB",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时26分 ~ 19时56分]"
         },
         {
           "title": "G2 3-1 T1 赛后数据雷达图",
