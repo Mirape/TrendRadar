@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-10T08:10:07.724430+08:00",
-  "total_titles_processed": 659,
+  "generated_at": "2026-07-10T12:56:21.332090+08:00",
+  "total_titles_processed": 887,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "T1惨败,韩网让Faker趁早退役",
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             8,
-            7
+            7,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 08时10分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 12时56分]"
         },
         {
           "title": "Doran哽咽落泪愧对T1粉丝",
@@ -25,11 +26,38 @@
           "source": "贴吧",
           "ranks": [
             11,
-            10
+            10,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 08时10分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 12时56分]"
+        },
+        {
+          "title": "再见T1小弟,G2克烈杀疯全场",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356009&amp;topic_name=%E5%86%8D%E8%A7%81T1%E5%B0%8F%E5%BC%9F%2CG2%E5%85%8B%E7%83%88%E6%9D%80%E7%96%AF%E5%85%A8%E5%9C%BA",
+          "source": "贴吧",
+          "ranks": [
+            18,
+            17,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 12时56分]"
+        },
+        {
+          "title": "当串子?IG众人暗示TES被警告",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356012&amp;topic_name=%E5%BD%93%E4%B8%B2%E5%AD%90%3FIG%E4%BC%97%E4%BA%BA%E6%9A%97%E7%A4%BATES%E8%A2%AB%E8%AD%A6%E5%91%8A",
+          "source": "贴吧",
+          "ranks": [
+            21,
+            20,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 12时56分]"
         },
         {
           "title": "Zhuo赛后采访Knight",
@@ -40,30 +68,6 @@
             30,
             12,
             28
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 08时10分]"
-        },
-        {
-          "title": "再见T1小弟,G2克烈杀疯全场",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356009&amp;topic_name=%E5%86%8D%E8%A7%81T1%E5%B0%8F%E5%BC%9F%2CG2%E5%85%8B%E7%83%88%E6%9D%80%E7%96%AF%E5%85%A8%E5%9C%BA",
-          "source": "贴吧",
-          "ranks": [
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 08时10分]"
-        },
-        {
-          "title": "当串子?IG众人暗示TES被警告",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356012&amp;topic_name=%E5%BD%93%E4%B8%B2%E5%AD%90%3FIG%E4%BC%97%E4%BA%BA%E6%9A%97%E7%A4%BATES%E8%A2%AB%E8%AD%A6%E5%91%8A",
-          "source": "贴吧",
-          "ranks": [
-            21,
-            20
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -102,6 +106,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850569&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/07/tDG__2dFH6j1LWZb_ueNn.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260710121143858800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时56分"
         }
       ]
     }
