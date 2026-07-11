@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11T08:02:35.801265+08:00",
-  "total_titles_processed": 609,
+  "generated_at": "2026-07-11T12:33:24.375216+08:00",
+  "total_titles_processed": 801,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             9,
-            10
+            10,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时59分 ~ 08时02分]"
+          "appearance_count": 7,
+          "time_info": "[00时59分 ~ 12时33分]"
         },
         {
           "title": "T1惨败,韩网让Faker趁早退役",
