@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-12T11:47:06.444327+08:00",
-  "total_titles_processed": 696,
+  "generated_at": "2026-07-12T14:37:56.120265+08:00",
+  "total_titles_processed": 838,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "智谱创始人唐杰发布内部信：将开启 Touch High（摸高）计划，“不登顶，就是失败”",
@@ -18,8 +18,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[03时13分 ~ 11时47分]"
+          "appearance_count": 10,
+          "time_info": "[03时13分 ~ 14时37分]"
         },
         {
           "title": "虽迟但到!T1总部遭卡车袭击",
@@ -51,11 +51,12 @@
           "url": "https://www.zhihu.com/question/2058595980682040766",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时46分 ~ 11时47分]"
+          "appearance_count": 3,
+          "time_info": "[11时46分 ~ 14时37分]"
         },
         {
           "title": "智谱唐杰内部信称「将开启 Touch High（摸高）计划，不登顶，就是失败」，如何评价这一宣言？",
@@ -67,6 +68,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时46分 ~ 11时47分]"
+        },
+        {
+          "title": "knight说会逮捕Kanavi",
+          "url": "https://search.bilibili.com/all?keyword=knight%E8%AF%B4%E4%BC%9A%E9%80%AE%E6%8D%95Kanavi",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
         }
       ]
     }
