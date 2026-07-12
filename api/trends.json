@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T14:37:56.120265+08:00",
-  "total_titles_processed": 838,
+  "generated_at": "2026-07-12T17:06:00.859511+08:00",
+  "total_titles_processed": 959,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             10,
             9,
             7,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[03时13分 ~ 14时37分]"
+          "appearance_count": 12,
+          "time_info": "[03时13分 ~ 17时06分]"
         },
         {
           "title": "虽迟但到!T1总部遭卡车袭击",
@@ -52,11 +53,12 @@
           "source": "知乎",
           "ranks": [
             10,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时46分 ~ 14时37分]"
+          "appearance_count": 5,
+          "time_info": "[11时46分 ~ 17时06分]"
         },
         {
           "title": "智谱唐杰内部信称「将开启 Touch High（摸高）计划，不登顶，就是失败」，如何评价这一宣言？",
@@ -76,7 +78,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
         }
