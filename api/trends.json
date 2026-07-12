@@ -1,11 +1,13 @@
 {
-  "generated_at": "2026-07-12T21:36:04.884850+08:00",
-  "total_titles_processed": 1210,
-  "failed_sources": [],
+  "generated_at": "2026-07-12T23:02:42.267871+08:00",
+  "total_titles_processed": 1301,
+  "failed_sources": [
+    "wallstreetcn-hot"
+  ],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "智谱创始人唐杰发布内部信：将开启 Touch High（摸高）计划，“不登顶，就是失败”",
@@ -71,6 +73,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时46分 ~ 11时47分]"
+        },
+        {
+          "title": "HLE夺《英雄联盟》2026 MSI冠军",
+          "url": "https://www.toutiao.com/trending/7661287815292157958/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时01分 ~ 23时02分]"
         },
         {
           "title": "knight说会逮捕Kanavi",
