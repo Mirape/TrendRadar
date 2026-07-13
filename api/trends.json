@@ -1,44 +1,58 @@
 {
-  "generated_at": "2026-07-14T00:38:09.315440+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-07-14T02:47:07.105098+08:00",
+  "total_titles_processed": 407,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "T1全员商务,多兰惨遭降舱",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356148&amp;topic_name=T1%E5%85%A8%E5%91%98%E5%95%86%E5%8A%A1%2C%E5%A4%9A%E5%85%B0%E6%83%A8%E9%81%AD%E9%99%8D%E8%88%B1",
           "source": "贴吧",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时37分 ~ 00时38分]"
+          "appearance_count": 4,
+          "time_info": "[00时37分 ~ 02时47分]"
         },
         {
           "title": "管泽元 2026 季中赛后发文谈《英雄联盟》双败赛制最大争议「胜者组冠军少一条命」对此你有什么解法吗？",
           "url": "https://www.zhihu.com/question/2059961230907946867",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时37分 ~ 00时38分]"
+          "appearance_count": 4,
+          "time_info": "[00时37分 ~ 02时47分]"
         },
         {
           "title": "多兰背锅?狼母大招变T1标",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356138&amp;topic_name=%E5%A4%9A%E5%85%B0%E8%83%8C%E9%94%85%3F%E7%8B%BC%E6%AF%8D%E5%A4%A7%E6%8B%9B%E5%8F%98T1%E6%A0%87",
           "source": "贴吧",
           "ranks": [
-            14
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时37分 ~ 02时47分]"
+        },
+        {
+          "title": "IGN评周星驰功夫女足",
+          "url": "https://search.bilibili.com/all?keyword=IGN%E8%AF%84%E5%91%A8%E6%98%9F%E9%A9%B0%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时37分 ~ 00时38分]"
+          "time_info": "[02时46分 ~ 02时47分]"
         },
         {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850571&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/07/ceiRoU_Mphl31wYaNQjqP.jpg/lite\" height=\"120\"/></a>",
@@ -47,7 +61,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时38分"
         }
