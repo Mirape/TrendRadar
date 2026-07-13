@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-14T02:47:07.105098+08:00",
-  "total_titles_processed": 407,
+  "generated_at": "2026-07-14T04:19:05.520098+08:00",
+  "total_titles_processed": 471,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时37分 ~ 02时47分]"
+          "appearance_count": 6,
+          "time_info": "[00时37分 ~ 04时19分]"
         },
         {
           "title": "管泽元 2026 季中赛后发文谈《英雄联盟》双败赛制最大争议「胜者组冠军少一条命」对此你有什么解法吗？",
@@ -40,19 +40,20 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时37分 ~ 02时47分]"
+          "appearance_count": 6,
+          "time_info": "[00时37分 ~ 04时19分]"
         },
         {
           "title": "IGN评周星驰功夫女足",
           "url": "https://search.bilibili.com/all?keyword=IGN%E8%AF%84%E5%91%A8%E6%98%9F%E9%A9%B0%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3",
           "source": "bilibili 热搜",
           "ranks": [
-            30
+            30,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时46分 ~ 02时47分]"
+          "appearance_count": 4,
+          "time_info": "[02时46分 ~ 04时19分]"
         },
         {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850571&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/07/ceiRoU_Mphl31wYaNQjqP.jpg/lite\" height=\"120\"/></a>",
