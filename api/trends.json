@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-15T06:02:25.235376+08:00",
-  "total_titles_processed": 601,
+  "generated_at": "2026-07-15T07:56:06.636458+08:00",
+  "total_titles_processed": 720,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 06时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 07时56分]"
         },
         {
           "title": "T1全员商务,多兰惨遭降舱",
@@ -28,8 +28,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 06时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 07时56分]"
         },
         {
           "title": "多兰背锅?狼母大招变T1标",
@@ -40,8 +40,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 06时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 07时56分]"
         },
         {
           "title": "IGN评周星驰功夫女足",
@@ -49,11 +49,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             17,
-            30
+            30,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时07分 ~ 06时02分]"
+          "appearance_count": 5,
+          "time_info": "[02时07分 ~ 07时56分]"
         }
       ]
     }
