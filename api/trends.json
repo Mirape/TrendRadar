@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-15T00:21:08.681740+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-07-15T02:08:04.211396+08:00",
+  "total_titles_processed": 410,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "狂!Delight直言靠对线夺冠",
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 00时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 02时08分]"
         },
         {
           "title": "T1全员商务,多兰惨遭降舱",
@@ -26,8 +26,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 00时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 02时08分]"
         },
         {
           "title": "多兰背锅?狼母大招变T1标",
@@ -37,8 +37,19 @@
             29
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 02时08分]"
+        },
+        {
+          "title": "IGN评周星驰功夫女足",
+          "url": "https://search.bilibili.com/all?keyword=IGN%E8%AF%84%E5%91%A8%E6%98%9F%E9%A9%B0%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时20分 ~ 00时21分]"
+          "time_info": "[02时07分 ~ 02时08分]"
         }
       ]
     }
