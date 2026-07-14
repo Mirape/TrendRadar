@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-14T07:06:49.507785+08:00",
-  "total_titles_processed": 609,
+  "generated_at": "2026-07-14T10:48:07.514008+08:00",
+  "total_titles_processed": 809,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             1,
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时37分 ~ 07时06分]"
+          "appearance_count": 10,
+          "time_info": "[00时37分 ~ 10时48分]"
         },
         {
           "title": "多兰背锅?狼母大招变T1标",
@@ -25,11 +26,12 @@
           "source": "贴吧",
           "ranks": [
             14,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时37分 ~ 07时06分]"
+          "appearance_count": 10,
+          "time_info": "[00时37分 ~ 10时48分]"
         },
         {
           "title": "IGN评周星驰功夫女足",
@@ -39,11 +41,12 @@
             30,
             27,
             25,
-            1
+            1,
+            28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时46分 ~ 07时06分]"
+          "appearance_count": 8,
+          "time_info": "[02时46分 ~ 10时48分]"
         },
         {
           "title": "管泽元 2026 季中赛后发文谈《英雄联盟》双败赛制最大争议「胜者组冠军少一条命」对此你有什么解法吗？",
