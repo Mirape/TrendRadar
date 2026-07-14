@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-14T10:48:07.514008+08:00",
-  "total_titles_processed": 809,
+  "generated_at": "2026-07-14T13:36:24.667219+08:00",
+  "total_titles_processed": 968,
   "failed_sources": [],
   "trends": [
     {
@@ -14,24 +14,12 @@
           "ranks": [
             1,
             2,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时37分 ~ 10时48分]"
-        },
-        {
-          "title": "多兰背锅?狼母大招变T1标",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356138&amp;topic_name=%E5%A4%9A%E5%85%B0%E8%83%8C%E9%94%85%3F%E7%8B%BC%E6%AF%8D%E5%A4%A7%E6%8B%9B%E5%8F%98T1%E6%A0%87",
-          "source": "贴吧",
-          "ranks": [
-            14,
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时37分 ~ 10时48分]"
+          "appearance_count": 11,
+          "time_info": "[00时37分 ~ 13时36分]"
         },
         {
           "title": "IGN评周星驰功夫女足",
@@ -45,8 +33,22 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时46分 ~ 10时48分]"
+          "appearance_count": 9,
+          "time_info": "[02时46分 ~ 13时36分]"
+        },
+        {
+          "title": "多兰背锅?狼母大招变T1标",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356138&amp;topic_name=%E5%A4%9A%E5%85%B0%E8%83%8C%E9%94%85%3F%E7%8B%BC%E6%AF%8D%E5%A4%A7%E6%8B%9B%E5%8F%98T1%E6%A0%87",
+          "source": "贴吧",
+          "ranks": [
+            14,
+            15,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时37分 ~ 13时36分]"
         },
         {
           "title": "管泽元 2026 季中赛后发文谈《英雄联盟》双败赛制最大争议「胜者组冠军少一条命」对此你有什么解法吗？",
