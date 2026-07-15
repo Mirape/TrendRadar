@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-15T18:54:56.177784+08:00",
-  "total_titles_processed": 1403,
+  "generated_at": "2026-07-15T20:19:12.546733+08:00",
+  "total_titles_processed": 1533,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "狂!Delight直言靠对线夺冠",
@@ -17,11 +17,12 @@
             11,
             18,
             25,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时20分 ~ 18时54分]"
+          "appearance_count": 15,
+          "time_info": "[00时20分 ~ 20时19分]"
         },
         {
           "title": "T1全员商务,多兰惨遭降舱",
@@ -56,9 +57,22 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时54分"
+        },
+        {
+          "title": "中国胃,Knight巴黎干麻辣烫",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356188&amp;topic_name=%E4%B8%AD%E5%9B%BD%E8%83%83%2CKnight%E5%B7%B4%E9%BB%8E%E5%B9%B2%E9%BA%BB%E8%BE%A3%E7%83%AB",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时36分 ~ 20时19分]"
         },
         {
           "title": "IGN评周星驰功夫女足",
@@ -74,16 +88,15 @@
           "time_info": "[02时07分 ~ 07时56分]"
         },
         {
-          "title": "中国胃,Knight巴黎干麻辣烫",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356188&amp;topic_name=%E4%B8%AD%E5%9B%BD%E8%83%83%2CKnight%E5%B7%B4%E9%BB%8E%E5%B9%B2%E9%BA%BB%E8%BE%A3%E7%83%AB",
-          "source": "贴吧",
+          "title": "T1战胜GAM",
+          "url": "https://search.bilibili.com/all?keyword=T1%20GAM",
+          "source": "bilibili 热搜",
           "ranks": [
-            7,
-            14
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时36分 ~ 18时54分]"
+          "appearance_count": 2,
+          "time_info": "[20时18分 ~ 20时19分]"
         },
         {
           "title": "NCT127全员与SM续约",
@@ -95,6 +108,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时45分 ~ 10时46分]"
+        },
+        {
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850573&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/07/Xw1wW-3jf7tHaVIM8x2v6.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260715194533049800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
         }
       ]
     }
