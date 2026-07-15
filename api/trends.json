@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-15T07:56:06.636458+08:00",
-  "total_titles_processed": 720,
+  "generated_at": "2026-07-15T10:46:09.762110+08:00",
+  "total_titles_processed": 900,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "狂!Delight直言靠对线夺冠",
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             8,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 07时56分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 10时46分]"
         },
         {
           "title": "T1全员商务,多兰惨遭降舱",
@@ -25,11 +26,12 @@
           "source": "贴吧",
           "ranks": [
             16,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 07时56分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 10时46分]"
         },
         {
           "title": "多兰背锅?狼母大招变T1标",
@@ -55,6 +57,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时07分 ~ 07时56分]"
+        },
+        {
+          "title": "NCT127全员与SM续约",
+          "url": "https://s.weibo.com/weibo?q=%23NCT127%E5%85%A8%E5%91%98%E4%B8%8ESM%E7%BB%AD%E7%BA%A6%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时45分 ~ 10时46分]"
         }
       ]
     }
