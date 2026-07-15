@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-15T13:36:57.911943+08:00",
-  "total_titles_processed": 1065,
+  "generated_at": "2026-07-15T16:21:23.498831+08:00",
+  "total_titles_processed": 1230,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             8,
             9,
             11,
-            18
+            18,
+            25
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 13时36分]"
+          "appearance_count": 12,
+          "time_info": "[00时20分 ~ 16时21分]"
         },
         {
           "title": "T1全员商务,多兰惨遭降舱",
@@ -61,6 +62,18 @@
           "time_info": "[02时07分 ~ 07时56分]"
         },
         {
+          "title": "中国胃,Knight巴黎干麻辣烫",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356188&amp;topic_name=%E4%B8%AD%E5%9B%BD%E8%83%83%2CKnight%E5%B7%B4%E9%BB%8E%E5%B9%B2%E9%BA%BB%E8%BE%A3%E7%83%AB",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时36分 ~ 16时21分]"
+        },
+        {
           "title": "NCT127全员与SM续约",
           "url": "https://s.weibo.com/weibo?q=%23NCT127%E5%85%A8%E5%91%98%E4%B8%8ESM%E7%BB%AD%E7%BA%A6%23&t=31&band_rank=23&Refer=top",
           "source": "微博",
@@ -70,17 +83,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时45分 ~ 10时46分]"
-        },
-        {
-          "title": "中国胃,Knight巴黎干麻辣烫",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356188&amp;topic_name=%E4%B8%AD%E5%9B%BD%E8%83%83%2CKnight%E5%B7%B4%E9%BB%8E%E5%B9%B2%E9%BA%BB%E8%BE%A3%E7%83%AB",
-          "source": "贴吧",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时36分"
         }
       ]
     }
