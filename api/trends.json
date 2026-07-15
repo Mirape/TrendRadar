@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-16T00:26:46.019204+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-07-16T02:11:56.775780+08:00",
+  "total_titles_processed": 409,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 02时11分]"
         },
         {
           "title": "T1战胜GAM",
@@ -26,8 +26,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 02时11分]"
         },
         {
           "title": "中国胃,Knight巴黎干麻辣烫",
@@ -37,8 +37,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 02时11分]"
         },
         {
           "title": "狂!Delight直言靠对线夺冠",
@@ -48,8 +48,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 02时11分]"
         }
       ]
     }
