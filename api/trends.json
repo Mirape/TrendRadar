@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-16T08:02:33.681904+08:00",
-  "total_titles_processed": 725,
+  "generated_at": "2026-07-16T12:12:07.664715+08:00",
+  "total_titles_processed": 939,
   "failed_sources": [],
   "trends": [
     {
@@ -14,22 +14,12 @@
           "ranks": [
             3,
             4,
-            5
+            5,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 08时02分]"
-        },
-        {
-          "title": "T1战胜GAM",
-          "url": "https://search.bilibili.com/all?keyword=T1%20GAM",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 08时02分]"
+          "appearance_count": 7,
+          "time_info": "[00时26分 ~ 12时12分]"
         },
         {
           "title": "中国胃,Knight巴黎干麻辣烫",
@@ -38,7 +28,19 @@
           "ranks": [
             19,
             20,
-            21
+            21,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时26分 ~ 12时12分]"
+        },
+        {
+          "title": "T1战胜GAM",
+          "url": "https://search.bilibili.com/all?keyword=T1%20GAM",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
           ],
           "is_new": false,
           "appearance_count": 5,
