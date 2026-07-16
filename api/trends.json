@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-16T15:25:09.296779+08:00",
-  "total_titles_processed": 1120,
+  "generated_at": "2026-07-16T18:13:15.051359+08:00",
+  "total_titles_processed": 1298,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "开门红到手,BLG下轮死磕T1",
@@ -16,11 +16,12 @@
             4,
             5,
             12,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 15时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时26分 ~ 18时13分]"
         },
         {
           "title": "T1皮肤卖998,拳头圈钱有一手",
@@ -30,8 +31,19 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时24分 ~ 18时13分]"
+        },
+        {
+          "title": "BLG vs T1 电竞世俱杯",
+          "url": "https://search.bilibili.com/all?keyword=BLG%20T1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时24分 ~ 15时25分]"
+          "time_info": "[18时12分 ~ 18时13分]"
         },
         {
           "title": "中国胃,Knight巴黎干麻辣烫",
