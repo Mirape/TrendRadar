@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-17T03:18:26.235646+08:00",
-  "total_titles_processed": 394,
+  "generated_at": "2026-07-17T05:05:12.816406+08:00",
+  "total_titles_processed": 466,
   "failed_sources": [],
   "trends": [
     {
@@ -16,20 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 03时18分]"
-        },
-        {
-          "title": "BLG战胜T1晋级EWC淘汰赛",
-          "url": "https://www.douyin.com/hot/2574012",
-          "source": "抖音",
-          "ranks": [
-            1,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 03时18分]"
+          "appearance_count": 4,
+          "time_info": "[01时22分 ~ 05时05分]"
         },
         {
           "title": "T1皮肤卖998,拳头圈钱有一手",
@@ -39,8 +27,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 03时18分]"
+          "appearance_count": 4,
+          "time_info": "[01时22分 ~ 05时05分]"
+        },
+        {
+          "title": "BLG战胜T1晋级EWC淘汰赛",
+          "url": "https://www.douyin.com/hot/2574012",
+          "source": "抖音",
+          "ranks": [
+            1,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时22分 ~ 05时05分]"
         },
         {
           "title": "锐评BLG战胜T1",
@@ -48,11 +49,25 @@
           "source": "bilibili 热搜",
           "ranks": [
             1,
-            26
+            26,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 03时18分]"
+          "appearance_count": 4,
+          "time_info": "[01时22分 ~ 05时05分]"
+        },
+        {
+          "title": "BLG战胜T1数据雷达图",
+          "url": "https://search.bilibili.com/all?keyword=BLG%E6%88%98%E8%83%9CT1%E6%95%B0%E6%8D%AE%E9%9B%B7%E8%BE%BE%E5%9B%BE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16,
+            20,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时22分 ~ 05时05分]"
         },
         {
           "title": "BLG战胜T1",
@@ -62,20 +77,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 03时18分]"
-        },
-        {
-          "title": "BLG战胜T1数据雷达图",
-          "url": "https://search.bilibili.com/all?keyword=BLG%E6%88%98%E8%83%9CT1%E6%95%B0%E6%8D%AE%E9%9B%B7%E8%BE%BE%E5%9B%BE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 03时18分]"
+          "appearance_count": 4,
+          "time_info": "[01时22分 ~ 05时05分]"
         },
         {
           "title": "T1战胜GAM",
