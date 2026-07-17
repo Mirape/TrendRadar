@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T02:09:49.874469+08:00",
-  "total_titles_processed": 402,
+  "generated_at": "2026-07-18T04:09:02.903880+08:00",
+  "total_titles_processed": 476,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "多兰暴打宙斯,T1淘汰HLE",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 02时09分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 04时09分]"
         },
         {
           "title": "T1战胜HLE数据雷达图",
@@ -28,8 +28,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 02时09分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 04时09分]"
         },
         {
           "title": "T1战胜HLE",
@@ -37,11 +37,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             24,
-            10
+            10,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 02时09分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 04时09分]"
         },
         {
           "title": "韩妹气哭!淘汰赛T1抽中HLE",
@@ -52,8 +53,43 @@
             19
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 04时09分]"
+        },
+        {
+          "title": "EWC 英雄联盟电竞世界杯淘汰赛 T1 2:0 战胜 MSI 冠军 HLE，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/2061556273808775032",
+          "source": "知乎",
+          "ranks": [
+            20,
+            11
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时18分 ~ 02时09分]"
+          "time_info": "[02时09分 ~ 04时09分]"
+        },
+        {
+          "title": "1酱赛评BLG战胜T1",
+          "url": "https://search.bilibili.com/all?keyword=1%E9%85%B1%E8%B5%9B%E8%AF%84BLG%E6%88%98%E8%83%9CT1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时09分 ~ 04时09分]"
+        },
+        {
+          "title": "2026 EWC 英雄联盟项目 BLG 1:2 不敌 DK 无缘四强，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/2061603096703104286",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时08分 ~ 04时09分]"
         },
         {
           "title": "Faker狂送,BLG干碎T1晋级",
@@ -73,18 +109,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时09分"
-        },
-        {
-          "title": "1酱赛评BLG战胜T1",
-          "url": "https://search.bilibili.com/all?keyword=1%E9%85%B1%E8%B5%9B%E8%AF%84BLG%E6%88%98%E8%83%9CT1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时09分"
         },
@@ -98,17 +123,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
-        },
-        {
-          "title": "EWC 英雄联盟电竞世界杯淘汰赛 T1 2:0 战胜 MSI 冠军 HLE，如何评价这场比赛？",
-          "url": "https://www.zhihu.com/question/2061556273808775032",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时09分"
         }
       ]
     }
