@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T20:13:08.516700+08:00",
-  "total_titles_processed": 1312,
+  "generated_at": "2026-07-17T22:46:44.769280+08:00",
+  "total_titles_processed": 1476,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "Faker狂送,BLG干碎T1晋级",
@@ -17,11 +17,12 @@
             11,
             17,
             23,
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时22分 ~ 20时13分]"
+          "appearance_count": 15,
+          "time_info": "[01时22分 ~ 22时46分]"
         },
         {
           "title": "T1皮肤卖998,拳头圈钱有一手",
@@ -45,11 +46,12 @@
             1,
             8,
             14,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时10分 ~ 20时13分]"
+          "appearance_count": 9,
+          "time_info": "[12时10分 ~ 22时46分]"
         },
         {
           "title": "BLG战胜T1晋级EWC淘汰赛",
@@ -116,6 +118,17 @@
           "time_info": "[20时12分 ~ 20时13分]"
         },
         {
+          "title": "多兰暴打宙斯,T1淘汰HLE",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356278&amp;topic_name=%E5%A4%9A%E5%85%B0%E6%9A%B4%E6%89%93%E5%AE%99%E6%96%AF%2CT1%E6%B7%98%E6%B1%B0HLE",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
+        {
           "title": "BLG战胜T1数据雷达图",
           "url": "https://search.bilibili.com/all?keyword=BLG%E6%88%98%E8%83%9CT1%E6%95%B0%E6%8D%AE%E9%9B%B7%E8%BE%BE%E5%9B%BE",
           "source": "bilibili 热搜",
@@ -127,6 +140,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时22分 ~ 05时05分]"
+        },
+        {
+          "title": "T1战胜HLE数据雷达图",
+          "url": "https://search.bilibili.com/all?keyword=T1%E6%88%98%E8%83%9CHLE%E6%95%B0%E6%8D%AE%E9%9B%B7%E8%BE%BE%E5%9B%BE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
+        {
+          "title": "T1战胜HLE",
+          "url": "https://search.bilibili.com/all?keyword=HLE%20T1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
         },
         {
           "title": "T1战胜GAM",
@@ -146,7 +181,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时13分"
         }
