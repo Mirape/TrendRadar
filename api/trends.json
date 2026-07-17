@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-17T05:05:12.816406+08:00",
-  "total_titles_processed": 466,
+  "generated_at": "2026-07-17T08:09:02.667671+08:00",
+  "total_titles_processed": 597,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时22分 ~ 05时05分]"
+          "appearance_count": 6,
+          "time_info": "[01时22分 ~ 08时09分]"
         },
         {
           "title": "T1皮肤卖998,拳头圈钱有一手",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时22分 ~ 05时05分]"
+          "appearance_count": 6,
+          "time_info": "[01时22分 ~ 08时09分]"
         },
         {
           "title": "BLG战胜T1晋级EWC淘汰赛",
@@ -37,11 +37,12 @@
           "ranks": [
             1,
             5,
-            7
+            7,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时22分 ~ 05时05分]"
+          "appearance_count": 6,
+          "time_info": "[01时22分 ~ 08时09分]"
         },
         {
           "title": "锐评BLG战胜T1",
@@ -50,11 +51,23 @@
           "ranks": [
             1,
             26,
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时22分 ~ 05时05分]"
+          "appearance_count": 6,
+          "time_info": "[01时22分 ~ 08时09分]"
+        },
+        {
+          "title": "BLG战胜T1",
+          "url": "https://search.bilibili.com/all?keyword=BLG%20T1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时22分 ~ 08时09分]"
         },
         {
           "title": "BLG战胜T1数据雷达图",
@@ -64,17 +77,6 @@
             16,
             20,
             10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时22分 ~ 05时05分]"
-        },
-        {
-          "title": "BLG战胜T1",
-          "url": "https://search.bilibili.com/all?keyword=BLG%20T1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
           ],
           "is_new": false,
           "appearance_count": 4,
