@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T18:03:15.886741+08:00",
-  "total_titles_processed": 1160,
+  "generated_at": "2026-07-17T20:13:08.516700+08:00",
+  "total_titles_processed": 1312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "Faker狂送,BLG干碎T1晋级",
@@ -16,11 +16,12 @@
             2,
             11,
             17,
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时22分 ~ 18时03分]"
+          "appearance_count": 14,
+          "time_info": "[01时22分 ~ 20时13分]"
         },
         {
           "title": "T1皮肤卖998,拳头圈钱有一手",
@@ -35,6 +36,20 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[01时22分 ~ 18时03分]"
+        },
+        {
+          "title": "韩妹气哭!淘汰赛T1抽中HLE",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356252&amp;topic_name=%E9%9F%A9%E5%A6%B9%E6%B0%94%E5%93%AD%21%E6%B7%98%E6%B1%B0%E8%B5%9BT1%E6%8A%BD%E4%B8%ADHLE",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            8,
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时10分 ~ 20时13分]"
         },
         {
           "title": "BLG战胜T1晋级EWC淘汰赛",
@@ -61,19 +76,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时22分 ~ 12时11分]"
-        },
-        {
-          "title": "韩妹气哭!淘汰赛T1抽中HLE",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356252&amp;topic_name=%E9%9F%A9%E5%A6%B9%E6%B0%94%E5%93%AD%21%E6%B7%98%E6%B1%B0%E8%B5%9BT1%E6%8A%BD%E4%B8%ADHLE",
-          "source": "贴吧",
-          "ranks": [
-            1,
-            8,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时10分 ~ 18时03分]"
         },
         {
           "title": "1酱赛评BLG战胜T1",
@@ -103,6 +105,17 @@
           "time_info": "[01时22分 ~ 08时09分]"
         },
         {
+          "title": "HLE vs T1 电竞世俱杯",
+          "url": "https://search.bilibili.com/all?keyword=HLE%20T1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时12分 ~ 20时13分]"
+        },
+        {
           "title": "BLG战胜T1数据雷达图",
           "url": "https://search.bilibili.com/all?keyword=BLG%E6%88%98%E8%83%9CT1%E6%95%B0%E6%8D%AE%E9%9B%B7%E8%BE%BE%E5%9B%BE",
           "source": "bilibili 热搜",
@@ -125,6 +138,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
+        },
+        {
+          "title": "<a href=\"https://www.jin10.com/activities/2026/7/month/index.html\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/07/T2gN44PooVkFF9HPuMJXh.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260717192026415800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时13分"
         }
       ]
     }
