@@ -1,55 +1,59 @@
 {
-  "generated_at": "2026-07-18T00:19:11.729856+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-07-18T02:09:49.874469+08:00",
+  "total_titles_processed": 402,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "多兰暴打宙斯,T1淘汰HLE",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356278&amp;topic_name=%E5%A4%9A%E5%85%B0%E6%9A%B4%E6%89%93%E5%AE%99%E6%96%AF%2CT1%E6%B7%98%E6%B1%B0HLE",
           "source": "贴吧",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 00时19分]"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 02时09分]"
         },
         {
           "title": "T1战胜HLE数据雷达图",
           "url": "https://search.bilibili.com/all?keyword=T1%E6%88%98%E8%83%9CHLE%E6%95%B0%E6%8D%AE%E9%9B%B7%E8%BE%BE%E5%9B%BE",
           "source": "bilibili 热搜",
           "ranks": [
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 00时19分]"
-        },
-        {
-          "title": "韩妹气哭!淘汰赛T1抽中HLE",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356252&amp;topic_name=%E9%9F%A9%E5%A6%B9%E6%B0%94%E5%93%AD%21%E6%B7%98%E6%B1%B0%E8%B5%9BT1%E6%8A%BD%E4%B8%ADHLE",
-          "source": "贴吧",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 00时19分]"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 02时09分]"
         },
         {
           "title": "T1战胜HLE",
           "url": "https://search.bilibili.com/all?keyword=HLE%20T1",
           "source": "bilibili 热搜",
           "ranks": [
-            24
+            24,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 00时19分]"
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 02时09分]"
+        },
+        {
+          "title": "韩妹气哭!淘汰赛T1抽中HLE",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356252&amp;topic_name=%E9%9F%A9%E5%A6%B9%E6%B0%94%E5%93%AD%21%E6%B7%98%E6%B1%B0%E8%B5%9BT1%E6%8A%BD%E4%B8%ADHLE",
+          "source": "贴吧",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时18分 ~ 02时09分]"
         },
         {
           "title": "Faker狂送,BLG干碎T1晋级",
@@ -63,15 +67,48 @@
           "time_info": "[00时18分 ~ 00时19分]"
         },
         {
+          "title": "据Flightradar24：一架美国空军KC-135空中加油机在英国米尔登霍尔附近发出7700紧急代码。",
+          "url": "https://flash.jin10.com/detail/20260718012046607800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时09分"
+        },
+        {
+          "title": "1酱赛评BLG战胜T1",
+          "url": "https://search.bilibili.com/all?keyword=1%E9%85%B1%E8%B5%9B%E8%AF%84BLG%E6%88%98%E8%83%9CT1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时09分"
+        },
+        {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850575&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/07/NxIIi4xiQ8YloH102nPfv.jpg/lite\" height=\"120\"/></a>",
           "url": "https://flash.jin10.com/detail/20260717233136087800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
+        },
+        {
+          "title": "EWC 英雄联盟电竞世界杯淘汰赛 T1 2:0 战胜 MSI 冠军 HLE，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/2061556273808775032",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时09分"
         }
       ]
     }
