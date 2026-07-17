@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-17T15:21:00.358019+08:00",
-  "total_titles_processed": 985,
+  "generated_at": "2026-07-17T18:03:15.886741+08:00",
+  "total_titles_processed": 1160,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             1,
             2,
             11,
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时22分 ~ 15时21分]"
+          "appearance_count": 12,
+          "time_info": "[01时22分 ~ 18时03分]"
         },
         {
           "title": "T1皮肤卖998,拳头圈钱有一手",
@@ -28,11 +29,12 @@
           "ranks": [
             5,
             14,
-            20
+            20,
+            26
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时22分 ~ 15时21分]"
+          "appearance_count": 12,
+          "time_info": "[01时22分 ~ 18时03分]"
         },
         {
           "title": "BLG战胜T1晋级EWC淘汰赛",
@@ -61,6 +63,32 @@
           "time_info": "[01时22分 ~ 12时11分]"
         },
         {
+          "title": "韩妹气哭!淘汰赛T1抽中HLE",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356252&amp;topic_name=%E9%9F%A9%E5%A6%B9%E6%B0%94%E5%93%AD%21%E6%B7%98%E6%B1%B0%E8%B5%9BT1%E6%8A%BD%E4%B8%ADHLE",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            8,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时10分 ~ 18时03分]"
+        },
+        {
+          "title": "1酱赛评BLG战胜T1",
+          "url": "https://search.bilibili.com/all?keyword=1%E9%85%B1%E8%B5%9B%E8%AF%84BLG%E6%88%98%E8%83%9CT1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            23,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时10分 ~ 18时03分]"
+        },
+        {
           "title": "锐评BLG战胜T1",
           "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84BLG%E6%88%98%E8%83%9CT1",
           "source": "bilibili 热搜",
@@ -73,30 +101,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时22分 ~ 08时09分]"
-        },
-        {
-          "title": "韩妹气哭!淘汰赛T1抽中HLE",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356252&amp;topic_name=%E9%9F%A9%E5%A6%B9%E6%B0%94%E5%93%AD%21%E6%B7%98%E6%B1%B0%E8%B5%9BT1%E6%8A%BD%E4%B8%ADHLE",
-          "source": "贴吧",
-          "ranks": [
-            1,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时10分 ~ 15时21分]"
-        },
-        {
-          "title": "1酱赛评BLG战胜T1",
-          "url": "https://search.bilibili.com/all?keyword=1%E9%85%B1%E8%B5%9B%E8%AF%84BLG%E6%88%98%E8%83%9CT1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时10分 ~ 15时21分]"
         },
         {
           "title": "BLG战胜T1数据雷达图",
