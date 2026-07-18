@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T10:47:15.039341+08:00",
-  "total_titles_processed": 788,
+  "generated_at": "2026-07-18T13:32:01.047487+08:00",
+  "total_titles_processed": 941,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "多兰暴打宙斯,T1淘汰HLE",
@@ -14,11 +14,12 @@
           "ranks": [
             2,
             3,
-            5
+            5,
+            11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时18分 ~ 10时47分]"
+          "appearance_count": 12,
+          "time_info": "[00时18分 ~ 13时32分]"
         },
         {
           "title": "T1战胜HLE数据雷达图",
@@ -64,6 +65,17 @@
           "time_info": "[00时18分 ~ 06时55分]"
         },
         {
+          "title": "锐评T1零封HLE",
+          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84T1%E9%9B%B6%E5%B0%81HLE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时31分 ~ 13时32分]"
+        },
+        {
           "title": "2026 EWC 英雄联盟项目 BLG 1:2 不敌 DK 无缘四强，如何评价这场比赛？",
           "url": "https://www.zhihu.com/question/2061603096703104286",
           "source": "知乎",
@@ -102,6 +114,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时09分 ~ 05时57分]"
+        },
+        {
+          "title": "2026 EWC 英雄联盟项目 JDG 、 BLG 、 AL 悉数淘汰无缘四强，对此你有什么想说？",
+          "url": "https://www.zhihu.com/question/2061603654428094656",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时31分 ~ 13时32分]"
         },
         {
           "title": "Faker狂送,BLG干碎T1晋级",
