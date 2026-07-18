@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-18T15:58:48.501785+08:00",
-  "total_titles_processed": 1072,
+  "generated_at": "2026-07-18T17:42:23.480306+08:00",
+  "total_titles_processed": 1171,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             3,
             5,
             11,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时18分 ~ 15时58分]"
+          "appearance_count": 14,
+          "time_info": "[00时18分 ~ 17时42分]"
         },
         {
           "title": "T1战胜HLE数据雷达图",
@@ -33,11 +34,12 @@
             6,
             17,
             15,
-            29
+            29,
+            26
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时18分 ~ 15时58分]"
+          "appearance_count": 12,
+          "time_info": "[00时18分 ~ 17时42分]"
         },
         {
           "title": "韩妹气哭!淘汰赛T1抽中HLE",
@@ -53,17 +55,6 @@
           "time_info": "[00时18分 ~ 10时47分]"
         },
         {
-          "title": "锐评T1零封HLE",
-          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84T1%E9%9B%B6%E5%B0%81HLE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时31分 ~ 15时58分]"
-        },
-        {
           "title": "T1战胜HLE",
           "url": "https://search.bilibili.com/all?keyword=HLE%20T1",
           "source": "bilibili 热搜",
@@ -76,6 +67,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时18分 ~ 06时55分]"
+        },
+        {
+          "title": "锐评T1零封HLE",
+          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84T1%E9%9B%B6%E5%B0%81HLE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时31分 ~ 17时42分]"
         },
         {
           "title": "2026 EWC 英雄联盟项目 BLG 1:2 不敌 DK 无缘四强，如何评价这场比赛？",
