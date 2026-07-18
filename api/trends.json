@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-18T07:56:43.730957+08:00",
-  "total_titles_processed": 647,
+  "generated_at": "2026-07-18T10:47:15.039341+08:00",
+  "total_titles_processed": 788,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             2,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 07时56分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 10时47分]"
         },
         {
           "title": "T1战胜HLE数据雷达图",
@@ -28,11 +29,12 @@
             7,
             14,
             6,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 07时56分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 10时47分]"
         },
         {
           "title": "韩妹气哭!淘汰赛T1抽中HLE",
@@ -40,11 +42,12 @@
           "source": "贴吧",
           "ranks": [
             18,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 07时56分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 10时47分]"
         },
         {
           "title": "T1战胜HLE",
@@ -129,7 +132,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
         },
