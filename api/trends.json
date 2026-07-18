@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-19T05:55:39.785020+08:00",
-  "total_titles_processed": 505,
+  "generated_at": "2026-07-19T06:54:52.866114+08:00",
+  "total_titles_processed": 536,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时04分 ~ 05时55分]"
+          "appearance_count": 7,
+          "time_info": "[00时04分 ~ 06时54分]"
         },
         {
           "title": "KC战胜T1 电竞世俱杯",
@@ -26,11 +26,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             7,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时04分 ~ 05时55分]"
+          "appearance_count": 7,
+          "time_info": "[00时04分 ~ 06时54分]"
         },
         {
           "title": "多兰暴打宙斯,T1淘汰HLE",
@@ -41,8 +42,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时04分 ~ 05时55分]"
+          "appearance_count": 7,
+          "time_info": "[00时04分 ~ 06时54分]"
         },
         {
           "title": "EWC 半决赛 KC 2:1 T1，如何评价这场比赛？",
@@ -51,7 +52,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时55分"
         }
