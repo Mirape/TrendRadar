@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T19:08:24.171379+08:00",
-  "total_titles_processed": 1248,
+  "generated_at": "2026-07-18T21:24:34.438813+08:00",
+  "total_titles_processed": 1406,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "多兰暴打宙斯,T1淘汰HLE",
@@ -18,11 +18,12 @@
             11,
             13,
             15,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时18分 ~ 19时08分]"
+          "appearance_count": 16,
+          "time_info": "[00时18分 ~ 21时24分]"
         },
         {
           "title": "T1战胜HLE数据雷达图",
@@ -96,6 +97,17 @@
           "time_info": "[04时08分 ~ 07时56分]"
         },
         {
+          "title": "T1 vs KC 电竞世俱杯",
+          "url": "https://search.bilibili.com/all?keyword=T1%20KC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
+        },
+        {
           "title": "1酱赛评BLG战胜T1",
           "url": "https://search.bilibili.com/all?keyword=1%E9%85%B1%E8%B5%9B%E8%AF%84BLG%E6%88%98%E8%83%9CT1",
           "source": "bilibili 热搜",
@@ -153,6 +165,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时09分"
+        },
+        {
+          "title": "<a href=\"https://www.jin10.com/activities/2026/7/month/index.html\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/07/T2gN44PooVkFF9HPuMJXh.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260718203116354800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
         },
         {
           "title": "英雄联盟",
