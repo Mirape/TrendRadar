@@ -1,58 +1,12 @@
 {
-  "generated_at": "2026-07-19T23:02:29.435546+08:00",
-  "total_titles_processed": 1506,
+  "generated_at": "2026-07-20T00:05:14.907787+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 11,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "KC战胜T1 电竞世俱杯",
-          "url": "https://search.bilibili.com/all?keyword=T1%20KC",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            1,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时04分 ~ 07时57分]"
-        },
-        {
-          "title": "KC战胜T1赛后数据",
-          "url": "https://search.bilibili.com/all?keyword=KC%E6%88%98%E8%83%9CT1%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            4,
-            5,
-            7,
-            30,
-            18,
-            23,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时04分 ~ 21时25分]"
-        },
-        {
-          "title": "多兰暴打宙斯,T1淘汰HLE",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356278&amp;topic_name=%E5%A4%9A%E5%85%B0%E6%9A%B4%E6%89%93%E5%AE%99%E6%96%AF%2CT1%E6%B7%98%E6%B1%B0HLE",
-          "source": "贴吧",
-          "ranks": [
-            20,
-            21,
-            22,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时04分 ~ 11时36分]"
-        },
         {
           "title": "T1滔味渐浓,GEN笑纳季军",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356319&amp;topic_name=T1%E6%BB%94%E5%91%B3%E6%B8%90%E6%B5%93%2CGEN%E7%AC%91%E7%BA%B3%E5%AD%A3%E5%86%9B",
@@ -62,89 +16,18 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[23时01分 ~ 23时02分]"
-        },
-        {
-          "title": "T1 vs GEN 电竞世俱杯",
-          "url": "https://search.bilibili.com/all?keyword=T1%20GEN",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时12分"
-        },
-        {
-          "title": "锐评KC战胜T1",
-          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84KC%E6%88%98%E8%83%9CT1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时36分 ~ 19时12分]"
+          "time_info": "[00时04分 ~ 00时05分]"
         },
         {
           "title": "GEN战胜T1",
           "url": "https://search.bilibili.com/all?keyword=T1%20GEN",
           "source": "bilibili 热搜",
           "ranks": [
-            1,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时25分 ~ 23时02分]"
-        },
-        {
-          "title": "TCL华星星智X-Intelligence大模型在显示领域超越Gemini 3.1 Pro与GPT-5.5 high",
-          "url": "https://wallstreetcn.com/livenews/3136253",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            28
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时12分 ~ 21时25分]"
-        },
-        {
-          "title": "KC绝境逆转T1晋级EWC决赛",
-          "url": "https://www.douyin.com/hot/2576641",
-          "source": "抖音",
-          "ranks": [
-            10,
-            15,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时57分 ~ 14时34分]"
-        },
-        {
-          "title": "EWC 半决赛 KC 2:1 T1，如何评价这场比赛？",
-          "url": "https://www.zhihu.com/question/2061933785382380641",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时55分"
-        },
-        {
-          "title": "<a href=\"https://www.jin10.com/activities/2026/7/month/index.html\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/07/T2gN44PooVkFF9HPuMJXh.jpg/lite\" height=\"120\"/></a>",
-          "url": "https://flash.jin10.com/detail/20260719203101946800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时25分"
+          "time_info": "[00时04分 ~ 00时05分]"
         }
       ]
     }
