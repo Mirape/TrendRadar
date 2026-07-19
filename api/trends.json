@@ -1,12 +1,27 @@
 {
-  "generated_at": "2026-07-19T11:36:23.111432+08:00",
-  "total_titles_processed": 791,
+  "generated_at": "2026-07-19T14:34:38.234355+08:00",
+  "total_titles_processed": 928,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
       "match_count": 6,
       "titles": [
+        {
+          "title": "KC战胜T1赛后数据",
+          "url": "https://search.bilibili.com/all?keyword=KC%E6%88%98%E8%83%9CT1%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            4,
+            5,
+            7,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时04分 ~ 14时34分]"
+        },
         {
           "title": "KC战胜T1 电竞世俱杯",
           "url": "https://search.bilibili.com/all?keyword=T1%20KC",
@@ -16,20 +31,6 @@
             1,
             2,
             3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时04分 ~ 07时57分]"
-        },
-        {
-          "title": "KC战胜T1赛后数据",
-          "url": "https://search.bilibili.com/all?keyword=KC%E6%88%98%E8%83%9CT1%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            4,
-            5,
-            7
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -56,9 +57,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时36分 ~ 14时34分]"
         },
         {
           "title": "KC绝境逆转T1晋级EWC决赛",
@@ -66,11 +67,12 @@
           "source": "抖音",
           "ranks": [
             10,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时57分 ~ 11时36分]"
+          "appearance_count": 3,
+          "time_info": "[07时57分 ~ 14时34分]"
         },
         {
           "title": "EWC 半决赛 KC 2:1 T1，如何评价这场比赛？",
