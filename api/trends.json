@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-07-20T02:02:13.994990+08:00",
-  "total_titles_processed": 386,
+  "generated_at": "2026-07-20T03:20:47.227786+08:00",
+  "total_titles_processed": 421,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
       "match_count": 2,
       "titles": [
+        {
+          "title": "GEN战胜T1",
+          "url": "https://search.bilibili.com/all?keyword=T1%20GEN",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时04分 ~ 03时20分]"
+        },
         {
           "title": "T1滔味渐浓,GEN笑纳季军",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356319&amp;topic_name=T1%E6%BB%94%E5%91%B3%E6%B8%90%E6%B5%93%2CGEN%E7%AC%91%E7%BA%B3%E5%AD%A3%E5%86%9B",
@@ -16,19 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时04分 ~ 02时02分]"
-        },
-        {
-          "title": "GEN战胜T1",
-          "url": "https://search.bilibili.com/all?keyword=T1%20GEN",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时04分 ~ 02时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时04分 ~ 03时20分]"
         }
       ]
     }
