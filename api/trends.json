@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-20T00:05:14.907787+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-07-20T02:02:13.994990+08:00",
+  "total_titles_processed": 386,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356319&amp;topic_name=T1%E6%BB%94%E5%91%B3%E6%B8%90%E6%B5%93%2CGEN%E7%AC%91%E7%BA%B3%E5%AD%A3%E5%86%9B",
           "source": "贴吧",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 00时05分]"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 02时02分]"
         },
         {
           "title": "GEN战胜T1",
@@ -26,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 00时05分]"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 02时02分]"
         }
       ]
     }
