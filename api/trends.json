@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-20T07:00:15.059315+08:00",
-  "total_titles_processed": 602,
+  "generated_at": "2026-07-20T08:06:30.919763+08:00",
+  "total_titles_processed": 727,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 2,
+      "match_count": 6,
       "titles": [
         {
           "title": "T1滔味渐浓,GEN笑纳季军",
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时04分 ~ 07时00分]"
+          "appearance_count": 10,
+          "time_info": "[00时04分 ~ 08时06分]"
         },
         {
           "title": "GEN战胜T1",
@@ -28,11 +28,56 @@
             4,
             1,
             3,
-            12
+            12,
+            16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时04分 ~ 07时00分]"
+          "appearance_count": 10,
+          "time_info": "[00时04分 ~ 08时06分]"
+        },
+        {
+          "title": "英国7月Rightmove平均房屋要价指数同比 -0.4%，前值 -0.5%。",
+          "url": "https://wallstreetcn.com/livenews/3136378",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        },
+        {
+          "title": "英国7月Rightmove平均房屋要价指数环比 -1%，前值 -0.6%。",
+          "url": "https://wallstreetcn.com/livenews/3136377",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        },
+        {
+          "title": "英国7月Rightmove平均房屋要价指数年率 -0.4%，前值-0.50%。",
+          "url": "https://flash.jin10.com/detail/20260720070222759800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        },
+        {
+          "title": "英国7月Rightmove平均房屋要价指数月率 -1%，前值-0.60%。",
+          "url": "https://flash.jin10.com/detail/20260720070214743800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
         }
       ]
     }
