@@ -1,26 +1,12 @@
 {
-  "generated_at": "2026-07-20T12:38:59.418939+08:00",
-  "total_titles_processed": 941,
+  "generated_at": "2026-07-20T16:10:09.474050+08:00",
+  "total_titles_processed": 1125,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
-        {
-          "title": "T1滔味渐浓,GEN笑纳季军",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356319&amp;topic_name=T1%E6%BB%94%E5%91%B3%E6%B8%90%E6%B5%93%2CGEN%E7%AC%91%E7%BA%B3%E5%AD%A3%E5%86%9B",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            4,
-            5,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时04分 ~ 12时38分]"
-        },
         {
           "title": "GEN战胜T1",
           "url": "https://search.bilibili.com/all?keyword=T1%20GEN",
@@ -35,6 +21,32 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时04分 ~ 08时06分]"
+        },
+        {
+          "title": "T1滔味渐浓,GEN笑纳季军",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356319&amp;topic_name=T1%E6%BB%94%E5%91%B3%E6%B8%90%E6%B5%93%2CGEN%E7%AC%91%E7%BA%B3%E5%AD%A3%E5%86%9B",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            4,
+            5,
+            12,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时04分 ~ 16时10分]"
+        },
+        {
+          "title": "KC战胜T1赛后数据",
+          "url": "https://search.bilibili.com/all?keyword=KC%E6%88%98%E8%83%9CT1%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时09分 ~ 16时10分]"
         },
         {
           "title": "英国7月Rightmove平均房屋要价指数同比 -0.4%，前值 -0.5%。",
