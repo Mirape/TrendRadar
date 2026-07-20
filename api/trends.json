@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-07-21T00:27:36.255136+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2026-07-21T02:56:09.113035+08:00",
+  "total_titles_processed": 416,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "<a href=\"https://www.jin10.com/activities/2026/7/month/index.html\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/07/T2gN44PooVkFF9HPuMJXh.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260721012433711800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时56分"
+        },
         {
           "title": "T1滔味渐浓,GEN笑纳季军",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356319&amp;topic_name=T1%E6%BB%94%E5%91%B3%E6%B8%90%E6%B5%93%2CGEN%E7%AC%91%E7%BA%B3%E5%AD%A3%E5%86%9B",
