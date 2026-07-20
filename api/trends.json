@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-20T19:49:20.335136+08:00",
-  "total_titles_processed": 1331,
+  "generated_at": "2026-07-20T22:14:17.231185+08:00",
+  "total_titles_processed": 1477,
   "failed_sources": [],
   "trends": [
     {
@@ -35,8 +35,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时04分 ~ 19时49分]"
+          "appearance_count": 16,
+          "time_info": "[00时04分 ~ 22时14分]"
         },
         {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850576&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/07/xEC23L5QlNQqzCmzOgQ3x.jpg/lite\" height=\"120\"/></a>",
@@ -45,7 +45,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时49分"
         },
