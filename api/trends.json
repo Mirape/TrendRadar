@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-24T04:17:13.792713+08:00",
-  "total_titles_processed": 457,
+  "generated_at": "2026-07-24T06:08:44.018202+08:00",
+  "total_titles_processed": 526,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时40分 ~ 04时17分]"
+          "appearance_count": 7,
+          "time_info": "[00时40分 ~ 06时08分]"
         },
         {
           "title": "Knight拿出LPL首个洛克",
@@ -24,11 +24,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             21,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时17分 ~ 04时17分]"
+          "appearance_count": 5,
+          "time_info": "[02时17分 ~ 06时08分]"
         },
         {
           "title": "家乐福上半年净销售394.3亿欧元，分析师预期398.8亿欧元。 二季度同店（LFL）销售（剔除燃料、日历因素）增长1.9%。 二季度销售（含增值税VAT）为227.1亿欧元，分析师预期230.1亿欧元。 CFO Matthieu Malige称并没有洽谈资产出售问题。",
