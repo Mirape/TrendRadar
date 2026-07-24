@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-24T15:35:36.022839+08:00",
-  "total_titles_processed": 1016,
+  "generated_at": "2026-07-24T18:23:20.031960+08:00",
+  "total_titles_processed": 1202,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             4,
             11,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 15时35分]"
+          "appearance_count": 11,
+          "time_info": "[00时40分 ~ 18时23分]"
         },
         {
           "title": "Knight拿出LPL首个洛克",
