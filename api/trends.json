@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-07-25T17:53:08.658975+08:00",
-  "total_titles_processed": 1086,
+  "generated_at": "2026-07-25T19:15:13.313024+08:00",
+  "total_titles_processed": 1160,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "IG vs WBG LPL第三赛段",
           "url": "https://search.bilibili.com/all?keyword=IG%20WBG",
           "source": "bilibili 热搜",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时52分 ~ 17时53分]"
+          "appearance_count": 4,
+          "time_info": "[17时52分 ~ 19时15分]"
         },
         {
           "title": "韩国法律保护,T1花圈不能撤",
@@ -41,6 +42,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时21分 ~ 08时08分]"
+        },
+        {
+          "title": "iG对战WBG",
+          "url": "https://s.weibo.com/weibo?q=iG%E5%AF%B9%E6%88%98WBG&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时14分 ~ 19时15分]"
         }
       ]
     }
