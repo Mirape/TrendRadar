@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-26T06:01:39.703466+08:00",
-  "total_titles_processed": 427,
+  "generated_at": "2026-07-26T07:05:36.118673+08:00",
+  "total_titles_processed": 448,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 06时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时03分 ~ 07时05分]"
         },
         {
           "title": "IG战胜WBG",
@@ -26,11 +26,12 @@
           "ranks": [
             4,
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 06时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时03分 ~ 07时05分]"
         },
         {
           "title": "IG战胜WBG赛后数据",
@@ -39,11 +40,12 @@
           "ranks": [
             23,
             18,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 06时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时03分 ~ 07时05分]"
         },
         {
           "title": "真实电竞评IG让1追2WBG",
@@ -51,11 +53,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             11,
-            8
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 03时13分]"
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 07时05分]"
         },
         {
           "title": "锐评IG战胜WBG",
@@ -66,8 +69,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时57分 ~ 06时01分]"
+          "appearance_count": 3,
+          "time_info": "[04时57分 ~ 07时05分]"
         },
         {
           "title": "IG胜利结算动画",
@@ -75,11 +78,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             16,
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时13分 ~ 06时01分]"
+          "appearance_count": 3,
+          "time_info": "[03时13分 ~ 07时05分]"
         }
       ]
     }
