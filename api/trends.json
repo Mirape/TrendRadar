@@ -1,105 +1,22 @@
 {
-  "generated_at": "2026-07-26T23:09:42.584156+08:00",
-  "total_titles_processed": 1241,
+  "generated_at": "2026-07-27T01:06:56.824083+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 7,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "IG战胜WBG LPL第三赛段",
-          "url": "https://search.bilibili.com/all?keyword=IG%20WBG",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 07时05分]"
-        },
-        {
-          "title": "IG战胜WBG",
-          "url": "https://www.douyin.com/hot/2585146",
-          "source": "抖音",
-          "ranks": [
-            4,
-            5,
-            6,
-            7,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 11时22分]"
-        },
         {
           "title": "IG战胜WBG赛后数据",
           "url": "https://search.bilibili.com/all?keyword=IG%E6%88%98%E8%83%9CWBG%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE",
           "source": "bilibili 热搜",
           "ranks": [
-            23,
-            18,
-            16,
-            19,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时03分 ~ 19时23分]"
-        },
-        {
-          "title": "真实电竞评IG让1追2WBG",
-          "url": "https://search.bilibili.com/all?keyword=%E7%9C%9F%E5%AE%9E%E7%94%B5%E7%AB%9E%E8%AF%84IG%E8%AE%A91%E8%BF%BD2WBG",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            8,
-            13,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 11时22分]"
-        },
-        {
-          "title": "<a href=\"https://www.jin10.com/activities/2026/7/new_horizons/index.html\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/07/2jUK1z_oopN8fK8G7j0ob.jpg/lite\" height=\"120\"/></a>",
-          "url": "https://flash.jin10.com/detail/20260726090145691800",
-          "source": "金十数据",
-          "ranks": [
-            25,
-            6,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时22分 ~ 23时09分]"
-        },
-        {
-          "title": "锐评IG战胜WBG",
-          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84IG%E6%88%98%E8%83%9CWBG",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时57分 ~ 07时05分]"
-        },
-        {
-          "title": "IG胜利结算动画",
-          "url": "https://search.bilibili.com/all?keyword=IG%E8%83%9C%E5%88%A9%E7%BB%93%E7%AE%97%E5%8A%A8%E7%94%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16,
-            25,
             30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时13分 ~ 07时05分]"
+          "appearance_count": 1,
+          "time_info": "01时06分"
         }
       ]
     }
