@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-26T17:17:56.762626+08:00",
-  "total_titles_processed": 920,
+  "generated_at": "2026-07-26T19:23:01.997024+08:00",
+  "total_titles_processed": 1040,
   "failed_sources": [],
   "trends": [
     {
@@ -42,11 +42,12 @@
             23,
             18,
             16,
-            19
+            19,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 07时05分]"
+          "appearance_count": 7,
+          "time_info": "[01时03分 ~ 19时23分]"
         },
         {
           "title": "真实电竞评IG让1追2WBG",
