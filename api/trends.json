@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-26T21:37:35.958022+08:00",
-  "total_titles_processed": 1163,
+  "generated_at": "2026-07-26T23:09:42.584156+08:00",
+  "total_titles_processed": 1241,
   "failed_sources": [],
   "trends": [
     {
@@ -64,6 +64,19 @@
           "time_info": "[01时03分 ~ 11时22分]"
         },
         {
+          "title": "<a href=\"https://www.jin10.com/activities/2026/7/new_horizons/index.html\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/07/2jUK1z_oopN8fK8G7j0ob.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260726090145691800",
+          "source": "金十数据",
+          "ranks": [
+            25,
+            6,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时22分 ~ 23时09分]"
+        },
+        {
           "title": "锐评IG战胜WBG",
           "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84IG%E6%88%98%E8%83%9CWBG",
           "source": "bilibili 热搜",
@@ -87,18 +100,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时13分 ~ 07时05分]"
-        },
-        {
-          "title": "<a href=\"https://www.jin10.com/activities/2026/7/new_horizons/index.html\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/07/2jUK1z_oopN8fK8G7j0ob.jpg/lite\" height=\"120\"/></a>",
-          "url": "https://flash.jin10.com/detail/20260726090145691800",
-          "source": "金十数据",
-          "ranks": [
-            25,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时22分 ~ 21时37分]"
         }
       ]
     }
