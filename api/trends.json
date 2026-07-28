@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-28T19:22:40.873281+08:00",
-  "total_titles_processed": 1194,
+  "generated_at": "2026-07-28T22:18:11.324417+08:00",
+  "total_titles_processed": 1373,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "铿腾电子（Cadence Design）二季度营收15.8亿美元，分析师预期15.7亿美元。 二季度调整后每股收益（EPS）为2.11美元，分析师预期2.06美元。 预计全年营收62.6亿-63.4亿美元，公司原本预计61.3亿-62.3亿美元。 预计全年调整后EPS为8.05-8.15美元，公司原本预计7.58-7.95美元。 预计三季度营收16.0亿-16.3亿美元，分析师预期15.5亿美元。 预计三季度调整后EPS为2.01-2.07美元，分析师预期1.95美元。 铿腾电子（CDNS）美股盘后涨7%。",
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
+        },
+        {
+          "title": "<a href=\"https://www.jin10.com/activities/2026/7/new_horizons/index.html\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/07/2jUK1z_oopN8fK8G7j0ob.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260728213146693800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         }
       ]
     }
