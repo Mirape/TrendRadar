@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-29T23:10:59.452786+08:00",
-  "total_titles_processed": 1551,
+  "generated_at": "2026-07-30T01:19:18.932324+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
@@ -14,20 +14,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时10分"
+          "time_info": "01时19分"
         },
         {
           "title": "AL战胜TES赛后数据",
           "url": "https://search.bilibili.com/all?keyword=AL%E6%88%98%E8%83%9CTES%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE",
           "source": "bilibili 热搜",
           "ranks": [
-            22
+            10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时10分"
+          "time_info": "01时19分"
         }
       ]
     }
