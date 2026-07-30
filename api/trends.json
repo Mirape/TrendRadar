@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-30T15:37:36.892635+08:00",
-  "total_titles_processed": 1072,
+  "generated_at": "2026-07-30T18:29:44.630165+08:00",
+  "total_titles_processed": 1249,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             4,
             11,
-            17
+            17,
+            22
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时19分 ~ 15时37分]"
+          "appearance_count": 10,
+          "time_info": "[01时19分 ~ 18时29分]"
         },
         {
           "title": "AL战胜TES赛后数据",
