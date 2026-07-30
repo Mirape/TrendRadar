@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-30T08:04:04.716792+08:00",
-  "total_titles_processed": 660,
+  "generated_at": "2026-07-30T12:09:28.625176+08:00",
+  "total_titles_processed": 869,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356622&amp;topic_name=KT%E9%9B%B6%E5%B0%81T1%2C%E5%AE%AB%E6%96%97%E5%87%BA%E5%A5%87%E8%BF%B9",
           "source": "贴吧",
           "ranks": [
-            4
+            4,
+            11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时19分 ~ 08时04分]"
+          "appearance_count": 8,
+          "time_info": "[01时19分 ~ 12时09分]"
         },
         {
           "title": "AL战胜TES赛后数据",
@@ -25,11 +26,12 @@
           "ranks": [
             10,
             7,
-            9
+            9,
+            23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时19分 ~ 08时04分]"
+          "appearance_count": 8,
+          "time_info": "[01时19分 ~ 12时09分]"
         }
       ]
     }
