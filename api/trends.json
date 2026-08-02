@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-03T01:04:56.629815+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-08-03T03:16:40.302055+08:00",
+  "total_titles_processed": 372,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://search.bilibili.com/all?keyword=LNG%20IG",
           "source": "bilibili 热搜",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时04分"
+          "appearance_count": 2,
+          "time_info": "[01时04分 ~ 03时16分]"
         },
         {
           "title": "IG战胜LNG",
@@ -26,8 +27,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时04分"
+          "appearance_count": 2,
+          "time_info": "[01时04分 ~ 03时16分]"
         }
       ]
     }
