@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-03T05:00:23.866107+08:00",
-  "total_titles_processed": 413,
+  "generated_at": "2026-08-03T06:04:16.340903+08:00",
+  "total_titles_processed": 439,
   "failed_sources": [],
   "trends": [
     {
@@ -14,22 +14,24 @@
           "ranks": [
             1,
             2,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时04分 ~ 05时00分]"
+          "appearance_count": 5,
+          "time_info": "[01时04分 ~ 06时04分]"
         },
         {
           "title": "IG战胜LNG",
           "url": "https://www.douyin.com/hot/2594969",
           "source": "抖音",
           "ranks": [
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时04分 ~ 05时00分]"
+          "appearance_count": 5,
+          "time_info": "[01时04分 ~ 06时04分]"
         }
       ]
     }
