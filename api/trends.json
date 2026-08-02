@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-02T19:19:52.086883+08:00",
-  "total_titles_processed": 1003,
+  "generated_at": "2026-08-02T21:36:46.371601+08:00",
+  "total_titles_processed": 1133,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "LNG vs IG LPL第三赛段",
@@ -14,9 +14,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
+        },
+        {
+          "title": "IG战胜LNG",
+          "url": "https://search.bilibili.com/all?keyword=LNG%20IG",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         },
         {
           "title": "航班追踪网站Flightradar 24的信息显示，WestJet航空在工会发出罢工通知后实施停工。截至目前，周日已有210架次航班被取消。",
