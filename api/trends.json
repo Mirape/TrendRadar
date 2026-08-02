@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-02T23:06:16.877566+08:00",
-  "total_titles_processed": 1220,
+  "generated_at": "2026-08-03T01:04:56.629815+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 7,
+      "match_count": 2,
       "titles": [
         {
           "title": "IG战胜LNG",
@@ -15,42 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时36分 ~ 23时06分]"
-        },
-        {
-          "title": "LNG vs IG LPL第三赛段",
-          "url": "https://search.bilibili.com/all?keyword=LNG%20IG",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时19分"
-        },
-        {
-          "title": "航班追踪网站Flightradar 24的信息显示，WestJet航空在工会发出罢工通知后实施停工。截至目前，周日已有210架次航班被取消。",
-          "url": "https://flash.jin10.com/detail/20260802141630577800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时37分 ~ 17时12分]"
-        },
-        {
-          "title": "竞圈集体祝福IG十五周年",
-          "url": "https://search.bilibili.com/all?keyword=%E7%AB%9E%E5%9C%88%E9%9B%86%E4%BD%93%E7%A5%9D%E7%A6%8FIG%E5%8D%81%E4%BA%94%E5%91%A8%E5%B9%B4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时12分"
+          "time_info": "01时04分"
         },
         {
           "title": "IG战胜LNG",
@@ -59,31 +25,9 @@
           "ranks": [
             19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时06分"
-        },
-        {
-          "title": "IG 15周年454位选手编年史",
-          "url": "https://search.bilibili.com/all?keyword=IG%2015%E5%91%A8%E5%B9%B4454%E4%BD%8D%E9%80%89%E6%89%8B%E7%BC%96%E5%B9%B4%E5%8F%B2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时37分"
-        },
-        {
-          "title": "IG 2-0 LNG赛后数据",
-          "url": "https://search.bilibili.com/all?keyword=IG%202-0%20LNG%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时06分"
+          "time_info": "01时04分"
         }
       ]
     }
