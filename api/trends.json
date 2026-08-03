@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-04T01:56:34.567333+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-08-04T05:08:16.626726+08:00",
+  "total_titles_processed": 412,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时56分"
+          "appearance_count": 3,
+          "time_info": "[01时56分 ~ 05时08分]"
         },
         {
           "title": "锐评IG战胜LNG",
           "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84IG%E6%88%98%E8%83%9CLNG",
           "source": "bilibili 热搜",
           "ranks": [
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时56分"
+          "appearance_count": 3,
+          "time_info": "[01时56分 ~ 05时08分]"
         }
       ]
     }
