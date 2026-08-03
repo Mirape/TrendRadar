@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-03T06:04:16.340903+08:00",
-  "total_titles_processed": 439,
+  "generated_at": "2026-08-03T08:02:03.062560+08:00",
+  "total_titles_processed": 555,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             1,
             2,
             13,
-            14
+            14,
+            26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时04分 ~ 06时04分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 08时02分]"
         },
         {
           "title": "IG战胜LNG",
@@ -30,8 +31,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时04分 ~ 06时04分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 08时02分]"
         }
       ]
     }
