@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-03T20:28:56.825907+08:00",
-  "total_titles_processed": 1199,
+  "generated_at": "2026-08-03T23:46:21.660870+08:00",
+  "total_titles_processed": 1372,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "IG战胜LNG",
@@ -35,26 +35,37 @@
           "time_info": "[01时04分 ~ 08时02分]"
         },
         {
-          "title": "IG呼吁勿对选手人身攻击",
-          "url": "https://search.bilibili.com/all?keyword=IG%E5%91%BC%E5%90%81%E5%8B%BF%E5%AF%B9%E9%80%89%E6%89%8B%E4%BA%BA%E8%BA%AB%E6%94%BB%E5%87%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时28分"
-        },
-        {
           "title": "T1男团出道,Faker领衔六男一",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356752&amp;topic_name=T1%E7%94%B7%E5%9B%A2%E5%87%BA%E9%81%93%2CFaker%E9%A2%86%E8%A1%94%E5%85%AD%E7%94%B7%E4%B8%80",
           "source": "贴吧",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时28分 ~ 23时46分]"
+        },
+        {
+          "title": "IG呼吁勿对选手人身攻击",
+          "url": "https://search.bilibili.com/all?keyword=IG%E5%91%BC%E5%90%81%E5%8B%BF%E5%AF%B9%E9%80%89%E6%89%8B%E4%BA%BA%E8%BA%AB%E6%94%BB%E5%87%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时28分"
+        },
+        {
+          "title": "明晟公司MSCI北欧国家指数涨0.2%，报395.90点。 在十个板块中，北欧工业板块涨幅最大。 软件开发商Octave Intelligence Plc.涨5.1%，在一众北欧个股里领跑。",
+          "url": "https://wallstreetcn.com/livenews/3144254",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
         },
         {
           "title": "锐评IG战胜LNG",
@@ -62,11 +73,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             1,
-            24
+            24,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时33分 ~ 20时28分]"
+          "appearance_count": 4,
+          "time_info": "[12时33分 ~ 23时46分]"
         },
         {
           "title": "IG 2-0 LNG赛后数据",
