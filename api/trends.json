@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-03T08:02:03.062560+08:00",
-  "total_titles_processed": 555,
+  "generated_at": "2026-08-03T12:34:02.889783+08:00",
+  "total_titles_processed": 785,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "IG战胜LNG",
@@ -23,6 +23,17 @@
           "time_info": "[01时04分 ~ 08时02分]"
         },
         {
+          "title": "锐评IG战胜LNG",
+          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84IG%E6%88%98%E8%83%9CLNG",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 12时34分]"
+        },
+        {
           "title": "IG战胜LNG",
           "url": "https://www.douyin.com/hot/2594969",
           "source": "抖音",
@@ -33,6 +44,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时04分 ~ 08时02分]"
+        },
+        {
+          "title": "IG 2-0 LNG赛后数据",
+          "url": "https://search.bilibili.com/all?keyword=IG%202-0%20LNG%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 12时34分]"
         }
       ]
     }
