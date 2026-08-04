@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-05T02:41:46.797096+08:00",
-  "total_titles_processed": 385,
+  "generated_at": "2026-08-05T04:28:03.888788+08:00",
+  "total_titles_processed": 459,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             10,
-            7
+            7,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 02时41分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 04时28分]"
         },
         {
           "title": "T1男团出道,Faker领衔六男一",
@@ -27,8 +28,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 02时41分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 04时28分]"
         }
       ]
     }
