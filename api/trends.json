@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-04T07:06:04.105339+08:00",
-  "total_titles_processed": 478,
+  "generated_at": "2026-08-04T10:51:26.975693+08:00",
+  "total_titles_processed": 687,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356752&amp;topic_name=T1%E7%94%B7%E5%9B%A2%E5%87%BA%E9%81%93%2CFaker%E9%A2%86%E8%A1%94%E5%85%AD%E7%94%B7%E4%B8%80",
           "source": "贴吧",
           "ranks": [
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时56分 ~ 07时06分]"
+          "appearance_count": 6,
+          "time_info": "[01时56分 ~ 10时51分]"
         },
         {
           "title": "锐评IG战胜LNG",
