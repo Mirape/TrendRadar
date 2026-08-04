@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-04T16:44:34.504663+08:00",
-  "total_titles_processed": 1037,
+  "generated_at": "2026-08-04T19:28:17.695685+08:00",
+  "total_titles_processed": 1200,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "T1男团出道,Faker领衔六男一",
@@ -14,11 +14,12 @@
           "ranks": [
             6,
             10,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时56分 ~ 16时44分]"
+          "appearance_count": 9,
+          "time_info": "[01时56分 ~ 19时28分]"
         },
         {
           "title": "锐评IG战胜LNG",
@@ -31,6 +32,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时56分 ~ 05时08分]"
+        },
+        {
+          "title": "玩了《英雄联盟》经典模式发现提莫从远古时代到现在技能组从未变化，他的技能有这么优秀吗？",
+          "url": "https://www.zhihu.com/question/2066106449541981322",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
         }
       ]
     }
