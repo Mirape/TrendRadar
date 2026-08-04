@@ -1,50 +1,33 @@
 {
-  "generated_at": "2026-08-04T22:24:24.293835+08:00",
-  "total_titles_processed": 1375,
+  "generated_at": "2026-08-05T00:55:39.034990+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 3,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "T1男团出道,Faker领衔六男一",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356752&amp;topic_name=T1%E7%94%B7%E5%9B%A2%E5%87%BA%E9%81%93%2CFaker%E9%A2%86%E8%A1%94%E5%85%AD%E7%94%B7%E4%B8%80",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            10,
-            15,
-            17,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时56分 ~ 22时24分]"
-        },
-        {
-          "title": "锐评IG战胜LNG",
-          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84IG%E6%88%98%E8%83%9CLNG",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时56分 ~ 05时08分]"
-        },
         {
           "title": "玩了《英雄联盟》经典模式发现提莫从远古时代到现在技能组从未变化，他的技能有这么优秀吗？",
           "url": "https://www.zhihu.com/question/2066106449541981322",
           "source": "知乎",
           "ranks": [
-            13,
-            7
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时28分 ~ 22时24分]"
+          "appearance_count": 1,
+          "time_info": "00时55分"
+        },
+        {
+          "title": "T1男团出道,Faker领衔六男一",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356752&amp;topic_name=T1%E7%94%B7%E5%9B%A2%E5%87%BA%E9%81%93%2CFaker%E9%A2%86%E8%A1%94%E5%85%AD%E7%94%B7%E4%B8%80",
+          "source": "贴吧",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时55分"
         }
       ]
     }
