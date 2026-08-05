@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-08-05T08:08:06.466170+08:00",
-  "total_titles_processed": 649,
+  "generated_at": "2026-08-05T12:14:07.741406+08:00",
+  "total_titles_processed": 870,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "T1男团出道,Faker领衔六男一",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356752&amp;topic_name=T1%E7%94%B7%E5%9B%A2%E5%87%BA%E9%81%93%2CFaker%E9%A2%86%E8%A1%94%E5%85%AD%E7%94%B7%E4%B8%80",
           "source": "贴吧",
           "ranks": [
-            21
+            21,
+            28
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时55分 ~ 08时08分]"
+          "appearance_count": 10,
+          "time_info": "[00时55分 ~ 12时14分]"
         },
         {
           "title": "玩了《英雄联盟》经典模式发现提莫从远古时代到现在技能组从未变化，他的技能有这么优秀吗？",
@@ -30,6 +31,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时55分 ~ 04时28分]"
+        },
+        {
+          "title": "为什么《英雄联盟》要把纯肉装设定为性价比非常低？",
+          "url": "https://www.zhihu.com/question/533106223",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时13分 ~ 12时14分]"
         }
       ]
     }
