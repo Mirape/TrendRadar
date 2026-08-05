@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-05T20:57:16.833558+08:00",
-  "total_titles_processed": 1382,
+  "generated_at": "2026-08-05T23:20:23.017358+08:00",
+  "total_titles_processed": 1532,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "T1男团出道,Faker领衔六男一",
@@ -42,6 +42,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时13分 ~ 12时14分]"
+        },
+        {
+          "title": "iG全员力挺Meiko",
+          "url": "https://s.weibo.com/weibo?q=%23iG%E5%85%A8%E5%91%98%E5%8A%9B%E6%8C%BAMeiko%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         }
       ]
     }
