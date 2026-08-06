@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-06T19:28:26.875094+08:00",
-  "total_titles_processed": 1274,
+  "generated_at": "2026-08-06T22:24:08.972546+08:00",
+  "total_titles_processed": 1445,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 7,
+      "match_count": 12,
       "titles": [
         {
           "title": "高下立判,IG全队力挺Meiko",
@@ -16,11 +16,23 @@
             5,
             9,
             16,
-            18
+            18,
+            23
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时45分 ~ 19时28分]"
+          "appearance_count": 11,
+          "time_info": "[01时45分 ~ 22时24分]"
+        },
+        {
+          "title": "NIP战胜IG赛后数据",
+          "url": "https://search.bilibili.com/all?keyword=NIP%E6%88%98%E8%83%9CIG%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时23分 ~ 22时24分]"
         },
         {
           "title": "IG vs NIP LPL第三赛段",
@@ -29,7 +41,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
         },
@@ -45,6 +57,50 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时53分 ~ 19时28分]"
+        },
+        {
+          "title": "NIP战胜IG",
+          "url": "https://search.bilibili.com/all?keyword=IG%20NIP",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时23分 ~ 22时24分]"
+        },
+        {
+          "title": "NIP战胜iG",
+          "url": "https://s.weibo.com/weibo?q=NIP%E6%88%98%E8%83%9CiG&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时23分 ~ 22时24分]"
+        },
+        {
+          "title": "NIP战胜IG",
+          "url": "https://www.douyin.com/hot/2600188",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时23分 ~ 22时24分]"
+        },
+        {
+          "title": "T1战胜DK赛后数据",
+          "url": "https://search.bilibili.com/all?keyword=T1%E6%88%98%E8%83%9CDK%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时23分 ~ 22时24分]"
         },
         {
           "title": "IG全队力挺Meiko",
@@ -64,7 +120,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
         },
@@ -75,7 +131,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
         },
@@ -86,7 +142,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
         }
