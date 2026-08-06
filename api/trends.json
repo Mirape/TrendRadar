@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-06T10:51:22.801649+08:00",
-  "total_titles_processed": 736,
+  "generated_at": "2026-08-06T13:53:23.875400+08:00",
+  "total_titles_processed": 912,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "高下立判,IG全队力挺Meiko",
@@ -13,11 +13,34 @@
           "source": "贴吧",
           "ranks": [
             3,
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时45分 ~ 10时51分]"
+          "appearance_count": 7,
+          "time_info": "[01时45分 ~ 13时53分]"
+        },
+        {
+          "title": "IG全队力挺Meiko",
+          "url": "https://search.bilibili.com/all?keyword=IG%E5%85%A8%E9%98%9F%E5%8A%9B%E6%8C%BAMeiko",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
+        },
+        {
+          "title": "《英雄联盟》中国队正式确认缺席 2026 名古屋亚运会，对此你有什么想说的？",
+          "url": "https://www.zhihu.com/question/2068385399152403302",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
         }
       ]
     }
