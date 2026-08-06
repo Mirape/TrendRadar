@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-06T07:05:16.370435+08:00",
-  "total_titles_processed": 539,
+  "generated_at": "2026-08-06T10:51:22.801649+08:00",
+  "total_titles_processed": 736,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356809&amp;topic_name=%E9%AB%98%E4%B8%8B%E7%AB%8B%E5%88%A4%2CIG%E5%85%A8%E9%98%9F%E5%8A%9B%E6%8C%BAMeiko",
           "source": "贴吧",
           "ranks": [
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时45分 ~ 07时05分]"
+          "appearance_count": 6,
+          "time_info": "[01时45分 ~ 10时51分]"
         }
       ]
     }
