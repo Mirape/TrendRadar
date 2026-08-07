@@ -1,150 +1,55 @@
 {
-  "generated_at": "2026-08-06T22:24:08.972546+08:00",
-  "total_titles_processed": 1445,
+  "generated_at": "2026-08-07T08:43:27.955898+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 12,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "NIP逮捕IG,TheShy零作用",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356841&amp;topic_name=NIP%E9%80%AE%E6%8D%95IG%2CTheShy%E9%9B%B6%E4%BD%9C%E7%94%A8",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时43分"
+        },
+        {
+          "title": "锐评NIP战胜IG",
+          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84NIP%E6%88%98%E8%83%9CIG",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时43分"
+        },
         {
           "title": "高下立判,IG全队力挺Meiko",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356809&amp;topic_name=%E9%AB%98%E4%B8%8B%E7%AB%8B%E5%88%A4%2CIG%E5%85%A8%E9%98%9F%E5%8A%9B%E6%8C%BAMeiko",
           "source": "贴吧",
           "ranks": [
-            3,
-            5,
-            9,
-            16,
-            18,
-            23
+            27
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时45分 ~ 22时24分]"
+          "appearance_count": 1,
+          "time_info": "08时43分"
         },
         {
           "title": "NIP战胜IG赛后数据",
           "url": "https://search.bilibili.com/all?keyword=NIP%E6%88%98%E8%83%9CIG%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE",
           "source": "bilibili 热搜",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时23分 ~ 22时24分]"
-        },
-        {
-          "title": "IG vs NIP LPL第三赛段",
-          "url": "https://search.bilibili.com/all?keyword=IG%20NIP",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时28分"
-        },
-        {
-          "title": "《英雄联盟》中国队正式确认缺席 2026 名古屋亚运会，对此你有什么想说的？",
-          "url": "https://www.zhihu.com/question/2068385399152403302",
-          "source": "知乎",
-          "ranks": [
-            7,
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时53分 ~ 19时28分]"
-        },
-        {
-          "title": "NIP战胜IG",
-          "url": "https://search.bilibili.com/all?keyword=IG%20NIP",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时23分 ~ 22时24分]"
-        },
-        {
-          "title": "NIP战胜iG",
-          "url": "https://s.weibo.com/weibo?q=NIP%E6%88%98%E8%83%9CiG&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时23分 ~ 22时24分]"
-        },
-        {
-          "title": "NIP战胜IG",
-          "url": "https://www.douyin.com/hot/2600188",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时23分 ~ 22时24分]"
-        },
-        {
-          "title": "T1战胜DK赛后数据",
-          "url": "https://search.bilibili.com/all?keyword=T1%E6%88%98%E8%83%9CDK%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时23分 ~ 22时24分]"
-        },
-        {
-          "title": "IG全队力挺Meiko",
-          "url": "https://search.bilibili.com/all?keyword=IG%E5%85%A8%E9%98%9F%E5%8A%9B%E6%8C%BAMeiko",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时53分"
-        },
-        {
-          "title": "笑笑西卡回归解说IG",
-          "url": "https://search.bilibili.com/all?keyword=%E7%AC%91%E7%AC%91%E8%A5%BF%E5%8D%A1%E5%9B%9E%E5%BD%92%E8%A7%A3%E8%AF%B4IG",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时28分"
-        },
-        {
-          "title": "SK海力士：Solidigm子公司正审议约5万亿韩元的Pre-IPO融资。",
-          "url": "https://wallstreetcn.com/livenews/3145982",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时28分"
-        },
-        {
-          "title": "iG对战NIP",
-          "url": "https://s.weibo.com/weibo?q=iG%E5%AF%B9%E6%88%98NIP&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时28分"
+          "time_info": "08时43分"
         }
       ]
     }
