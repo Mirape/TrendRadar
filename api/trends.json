@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T01:03:14.178109+08:00",
-  "total_titles_processed": 392,
+  "generated_at": "2026-08-08T03:02:43.306558+08:00",
+  "total_titles_processed": 472,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356841&amp;topic_name=NIP%E9%80%AE%E6%8D%95IG%2CTheShy%E9%9B%B6%E4%BD%9C%E7%94%A8",
           "source": "贴吧",
           "ranks": [
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 01时03分]"
+          "appearance_count": 5,
+          "time_info": "[00时01分 ~ 03时02分]"
         },
         {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850591&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/08/jwXasxMKTX0anRNXTKMOK.jpg/lite\" height=\"120\"/></a>",
