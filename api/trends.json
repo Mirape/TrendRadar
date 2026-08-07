@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-07T18:57:23.498855+08:00",
-  "total_titles_processed": 1082,
+  "generated_at": "2026-08-07T19:50:05.577882+08:00",
+  "total_titles_processed": 1194,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             6,
             11,
             13,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时43分 ~ 18时57分]"
+          "appearance_count": 9,
+          "time_info": "[08时43分 ~ 19时50分]"
         },
         {
           "title": "NIP战胜IG赛后数据",
