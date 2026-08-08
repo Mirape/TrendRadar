@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T15:55:46.815967+08:00",
-  "total_titles_processed": 1065,
+  "generated_at": "2026-08-08T16:47:15.385230+08:00",
+  "total_titles_processed": 1127,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "NIP逮捕IG,TheShy零作用",
@@ -25,11 +25,23 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356963&amp;topic_name=Oner%E6%9B%BF%E8%A1%A5%2CT1%E4%B8%8A%E8%B0%83%E4%BA%8C%E9%98%9F%E6%89%93%E9%87%8E",
           "source": "贴吧",
           "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时55分 ~ 16时47分]"
+        },
+        {
+          "title": "T1官宣轮换Oner",
+          "url": "https://search.bilibili.com/all?keyword=T1%E5%AE%98%E5%AE%A3%E8%BD%AE%E6%8D%A2Oner",
+          "source": "bilibili 热搜",
+          "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时46分 ~ 16时47分]"
         },
         {
           "title": "<a href=\"https://www.jin10.com/activities/2026/8/vip_article/index.html\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/08/y_xv4lKSiuAni719pfe5I.jpg/lite\" height=\"120\"/></a>",
