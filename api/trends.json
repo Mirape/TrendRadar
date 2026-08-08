@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-09T02:42:43.224471+08:00",
-  "total_titles_processed": 383,
+  "generated_at": "2026-08-09T03:34:09.193270+08:00",
+  "total_titles_processed": 406,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "T1临阵换人,HLE止连败",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 02时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 03时34分]"
         },
         {
           "title": "Oner替补,T1上调二队打野",
@@ -28,8 +28,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 02时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时38分 ~ 03时34分]"
         },
         {
           "title": "HLE 2-1 T1赛后数据",
@@ -37,11 +37,23 @@
           "source": "bilibili 热搜",
           "ranks": [
             13,
-            28
+            28,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时34分 ~ 03时34分]"
+        },
+        {
+          "title": "苹果终于把千问接进Siri：中国版Apple Intelligence来了",
+          "url": "https://wallstreetcn.com/articles/3778992",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时34分 ~ 02时42分]"
+          "time_info": "[03时33分 ~ 03时34分]"
         },
         {
           "title": "<a href=\"https://www.jin10.com/activities/2026/8/vip_article/index.html\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/08/tcWa66qJEjxbSJWe5UQL6.jpg/lite\" height=\"120\"/></a>",
