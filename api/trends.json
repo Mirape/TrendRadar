@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T16:47:15.385230+08:00",
-  "total_titles_processed": 1127,
+  "generated_at": "2026-08-08T17:42:22.369053+08:00",
+  "total_titles_processed": 1199,
   "failed_sources": [],
   "trends": [
     {
@@ -29,19 +29,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时55分 ~ 16时47分]"
+          "appearance_count": 4,
+          "time_info": "[15时55分 ~ 17时42分]"
         },
         {
           "title": "T1官宣轮换Oner",
           "url": "https://search.bilibili.com/all?keyword=T1%E5%AE%98%E5%AE%A3%E8%BD%AE%E6%8D%A2Oner",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            4,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时46分 ~ 16时47分]"
+          "appearance_count": 3,
+          "time_info": "[16时46分 ~ 17时42分]"
         },
         {
           "title": "<a href=\"https://www.jin10.com/activities/2026/8/vip_article/index.html\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/08/y_xv4lKSiuAni719pfe5I.jpg/lite\" height=\"120\"/></a>",
