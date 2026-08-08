@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T22:35:40.435997+08:00",
-  "total_titles_processed": 1557,
+  "generated_at": "2026-08-08T23:34:47.062479+08:00",
+  "total_titles_processed": 1613,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             5,
             6,
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时55分 ~ 22时35分]"
+          "appearance_count": 10,
+          "time_info": "[15时55分 ~ 23时34分]"
         },
         {
           "title": "NIP逮捕IG,TheShy零作用",
@@ -40,11 +41,26 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356967&amp;topic_name=T1%E4%B8%B4%E9%98%B5%E6%8D%A2%E4%BA%BA%2CHLE%E6%AD%A2%E8%BF%9E%E8%B4%A5",
           "source": "贴吧",
           "ranks": [
-            2
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时33分 ~ 23时34分]"
+        },
+        {
+          "title": "<a href=\"https://www.jin10.com/activities/2026/8/vip_article/index.html\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/08/tcWa66qJEjxbSJWe5UQL6.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260808204658425800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            7,
+            12,
+            22
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[19时33分 ~ 22时35分]"
+          "time_info": "[20时55分 ~ 23时34分]"
         },
         {
           "title": "T1官宣轮换Oner",
@@ -59,17 +75,17 @@
           "time_info": "[16时46分 ~ 17时42分]"
         },
         {
-          "title": "<a href=\"https://www.jin10.com/activities/2026/8/vip_article/index.html\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/08/tcWa66qJEjxbSJWe5UQL6.jpg/lite\" height=\"120\"/></a>",
-          "url": "https://flash.jin10.com/detail/20260808204658425800",
-          "source": "金十数据",
+          "title": "HLE 2-1 T1赛后数据",
+          "url": "https://search.bilibili.com/all?keyword=HLE%202-1%20T1%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE",
+          "source": "bilibili 热搜",
           "ranks": [
-            3,
-            7,
-            12
+            16,
+            29,
+            28
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[20时55分 ~ 22时35分]"
+          "time_info": "[20时55分 ~ 23时34分]"
         },
         {
           "title": "<a href=\"https://www.jin10.com/activities/2026/8/vip_article/index.html\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/08/y_xv4lKSiuAni719pfe5I.jpg/lite\" height=\"120\"/></a>",
@@ -82,18 +98,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时52分 ~ 11时37分]"
-        },
-        {
-          "title": "HLE 2-1 T1赛后数据",
-          "url": "https://search.bilibili.com/all?keyword=HLE%202-1%20T1%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时55分 ~ 22时35分]"
         },
         {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850591&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/08/jwXasxMKTX0anRNXTKMOK.jpg/lite\" height=\"120\"/></a>",
