@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-10T06:35:53.047319+08:00",
-  "total_titles_processed": 468,
+  "generated_at": "2026-08-10T07:36:02.735579+08:00",
+  "total_titles_processed": 514,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "T1临阵换人,HLE止连败",
@@ -15,8 +15,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 06时35分]"
+          "appearance_count": 10,
+          "time_info": "[00时40分 ~ 07时36分]"
         },
         {
           "title": "Oner替补,T1上调二队打野",
@@ -26,8 +26,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 06时35分]"
+          "appearance_count": 10,
+          "time_info": "[00时40分 ~ 07时36分]"
         },
         {
           "title": "IG战胜LNG LPL第三赛段",
@@ -54,6 +54,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时46分 ~ 02时47分]"
+        },
+        {
+          "title": "BIGBANG",
+          "url": "https://s.weibo.com/weibo?q=BIGBANG&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时35分 ~ 07时36分]"
         },
         {
           "title": "<a href=\"https://www.jin10.com/activities/2026/8/vip_article/index.html\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/08/tcWa66qJEjxbSJWe5UQL6.jpg/lite\" height=\"120\"/></a>",
