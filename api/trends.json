@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T21:54:35.944167+08:00",
-  "total_titles_processed": 1317,
+  "generated_at": "2026-08-09T22:39:16.533312+08:00",
+  "total_titles_processed": 1367,
   "failed_sources": [],
   "trends": [
     {
@@ -41,8 +41,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时38分 ~ 21时54分]"
+          "appearance_count": 24,
+          "time_info": "[00时38分 ~ 22时39分]"
         },
         {
           "title": "Oner替补,T1上调二队打野",
@@ -61,8 +61,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时38分 ~ 21时54分]"
+          "appearance_count": 24,
+          "time_info": "[00时38分 ~ 22时39分]"
         },
         {
           "title": "IG战胜LNG LPL第三赛段",
@@ -70,11 +70,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             4,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时43分 ~ 21时54分]"
+          "appearance_count": 7,
+          "time_info": "[17时43分 ~ 22时39分]"
         },
         {
           "title": "IG vs LNG LPL第三赛段",
@@ -108,11 +109,12 @@
           "ranks": [
             24,
             1,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 21时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 22时39分]"
         },
         {
           "title": "AI应用公司毛利故事遭遇首次\"体检\"：Canva主动降速、Figma自吞推理成本",
