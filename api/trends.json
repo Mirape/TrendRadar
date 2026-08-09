@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-10T01:35:21.888811+08:00",
-  "total_titles_processed": 361,
+  "generated_at": "2026-08-10T02:47:01.616011+08:00",
+  "total_titles_processed": 380,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "IG战胜LNG LPL第三赛段",
@@ -13,11 +13,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             6,
-            3
+            3,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 01时35分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 02时47分]"
         },
         {
           "title": "T1临阵换人,HLE止连败",
@@ -27,8 +28,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 01时35分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 02时47分]"
         },
         {
           "title": "Oner替补,T1上调二队打野",
@@ -38,8 +39,19 @@
             27
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 02时47分]"
+        },
+        {
+          "title": "IG 2-0 LNG赛后数据",
+          "url": "https://search.bilibili.com/all?keyword=IG%202-0%20LNG%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时40分 ~ 01时35分]"
+          "time_info": "[02时46分 ~ 02时47分]"
         },
         {
           "title": "<a href=\"https://www.jin10.com/activities/2026/8/vip_article/index.html\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/08/tcWa66qJEjxbSJWe5UQL6.jpg/lite\" height=\"120\"/></a>",
