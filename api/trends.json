@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-08-10T05:36:53.255683+08:00",
-  "total_titles_processed": 435,
+  "generated_at": "2026-08-10T06:35:53.047319+08:00",
+  "total_titles_processed": 468,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
       "match_count": 5,
       "titles": [
+        {
+          "title": "T1临阵换人,HLE止连败",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356967&amp;topic_name=T1%E4%B8%B4%E9%98%B5%E6%8D%A2%E4%BA%BA%2CHLE%E6%AD%A2%E8%BF%9E%E8%B4%A5",
+          "source": "贴吧",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时40分 ~ 06时35分]"
+        },
+        {
+          "title": "Oner替补,T1上调二队打野",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356963&amp;topic_name=Oner%E6%9B%BF%E8%A1%A5%2CT1%E4%B8%8A%E8%B0%83%E4%BA%8C%E9%98%9F%E6%89%93%E9%87%8E",
+          "source": "贴吧",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时40分 ~ 06时35分]"
+        },
         {
           "title": "IG战胜LNG LPL第三赛段",
           "url": "https://search.bilibili.com/all?keyword=IG%20LNG",
@@ -21,28 +43,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时40分 ~ 04时37分]"
-        },
-        {
-          "title": "T1临阵换人,HLE止连败",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356967&amp;topic_name=T1%E4%B8%B4%E9%98%B5%E6%8D%A2%E4%BA%BA%2CHLE%E6%AD%A2%E8%BF%9E%E8%B4%A5",
-          "source": "贴吧",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时40分 ~ 05时36分]"
-        },
-        {
-          "title": "Oner替补,T1上调二队打野",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356963&amp;topic_name=Oner%E6%9B%BF%E8%A1%A5%2CT1%E4%B8%8A%E8%B0%83%E4%BA%8C%E9%98%9F%E6%89%93%E9%87%8E",
-          "source": "贴吧",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时40分 ~ 05时36分]"
         },
         {
           "title": "IG 2-0 LNG赛后数据",
