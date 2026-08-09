@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T19:34:12.607740+08:00",
-  "total_titles_processed": 1158,
+  "generated_at": "2026-08-09T20:58:42.338755+08:00",
+  "total_titles_processed": 1257,
   "failed_sources": [],
   "trends": [
     {
@@ -36,11 +36,12 @@
             14,
             15,
             16,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时38分 ~ 19时34分]"
+          "appearance_count": 22,
+          "time_info": "[00时38分 ~ 20时58分]"
         },
         {
           "title": "Oner替补,T1上调二队打野",
@@ -54,11 +55,12 @@
             19,
             20,
             21,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时38分 ~ 19时34分]"
+          "appearance_count": 22,
+          "time_info": "[00时38分 ~ 20时58分]"
         },
         {
           "title": "IG战胜LNG LPL第三赛段",
@@ -69,8 +71,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时43分 ~ 19时34分]"
+          "appearance_count": 5,
+          "time_info": "[17时43分 ~ 20时58分]"
         },
         {
           "title": "IG vs LNG LPL第三赛段",
@@ -96,6 +98,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时34分 ~ 05时34分]"
+        },
+        {
+          "title": "<a href=\"https://www.jin10.com/activities/2026/8/vip_article/index.html\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/08/tcWa66qJEjxbSJWe5UQL6.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260808204658425800",
+          "source": "金十数据",
+          "ranks": [
+            24,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时38分 ~ 20时58分]"
         },
         {
           "title": "AI应用公司毛利故事遭遇首次\"体检\"：Canva主动降速、Figma自吞推理成本",
@@ -140,17 +154,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
-        },
-        {
-          "title": "<a href=\"https://www.jin10.com/activities/2026/8/vip_article/index.html\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/08/tcWa66qJEjxbSJWe5UQL6.jpg/lite\" height=\"120\"/></a>",
-          "url": "https://flash.jin10.com/detail/20260808204658425800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
         }
       ]
     }
