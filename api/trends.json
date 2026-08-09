@@ -1,167 +1,55 @@
 {
-  "generated_at": "2026-08-09T23:37:01.243180+08:00",
-  "total_titles_processed": 1417,
+  "generated_at": "2026-08-10T00:40:26.590721+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 11,
+      "match_count": 4,
       "titles": [
         {
-          "title": "苹果终于把千问接进Siri：中国版Apple Intelligence来了",
-          "url": "https://wallstreetcn.com/articles/3778992",
-          "source": "华尔街见闻",
+          "title": "IG战胜LNG LPL第三赛段",
+          "url": "https://search.bilibili.com/all?keyword=IG%20LNG",
+          "source": "bilibili 热搜",
           "ranks": [
-            10,
-            9,
-            8,
-            6,
-            2,
-            4,
-            5
+            6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[03时33分 ~ 16时48分]"
+          "appearance_count": 1,
+          "time_info": "00时40分"
         },
         {
           "title": "T1临阵换人,HLE止连败",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356967&amp;topic_name=T1%E4%B8%B4%E9%98%B5%E6%8D%A2%E4%BA%BA%2CHLE%E6%AD%A2%E8%BF%9E%E8%B4%A5",
           "source": "贴吧",
           "ranks": [
-            3,
-            4,
-            12,
-            13,
-            14,
-            15,
-            16,
-            18,
-            19,
-            20,
-            21
+            22
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时38分 ~ 23时37分]"
-        },
-        {
-          "title": "IG战胜LNG LPL第三赛段",
-          "url": "https://search.bilibili.com/all?keyword=IG%20LNG",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            12,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时43分 ~ 23时37分]"
+          "appearance_count": 1,
+          "time_info": "00时40分"
         },
         {
           "title": "Oner替补,T1上调二队打野",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356963&amp;topic_name=Oner%E6%9B%BF%E8%A1%A5%2CT1%E4%B8%8A%E8%B0%83%E4%BA%8C%E9%98%9F%E6%89%93%E9%87%8E",
           "source": "贴吧",
           "ranks": [
-            10,
-            11,
-            17,
-            18,
-            19,
-            20,
-            21,
-            23,
-            24,
-            25,
-            26
+            27
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时38分 ~ 23时37分]"
+          "appearance_count": 1,
+          "time_info": "00时40分"
         },
         {
           "title": "<a href=\"https://www.jin10.com/activities/2026/8/vip_article/index.html\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/08/tcWa66qJEjxbSJWe5UQL6.jpg/lite\" height=\"120\"/></a>",
-          "url": "https://flash.jin10.com/detail/20260808204658425800",
+          "url": "https://flash.jin10.com/detail/20260809204131910800",
           "source": "金十数据",
           "ranks": [
-            24,
-            1,
-            7,
-            10,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时38分 ~ 23时37分]"
-        },
-        {
-          "title": "IG vs LNG LPL第三赛段",
-          "url": "https://search.bilibili.com/all?keyword=IG%20LNG",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时48分"
-        },
-        {
-          "title": "HLE 2-1 T1赛后数据",
-          "url": "https://search.bilibili.com/all?keyword=HLE%202-1%20T1%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            28,
-            27,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时34分 ~ 05时34分]"
-        },
-        {
-          "title": "AI应用公司毛利故事遭遇首次\"体检\"：Canva主动降速、Figma自吞推理成本",
-          "url": "https://wallstreetcn.com/articles/3778990",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时59分 ~ 11时50分]"
-        },
-        {
-          "title": "T1 官宣上调二队打野 Painter 首战 HLE，Oner 替补，如何评价此次换人？",
-          "url": "https://www.zhihu.com/question/2069446019272724909",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
-          "title": "IG 2-0 LNG赛后数据",
-          "url": "https://search.bilibili.com/all?keyword=IG%202-0%20LNG%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时38分"
-        },
-        {
-          "title": "<a href=\"https://www.jin10.com/activities/2026/8/vip_article/index.html\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/08/y_xv4lKSiuAni719pfe5I.jpg/lite\" height=\"120\"/></a>",
-          "url": "https://flash.jin10.com/detail/20260809090005978800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时59分"
+          "time_info": "00时40分"
         }
       ]
     }
