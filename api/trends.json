@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-09T17:43:50.774854+08:00",
-  "total_titles_processed": 1026,
+  "generated_at": "2026-08-09T18:38:51.208399+08:00",
+  "total_titles_processed": 1096,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "苹果终于把千问接进Siri：中国版Apple Intelligence来了",
@@ -34,11 +34,12 @@
             12,
             13,
             14,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时38分 ~ 17时43分]"
+          "appearance_count": 19,
+          "time_info": "[00时38分 ~ 18时38分]"
         },
         {
           "title": "Oner替补,T1上调二队打野",
@@ -50,11 +51,12 @@
             17,
             18,
             19,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时38分 ~ 17时43分]"
+          "appearance_count": 19,
+          "time_info": "[00时38分 ~ 18时38分]"
         },
         {
           "title": "IG vs LNG LPL第三赛段",
@@ -86,11 +88,12 @@
           "url": "https://search.bilibili.com/all?keyword=IG%20LNG",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            4,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时43分 ~ 18时38分]"
         },
         {
           "title": "AI应用公司毛利故事遭遇首次\"体检\"：Canva主动降速、Figma自吞推理成本",
@@ -113,6 +116,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
+        },
+        {
+          "title": "IG 2-0 LNG赛后数据",
+          "url": "https://search.bilibili.com/all?keyword=IG%202-0%20LNG%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
         },
         {
           "title": "<a href=\"https://www.jin10.com/activities/2026/8/vip_article/index.html\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/08/y_xv4lKSiuAni719pfe5I.jpg/lite\" height=\"120\"/></a>",
