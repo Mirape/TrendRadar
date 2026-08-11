@@ -1,27 +1,7 @@
 {
-  "generated_at": "2026-08-11T23:03:08.960875+08:00",
-  "total_titles_processed": 1798,
+  "generated_at": "2026-08-12T04:59:44.249129+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "《英雄联盟》怀旧服老英雄与现版本单挑仅一人胜出，巨大强度差异是如何造成的？",
-          "url": "https://www.zhihu.com/question/2069537299097031049",
-          "source": "知乎",
-          "ranks": [
-            15,
-            17,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时14分 ~ 19时47分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://github.com/Mirape/TrendRadar/img/news.jpg"
 }
