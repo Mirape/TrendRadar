@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-13T03:17:01.190934+08:00",
-  "total_titles_processed": 418,
+  "generated_at": "2026-08-13T04:52:12.997147+08:00",
+  "total_titles_processed": 482,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             19,
-            20
+            20,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时06分 ~ 03时17分]"
+          "appearance_count": 6,
+          "time_info": "[00时06分 ~ 04时52分]"
         },
         {
           "title": "Josh Kushner和Bob Iger将以超过120亿美元收购洛杉矶湖人队。（ESPN）",
