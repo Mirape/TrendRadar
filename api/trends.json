@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T03:16:13.529276+08:00",
-  "total_titles_processed": 428,
+  "generated_at": "2026-08-14T04:49:33.248032+08:00",
+  "total_titles_processed": 501,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时07分 ~ 03时16分]"
+          "appearance_count": 4,
+          "time_info": "[00时07分 ~ 04时49分]"
         },
         {
           "title": "受Workday被收购报道影响，AI应用软件股集体冲高，Cloudflare、MongoDB涨超6%，Palantir、赛富时涨超4%，Applovin、ServiceNow涨超3%； 扩展科技软件行业ETF-iShares (IGV.US)涨超2%。",
@@ -26,7 +26,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
         }
