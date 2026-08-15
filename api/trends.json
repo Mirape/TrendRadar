@@ -1,36 +1,7 @@
 {
-  "generated_at": "2026-08-15T09:29:30.361596+08:00",
-  "total_titles_processed": 637,
+  "generated_at": "2026-08-16T07:24:29.555032+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "舒服了,BLG零封TT晋级S赛",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357389&amp;topic_name=%E8%88%92%E6%9C%8D%E4%BA%86%2CBLG%E9%9B%B6%E5%B0%81TT%E6%99%8B%E7%BA%A7S%E8%B5%9B",
-          "source": "贴吧",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时57分 ~ 09时29分]"
-        },
-        {
-          "title": "Tiger Global披露二季度13F持仓： 减持Alphabet、博通、Spotify、Meta等；同时新建AMD、希捷、Visa、丹纳赫等仓位。 增持Intuit、Corpay、Reddit、MercadoLibre等；退出AppLovin、Netflix、Zscaler、Procore等。",
-          "url": "https://wallstreetcn.com/livenews/3149850",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时38分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://github.com/Mirape/TrendRadar/img/news.jpg"
 }
