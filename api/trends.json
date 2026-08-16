@@ -1,22 +1,34 @@
 {
-  "generated_at": "2026-08-16T20:47:05.289945+08:00",
-  "total_titles_processed": 1065,
+  "generated_at": "2026-08-16T23:26:28.204184+08:00",
+  "total_titles_processed": 1196,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "T1遭GEN横扫,主场两连跪",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357837&amp;topic_name=T1%E9%81%ADGEN%E6%A8%AA%E6%89%AB%2C%E4%B8%BB%E5%9C%BA%E4%B8%A4%E8%BF%9E%E8%B7%AA",
           "source": "贴吧",
           "ranks": [
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时46分 ~ 20时47分]"
+          "appearance_count": 3,
+          "time_info": "[20时46分 ~ 23时26分]"
+        },
+        {
+          "title": "JiaQi带飞全队,IG闯骑士之路",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357851&amp;topic_name=JiaQi%E5%B8%A6%E9%A3%9E%E5%85%A8%E9%98%9F%2CIG%E9%97%AF%E9%AA%91%E5%A3%AB%E4%B9%8B%E8%B7%AF",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         },
         {
           "title": "WBG vs IG LPL第三赛段",
@@ -29,6 +41,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时27分 ~ 20时47分]"
+        },
+        {
+          "title": "IG战胜WBG",
+          "url": "https://search.bilibili.com/all?keyword=WBG%20IG",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        },
+        {
+          "title": "锐评IG战胜WBG",
+          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84IG%E6%88%98%E8%83%9CWBG",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         },
         {
           "title": "GEN对战T1",
