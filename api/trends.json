@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17T04:27:37.142909+08:00",
-  "total_titles_processed": 391,
+  "generated_at": "2026-08-17T05:24:36.896158+08:00",
+  "total_titles_processed": 418,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时23分 ~ 04时27分]"
+          "appearance_count": 4,
+          "time_info": "[01时23分 ~ 05时24分]"
         },
         {
           "title": "T1遭GEN横扫,主场两连跪",
@@ -26,19 +26,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时23分 ~ 04时27分]"
+          "appearance_count": 4,
+          "time_info": "[01时23分 ~ 05时24分]"
         },
         {
           "title": "IG战胜WBG",
           "url": "https://search.bilibili.com/all?keyword=WBG%20IG",
           "source": "bilibili 热搜",
           "ranks": [
-            11
+            11,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时23分 ~ 04时27分]"
+          "appearance_count": 4,
+          "time_info": "[01时23分 ~ 05时24分]"
         },
         {
           "title": "LPL2026 赛季第三赛段组内赛 WBG 1:2 iG，如何评价这场比赛？",
@@ -46,11 +47,12 @@
           "source": "知乎",
           "ranks": [
             15,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时24分 ~ 04时27分]"
+          "appearance_count": 3,
+          "time_info": "[03时24分 ~ 05时24分]"
         },
         {
           "title": "GEN 2-0 T1赛后数据",
@@ -59,7 +61,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
         }
