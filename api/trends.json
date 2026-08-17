@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-17T11:04:00.400921+08:00",
-  "total_titles_processed": 639,
+  "generated_at": "2026-08-17T12:47:23.707459+08:00",
+  "total_titles_processed": 758,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "iG S赛 英雄联盟 T1",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "JiaQi带飞全队,IG闯骑士之路",
@@ -13,22 +13,12 @@
           "source": "贴吧",
           "ranks": [
             1,
-            3
+            3,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时23分 ~ 11时04分]"
-        },
-        {
-          "title": "锐评GEN战胜T1",
-          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84GEN%E6%88%98%E8%83%9CT1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时03分 ~ 11时04分]"
+          "appearance_count": 7,
+          "time_info": "[01时23分 ~ 12时47分]"
         },
         {
           "title": "T1遭GEN横扫,主场两连跪",
@@ -36,11 +26,12 @@
           "source": "贴吧",
           "ranks": [
             7,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时23分 ~ 11时04分]"
+          "appearance_count": 7,
+          "time_info": "[01时23分 ~ 12时47分]"
         },
         {
           "title": "IG战胜WBG",
@@ -51,8 +42,31 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时23分 ~ 11时04分]"
+          "appearance_count": 7,
+          "time_info": "[01时23分 ~ 12时47分]"
+        },
+        {
+          "title": "锐评GEN战胜T1",
+          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84GEN%E6%88%98%E8%83%9CT1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时03分 ~ 12时47分]"
+        },
+        {
+          "title": "Peyz罚站遭霸凌,T1粉转黑",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357935&amp;topic_name=Peyz%E7%BD%9A%E7%AB%99%E9%81%AD%E9%9C%B8%E5%87%8C%2CT1%E7%B2%89%E8%BD%AC%E9%BB%91",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
         },
         {
           "title": "LPL2026 赛季第三赛段组内赛 WBG 1:2 iG，如何评价这场比赛？",
@@ -88,6 +102,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时03分 ~ 11时04分]"
+        },
+        {
+          "title": "8 月 16 日 LCK 夏季赛 GENG 2:0 T1，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/2072385154140704769",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
         },
         {
           "title": "GEN 2-0 T1赛后数据",
